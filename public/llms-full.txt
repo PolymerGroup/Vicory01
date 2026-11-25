@@ -4201,6 +4201,27 @@ A: Vitamin D2 Injection is available in 1 configuration: 1 ml. Each kit contains
 
 ---
 
+## PepPedia — research notes
+
+- What Are Research Peptides? A Buyer''s Primer — https://dchemi.com/peppedia/what-are-research-peptides
+  A practical introduction to research-grade peptides: how they are synthesised, why they ship as 10-vial kits, what purity figures actually mean, and how to evaluate a supplier.
+- How to Read a Peptide Certificate of Analysis (COA) — https://dchemi.com/peppedia/reading-a-peptide-coa
+  Field-by-field walkthrough of a peptide COA: lot identification, RP-HPLC purity, ESI-MS identity, Karl Fischer water, endotoxin, and the red flags that mean “ask again”.
+- Purity vs. Content: The Two Numbers Buyers Confuse — https://dchemi.com/peppedia/purity-vs-content
+  HPLC purity and peptide content are not the same measurement. Why a 99% pure vial can contain far less than 99% peptide, and how salt form and moisture change your calculations.
+- Handling and Storing Lyophilised Peptides in the Lab — https://dchemi.com/peppedia/lyophilized-peptide-handling
+  Cold-chain reality for lyophilised peptides: equilibration, desiccant, reconstitution solvents, freeze–thaw, adsorption losses and solution stability factors.
+- Analytical Testing of GLP-1, GIP and Amylin-Class Peptides — https://dchemi.com/peppedia/glp1-peptide-analytics
+  Why lipidated and modified metabolic peptides are harder to analyse than they look: aggregation, deamidation, carryover and the chromatography choices that separate a real 99% from a flattering one.
+- Copper Peptides (GHK-Cu, AHK-Cu) in Cosmetic Raw-Material Research — https://dchemi.com/peppedia/copper-peptides-cosmetic-research
+  The chemistry behind copper peptide raw materials: Cu(II) coordination, the blue colour, formulation compatibility, and how to verify copper content analytically.
+- Reading Peptide Sequences: One-Letter Codes, Salts and Aliases — https://dchemi.com/peppedia/peptide-sequence-notation
+  How to decode a peptide sequence line — one-letter vs three-letter codes, acetylation, amidation, D-amino acids, disulfides and the acronyms that make two products look identical.
+- The B2B Peptide RFQ Checklist: 12 Questions Before You Order — https://dchemi.com/peppedia/rfq-checklist
+  A procurement checklist for laboratory buyers: what to ask about purity method, lot traceability, salt form, water content, end-use documentation, lead time and private label.
+- Multi-Peptide Blends: Specification, Testing and Sourcing — https://dchemi.com/peppedia/peptide-blends-fixed-composition
+  What “fixed composition” means for peptide blends, why a single purity figure is not enough, and how to specify and verify a blend before you buy it.
+
 ## Compliance notice
 
 For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use.

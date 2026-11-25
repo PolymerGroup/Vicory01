@@ -2,7 +2,8 @@
 
 Static Astro site for **Shandong Vicory Biotechnology Co., Ltd.** (山东维科瑞生物科技有限公司).
 B2B research-peptide catalogue: 119 products, 266 pack-size SKUs, USD tier pricing per kit of
-10 vials, lot-specific COA, RFQ-only ordering.
+10 vials, lot-specific COA, RFQ-only ordering, plus **PepPedia** — a research/analytics article
+library (9 posts) built for SEO and LLM citation.
 
 - Canonical domain: `https://dchemi.com`
 - Hosting: GitHub + Cloudflare (Workers Builds or Pages)
@@ -63,6 +64,8 @@ MASTER_DB=/path/to/master_peptides.json pnpm run data   # override
 │   ├── build-data.mjs        # master_peptides.json → src/data/peptides.json
 │   └── gen-llms.mjs          # → public/llms.txt + public/llms-full.txt
 └── src/
+    ├── content.config.ts     # Astro content collection schema (PepPedia)
+    ├── content/peppedia/     # 9 Markdown articles (title, category, FAQ, related SKUs)
     ├── data/peptides.json    # generated catalogue (119 products)
     ├── types/peptide.ts      # data contract
     ├── lib/site.ts           # brand constants, money/abs helpers
@@ -81,6 +84,8 @@ MASTER_DB=/path/to/master_peptides.json pnpm run data   # override
         ├── quality-coa.astro         # QC system, lot lookup, COA request
         ├── about-compliance.astro    # company, supply chain, US compliance
         ├── rfq.astro                 # full RFQ form
+        ├── peppedia/index.astro      # PepPedia library (topic filter)
+        ├── peppedia/[slug].astro     # article page (TOC, FAQ, related SKUs)
         ├── sitemap.xml.ts            # absolute-path sitemap at build time
         └── 404.astro
 ```

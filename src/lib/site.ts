@@ -31,8 +31,8 @@ export const NAV = [
   { href: '/products', label: 'All Peptides' },
   { href: '/products?category=glp1_metabolic', label: 'Metabolic' },
   { href: '/products?category=repair_recovery', label: 'Repair' },
-  { href: '/quality-coa', label: 'Quality & COA' },
-  { href: '/about-compliance', label: 'About / Compliance' },
+  { href: '/peppedia', label: 'PepPedia' },
+  { href: '/about-compliance', label: 'About' },
   { href: '/rfq', label: 'Request Quote' },
 ] as const;
 

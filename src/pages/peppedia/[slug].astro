@@ -1,0 +1,241 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import FaqAccordion from '../../components/FaqAccordion.astro';
+import ComplianceNotice from '../../components/ComplianceNotice.astro';
+import { categoryLabel, PEPPEDIA_CATEGORIES } from '../../lib/peppedia';
+import { SITE, abs, money, jsonLd } from '../../lib/site';
+import data from '../../data/peptides.json';
+import type { Peptide } from '../../types/peptide';
+
+const products = data.products as unknown as Peptide[];
+
+export async function getStaticPaths() {
+  const posts = await getCollection('peppedia');
+  return posts.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content, headings } = await render(entry);
+const { title, description, category, tags, publishedAt, updatedAt, readingMinutes, faqs, relatedPeptides } =
+  entry.data;
+
+const all = (await getCollection('peppedia')).sort(
+  (a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
+);
+const index = all.findIndex((p) => p.id === entry.id);
+const prev = all[index + 1];
+const next = all[index - 1];
+
+const toc = headings.filter((h) => h.depth === 2);
+const accent = PEPPEDIA_CATEGORIES[category as keyof typeof PEPPEDIA_CATEGORIES]?.accent ?? 'ocean';
+
+const dateLabel = publishedAt.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+const related = relatedPeptides
+  .map((slug) => products.find((p) => p.slug === slug))
+  .filter(Boolean) as Peptide[];
+
+const articleLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  '@id': `${SITE.url}/peppedia/${entry.id}#article`,
+  headline: title,
+  description,
+  url: `${SITE.url}/peppedia/${entry.id}`,
+  mainEntityOfPage: { '@type': 'WebPage', '@id': `${SITE.url}/peppedia/${entry.id}` },
+  datePublished: publishedAt.toISOString(),
+  dateModified: (updatedAt ?? publishedAt).toISOString(),
+  inLanguage: 'en',
+  articleSection: categoryLabel(category),
+  keywords: tags.join(', '),
+  image: [abs(SITE.logo)],
+  author: { '@type': 'Organization', name: SITE.legalName, url: SITE.url },
+  publisher: { '@id': `${SITE.url}/#organization` },
+  isPartOf: { '@id': `${SITE.url}/peppedia#collection` },
+};
+
+const faqLd = faqs.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faqs.map((f) => ({
+        '@type': 'Question',
+        name: f.q,
+        acceptedAnswer: { '@type': 'Answer', text: f.a },
+      })),
+    }
+  : null;
+
+const structured = faqLd ? [articleLd, faqLd] : [articleLd];
+---
+
+<Layout
+  title={`${title} — PepPedia`}
+  description={description}
+  path={`/peppedia/${entry.id}`}
+  structuredData={structured}
+>
+  <Breadcrumbs
+    items={[
+      { label: 'PepPedia', href: '/peppedia' },
+      { label: categoryLabel(category), href: `/peppedia?topic=${category}` },
+      { label: title },
+    ]}
+  />
+
+  <article class="bg-white">
+    <!-- Header -->
+    <header class="border-b border-slate-200">
+      <div class="container-x max-w-4xl py-10 sm:py-12">
+        <div class="flex flex-wrap items-center gap-2">
+          <a
+            href={`/peppedia?topic=${category}`}
+            class:list={[
+              'rounded-full border px-2.5 py-1 text-[10px] font-bold uppercase tracking-wider',
+              accent === 'brand'
+                ? 'border-brand-200 bg-brand-50 text-brand-800'
+                : accent === 'slate'
+                  ? 'border-slate-200 bg-slate-100 text-slate-700'
+                  : 'border-ocean-200 bg-ocean-50 text-ocean-800',
+            ]}
+          >
+            {categoryLabel(category)}
+          </a>
+          <span class="font-mono text-[11px] text-slate-400">{dateLabel}</span>
+          <span class="text-slate-300">·</span>
+          <span class="font-mono text-[11px] text-slate-400">{readingMinutes} min read</span>
+        </div>
+
+        <h1 class="mt-4 text-3xl font-extrabold leading-tight tracking-tight text-slateink sm:text-[2.6rem]">
+          {title}
+        </h1>
+        <p class="mt-4 max-w-3xl text-[16px] leading-7 text-slate-600">{description}</p>
+
+        {
+          tags.length ? (
+            <div class="mt-5 flex flex-wrap gap-1.5">
+              {tags.map((t) => (
+                <span class="chip !py-0.5 text-[10px]">{t}</span>
+              ))}
+            </div>
+          ) : null
+        }
+      </div>
+    </header>
+
+    <!-- Body + sidebar -->
+    <div class="container-x py-10">
+      <div class="grid gap-12 lg:grid-cols-[minmax(0,1fr)_280px]">
+        <div class="min-w-0">
+          <div class="prose-article">
+            <Content />
+          </div>
+
+          <div class="mt-10 rounded-2xl border border-brand-200 bg-brand-50 p-5">
+            <p class="text-sm font-bold text-brand-900">{SITE.ruo}</p>
+            <p class="mt-1.5 text-xs leading-5 text-brand-900/80">
+              PepPedia articles describe analytical methods, handling and procurement practice. They
+              are not clinical guidance and contain no dosing or treatment information.
+            </p>
+          </div>
+
+          <!-- Prev / next -->
+          <nav class="mt-10 flex flex-col gap-3 border-t border-slate-200 pt-6 sm:flex-row sm:justify-between" aria-label="Article navigation">
+            {
+              prev ? (
+                <a href={`/peppedia/${prev.id}`} class="group max-w-xs">
+                  <p class="label">Previous</p>
+                  <p class="mt-1 text-sm font-semibold text-slateink group-hover:text-ocean-700">← {prev.data.title}</p>
+                </a>
+              ) : (
+                <span />
+              )
+            }
+            {
+              next ? (
+                <a href={`/peppedia/${next.id}`} class="group max-w-xs sm:text-right">
+                  <p class="label">Next</p>
+                  <p class="mt-1 text-sm font-semibold text-slateink group-hover:text-ocean-700">{next.data.title} →</p>
+                </a>
+              ) : (
+                <span />
+              )
+            }
+          </nav>
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="space-y-6 lg:sticky lg:top-24 lg:self-start">
+          {
+            toc.length > 1 ? (
+              <div class="rounded-2xl border border-slate-200 bg-white p-5">
+                <p class="label">On this page</p>
+                <ul class="mt-3 space-y-2">
+                  {toc.map((h) => (
+                    <li>
+                      <a href={`#${h.slug}`} class="text-xs leading-5 text-slate-600 hover:text-ocean-700">
+                        {h.text}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ) : null
+          }
+
+          {
+            related.length ? (
+              <div class="rounded-2xl border border-slate-200 bg-white p-5">
+                <p class="label">Related products</p>
+                <ul class="mt-3 space-y-3">
+                  {related.map((p) => (
+                    <li>
+                      <a href={`/peptides/${p.slug}`} class="group block">
+                        <span class="block text-xs font-semibold text-slateink group-hover:text-ocean-700">{p.name}</span>
+                        <span class="mt-0.5 block font-mono text-[10px] text-slate-500">
+                          {p.shortCode} · from {money(p.priceFrom)}/kit
+                        </span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+                <a href="/products" class="btn-secondary btn-sm mt-4 w-full">Browse catalogue</a>
+              </div>
+            ) : null
+          }
+
+          <div class="rounded-2xl border border-ocean-200 bg-ocean-50 p-5">
+            <p class="text-sm font-bold text-ocean-900">Need the batch COA?</p>
+            <p class="mt-1 text-xs leading-5 text-ocean-900/80">
+              Send the product short code and we will return the current lot certificate.
+            </p>
+            <a
+              href={`mailto:${SITE.email}?subject=${encodeURIComponent('Batch COA request — Dchemi')}`}
+              class="btn-primary btn-sm mt-3 w-full"
+            >
+              Request COA
+            </a>
+          </div>
+        </aside>
+      </div>
+    </div>
+
+    {
+      faqs.length ? (
+        <div class="container-x max-w-4xl pb-14">
+          <FaqAccordion faqs={faqs} title="Questions about this topic" />
+        </div>
+      ) : null
+    }
+  </article>
+
+  <section class="container-x pb-20">
+    <ComplianceNotice variant="card" />
+  </section>
+</Layout>

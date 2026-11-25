@@ -1,4 +1,4 @@
----
+﻿---
 import { SITE } from '../lib/site';
 
 const year = new Date().getFullYear();
@@ -12,6 +12,16 @@ const cols = [
       { href: '/products?category=cosmetic_antiaging', label: 'Cosmetic peptides' },
       { href: '/products?category=blend', label: 'Blends' },
       { href: '/products?category=solvent_ancillary', label: 'Ancillary reagents' },
+    ],
+  },
+  {
+    title: 'PepPedia',
+    links: [
+      { href: '/peppedia', label: 'All articles' },
+      { href: '/peppedia?topic=analytics', label: 'Quality & analytics' },
+      { href: '/peppedia?topic=handling', label: 'Handling & storage' },
+      { href: '/peppedia?topic=sourcing', label: 'Sourcing & supply' },
+      { href: '/peppedia/reading-a-peptide-coa', label: 'How to read a COA' },
     ],
   },
   {
@@ -50,7 +60,7 @@ const cols = [
     </div>
   </div>
 
-  <div class="container-x grid gap-10 py-14 md:grid-cols-2 lg:grid-cols-5">
+  <div class="container-x grid gap-10 py-14 md:grid-cols-2 lg:grid-cols-6">
     <div class="lg:col-span-2">
       <div class="flex items-center gap-2.5">
         <img src={SITE.logo} alt={`${SITE.name} logo`} width="40" height="40" class="h-10 w-10 rounded-lg object-contain ring-1 ring-slate-200" loading="lazy" />

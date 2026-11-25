@@ -8,13 +8,46 @@
  * 只在 prebuild/dev 阶段运行，产物直接进 public/，随 dist 发布。
  * ------------------------------------------------------------------
  */
-import { readFileSync, writeFileSync } from 'node:fs';
-import { resolve, dirname } from 'node:path';
+import { readFileSync, writeFileSync, readdirSync, existsSync } from 'node:fs';
+import { resolve, dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
 const data = JSON.parse(readFileSync(resolve(ROOT, 'src/data/peptides.json'), 'utf8'));
+
+/* ---------------- PepPedia：从 Markdown frontmatter 读文章元数据 ---------------- */
+const PEPPEDIA_DIR = resolve(ROOT, 'src/content/peppedia');
+
+function readPeppedia() {
+  if (!existsSync(PEPPEDIA_DIR)) return [];
+  return readdirSync(PEPPEDIA_DIR)
+    .filter((f) => f.endsWith('.md') || f.endsWith('.mdx'))
+    .map((file) => {
+      const raw = readFileSync(join(PEPPEDIA_DIR, file), 'utf8');
+      const fm = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+      const meta = {};
+      if (fm) {
+        for (const line of fm[1].split(/\r?\n/)) {
+          const m = line.match(/^([a-zA-Z_]+):\s*(.*)$/);
+          if (!m) continue;
+          let value = m[2].trim();
+          value = value.replace(/^['"]|['"]$/g, '');
+          meta[m[1]] = value;
+        }
+      }
+      return {
+        slug: file.replace(/\.mdx?$/, ''),
+        title: meta.title || file.replace(/\.mdx?$/, ''),
+        description: meta.description || '',
+        category: meta.category || 'article',
+        publishedAt: meta.publishedAt || '',
+      };
+    })
+    .sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt)));
+}
+
+const peppedia = readPeppedia();
 
 const SITE = 'https://dchemi.com';
 const BRAND = 'Shandong Vicory Biotechnology Co., Ltd.';
@@ -53,8 +86,19 @@ for (const c of data.categories) {
   }
   lines.push('');
 }
+lines.push('## PepPedia — research notes & analytics');
+lines.push('');
+if (peppedia.length) {
+  for (const a of peppedia) {
+    lines.push(`- [${a.title}](${SITE}/peppedia/${a.slug}): ${a.description}`);
+  }
+} else {
+  lines.push('- (no articles yet)');
+}
+lines.push('');
 lines.push('## Reference pages');
 lines.push('');
+lines.push(`- [PepPedia library](${SITE}/peppedia): analytical, handling and sourcing articles`);
 lines.push(`- [Quality & COA Centre](${SITE}/quality-coa): batch testing, RP-HPLC/ESI-MS, COA request`);
 lines.push(`- [About & Compliance](${SITE}/about-compliance): company, supply chain, US research-use statement`);
 lines.push(`- [Request a Quote](${SITE}/rfq): B2B RFQ form for clinics, laboratories and distributors`);
@@ -120,6 +164,13 @@ for (const p of data.products) {
   full.push('');
 }
 
+full.push(`## PepPedia — research notes`);
+full.push('');
+for (const a of peppedia) {
+  full.push(`- ${a.title} — ${SITE}/peppedia/${a.slug}`);
+  full.push(`  ${a.description}`);
+}
+full.push('');
 full.push(`## Compliance notice`);
 full.push('');
 full.push(RUO);
@@ -134,5 +185,6 @@ writeFileSync(resolve(ROOT, 'public/llms-full.txt'), full.join('\n'), 'utf8');
 
 console.log(
   `[gen-llms] public/llms.txt (${(lines.join('\n').length / 1024).toFixed(1)} KB) · ` +
-    `public/llms-full.txt (${(full.join('\n').length / 1024).toFixed(0)} KB)`
+    `public/llms-full.txt (${(full.join('\n').length / 1024).toFixed(0)} KB) · ` +
+    `${peppedia.length} PepPedia articles`
 );

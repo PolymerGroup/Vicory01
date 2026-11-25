@@ -1,6 +1,8 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import ProductCard from '../components/ProductCard.astro';
+import PepArticleCard from '../components/PepArticleCard.astro';
 import PeptideVialPlaceholder from '../components/PeptideVialPlaceholder.astro';
 import ComplianceNotice from '../components/ComplianceNotice.astro';
 import FaqAccordion from '../components/FaqAccordion.astro';
@@ -10,6 +12,11 @@ import type { Peptide } from '../types/peptide';
 
 const products = data.products as unknown as Peptide[];
 const categories = data.categories;
+
+// 最新 3 篇 PepPedia 文章（首页内链）
+const latestArticles = (await getCollection('peppedia'))
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime())
+  .slice(0, 3);
 
 const featuredSlugs = [
   'retatrutide',
@@ -267,6 +274,29 @@ const heroStats = [
             </div>
           ))
         }
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================ PEPPEDIA ============================ -->
+  <section class="border-y border-slate-200 bg-white py-16" aria-labelledby="peppedia-heading">
+    <div class="container-x">
+      <div class="flex flex-wrap items-end justify-between gap-4">
+        <div>
+          <p class="label">PepPedia · knowledge base</p>
+          <h2 id="peppedia-heading" class="mt-2 text-2xl font-bold text-slateink sm:text-3xl">
+            Notes from the bench and the buying desk
+          </h2>
+          <p class="mt-2 max-w-2xl text-sm leading-6 text-slate-600">
+            How peptides are tested, stored and specified — written for laboratory and procurement
+            teams. No clinical or dosing content.
+          </p>
+        </div>
+        <a href="/peppedia" class="btn-secondary btn-sm">All articles</a>
+      </div>
+
+      <div class="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {latestArticles.map((a) => <PepArticleCard entry={a} />)}
       </div>
     </div>
   </section>
