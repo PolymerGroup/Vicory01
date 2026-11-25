@@ -127,7 +127,7 @@ const summaryRows = [
 ---
 
 <Layout
-  title={`${p.name} — ${defaultSpec.label} × ${defaultSpec.vials} Vials/Kit | COA`}
+  title={`${p.name} (${p.shortCode}) — ${defaultSpec.label} × ${defaultSpec.vials} Vials/Kit | COA | Dchemi`}
   description={`${p.name} (${p.shortCode}) research peptide, ${defaultSpec.label} × ${p.kitVials} vials per kit, USD ${money(p.priceFrom)}–${money(p.priceTo)} per kit. RP-HPLC ≥99%, lot-specific COA, tiered B2B pricing. Research use only.`}
   path={`/peptides/${p.slug}`}
   image={imageUrl || SITE.logo}

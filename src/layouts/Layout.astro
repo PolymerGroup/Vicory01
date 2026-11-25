@@ -13,6 +13,12 @@ interface Props {
   structuredData?: unknown[];
   image?: string;
   noindex?: boolean;
+  /**
+   * true = 传入的 title 原样输出，不再自动追加 “ | Dchemi”。
+   * 用于需要精确控制 SERP 标题的页面（首页 / 目录页）。
+   * 默认 false：仍按 “标题 | Dchemi” 拼接，且已含品牌名时不重复追加。
+   */
+  exactTitle?: boolean;
 }
 
 const {
@@ -22,10 +28,15 @@ const {
   structuredData = [],
   image = SITE.logo,
   noindex = false,
+  exactTitle = false,
 } = Astro.props;
 
 const canonical = abs(path);
-const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
+const fullTitle = exactTitle
+  ? title
+  : title.includes(SITE.name)
+    ? title
+    : `${title} | ${SITE.name}`;
 const ogImage = image.startsWith('http') ? image : abs(image);
 
 // 全站 Organization（每个页面都注入，绑定主域名与主体信息）
