@@ -127,6 +127,23 @@ const allJsonLd = [organization, website, ...structuredData];
     {allJsonLd.map((item) => (
       <script type="application/ld+json" set:html={jsonLd(item)} />
     ))}
+
+    <!-- RFQ 早期占位：在 RfqCart 模块脚本加载完成之前，任何“加入询盘”点击都会先进入队列，不会丢单 -->
+    <script is:inline>
+      (function () {
+        window.__rfqQueue = window.__rfqQueue || [];
+        if (window.DchemiRFQ && typeof window.DchemiRFQ.add === 'function') return;
+        window.DchemiRFQ = {
+          ready: false,
+          add: function (payload, qty) {
+            if (payload) window.__rfqQueue.push([payload, Math.max(1, Number(qty) || 1)]);
+          },
+          open: function () {},
+          close: function () {},
+          render: function () {},
+        };
+      })();
+    </script>
   </head>
   <body class="min-h-screen bg-lab">
     <a

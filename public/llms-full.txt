@@ -20,9 +20,11 @@ Total products: 119. Total pack-size SKUs: 266.
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $20.18 – $143.88 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -56,9 +58,11 @@ A: 5-Amino-1MQ is available in 3 configurations: 5 mg, 10 mg, 50 mg. Each kit co
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $33.14 – $39.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -90,9 +94,11 @@ A: ACE-031 is available in 1 configuration: 1 mg. Each kit contains 10 vials. Mi
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $6.62 – $15.32 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -126,9 +132,11 @@ A: Acetic Acid is available in 3 configurations: 3 ml, 5 ml, 10 ml. Each kit con
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $12.76 – $20.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -161,9 +169,11 @@ A: Acetic Acid Water 0.6% is available in 2 configurations: 3 ml, 10 ml. Each ki
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $52.80 – $62.12 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -195,9 +205,11 @@ A: ACTH (1-39) is available in 1 configuration: 5 mg. Each kit contains 10 vials
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $68.02 – $119.78 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -231,9 +243,11 @@ A: Adamax is available in 3 configurations: 5 mg, 10 mg, 20 mg. Each kit contain
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $60.14 – $223.66 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -267,9 +281,11 @@ A: Adipotide (FTPP) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each ki
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $60.26 – $97.86 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -302,9 +318,11 @@ A: AHK-Cu is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $42.62 – $86.36 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -337,9 +355,11 @@ A: AICAR is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 v
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $39.06 – $172.70 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -373,9 +393,11 @@ A: AOD-9604 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contai
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $50.90 – $212.72 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -408,9 +430,11 @@ A: B7-33 is available in 2 configurations: 2 mg, 10 mg. Each kit contains 10 via
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $7.96 – $11.26 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -443,9 +467,11 @@ A: Bacteriostatic Water is available in 2 configurations: 3 ml, 10 ml. Each kit 
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $13.60 – $20.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -478,9 +504,11 @@ A: Bacteriostatic Water is available in 2 configurations: 3 ml, 10 ml. Each kit 
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $13.60 – $20.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -513,9 +541,11 @@ A: Bacteriostatic Water 0.9% Benzyl Alcohol is available in 2 configurations: 3 
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $10.20 – $18.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -549,9 +579,11 @@ A: Benzyl Alcohol 0.9% is available in 3 configurations: 3 ml, 5 ml, 10 ml. Each
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $67.12 – $78.96 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -583,9 +615,11 @@ A: Botulinum Toxin Type A is available in 1 configuration: 100 iu. Each kit cont
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $23.02 – $160.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -618,11 +652,13 @@ A: BPC-157 is available in 4 configurations: 2 mg, 5 mg, 10 mg, 20 mg. Each kit 
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- CAS: fixed composition, listed in the batch-specific COA
+- Sequence: fixed composition, listed in the batch-specific COA
+- Molecular formula: fixed composition, listed in the batch-specific COA
+- Molecular weight: fixed composition, listed in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $84.82 – $293.32 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -656,9 +692,11 @@ A: BPC-157 + TB-500 Blend is available in 3 configurations: 10 mg, 20 mg, 30 mg.
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $58.60 – $68.94 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -690,9 +728,11 @@ A: Bremelanotide (PT-141) is available in 1 configuration: 10 mg. Each kit conta
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $79.14 – $93.10 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -724,9 +764,11 @@ A: Bronchogen is available in 1 configuration: 20 mg. Each kit contains 10 vials
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $52.08 – $225.62 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -758,11 +800,13 @@ A: Cagrilintide is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit co
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- CAS: fixed composition, listed in the batch-specific COA
+- Sequence: fixed composition, listed in the batch-specific COA
+- Molecular formula: fixed composition, listed in the batch-specific COA
+- Molecular weight: fixed composition, listed in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $65.76 – $200.56 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -796,9 +840,11 @@ A: CagriSema (Cagrilintide + Semaglutide) is available in 3 configurations: 5 mg
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $86.42 – $101.68 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -830,9 +876,11 @@ A: Cardiogen is available in 1 configuration: 20 mg. Each kit contains 10 vials.
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $89.96 – $105.84 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -864,9 +912,11 @@ A: Cartalax is available in 1 configuration: 20 mg. Each kit contains 10 vials. 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $39.02 – $45.90 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -898,9 +948,11 @@ A: Cerebrolysin is available in 1 configuration: 60 mg. Each kit contains 10 via
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $67.02 – $280.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -932,11 +984,13 @@ A: Cibinetide (ARA-290) is available in 3 configurations: 10 mg, 16 mg, 40 mg. E
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- CAS: fixed composition, listed in the batch-specific COA
+- Sequence: fixed composition, listed in the batch-specific COA
+- Molecular formula: fixed composition, listed in the batch-specific COA
+- Molecular weight: fixed composition, listed in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $78.14 – $420.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -969,9 +1023,11 @@ A: CJC-1295 (No DAC) + Ipamorelin Blend is available in 2 configurations: 10 mg,
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $67.36 – $211.70 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1005,9 +1061,11 @@ A: CJC-1295 (With DAC) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $34.28 – $123.96 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1041,9 +1099,11 @@ A: CJC-1295 (Without DAC) is available in 3 configurations: 2 mg, 5 mg, 10 mg. E
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $89.96 – $105.84 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1075,9 +1135,11 @@ A: Cortagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $60.08 – $70.68 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1109,9 +1171,11 @@ A: Crystagen is available in 1 configuration: 20 mg. Each kit contains 10 vials.
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $24.62 – $94.70 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1145,9 +1209,11 @@ A: Dermorphin is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit cont
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $24.86 – $73.82 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1181,9 +1247,11 @@ A: DSIP (Delta Sleep-Inducing Peptide) is available in 3 configurations: 2 mg, 5
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $130.22 – $282.72 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1216,9 +1284,11 @@ A: Dulaglutide is available in 2 configurations: 5 mg, 10 mg. Each kit contains 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $38.48 – $146.94 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1251,9 +1321,11 @@ A: Epitalon (Epithalon) is available in 2 configurations: 10 mg, 50 mg. Each kit
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $54.46 – $64.06 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1285,9 +1357,11 @@ A: Erythropoietin (EPO) is available in 1 configuration: 3000 iu. Each kit conta
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $163.36 – $192.20 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1319,9 +1393,11 @@ A: Follistatin (FST-344) is available in 1 configuration: 1 mg. Each kit contain
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $89.96 – $376.04 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1354,9 +1430,11 @@ A: FOXO4-DRI is available in 2 configurations: 2 mg, 10 mg. Each kit contains 10
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $106.54 – $125.34 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1388,9 +1466,11 @@ A: FTPP (Adipotide) is available in 1 configuration: 5 mg. Each kit contains 10 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $168.12 – $197.78 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1422,9 +1502,11 @@ A: GDF-8 (Myostatin) is available in 1 configuration: 1 mg. Each kit contains 10
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $102.00 – $120.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1456,9 +1538,11 @@ A: GGH is available in 1 configuration: 10 ml. Each kit contains 10 vials. Minim
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $22.50 – $30.04 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1491,9 +1575,11 @@ A: GHK-Cu is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $30.78 – $64.06 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1527,9 +1613,11 @@ A: GHRP-2 is available in 3 configurations: 5 mg, 10 mg, 15 mg. Each kit contain
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $32.62 – $48.06 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1560,11 +1648,13 @@ A: GHRP-6 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vi
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- CAS: fixed composition, listed in the batch-specific COA
+- Sequence: fixed composition, listed in the batch-specific COA
+- Molecular formula: fixed composition, listed in the batch-specific COA
+- Molecular weight: fixed composition, listed in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $167.86 – $197.48 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1596,9 +1686,11 @@ A: GLOW Blend (BPC-157 + GHK-Cu + TB-500) is available in 1 configuration: 70 mg
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $13.50 – $180.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1634,9 +1726,11 @@ A: Glutathione is available in 5 configurations: 0.6 g, 1.5 g, 400 mg, 600 mg, 1
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $13.02 – $20.90 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1669,9 +1763,11 @@ A: Gonadorelin is available in 2 configurations: 2 mg, 10 mg. Each kit contains 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $24.86 – $46.24 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1704,9 +1800,11 @@ A: Gonadorelin Acetate is available in 2 configurations: 2 mg, 5 mg. Each kit co
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $30.32 – $132.32 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1741,9 +1839,11 @@ A: HCG (Human Chorionic Gonadotropin) is available in 4 configurations: 1000 iu,
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $88.40 – $104.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1775,9 +1875,11 @@ A: Healthy Hair, Skin & Nails Blend is available in 1 configuration: 10 ml. Each
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $39.90 – $104.22 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1810,9 +1912,11 @@ A: Hexarelin Acetate is available in 2 configurations: 2 mg, 5 mg. Each kit cont
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $36.10 – $128.14 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1850,9 +1954,11 @@ A: HGH (Somatropin 191AA) is available in 7 configurations: 6 iu, 8 iu, 10 iu, 1
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $66.30 – $78.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1884,9 +1990,11 @@ A: HGH Fragment 17-23 is available in 1 configuration: 10 mg. Each kit contains 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $30.20 – $225.62 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1923,9 +2031,11 @@ A: HGH Fragment 176-191 is available in 6 configurations: 1 mg, 2 mg, 5 mg, 10 m
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $49.42 – $58.14 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1957,9 +2067,11 @@ A: HMG (Human Menopausal Gonadotropin) is available in 1 configuration: 75 iu. E
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $245.06 – $288.30 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -1991,9 +2103,11 @@ A: Humanin is available in 1 configuration: 10 mg. Each kit contains 10 vials. M
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $14.22 – $217.28 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2027,9 +2141,11 @@ A: IGF-1 LR3 is available in 3 configurations: 0.1 mg, 1 mg, 100 mcg. Each kit c
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $21.90 – $56.40 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2063,9 +2179,11 @@ A: Ipamorelin is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit cont
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $41.42 – $78.70 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2096,11 +2214,13 @@ A: Kisspeptin-10 is available in 2 configurations: 5 mg, 10 mg. Each kit contain
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- CAS: fixed composition, listed in the batch-specific COA
+- Sequence: fixed composition, listed in the batch-specific COA
+- Molecular formula: fixed composition, listed in the batch-specific COA
+- Molecular weight: fixed composition, listed in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $248.60 – $292.48 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2132,9 +2252,11 @@ A: KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) is available in 1 configuration:
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $32.56 – $190.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2168,9 +2290,11 @@ A: KPV is available in 3 configurations: 5 mg, 10 mg, 30 mg. Each kit contains 1
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $21.90 – $61.28 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2207,9 +2331,11 @@ A: L-Carnitine is available in 6 configurations: 2 mg, 10 ml, 200 mg, 400 mg, 60
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $50.44 – $59.34 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2241,9 +2367,11 @@ A: Lemon Bottle is available in 1 configuration: 10 ml. Each kit contains 10 via
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $50.32 – $59.20 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2275,9 +2403,11 @@ A: Lipo-C is available in 1 configuration: 10 ml. Each kit contains 10 vials. Mi
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $74.58 – $467.96 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2311,9 +2441,11 @@ A: Liraglutide is available in 3 configurations: 5 mg, 10 mg, 30 mg. Each kit co
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $89.96 – $105.84 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2345,9 +2477,11 @@ A: Livagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. M
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $89.32 – $400.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2381,9 +2515,11 @@ A: LL-37 is available in 3 configurations: 5 mg, 5 ml, 10 ml. Each kit contains 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $35.52 – $41.78 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2415,9 +2551,11 @@ A: Matrixyl is available in 1 configuration: 10 mg. Each kit contains 10 vials. 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $61.56 – $238.16 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2450,9 +2588,11 @@ A: Mazdutide is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $46.18 – $54.32 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2484,9 +2624,11 @@ A: Melanotan I is available in 1 configuration: 10 mg. Each kit contains 10 vial
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $106.24 – $125.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2518,9 +2660,11 @@ A: Melanotan II (MT-2) is available in 1 configuration: 10 mg. Each kit contains
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $49.02 – $57.66 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2552,9 +2696,11 @@ A: Melatonin is available in 1 configuration: 10 mg. Each kit contains 10 vials.
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $52.28 – $61.50 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2586,9 +2732,11 @@ A: MGF (Mechano Growth Factor) is available in 1 configuration: 2 mg. Each kit c
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $88.40 – $104.46 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2621,9 +2769,11 @@ A: MIC (Lipo-C with B12) is available in 2 configurations: 10 mg, 10 ml. Each ki
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $9.46 – $11.14 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2655,9 +2805,11 @@ A: MK-677 (Ibutamoren) is available in 1 configuration: 5 mg. Each kit contains 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $63.34 – $262.54 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2692,9 +2844,11 @@ A: MOTS-c is available in 4 configurations: 10 mg, 15 mg, 20 mg, 40 mg. Each kit
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $24.28 – $60.16 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2728,9 +2882,11 @@ A: NAD+ is available in 3 configurations: 100 mg, 500 mg, 1000 mg. Each kit cont
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $532.72 – $626.74 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2762,9 +2918,11 @@ A: Orexin A is available in 1 configuration: 10 mg. Each kit contains 10 vials. 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $106.54 – $253.48 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2797,9 +2955,11 @@ A: Orexin B is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $20.78 – $59.88 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2833,9 +2993,11 @@ A: Oxytocin Acetate is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each ki
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $7.76 – $325.90 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2868,9 +3030,11 @@ A: P21 (P021) is available in 2 configurations: 5 mg, 10 mg. Each kit contains 1
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 116 vials per kit
+- Price unit: USD per kit of 116 vials
 - Price range: $113.64 – $133.70 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2902,9 +3066,11 @@ A: Pancragen is available in 1 configuration: 20 mg. Each kit contains 116 vials
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $34.32 – $78.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2937,9 +3103,11 @@ A: PE-22-28 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $73.04 – $85.94 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -2971,9 +3139,11 @@ A: PEG-MGF is available in 1 configuration: 2 mg. Each kit contains 10 vials. Mi
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $33.14 – $261.60 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3007,9 +3177,11 @@ A: Pinealon is available in 3 configurations: 5 mg, 10 mg, 20 mg. Each kit conta
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $44.98 – $186.62 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3043,9 +3215,11 @@ A: PNC-27 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $153.90 – $181.06 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3077,9 +3251,11 @@ A: Prostamax is available in 1 configuration: 20 mg. Each kit contains 10 vials.
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $48.72 – $57.32 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3111,9 +3287,11 @@ A: PTD-DBM is available in 1 configuration: 1 mg. Each kit contains 10 vials. Mi
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $88.40 – $104.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3145,9 +3323,11 @@ A: Relaxation PM is available in 1 configuration: 10 ml. Each kit contains 10 vi
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $53.88 – $479.66 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3186,11 +3366,13 @@ A: Retatrutide is available in 10 configurations: 5 mg, 10 mg, 15 mg, 20 mg, 30 
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- CAS: fixed composition, listed in the batch-specific COA
+- Sequence: fixed composition, listed in the batch-specific COA
+- Molecular formula: fixed composition, listed in the batch-specific COA
+- Molecular weight: fixed composition, listed in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $391.00 – $460.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3220,11 +3402,13 @@ A: Retatrutide + Cagrilintide Blend (20 mg + 5 mg) is available in 1 configurati
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- CAS: fixed composition, listed in the batch-specific COA
+- Sequence: fixed composition, listed in the batch-specific COA
+- Molecular formula: fixed composition, listed in the batch-specific COA
+- Molecular weight: fixed composition, listed in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $205.98 – $242.34 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3256,9 +3440,11 @@ A: Retatrutide + Tirzepatide Blend (20 mg + 40 mg) is available in 1 configurati
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $32.56 – $57.10 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3291,9 +3477,11 @@ A: Selank is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vi
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $21.30 – $128.14 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3331,9 +3519,11 @@ A: Semaglutide is available in 7 configurations: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $31.96 – $55.72 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3366,9 +3556,11 @@ A: Semax is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 via
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $36.70 – $133.70 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3402,9 +3594,11 @@ A: Sermorelin Acetate is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $77.34 – $166.24 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3437,9 +3631,11 @@ A: SLU-PP-332 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 1
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $31.96 – $214.20 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3472,9 +3668,11 @@ A: SNAP-8 is available in 2 configurations: 10 mg, 100 mg. Each kit contains 10 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $40.50 – $330.08 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3506,11 +3704,13 @@ A: SS-31 (Elamipretide) is available in 3 configurations: 5 mg, 10 mg, 50 mg. Ea
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- CAS: fixed composition, listed in the batch-specific COA
+- Sequence: fixed composition, listed in the batch-specific COA
+- Molecular formula: fixed composition, listed in the batch-specific COA
+- Molecular weight: fixed composition, listed in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $88.40 – $104.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3542,9 +3742,11 @@ A: Super Human Blend is available in 1 configuration: 10 ml. Each kit contains 1
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $188.22 – $221.44 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3576,9 +3778,11 @@ A: Survodutide is available in 1 configuration: 10 mg. Each kit contains 10 vial
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $38.78 – $158.78 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3612,9 +3816,11 @@ A: TB-500 (Thymosin Beta-4 Fragment) is available in 3 configurations: 2 mg, 5 m
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $29.84 – $73.96 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3648,9 +3854,11 @@ A: TB-500 Fragment is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $123.12 – $144.84 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3682,9 +3890,11 @@ A: Teriparatide is available in 1 configuration: 10 mg. Each kit contains 10 via
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $48.54 – $355.16 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3717,11 +3927,13 @@ A: Tesamorelin is available in 4 configurations: 2 mg, 5 mg, 10 mg, 20 mg. Each 
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- CAS: fixed composition, listed in the batch-specific COA
+- Sequence: fixed composition, listed in the batch-specific COA
+- Molecular formula: fixed composition, listed in the batch-specific COA
+- Molecular weight: fixed composition, listed in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $63.92 – $216.86 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3758,9 +3970,11 @@ A: Tesamorelin + Ipamorelin Blend is available in 6 configurations: 8 mg, 10 mg,
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $61.56 – $72.42 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3792,9 +4006,11 @@ A: Testagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $56.84 – $66.86 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3826,9 +4042,11 @@ A: Thymalin (Thymulin) is available in 1 configuration: 10 mg. Each kit contains
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $87.00 – $171.30 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3861,9 +4079,11 @@ A: Thymosin Alpha-1 is available in 2 configurations: 5 mg, 10 mg. Each kit cont
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $30.78 – $460.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3906,9 +4126,11 @@ A: Tirzepatide is available in 12 configurations: 2 mg, 5 mg, 10 mg, 15 mg, 20 m
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $35.52 – $41.78 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3940,9 +4162,11 @@ A: Triptorelin Acetate is available in 1 configuration: 2 mg. Each kit contains 
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $55.40 – $65.18 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -3974,9 +4198,11 @@ A: Vesugen is available in 1 configuration: 10 mg. Each kit contains 10 vials. M
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $69.86 – $137.88 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -4009,9 +4235,11 @@ A: VIP (Vasoactive Intestinal Peptide) is available in 2 configurations: 5 mg, 1
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $25.50 – $30.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -4043,9 +4271,11 @@ A: Vitamin B Complex Injection is available in 1 configuration: 2 ml. Each kit c
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $40.26 – $47.36 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -4077,9 +4307,11 @@ A: Vitamin B12 is available in 1 configuration: 1 mg. Each kit contains 10 vials
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $10.20 – $12.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -4111,9 +4343,11 @@ A: Vitamin B12 Injection is available in 1 configuration: 1 ml. Each kit contain
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $25.50 – $30.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -4145,9 +4379,11 @@ A: Vitamin B6 Injection is available in 1 configuration: 2 ml. Each kit contains
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
+- Price unit: USD per kit of 10 vials
 - Price range: $10.20 – $12.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
@@ -4179,9 +4415,11 @@ A: Vitamin C Injection is available in 1 configuration: 2 ml. Each kit contains 
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Sequence: published in the batch-specific COA
-- Molecular formula / weight: — / —
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 6 vials per kit
+- Price unit: USD per kit of 6 vials
 - Price range: $57.80 – $68.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |

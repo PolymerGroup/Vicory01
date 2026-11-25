@@ -116,6 +116,8 @@ import { SITE } from '../lib/site';
   const WEBHOOK = '';
 
   const state: { items: Item[] } = { items: [] };
+  // DOM 尚未就绪前，所有 add() 先入队，等初始化完成后统一 flush
+  let apiReady = false;
 
   const $ = <T extends HTMLElement>(sel: string) => document.querySelector(sel) as T | null;
 
@@ -307,6 +309,13 @@ import { SITE } from '../lib/site';
   }
 
   function add(payload: Omit<Item, 'qty'>, qty = 1) {
+    if (!payload?.slug) return;
+    // 初始化完成前先排队（页面首屏极短时间内点击也能正常记录）
+    if (!apiReady) {
+      const q = ((window as any).__rfqQueue = (window as any).__rfqQueue || []);
+      q.push([payload, Math.max(1, Number(qty) || 1)]);
+      return;
+    }
     const existing = state.items.find((i) => i.slug === payload.slug && i.spec === payload.spec);
     if (existing) existing.qty = Math.min(9999, existing.qty + qty);
     else state.items.push({ ...payload, qty });
@@ -336,6 +345,21 @@ import { SITE } from '../lib/site';
   document.addEventListener('DOMContentLoaded', () => {
     load();
     render();
+
+    // 接管早期 stub：把 Layout 里排队的点击补进来，并让后续点击直达真实实现
+    apiReady = true;
+    (window as any).DchemiRFQ = { ready: true, add, open, close, render, markSubmitted: submitWebhook };
+    const queued: Array<[any, number]> = ((window as any).__rfqQueue || []).slice();
+    (window as any).__rfqQueue = [];
+    if (queued.length) {
+      for (const [payload, qty] of queued) {
+        try {
+          add(payload, qty);
+        } catch (err) {
+          console.error('[rfq] failed to flush queued item', err);
+        }
+      }
+    }
 
     $('#rfq-open')?.addEventListener('click', open);
     $('#rfq-float')?.addEventListener('click', open);

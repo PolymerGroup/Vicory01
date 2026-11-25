@@ -139,11 +139,18 @@ for (const p of data.products) {
   full.push(`- Presentation: ${p.form.replace('_', ' ')}`);
   full.push(`- Appearance: ${p.appearance}`);
   full.push(`- Purity: ${p.purity || 'not applicable (ancillary reagent)'}`);
-  full.push(`- CAS: ${p.cas || 'published in the batch-specific COA'}`);
-  full.push(`- Sequence: ${p.sequence || 'published in the batch-specific COA'}`);
-  full.push(`- Molecular formula / weight: ${p.formula || '—'} / ${p.molecularWeight ? p.molecularWeight + ' Da' : '—'}`);
+  // 化学参数：有真实值写真实值，没有（含 Blend）才回退到 COA 说明
+  const blend = p.sequenceType === 'blend' || p.category === 'blend';
+  const coaNote = blend ? 'fixed composition, listed in the batch-specific COA' : 'published in the batch-specific COA';
+  const formula = p.molecularFormula || p.formula || null;
+  const mw = p.molecularWeight ? (/da$/i.test(String(p.molecularWeight)) ? p.molecularWeight : `${p.molecularWeight} Da`) : null;
+  full.push(`- CAS: ${p.cas || coaNote}`);
+  full.push(`- Sequence: ${p.sequence || coaNote}`);
+  full.push(`- Molecular formula: ${formula || coaNote}`);
+  full.push(`- Molecular weight: ${mw || coaNote}`);
   full.push(`- Storage: ${p.storage.summary}`);
   full.push(`- Kit: ${p.kitVials} vials per kit`);
+  full.push(`- Price unit: USD per kit of ${p.kitVials} vials`);
   full.push(`- Price range: ${money(p.priceFrom)} – ${money(p.priceTo)} per kit (USD)`);
   full.push('');
   full.push('| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |');

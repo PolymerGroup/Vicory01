@@ -8,6 +8,20 @@ interface Props {
 }
 
 const { current, related } = Astro.props;
+
+/** 化学列：有真实值就展示真实值，否则回退 COA（复配品标注 mix） */
+function chemOf(p: Peptide) {
+  const formula = (p as any).molecularFormula ?? p.formula ?? null;
+  const isBlend = p.sequenceType === 'blend' || p.category === 'blend';
+  const fallback = isBlend ? 'mix → COA' : 'COA';
+  return {
+    cas: p.cas || fallback,
+    formula: formula || fallback,
+    mw: p.molecularWeight ? (/da$/i.test(String(p.molecularWeight)) ? p.molecularWeight : `${p.molecularWeight} Da`) : fallback,
+  };
+}
+
+const rows = [current, ...related].map((p) => ({ p, chem: chemOf(p) }));
 ---
 
 <section aria-labelledby="compare-heading" class="mt-16">
@@ -26,46 +40,45 @@ const { current, related } = Astro.props;
   </div>
 
   <div class="mt-5 overflow-x-auto rounded-2xl border border-slate-200 bg-white">
-    <table class="table-lab min-w-[860px]">
+    <table class="table-lab min-w-[980px]">
       <caption class="sr-only">Parameter comparison for related research peptides</caption>
       <thead>
         <tr>
           <th scope="col">Product</th>
           <th scope="col">Code</th>
-          <th scope="col">Class</th>
           <th scope="col">CAS</th>
+          <th scope="col">Formula</th>
+          <th scope="col">MW</th>
           <th scope="col">Purity</th>
           <th scope="col">Pack sizes</th>
           <th scope="col" class="text-right">From / kit</th>
         </tr>
       </thead>
       <tbody>
-        <tr class="bg-brand-50/40">
-          <td class="font-semibold text-slateink">
-            {current.name}
-            <span class="ml-2 rounded bg-brand-500 px-1.5 py-0.5 text-[10px] font-bold uppercase text-white">this item</span>
-          </td>
-          <td class="font-mono text-xs">{current.shortCode}</td>
-          <td class="text-xs">{current.moleculeClass.replace(/_/g, ' ')}</td>
-          <td class="font-mono text-xs">{current.cas || 'COA'}</td>
-          <td class="text-xs">{current.purity || 'n/a'}</td>
-          <td class="text-xs">{current.specs.map((s) => s.label).join(', ')}</td>
-          <td class="text-right font-mono text-xs font-bold">{money(current.priceFrom)}</td>
-        </tr>
         {
-          related.map((r) => (
-            <tr>
-              <td>
-                <a href={`/peptides/${r.slug}`} class="font-medium text-ocean-700 hover:underline">
-                  {r.name}
-                </a>
+          rows.map(({ p, chem }, i) => (
+            <tr class:list={[i === 0 && 'bg-brand-50/40']}>
+              <td class="font-semibold text-slateink">
+                {i === 0 ? (
+                  <>
+                    {p.name}
+                    <span class="ml-2 rounded bg-brand-500 px-1.5 py-0.5 text-[10px] font-bold uppercase text-white">
+                      this item
+                    </span>
+                  </>
+                ) : (
+                  <a href={`/peptides/${p.slug}`} class="font-medium text-ocean-700 hover:underline">
+                    {p.name}
+                  </a>
+                )}
               </td>
-              <td class="font-mono text-xs">{r.shortCode}</td>
-              <td class="text-xs">{r.moleculeClass.replace(/_/g, ' ')}</td>
-              <td class="font-mono text-xs">{r.cas || 'COA'}</td>
-              <td class="text-xs">{r.purity || 'n/a'}</td>
-              <td class="text-xs">{r.specs.map((s) => s.label).join(', ')}</td>
-              <td class="text-right font-mono text-xs font-bold">{money(r.priceFrom)}</td>
+              <td class="font-mono text-xs">{p.shortCode}</td>
+              <td class="font-mono text-xs">{chem.cas}</td>
+              <td class="font-mono text-xs">{chem.formula}</td>
+              <td class="font-mono text-xs">{chem.mw}</td>
+              <td class="text-xs">{p.purity || 'n/a'}</td>
+              <td class="text-xs">{p.specs.map((s) => s.label).join(', ')}</td>
+              <td class="text-right font-mono text-xs font-bold">{money(p.priceFrom)}</td>
             </tr>
           ))
         }
@@ -73,7 +86,8 @@ const { current, related } = Astro.props;
     </table>
   </div>
   <p class="mt-3 text-[11px] leading-5 text-slate-400">
-    CAS numbers and sequences are published in the batch-specific certificate of analysis where not
-    listed. Comparison is provided for procurement planning only.
+    CAS numbers, molecular formulas and weights are shown where the catalogue holds verified values;
+    otherwise they are published in the batch-specific certificate of analysis. Comparison is
+    provided for procurement planning only.
   </p>
 </section>

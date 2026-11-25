@@ -43,22 +43,50 @@ const specJson = JSON.stringify(
     label: s.label,
     vials: s.vials,
     perKit: s.perKit,
+    perVial: s.perVial,
     tiers: s.tiers,
   }))
 );
 
+/* ---------------------- 化学核心参数：真实值优先 ---------------------- */
+// 数据里有值就直接展示真实值；没有值（含复配 Blend）才回退到 COA 说明。
+const COA_FALLBACK = 'Published in batch COA';
+const chem = {
+  cas: p.cas || null,
+  sequence: p.sequence || null,
+  formula: (p as any).molecularFormula ?? p.formula ?? null,
+  mw: p.molecularWeight || null,
+};
+const hasChem = Boolean(chem.cas || chem.sequence || chem.formula || chem.mw);
+const isBlend = p.sequenceType === 'blend' || p.category === 'blend';
+const chemFallback = isBlend ? 'Fixed composition — see batch COA' : COA_FALLBACK;
+const mwText = chem.mw
+  ? /da$/i.test(String(chem.mw))
+    ? String(chem.mw)
+    : `${chem.mw} Da`
+  : null;
+
 /* ------------------------------ JSON-LD ------------------------------ */
+const KIT_UNIT = `kit of ${p.kitVials} vials`;
 const offers = p.specs.flatMap((s) =>
   s.tiers.map((t) => ({
     '@type': 'Offer',
     sku: `${p.shortCode}-${s.spec}`.replace(/\s+/g, ''),
-    name: `${p.name} — ${s.label} × ${s.vials} vials/kit (${t.label})`,
+    name: `${p.name} — ${s.label} × ${p.kitVials} vials/kit · ${t.label}`,
+    description: `USD ${Number(t.price).toFixed(2)} per ${KIT_UNIT} (${t.label})`,
     price: Number(t.price).toFixed(2),
     priceCurrency: 'USD',
     availability: 'https://schema.org/InStock',
     itemCondition: 'https://schema.org/NewCondition',
     url: `${SITE.url}/peptides/${p.slug}`,
     seller: { '@id': `${SITE.url}/#organization` },
+    priceSpecification: {
+      '@type': 'UnitPriceSpecification',
+      price: Number(t.price).toFixed(2),
+      priceCurrency: 'USD',
+      unitText: KIT_UNIT,
+      referenceQuantity: { '@type': 'QuantitativeValue', value: 1, unitText: KIT_UNIT },
+    },
     eligibleQuantity: {
       '@type': 'QuantitativeValue',
       minValue: t.min,
@@ -67,6 +95,10 @@ const offers = p.specs.flatMap((s) =>
     },
   }))
 );
+
+const offerPrices = offers.map((o) => Number(o.price)).filter((n) => Number.isFinite(n));
+const lowPrice = p.priceFrom ?? (offerPrices.length ? Math.min(...offerPrices) : null);
+const highPrice = p.priceTo ?? (offerPrices.length ? Math.max(...offerPrices) : null);
 
 const productLd = {
   '@context': 'https://schema.org',
@@ -82,20 +114,22 @@ const productLd = {
   manufacturer: { '@id': `${SITE.url}/#organization` },
   ...(imageUrl ? { image: [abs(imageUrl)] } : {}),
   additionalProperty: [
-    { '@type': 'PropertyValue', name: 'CAS number', value: p.cas || 'Published in batch COA' },
-    { '@type': 'PropertyValue', name: 'Sequence', value: p.sequence || 'Published in batch COA' },
-    { '@type': 'PropertyValue', name: 'Molecular weight', value: p.molecularWeight || 'Published in batch COA' },
+    { '@type': 'PropertyValue', name: 'CAS number', value: chem.cas || chemFallback },
+    { '@type': 'PropertyValue', name: 'Sequence', value: chem.sequence || chemFallback },
+    { '@type': 'PropertyValue', name: 'Molecular formula', value: chem.formula || chemFallback },
+    { '@type': 'PropertyValue', name: 'Molecular weight', value: mwText || chemFallback },
     { '@type': 'PropertyValue', name: 'Purity', value: p.purity || 'Not applicable' },
     { '@type': 'PropertyValue', name: 'Appearance', value: p.appearance },
     { '@type': 'PropertyValue', name: 'Pack size', value: `${p.kitVials} vials per kit` },
+    { '@type': 'PropertyValue', name: 'Price unit', value: `USD per ${KIT_UNIT}` },
     { '@type': 'PropertyValue', name: 'Storage', value: p.storage.summary },
     { '@type': 'PropertyValue', name: 'Research area', value: p.categoryLabel },
   ],
   offers: {
     '@type': 'AggregateOffer',
     priceCurrency: 'USD',
-    lowPrice: p.priceFrom != null ? Number(p.priceFrom).toFixed(2) : undefined,
-    highPrice: p.priceTo != null ? Number(p.priceTo).toFixed(2) : undefined,
+    lowPrice: lowPrice != null ? Number(lowPrice).toFixed(2) : undefined,
+    highPrice: highPrice != null ? Number(highPrice).toFixed(2) : undefined,
     offerCount: offers.length,
     availability: 'https://schema.org/InStock',
     offers,
@@ -114,13 +148,15 @@ const faqLd = {
 
 const summaryRows = [
   { k: 'Short code', v: p.shortCode, mono: true },
-  { k: 'CAS number', v: p.cas || 'Published in batch COA', mono: true },
-  { k: 'Molecular formula', v: p.formula || 'Published in batch COA', mono: true },
-  { k: 'Molecular weight', v: p.molecularWeight ? `${p.molecularWeight} Da` : 'Published in batch COA', mono: true },
+  { k: 'CAS number', v: chem.cas || chemFallback, mono: true },
+  { k: 'Molecular formula', v: chem.formula || chemFallback, mono: true },
+  { k: 'Molecular weight', v: mwText || chemFallback, mono: true },
+  { k: 'Sequence', v: chem.sequence || chemFallback, mono: true },
   { k: 'Purity', v: p.purity || 'Not applicable (ancillary reagent)', mono: false },
   { k: 'Appearance', v: p.appearance, mono: false },
   { k: 'Presentation', v: p.form.replace('_', ' '), mono: false },
   { k: 'Pack size', v: `${p.kitVials} vials per kit`, mono: false },
+  { k: 'Price unit', v: `USD per kit of ${p.kitVials} vials`, mono: false },
   { k: 'Storage', v: p.storage.summary, mono: false },
   { k: 'Molecule class', v: p.moleculeClass.replace(/_/g, ' '), mono: false },
 ];
@@ -193,13 +229,14 @@ const summaryRows = [
           <span class="chip">
             <span class="font-mono font-bold text-slate-700">{p.shortCode}</span>
           </span>
-          {p.chemistryStatus === 'documented' ? (
+          {hasChem ? (
             <span class="chip border-emerald-200 bg-emerald-50 !text-emerald-700">
               <span class="h-1.5 w-1.5 rounded-full bg-emerald-500"></span> Chemistry documented
             </span>
           ) : (
             <span class="chip border-amber-200 bg-amber-50 !text-amber-700">
-              <span class="h-1.5 w-1.5 rounded-full bg-amber-500"></span> Chemistry on batch COA
+              <span class="h-1.5 w-1.5 rounded-full bg-amber-500"></span>
+              {isBlend ? 'Composition on batch COA' : 'Chemistry on batch COA'}
             </span>
           )}
         </div>
@@ -234,10 +271,13 @@ const summaryRows = [
         <div class="mt-6 rounded-2xl border border-slate-200 bg-slate-50/70 p-5" id="spec-box">
           <div class="flex flex-wrap items-end justify-between gap-3">
             <div>
-              <p class="label">Indicative price per kit (10 vials)</p>
+              <p class="label">Indicative price per kit ({p.kitVials} vials)</p>
               <p class="mt-1 font-mono text-3xl font-extrabold text-slateink">
-                <span id="sel-price">{defaultSpec.perKit ? `$${Number(defaultSpec.perKit).toFixed(2)}` : 'RFQ'}</span>
+                <span id="sel-price" aria-live="polite">{defaultSpec.perKit ? `$${Number(defaultSpec.perKit).toFixed(2)}` : 'RFQ'}</span>
                 <span class="text-xs font-medium text-slate-500"> / kit</span>
+              </p>
+              <p class="mt-0.5 font-mono text-[11px] text-slate-500" id="sel-pervial">
+                {defaultSpec.perVial ? `≈ $${Number(defaultSpec.perVial).toFixed(2)} / vial` : ''} · {defaultSpec.vials} vials/kit
               </p>
             </div>
             <p class="text-right text-[11px] leading-4 text-slate-500">
@@ -443,24 +483,41 @@ const summaryRows = [
   <script type="application/json" id="spec-data" set:html={specJson} />
   <script is:inline define:vars={{ productName: p.name, productSlug: p.slug, shortCode: p.shortCode }}>
     (function () {
-      const raw = document.getElementById('spec-data');
-      const specs = raw ? JSON.parse(raw.textContent || '[]') : [];
+      var raw = document.getElementById('spec-data');
+      var specs = raw ? JSON.parse(raw.textContent || '[]') : [];
       if (!specs.length) return;
 
-      const priceEl = document.getElementById('sel-price');
-      const tiersEl = document.getElementById('sel-tiers');
-      const addBtn = document.getElementById('sel-add');
-      const qtyEl = document.getElementById('sel-qty');
-      const buttons = Array.from(document.querySelectorAll('.js-spec'));
-      let current = 0;
+      var priceEl = document.getElementById('sel-price');
+      var perVialEl = document.getElementById('sel-pervial');
+      var tiersEl = document.getElementById('sel-tiers');
+      var addBtn = document.getElementById('sel-add');
+      var qtyEl = document.getElementById('sel-qty');
+      var buttons = Array.prototype.slice.call(document.querySelectorAll('.js-spec'));
+      var current = 0;
 
-      const money = (v) => (v == null ? 'RFQ' : '$' + Number(v).toFixed(2));
+      function money(v) {
+        return v == null ? 'RFQ' : '$' + Number(v).toFixed(2);
+      }
+
+      // 统一从 specs[current] 现算 payload，避免 dataset 与实际选中规格脱节
+      function payloadFor(s) {
+        return {
+          slug: productSlug,
+          name: productName,
+          shortCode: shortCode,
+          spec: s.spec,
+          label: s.label,
+          vials: s.vials,
+          price: s.perKit,
+          tiers: s.tiers,
+        };
+      }
 
       function tiersHtml(s) {
-        const base = s.perKit;
-        const rows = (s.tiers || [])
-          .map((t) => {
-            const pct = base && t.price < base ? Math.round((1 - t.price / base) * 100) : 0;
+        var base = s.perKit;
+        var rows = (s.tiers || [])
+          .map(function (t) {
+            var pct = base && t.price < base ? Math.round((1 - t.price / base) * 100) : 0;
             return (
               '<tr><td class="font-medium text-slate-700">' +
               t.label +
@@ -481,42 +538,56 @@ const summaryRows = [
       }
 
       function select(i) {
+        if (!specs[i]) return;
         current = i;
-        const s = specs[i];
-        buttons.forEach((b, idx) => {
-          const on = idx === i;
+        var s = specs[i];
+
+        buttons.forEach(function (b, idx) {
+          var on = idx === i;
           b.setAttribute('aria-pressed', String(on));
           b.classList.toggle('border-brand-400', on);
           b.classList.toggle('shadow-sm', on);
           b.classList.toggle('border-slate-200', !on);
         });
+
         if (priceEl) priceEl.textContent = money(s.perKit);
+        if (perVialEl) {
+          var perVial = s.perVial != null ? s.perVial : s.perKit != null ? s.perKit / (s.vials || 10) : null;
+          perVialEl.textContent =
+            (perVial != null ? '≈ ' + money(perVial) + ' / vial' : '') + ' · ' + (s.vials || 10) + ' vials/kit';
+        }
         if (tiersEl) tiersEl.innerHTML = tiersHtml(s);
-        if (addBtn) addBtn.dataset.payload = JSON.stringify({
-          slug: productSlug,
-          name: productName,
-          shortCode: shortCode,
-          spec: s.spec,
-          label: s.label,
-          vials: s.vials,
-          price: s.perKit,
-          tiers: s.tiers,
-        });
+        if (addBtn) {
+          addBtn.dataset.payload = JSON.stringify(payloadFor(s));
+          addBtn.setAttribute('aria-label', 'Add ' + productName + ' ' + s.label + ' to RFQ list');
+        }
+        // 让浏览器地址栏保留规格锚点，便于分享（不触发跳转）
+        try {
+          history.replaceState(null, '', window.location.pathname + '#spec-' + encodeURIComponent(s.spec));
+        } catch (e) {}
       }
 
-      buttons.forEach((b, i) => b.addEventListener('click', () => select(i)));
-
-      addBtn?.addEventListener('click', () => {
-        const payload = addBtn.dataset.payload;
-        const qty = Math.max(1, Number(qtyEl?.value) || 1);
-        if (payload) {
-          try {
-            window.DchemiRFQ?.add(JSON.parse(payload), qty);
-          } catch (e) {
-            console.error(e);
-          }
-        }
+      buttons.forEach(function (b, i) {
+        b.addEventListener('click', function () {
+          select(i);
+        });
       });
+
+      if (addBtn) {
+        addBtn.addEventListener('click', function () {
+          var s = specs[current];
+          if (!s) return;
+          var qty = Math.max(1, Math.min(9999, Number(qtyEl && qtyEl.value) || 1));
+          var api = window.DchemiRFQ;
+          // Layout 注入的早期 stub 会把请求排队，RfqCart 挂载后再统一处理
+          if (api && typeof api.add === 'function') {
+            api.add(payloadFor(s), qty);
+          } else {
+            window.__rfqQueue = window.__rfqQueue || [];
+            window.__rfqQueue.push([payloadFor(s), qty]);
+          }
+        });
+      }
 
       select(0);
     })();

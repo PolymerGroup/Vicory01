@@ -256,6 +256,8 @@ const products = master.products
       },
       cas: p.cas || null,
       sequence: p.sequence || null,
+      // 分子式同时输出两种键名：molecularFormula（schema.org 习惯）+ formula（旧键，向后兼容）
+      molecularFormula: p.molecular_formula || null,
       formula: p.molecular_formula || null,
       molecularWeight: p.molecular_weight || null,
       chemistryStatus: p.cas ? 'documented' : 'pending-coa',

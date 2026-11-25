@@ -63,6 +63,9 @@ export interface Peptide {
   };
   cas: string | null;
   sequence: string | null;
+  /** 分子式（规范键，schema.org 风格） */
+  molecularFormula: string | null;
+  /** 分子式（旧键，保留向后兼容） */
   formula: string | null;
   molecularWeight: string | null;
   chemistryStatus: 'documented' | 'pending-coa';
