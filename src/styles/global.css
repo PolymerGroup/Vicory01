@@ -1,0 +1,143 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-lab text-slateink antialiased;
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+  }
+
+  ::selection {
+    @apply bg-brand-200 text-brand-900;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply tracking-tight;
+    text-wrap: balance;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-ocean-500 ring-offset-2 ring-offset-white;
+  }
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-5 py-3 text-sm font-semibold
+      transition-colors duration-150 disabled:cursor-not-allowed disabled:opacity-60;
+  }
+
+  .btn-primary {
+    @apply btn bg-brand-500 text-white shadow-card hover:bg-brand-600 active:bg-brand-700;
+  }
+
+  .btn-secondary {
+    @apply btn border border-slate-300 bg-white text-slate-800 hover:border-ocean-400 hover:text-ocean-700;
+  }
+
+  .btn-ghost {
+    @apply btn text-slate-600 hover:bg-slate-100 hover:text-slate-900;
+  }
+
+  .btn-sm {
+    @apply rounded-lg px-3 py-2 text-xs;
+  }
+
+  .card {
+    @apply rounded-2xl border border-slate-200 bg-white shadow-card;
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full border border-slate-200 bg-white px-3 py-1
+      text-xs font-medium text-slate-600;
+  }
+
+  .label {
+    @apply text-[11px] font-semibold uppercase tracking-[0.14em] text-slate-500;
+  }
+
+  .prose-lab {
+    @apply text-[15px] leading-7 text-slate-700;
+  }
+
+  .prose-lab h2 {
+    @apply mt-10 mb-3 text-xl font-bold text-slateink;
+  }
+
+  .prose-lab h3 {
+    @apply mt-6 mb-2 text-base font-semibold text-slateink;
+  }
+
+  .prose-lab p {
+    @apply mb-4;
+  }
+
+  .prose-lab ul {
+    @apply mb-4 list-disc space-y-2 pl-5;
+  }
+
+  .prose-lab a {
+    @apply text-ocean-700 underline decoration-ocean-300 underline-offset-2 hover:text-ocean-800;
+  }
+
+  .table-lab {
+    @apply w-full border-collapse text-sm;
+  }
+
+  .table-lab th {
+    @apply border-b border-slate-200 bg-slate-50 px-3 py-2 text-left text-xs font-semibold
+      uppercase tracking-wide text-slate-500;
+  }
+
+  .table-lab td {
+    @apply border-b border-slate-100 px-3 py-2 align-top text-slate-700;
+  }
+
+  .field {
+    @apply w-full rounded-xl border border-slate-300 bg-white px-4 py-3 text-sm text-slate-900
+      placeholder:text-slate-400 focus:border-ocean-500 focus:ring-2 focus:ring-ocean-100;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .bg-hero {
+    background:
+      radial-gradient(1200px 500px at 85% -10%, rgba(249, 115, 22, 0.16), transparent 60%),
+      radial-gradient(900px 420px at 5% 0%, rgba(2, 132, 199, 0.16), transparent 55%),
+      linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  }
+
+  .mask-fade-b {
+    mask-image: linear-gradient(to bottom, black 70%, transparent 100%);
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

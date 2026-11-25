@@ -1,0 +1,377 @@
+---
+import { SITE } from '../lib/site';
+---
+
+<!-- RFQ 抽屉：纯原生 JS，无框架，localStorage 持久化 -->
+<div
+  id="rfq-backdrop"
+  class="fixed inset-0 z-40 hidden bg-slateink/40 backdrop-blur-[2px]"
+  aria-hidden="true"
+></div>
+
+<aside
+  id="rfq-drawer"
+  class="fixed inset-y-0 right-0 z-50 flex w-full max-w-md translate-x-full flex-col border-l border-slate-200 bg-white shadow-2xl transition-transform duration-300"
+  aria-labelledby="rfq-title"
+  aria-hidden="true"
+>
+  <div class="flex items-start justify-between gap-4 border-b border-slate-200 px-5 py-4">
+    <div>
+      <h2 id="rfq-title" class="text-base font-bold text-slateink">RFQ inquiry list</h2>
+      <p class="mt-0.5 text-xs text-slate-500">
+        Quantities in kits · prices are indicative USD · final quote confirmed by sales
+      </p>
+    </div>
+    <button
+      type="button"
+      id="rfq-close"
+      class="rounded-lg p-2 text-slate-500 hover:bg-slate-100 hover:text-slateink"
+      aria-label="Close RFQ list"
+    >
+      <svg class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <path d="M6 6l12 12M18 6L6 18" stroke-linecap="round" />
+      </svg>
+    </button>
+  </div>
+
+  <div id="rfq-items" class="flex-1 space-y-3 overflow-y-auto px-5 py-4">
+    <!-- JS 渲染 -->
+  </div>
+
+  <div class="border-t border-slate-200 bg-slate-50 px-5 py-4">
+    <div class="flex items-center justify-between text-sm">
+      <span class="font-medium text-slate-600">Estimated subtotal</span>
+      <span id="rfq-total" class="font-mono text-lg font-bold text-slateink">$0.00</span>
+    </div>
+    <p class="mt-1 text-[11px] leading-4 text-slate-500">
+      Indicative only. Volume tiers are applied automatically per line; shipping, duties and
+      documentation are quoted separately.
+    </p>
+    <p class="mt-2 rounded-lg bg-brand-50 px-3 py-2 text-[11px] font-semibold leading-4 text-brand-900">
+      {SITE.ruo}
+    </p>
+
+    <div class="mt-3 grid grid-cols-2 gap-2">
+      <a id="rfq-mail" href={`mailto:${SITE.email}`} class="btn-primary btn-sm">
+        <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+          <path d="M3 6.5h18v11H3z" stroke-linejoin="round" />
+          <path d="m3.5 7 8.5 6 8.5-6" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+        Email RFQ
+      </a>
+      <a id="rfq-wa" href={SITE.whatsapp} target="_blank" rel="noopener" class="btn-secondary btn-sm">
+        <svg class="h-4 w-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2zm0 18.2c-1.5 0-2.9-.4-4.1-1.1l-.3-.2-3.1.8.8-3-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.6-6c-.3-.2-1.7-.9-2-1-.3-.1-.5-.2-.7.1-.2.3-.7 1-.9 1.2-.2.2-.4.2-.7.1-.3-.2-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6l.5-.6c.2-.2.2-.3.3-.5.1-.2 0-.4 0-.5-.1-.2-.7-1.6-.9-2.2-.2-.6-.5-.5-.7-.5h-.5c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.4s1 2.8 1.2 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.4.2-.7.2-1.3.2-1.4-.1-.2-.3-.2-.6-.4z" />
+        </svg>
+        WhatsApp
+      </a>
+    </div>
+
+    <div class="mt-2 grid grid-cols-2 gap-2">
+      <button type="button" id="rfq-copy" class="btn-ghost btn-sm border border-slate-200">Copy list</button>
+      <button type="button" id="rfq-clear" class="btn-ghost btn-sm border border-slate-200 text-red-600 hover:bg-red-50">
+        Clear all
+      </button>
+    </div>
+
+    <a href="/rfq" class="mt-2 block text-center text-xs font-semibold text-ocean-700 hover:text-ocean-800">
+      Prefer the full RFQ form? Open /rfq →
+    </a>
+  </div>
+</aside>
+
+<!-- 浮动入口（移动端） -->
+<button
+  type="button"
+  id="rfq-float"
+  class="fixed bottom-5 right-4 z-30 hidden items-center gap-2 rounded-full bg-brand-500 px-4 py-3 text-sm font-bold text-white shadow-lift sm:hidden"
+>
+  RFQ
+  <span id="rfq-count-float" class="inline-flex h-5 min-w-5 items-center justify-center rounded-full bg-white px-1.5 text-[11px] font-bold text-brand-600">0</span>
+</button>
+
+<div
+  id="rfq-toast"
+  class="pointer-events-none fixed bottom-6 left-1/2 z-[60] hidden -translate-x-1/2 rounded-xl bg-slateink px-4 py-2.5 text-sm font-medium text-white shadow-lift"
+  role="status"
+  aria-live="polite"
+></div>
+
+<script>
+  type Tier = { min: number; max: number | null; price: number; label: string };
+  type Item = {
+    slug: string;
+    name: string;
+    shortCode: string;
+    spec: string;
+    label: string;
+    vials: number;
+    price: number;
+    tiers: Tier[];
+    qty: number;
+  };
+
+  const KEY = 'dchemi.rfq.v1';
+  // 预留 Webhook：填入 Cloudflare Worker / Zapier 地址后，提交时会 POST JSON 到该端点
+  const WEBHOOK = '';
+
+  const state: { items: Item[] } = { items: [] };
+
+  const $ = <T extends HTMLElement>(sel: string) => document.querySelector(sel) as T | null;
+
+  function load() {
+    try {
+      const raw = localStorage.getItem(KEY);
+      if (raw) {
+        const parsed = JSON.parse(raw);
+        if (Array.isArray(parsed?.items)) state.items = parsed.items;
+      }
+    } catch {
+      state.items = [];
+    }
+  }
+
+  function save() {
+    try {
+      localStorage.setItem(KEY, JSON.stringify({ items: state.items, ts: Date.now() }));
+    } catch {
+      /* storage disabled */
+    }
+  }
+
+  function unitPrice(item: Item, qty = item.qty): number {
+    if (!item.tiers?.length) return item.price;
+    const tier = item.tiers.find((t) => qty >= t.min && (t.max == null || qty <= t.max));
+    return tier ? tier.price : item.price;
+  }
+
+  function total(): number {
+    return state.items.reduce((sum, i) => sum + unitPrice(i) * i.qty, 0);
+  }
+
+  function count(): number {
+    return state.items.reduce((n, i) => n + i.qty, 0);
+  }
+
+  function toast(msg: string) {
+    const el = $('#rfq-toast');
+    if (!el) return;
+    el.textContent = msg;
+    el.classList.remove('hidden');
+    window.clearTimeout((toast as any)._t);
+    (toast as any)._t = window.setTimeout(() => el.classList.add('hidden'), 2200);
+  }
+
+  function render() {
+    const box = $('#rfq-items');
+    const badge = $('#rfq-count');
+    const badgeFloat = $('#rfq-count-float');
+    const totalEl = $('#rfq-total');
+    if (!box) return;
+
+    box.innerHTML = '';
+    if (!state.items.length) {
+      const empty = document.createElement('div');
+      empty.className = 'rounded-xl border border-dashed border-slate-300 p-6 text-center';
+      empty.innerHTML =
+        '<p class="text-sm font-medium text-slate-700">Your RFQ list is empty</p>' +
+        '<p class="mt-1 text-xs text-slate-500">Browse the catalogue and add the pack sizes you need. Every line is quoted per kit of 10 vials.</p>' +
+        '<a href="/products" class="btn-secondary btn-sm mt-3">Browse peptides</a>';
+      box.appendChild(empty);
+    }
+
+    for (const [idx, item] of state.items.entries()) {
+      const row = document.createElement('div');
+      row.className = 'rounded-xl border border-slate-200 p-3';
+
+      const head = document.createElement('div');
+      head.className = 'flex items-start justify-between gap-2';
+      const title = document.createElement('div');
+      const a = document.createElement('a');
+      a.href = `/peptides/${item.slug}`;
+      a.className = 'text-sm font-semibold text-slateink hover:text-ocean-700';
+      a.textContent = item.name;
+      const meta = document.createElement('p');
+      meta.className = 'mt-0.5 font-mono text-[11px] text-slate-500';
+      meta.textContent = `${item.shortCode} · ${item.label} × ${item.vials} vials/kit`;
+      title.append(a, meta);
+      const del = document.createElement('button');
+      del.type = 'button';
+      del.className = 'rounded-md p-1 text-slate-400 hover:bg-red-50 hover:text-red-600';
+      del.setAttribute('aria-label', `Remove ${item.name}`);
+      del.textContent = '✕';
+      del.addEventListener('click', () => {
+        state.items.splice(idx, 1);
+        save();
+        render();
+      });
+      head.append(title, del);
+
+      const qtyRow = document.createElement('div');
+      qtyRow.className = 'mt-3 flex items-center justify-between gap-2';
+      const stepper = document.createElement('div');
+      stepper.className = 'inline-flex items-center rounded-lg border border-slate-300';
+      const mk = (txt: string, delta: number) => {
+        const b = document.createElement('button');
+        b.type = 'button';
+        b.className = 'h-8 w-8 text-slate-600 hover:bg-slate-50';
+        b.textContent = txt;
+        b.addEventListener('click', () => {
+          item.qty = Math.max(1, Math.min(9999, item.qty + delta));
+          save();
+          render();
+        });
+        return b;
+      };
+      const qtyInput = document.createElement('input');
+      qtyInput.type = 'number';
+      qtyInput.min = '1';
+      qtyInput.value = String(item.qty);
+      qtyInput.className = 'h-8 w-12 border-x border-slate-300 text-center text-sm font-semibold outline-none';
+      qtyInput.addEventListener('change', () => {
+        item.qty = Math.max(1, Number(qtyInput.value) || 1);
+        save();
+        render();
+      });
+      stepper.append(mk('−', -1), qtyInput, mk('+', 1));
+
+      const price = document.createElement('div');
+      price.className = 'text-right';
+      const line = document.createElement('p');
+      line.className = 'font-mono text-sm font-bold text-slateink';
+      line.textContent = `$${(unitPrice(item) * item.qty).toFixed(2)}`;
+      const unit = document.createElement('p');
+      unit.className = 'text-[11px] text-slate-500';
+      unit.textContent = `$${unitPrice(item).toFixed(2)} / kit`;
+      price.append(line, unit);
+
+      qtyRow.append(stepper, price);
+      row.append(head, qtyRow);
+      box.appendChild(row);
+    }
+
+    const n = count();
+    if (badge) badge.textContent = String(n);
+    if (badgeFloat) badgeFloat.textContent = String(n);
+    if (totalEl) totalEl.textContent = `$${total().toFixed(2)}`;
+
+    // 生成 RFQ 文本
+    const body = buildText();
+    const mail = $('#rfq-mail') as HTMLAnchorElement | null;
+    if (mail) {
+      mail.href = `mailto:${'info@dchemi.com'}?subject=${encodeURIComponent(
+        'B2B RFQ — Dchemi'
+      )}&body=${encodeURIComponent(body)}`;
+    }
+    const wa = $('#rfq-wa') as HTMLAnchorElement | null;
+    if (wa) {
+      wa.href = `https://wa.me/8615866781826?text=${encodeURIComponent(body.slice(0, 1800))}`;
+    }
+  }
+
+  function buildText(): string {
+    const lines = [
+      'B2B RFQ — Dchemi (Shandong Vicory Biotechnology Co., Ltd.)',
+      `Date: ${new Date().toISOString().slice(0, 10)}`,
+      '',
+      'Items (USD per kit of 10 vials, indicative):',
+    ];
+    state.items.forEach((i, n) => {
+      lines.push(
+        `${n + 1}. ${i.name} [${i.shortCode}] — ${i.label} × ${i.vials} vials/kit — ${i.qty} kit(s) @ $${unitPrice(
+          i
+        ).toFixed(2)} = $${(unitPrice(i) * i.qty).toFixed(2)}`
+      );
+    });
+    lines.push('', `Estimated subtotal: $${total().toFixed(2)} USD`);
+    lines.push('', 'Delivery country / city: ', 'Company / institution: ', 'Intended use: laboratory research');
+    lines.push('', 'For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use.');
+    return lines.join('\n');
+  }
+
+  function open() {
+    $('#rfq-drawer')?.classList.remove('translate-x-full');
+    $('#rfq-drawer')?.setAttribute('aria-hidden', 'false');
+    $('#rfq-backdrop')?.classList.remove('hidden');
+    $('#rfq-open')?.setAttribute('aria-expanded', 'true');
+    document.body.style.overflow = 'hidden';
+    render();
+  }
+
+  function close() {
+    $('#rfq-drawer')?.classList.add('translate-x-full');
+    $('#rfq-drawer')?.setAttribute('aria-hidden', 'true');
+    $('#rfq-backdrop')?.classList.add('hidden');
+    $('#rfq-open')?.setAttribute('aria-expanded', 'false');
+    document.body.style.overflow = '';
+  }
+
+  function add(payload: Omit<Item, 'qty'>, qty = 1) {
+    const existing = state.items.find((i) => i.slug === payload.slug && i.spec === payload.spec);
+    if (existing) existing.qty = Math.min(9999, existing.qty + qty);
+    else state.items.push({ ...payload, qty });
+    save();
+    render();
+    toast(`${payload.name} added to RFQ list`);
+    open();
+  }
+
+  async function submitWebhook() {
+    if (!WEBHOOK) return false;
+    try {
+      const res = await fetch(WEBHOOK, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ items: state.items, total: total(), source: location.href }),
+      });
+      return res.ok;
+    } catch {
+      return false;
+    }
+  }
+
+  // 暴露给页面按钮
+  (window as any).DchemiRFQ = { add, open, close, render, markSubmitted: submitWebhook };
+
+  document.addEventListener('DOMContentLoaded', () => {
+    load();
+    render();
+
+    $('#rfq-open')?.addEventListener('click', open);
+    $('#rfq-float')?.addEventListener('click', open);
+    $('#rfq-close')?.addEventListener('click', close);
+    $('#rfq-backdrop')?.addEventListener('click', close);
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') close();
+    });
+
+    $('#rfq-clear')?.addEventListener('click', () => {
+      if (!state.items.length) return;
+      state.items = [];
+      save();
+      render();
+      toast('RFQ list cleared');
+    });
+
+    $('#rfq-copy')?.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(buildText());
+        toast('RFQ text copied to clipboard');
+      } catch {
+        toast('Copy failed — use Email or WhatsApp instead');
+      }
+    });
+
+    $('#rfq-mail')?.addEventListener('click', () => {
+      submitWebhook();
+    });
+
+    // 其它标签页同步
+    window.addEventListener('storage', (e) => {
+      if (e.key === KEY) {
+        load();
+        render();
+      }
+    });
+  });
+</script>

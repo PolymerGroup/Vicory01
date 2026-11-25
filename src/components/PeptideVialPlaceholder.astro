@@ -1,0 +1,202 @@
+﻿---
+/**
+ * PeptideVialPlaceholder
+ * ------------------------------------------------------------------
+ * 程序化生成的高质感西林瓶（10 vials/kit）矢量占位图。
+ *  - 产品详情页：完整版（网格背景、渐变玻璃、标签细节）
+ *  - 列表卡片：compact 精简版（约 0.7 KB，避免 119 张卡片把 HTML 撑到 1 MB）
+ * 一旦 public/images/products/{slug}.webp 存在，产品页会自动改用真实图片。
+ */
+interface Props {
+  slug: string;
+  code: string;
+  spec: string;
+  purity?: string | null;
+  category?: string;
+  imageUrl?: string | null;
+  class?: string;
+  vials?: number;
+  compact?: boolean;
+  form?: string;
+}
+
+const {
+  slug,
+  code,
+  spec,
+  purity,
+  category,
+  imageUrl,
+  class: cls = '',
+  vials = 10,
+  compact = false,
+  form = 'lyophilized_powder',
+} = Astro.props;
+
+const accent =
+  category === 'cosmetic_antiaging' || category === 'glp1_metabolic' || category === 'blend'
+    ? { main: '#F97316', soft: '#FFF7ED', deep: '#C2410C' }
+    : category === 'solvent_ancillary'
+      ? { main: '#64748B', soft: '#F1F5F9', deep: '#334155' }
+      : { main: '#0284C7', soft: '#F0F9FF', deep: '#0369A1' };
+
+const codeText = (code || 'PEP').toUpperCase().slice(0, 6);
+const codeSize = codeText.length <= 2 ? 34 : codeText.length <= 4 ? 26 : 20;
+const specText = (spec || '10mg').replace(/\s+/g, '');
+// 溶剂 / 非肽类没有 HPLC 纯度，绝不能默认写 >=99%
+const purityText = purity ? purity.replace('≥', '>=') : '';
+const purityShort = purity ? purity.replace('≥', '>=').replace(/\s*\(HPLC\)/, '') : '';
+const purityLine = purity ? `PURITY ${purityShort}` : 'NOT APPLICABLE';
+const gradeLabel = purity ? purityShort : 'REAGENT GRADE';
+const formLabel =
+  form === 'sterile_solution'
+    ? 'STERILE SOLUTION · 2–8°C'
+    : form === 'mixed'
+      ? 'POWDER / SOLUTION'
+      : 'LYOPHILIZED · -20°C';
+// 标签文字按长度自动缩号，避免溢出白色标签区
+const purityFontSize = purityLine.length > 17 ? 9.5 : 12;
+const formFontSize = formLabel.length > 17 ? 8.8 : 10;
+const formSpacing = formLabel.length > 17 ? 0.3 : 1.2;
+---
+
+{
+  imageUrl ? (
+    <img
+      src={imageUrl}
+      alt={`${codeText} ${specText} peptide vial`}
+      loading="lazy"
+      decoding="async"
+      class:list={['h-full w-full object-cover', cls]}
+    />
+  ) : compact ? (
+    /* ---------- 卡片精简版：约 10 个元素，HTML 体积可控 ---------- */
+    <svg
+      viewBox="0 0 300 330"
+      role="img"
+      aria-label={`${codeText} ${specText} research peptide, ${vials} vials per kit`}
+      class:list={['h-full w-full', cls]}
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <rect width="300" height="330" rx="16" fill={accent.soft} />
+      <rect x="118" y="44" width="64" height="20" rx="6" fill={accent.main} />
+      <rect x="124" y="62" width="52" height="9" rx="3" fill="#94A3B8" />
+      <path d="M130 71h40l8 16h-56z" fill="#E2E8F0" stroke="#CBD5E1" stroke-width="1.5" />
+      <rect x="106" y="87" width="88" height="196" rx="20" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.5" />
+      <rect x="96" y="140" width="108" height="92" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+      <rect x="96" y="140" width="108" height="5" rx="2.5" fill={accent.main} />
+      <text x="150" y="176" text-anchor="middle" font-family="ui-monospace, monospace" font-size={codeText.length > 4 ? 18 : 24} font-weight="800" fill="#0F172A">
+        {codeText}
+      </text>
+      <text x="150" y="200" text-anchor="middle" font-family="ui-monospace, monospace" font-size="13" font-weight="700" fill={accent.deep}>
+        {specText}
+      </text>
+      <text x="150" y="220" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" font-weight="600" fill="#64748B">
+        {gradeLabel}
+      </text>
+      <text x="150" y="306" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9.5" font-weight="600" fill="#94A3B8" letter-spacing="1">
+        {vials} VIALS / KIT
+      </text>
+    </svg>
+  ) : (
+    /* ---------- 详情页完整版 ---------- */
+    <svg
+      viewBox="0 0 420 460"
+      role="img"
+      aria-label={`${codeText} ${specText} research peptide, ${vials} vials per kit, purity ${purity || 'not applicable'}`}
+      class:list={['h-full w-full', cls]}
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <defs>
+        <linearGradient id={`bg-${slug}`} x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#FFFFFF" />
+          <stop offset="55%" stop-color={accent.soft} />
+          <stop offset="100%" stop-color="#F8FAFC" />
+        </linearGradient>
+        <linearGradient id={`glass-${slug}`} x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%" stop-color="#E2E8F0" stop-opacity="0.95" />
+          <stop offset="18%" stop-color="#FFFFFF" stop-opacity="0.98" />
+          <stop offset="55%" stop-color="#F1F5F9" stop-opacity="0.85" />
+          <stop offset="100%" stop-color="#CBD5E1" stop-opacity="0.95" />
+        </linearGradient>
+        <linearGradient id={`cap-${slug}`} x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%" stop-color={accent.deep} />
+          <stop offset="45%" stop-color={accent.main} />
+          <stop offset="100%" stop-color={accent.deep} />
+        </linearGradient>
+        <linearGradient id={`cake-${slug}`} x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#FFFFFF" />
+          <stop offset="100%" stop-color="#E2E8F0" />
+        </linearGradient>
+        <radialGradient id={`glow-${slug}`} cx="50%" cy="42%" r="55%">
+          <stop offset="0%" stop-color={accent.main} stop-opacity="0.22" />
+          <stop offset="100%" stop-color={accent.main} stop-opacity="0" />
+        </radialGradient>
+        <filter id={`shadow-${slug}`} x="-30%" y="-20%" width="160%" height="160%">
+          <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#0F172A" flood-opacity="0.18" />
+        </filter>
+      </defs>
+
+      <rect width="420" height="460" rx="24" fill={`url(#bg-${slug})`} />
+      <g opacity="0.55">
+        {Array.from({ length: 13 }).map((_, i) => (
+          <line x1={i * 34} y1="0" x2={i * 34} y2="460" stroke="#0F172A" stroke-opacity="0.045" stroke-width="1" />
+        ))}
+        {Array.from({ length: 14 }).map((_, i) => (
+          <line x1="0" y1={i * 34} x2="420" y2={i * 34} stroke="#0F172A" stroke-opacity="0.045" stroke-width="1" />
+        ))}
+      </g>
+      <rect width="420" height="460" rx="24" fill={`url(#glow-${slug})`} />
+
+      <g>
+        <rect x="28" y="26" width="104" height="24" rx="12" fill="#0F172A" />
+        <text x="80" y="43" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" fill="#FFFFFF" letter-spacing="1.4">
+          RESEARCH
+        </text>
+        <text x="392" y="43" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600" fill="#64748B">
+          {vials} VIALS / KIT
+        </text>
+      </g>
+
+      <g filter={`url(#shadow-${slug})`}>
+        <rect x="168" y="74" width="84" height="26" rx="8" fill={`url(#cap-${slug})`} />
+        <rect x="176" y="96" width="68" height="12" rx="3" fill="#94A3B8" />
+        <path d="M186 108h44l10 22h-64z" fill={`url(#glass-${slug})`} stroke="#CBD5E1" stroke-width="1.5" />
+        <rect x="150" y="128" width="116" height="252" rx="26" fill={`url(#glass-${slug})`} stroke="#CBD5E1" stroke-width="1.5" />
+        <ellipse cx="208" cy="300" rx="44" ry="12" fill="#E2E8F0" opacity="0.7" />
+        <path d="M164 300c0-14 20-22 44-22s44 8 44 22v34c0 16-20 26-44 26s-44-10-44-26z" fill={`url(#cake-${slug})`} opacity="0.95" />
+        <rect x="162" y="142" width="10" height="220" rx="5" fill="#FFFFFF" opacity="0.75" />
+        <rect x="246" y="150" width="6" height="200" rx="3" fill="#FFFFFF" opacity="0.45" />
+      </g>
+
+      <g>
+        <rect x="128" y="196" width="164" height="132" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+        <rect x="128" y="196" width="164" height="6" rx="3" fill={accent.main} />
+        <text x="210" y="238" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size={codeSize} font-weight="800" fill="#0F172A" letter-spacing="0.5">
+          {codeText}
+        </text>
+        <text x="210" y="266" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" font-weight="700" fill={accent.deep}>
+          {specText}
+        </text>
+        <line x1="146" y1="282" x2="274" y2="282" stroke="#E2E8F0" stroke-width="1.5" />
+        <text x="210" y="302" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size={purityFontSize} font-weight="600" fill="#475569">
+          {purityLine}
+        </text>
+        <text x="210" y="318" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size={formFontSize} font-weight="600" fill="#94A3B8" letter-spacing={formSpacing}>
+          {formLabel}
+        </text>
+      </g>
+
+      <text x="210" y="424" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="600" fill="#64748B" letter-spacing="0.8">
+        D C H E M I · R E S E A R C H   G R A D E
+      </text>
+      <text x="210" y="440" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" fill="#94A3B8">
+        Not for human or veterinary use
+      </text>
+    </svg>
+  )
+}
+
+
+
+

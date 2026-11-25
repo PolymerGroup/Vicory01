@@ -1,0 +1,137 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import RfqCart from '../components/RfqCart.astro';
+import { SITE, abs, jsonLd } from '../lib/site';
+
+interface Props {
+  title: string;
+  description: string;
+  path: string;
+  /** 页面级 JSON-LD（数组会自动拆成多个 <script>） */
+  structuredData?: unknown[];
+  image?: string;
+  noindex?: boolean;
+}
+
+const {
+  title,
+  description,
+  path,
+  structuredData = [],
+  image = SITE.logo,
+  noindex = false,
+} = Astro.props;
+
+const canonical = abs(path);
+const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
+const ogImage = image.startsWith('http') ? image : abs(image);
+
+// 全站 Organization（每个页面都注入，绑定主域名与主体信息）
+const organization = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  '@id': `${SITE.url}/#organization`,
+  name: SITE.legalName,
+  alternateName: [SITE.name, SITE.legalNameZh],
+  url: SITE.url,
+  logo: {
+    '@type': 'ImageObject',
+    url: abs(SITE.logo),
+    width: SITE.logoWidth,
+    height: SITE.logoHeight,
+  },
+  email: SITE.email,
+  telephone: SITE.phone,
+  contactPoint: [
+    {
+      '@type': 'ContactPoint',
+      contactType: 'sales',
+      email: SITE.email,
+      telephone: SITE.phone,
+      availableLanguage: ['en', 'zh'],
+      areaServed: ['US', 'CA', 'GB', 'DE', 'FR', 'ES', 'IT', 'NL', 'PL', 'TR', 'JP', 'KR', 'BR', 'AU'],
+    },
+  ],
+  address: {
+    '@type': 'PostalAddress',
+    addressCountry: SITE.addressCountry,
+    addressRegion: SITE.addressRegion,
+    addressLocality: SITE.addressLocality,
+  },
+  sameAs: [SITE.whatsapp],
+  description:
+    'B2B supplier of research-grade peptides, peptide blends and ancillary reagents supplied as 10-vial kits for laboratory and analytical use only.',
+};
+
+const website = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  '@id': `${SITE.url}/#website`,
+  url: SITE.url,
+  name: SITE.name,
+  publisher: { '@id': `${SITE.url}/#organization` },
+  inLanguage: 'en',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: { '@type': 'EntryPoint', urlTemplate: `${SITE.url}/products?q={search_term_string}` },
+    'query-input': 'required name=search_term_string',
+  },
+};
+
+const allJsonLd = [organization, website, ...structuredData];
+---
+
+<!doctype html>
+<html lang="en" class="scroll-pt-24">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large'} />
+    <meta name="theme-color" content="#F97316" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <!-- Open Graph / Twitter -->
+    <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:locale" content="en_US" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/images/logo.png" />
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLM index" />
+
+    {allJsonLd.map((item) => (
+      <script type="application/ld+json" set:html={jsonLd(item)} />
+    ))}
+  </head>
+  <body class="min-h-screen bg-lab">
+    <a
+      href="#main"
+      class="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-[100] focus:rounded-lg focus:bg-slateink focus:px-4 focus:py-2 focus:text-white"
+    >
+      Skip to content
+    </a>
+
+    <Header />
+
+    <main id="main">
+      <slot />
+    </main>
+
+    <Footer />
+    <RfqCart />
+  </body>
+</html>

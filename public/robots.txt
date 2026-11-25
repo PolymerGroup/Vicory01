@@ -1,0 +1,16 @@
+# Dchemi — research peptides, B2B RFQ only.
+# Canonical host: https://dchemi.com
+User-agent: *
+Allow: /
+
+# Machine-readable index for LLM crawlers
+# https://dchemi.com/llms.txt
+# https://dchemi.com/llms-full.txt
+
+# No private areas on this site. Keep parameterised filter URLs out of the index
+# so that ?category= / ?q= variants do not compete with /products.
+Disallow: /products?
+Disallow: /*?q=
+Disallow: /*?category=
+
+Sitemap: https://dchemi.com/sitemap.xml

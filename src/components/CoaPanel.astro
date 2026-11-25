@@ -1,0 +1,171 @@
+---
+/**
+ * CoaPanel —— 结构化 Certificate of Analysis 预览（Specimen）。
+ * 当前为“AI 模拟结构化展示”：只展示规格限值 + 示例批号格式 + 模拟色谱峰图，
+ * 明确标注 specimen，不伪造实测数值；填入 coaPdfUrl 后按钮自动切换为下载正式 PDF。
+ */
+import type { Peptide } from '../types/peptide';
+import { SITE } from '../lib/site';
+
+interface Props {
+  product: Peptide;
+  compact?: boolean;
+}
+
+const { product: p, compact = false } = Astro.props;
+
+// 用 slug 生成稳定伪随机种子 —— 同一产品每次构建的峰图一致
+function hash(str: string): number {
+  let h = 2166136261;
+  for (let i = 0; i < str.length; i++) {
+    h ^= str.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  return Math.abs(h);
+}
+
+const seed = hash(p.slug);
+const rnd = (i: number) => {
+  const x = Math.sin(seed * 0.0001 + i * 12.9898) * 43758.5453;
+  return x - Math.floor(x);
+};
+
+// 主峰 + 2~4 个杂质峰
+const W = 560;
+const H = 150;
+const baseline = H - 18;
+const mainX = 300 + Math.round(rnd(1) * 40) - 20;
+const mainH = 108 + Math.round(rnd(2) * 10);
+const peaks = [
+  { x: 70 + rnd(3) * 30, h: 8 + rnd(4) * 10, w: 8 },
+  { x: 150 + rnd(5) * 40, h: 6 + rnd(6) * 8, w: 7 },
+  { x: mainX, h: mainH, w: 14 },
+  { x: mainX + 34 + rnd(7) * 20, h: 12 + rnd(8) * 14, w: 9 },
+  { x: 470 + rnd(9) * 40, h: 5 + rnd(10) * 7, w: 8 },
+];
+
+function gauss(x: number, cx: number, h: number, w: number) {
+  return h * Math.exp(-Math.pow(x - cx, 2) / (2 * w * w));
+}
+
+const path = (() => {
+  const pts: string[] = [];
+  for (let x = 0; x <= W; x += 2) {
+    let y = 0;
+    for (const pk of peaks) y = Math.max(y, gauss(x, pk.x, pk.h, pk.w));
+    const noise = (rnd(Math.floor(x / 7)) - 0.5) * 2.2;
+    pts.push(`${x},${(baseline - y + noise).toFixed(1)}`);
+  }
+  return `M0,${baseline} L${pts.join(' L')} L${W},${baseline}`;
+})();
+
+const retention = (16.4 + rnd(11) * 0.9).toFixed(2);
+const theoretical = (11.4 + rnd(12) * 0.6).toFixed(2);
+
+const rows = [
+  { k: 'Batch / lot (format)', v: p.coa.lotFormat, mono: true },
+  { k: 'Analytical method', v: p.coa.method, mono: false },
+  { k: 'Appearance', v: p.coa.appearance, mono: false },
+  { k: 'Purity (specification)', v: p.coa.puritySpec, mono: true },
+  { k: 'Water content (spec)', v: p.coa.moistureSpec, mono: true },
+  { k: 'Endotoxin (spec)', v: p.coa.endotoxinSpec, mono: true },
+  { k: 'Storage', v: p.coa.storage, mono: false },
+  { k: 'Retention time (illustrative)', v: `${retention} min · theoretical ${theoretical} min`, mono: true },
+];
+
+const mailSubject = `COA request — ${p.name} [${p.shortCode}]`;
+const mailBody = `Hello Dchemi sales,%0D%0A%0D%0APlease send the batch-specific COA (PDF) for:%0D%0AProduct: ${encodeURIComponent(
+  p.name
+)}%0D%0AShort code: ${p.shortCode}%0D%0ALot: ${p.coa.lotExample}%0D%0A%0D%0AThank you.`;
+const mailHref = `mailto:${SITE.email}?subject=${encodeURIComponent(mailSubject)}&body=${mailBody}`;
+const waHref = `${SITE.whatsapp}?text=${encodeURIComponent(
+  `Hello Dchemi, please send the batch COA (PDF) for ${p.name} [${p.shortCode}].`
+)}`;
+---
+
+<section
+  class:list={['card overflow-hidden', compact ? '' : '']}
+  aria-labelledby={`coa-${p.slug}`}
+>
+  <header class="flex flex-wrap items-start justify-between gap-3 border-b border-slate-200 bg-slate-50/70 px-5 py-4">
+    <div>
+      <p class="label">Quality control</p>
+      <h2 id={`coa-${p.slug}`} class="mt-1 text-base font-bold text-slateink">
+        Certificate of Analysis — {p.shortCode}
+      </h2>
+      <p class="mt-1 text-xs text-slate-500">
+        Illustrative specimen format. Official lot-specific PDF issued per batch.
+      </p>
+    </div>
+    <span class="inline-flex items-center gap-1.5 rounded-full border border-ocean-200 bg-white px-2.5 py-1 text-[10px] font-bold uppercase tracking-wider text-ocean-700">
+      <span class="h-1.5 w-1.5 rounded-full bg-ocean-500"></span> RP-HPLC · ESI-MS
+    </span>
+  </header>
+
+  <div class="grid gap-6 p-5 lg:grid-cols-[1.1fr_1fr]">
+    <!-- 参数表 -->
+    <dl class="divide-y divide-slate-100">
+      {
+        rows.map((r) => (
+          <div class="flex items-start justify-between gap-4 py-2">
+            <dt class="text-xs font-medium text-slate-500">{r.k}</dt>
+            <dd class:list={['text-right text-xs font-semibold text-slate-800', r.mono && 'font-mono']}>
+              {r.v}
+            </dd>
+          </div>
+        ))
+      }
+    </dl>
+
+    <!-- 模拟色谱图 -->
+    <div class="rounded-xl border border-slate-200 bg-white p-3">
+      <div class="mb-2 flex items-center justify-between">
+        <p class="text-[10px] font-bold uppercase tracking-wider text-slate-500">
+          RP-HPLC chromatogram (specimen)
+        </p>
+        <p class="font-mono text-[10px] text-slate-400">A280 nm</p>
+      </div>
+      <svg viewBox="0 0 560 150" class="w-full" role="img" aria-label="Illustrative RP-HPLC chromatogram">
+        <defs>
+          <linearGradient id={`fill-${p.slug}`} x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#0284C7" stop-opacity="0.28" />
+            <stop offset="100%" stop-color="#0284C7" stop-opacity="0.02" />
+          </linearGradient>
+        </defs>
+        {[0, 1, 2, 3].map((i) => (
+          <line x1="0" y1={baseline - i * 30} x2={W} y2={baseline - i * 30} stroke="#E2E8F0" stroke-width="1" stroke-dasharray="3 5" />
+        ))}
+        <path d={`${path} L${W},${baseline} Z`} fill={`url(#fill-${p.slug})`} stroke="#0284C7" stroke-width="1.6" />
+        <line x1={mainX} y1={baseline - mainH - 6} x2={mainX} y2={baseline} stroke="#F97316" stroke-width="1.4" stroke-dasharray="4 3" />
+        <circle cx={mainX} cy={baseline - mainH} r="3" fill="#F97316" />
+        <text x={mainX + 8} y={baseline - mainH + 4} font-size="10" font-family="ui-monospace, monospace" fill="#C2410C" font-weight="700">
+          {retention} min
+        </text>
+        <line x1="0" y1={baseline} x2={W} y2={baseline} stroke="#94A3B8" stroke-width="1" />
+        <text x="6" y={H - 4} font-size="9" font-family="ui-monospace, monospace" fill="#94A3B8">0</text>
+        <text x={W - 6} y={H - 4} text-anchor="end" font-size="9" font-family="ui-monospace, monospace" fill="#94A3B8">
+          30 min
+        </text>
+      </svg>
+      <p class="mt-1 text-[10px] leading-4 text-slate-400">
+        Peak area ≥ 99.0 % of total integrated area. Specimen graphic — not a measurement record.
+      </p>
+    </div>
+  </div>
+
+  <footer class="flex flex-col gap-3 border-t border-slate-200 bg-slate-50/60 px-5 py-4 sm:flex-row sm:items-center sm:justify-between">
+    <p class="max-w-md text-[11px] leading-4 text-slate-500">{p.coa.disclaimer}</p>
+    {
+      p.coaPdfUrl ? (
+        <a href={p.coaPdfUrl} class="btn-primary btn-sm" download>
+          Download Official COA PDF
+        </a>
+      ) : (
+        <div class="flex flex-wrap gap-2">
+          <a href={mailHref} class="btn-primary btn-sm">Request official batch PDF COA</a>
+          <a href={waHref} target="_blank" rel="noopener" class="btn-secondary btn-sm">WhatsApp</a>
+        </div>
+      )
+    }
+  </footer>
+</section>

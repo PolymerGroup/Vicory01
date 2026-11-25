@@ -1,0 +1,104 @@
+---
+import { SITE } from '../lib/site';
+
+const year = new Date().getFullYear();
+const cols = [
+  {
+    title: 'Catalogue',
+    links: [
+      { href: '/products', label: 'All 119 products' },
+      { href: '/products?category=glp1_metabolic', label: 'Metabolic peptides' },
+      { href: '/products?category=repair_recovery', label: 'Repair peptides' },
+      { href: '/products?category=cosmetic_antiaging', label: 'Cosmetic peptides' },
+      { href: '/products?category=blend', label: 'Blends' },
+      { href: '/products?category=solvent_ancillary', label: 'Ancillary reagents' },
+    ],
+  },
+  {
+    title: 'Quality',
+    links: [
+      { href: '/quality-coa', label: 'Quality & COA centre' },
+      { href: '/quality-coa#batch-lookup', label: 'Batch lookup' },
+      { href: '/quality-coa#coa-request', label: 'Request a COA' },
+      { href: '/llms-full.txt', label: 'Full data (llms-full.txt)' },
+      { href: '/llms.txt', label: 'Machine index (llms.txt)' },
+    ],
+  },
+  {
+    title: 'Company',
+    links: [
+      { href: '/about-compliance', label: 'About Vicory Biotech' },
+      { href: '/about-compliance#supply-chain', label: 'Supply chain standard' },
+      { href: '/about-compliance#compliance', label: 'US compliance statement' },
+      { href: '/rfq', label: 'Request a quote' },
+    ],
+  },
+];
+---
+
+<footer class="mt-24 border-t border-slate-200 bg-white">
+  <!-- 合规红线条：全站页脚固定展示 -->
+  <div class="border-b border-brand-100 bg-brand-50">
+    <div class="container-x flex flex-col items-start gap-2 py-3 sm:flex-row sm:items-center sm:justify-between">
+      <p class="flex items-start gap-2 text-[12.5px] font-semibold leading-5 text-brand-900">
+        <svg class="mt-0.5 h-4 w-4 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path d="M12 9v4m0 4h.01M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+        <span>{SITE.ruo}</span>
+      </p>
+      <p class="text-[12px] text-brand-800/80 sm:text-right">B2B only · No online payment · RFQ required</p>
+    </div>
+  </div>
+
+  <div class="container-x grid gap-10 py-14 md:grid-cols-2 lg:grid-cols-5">
+    <div class="lg:col-span-2">
+      <div class="flex items-center gap-2.5">
+        <img src={SITE.logo} alt={`${SITE.name} logo`} width="40" height="40" class="h-10 w-10 rounded-lg object-contain ring-1 ring-slate-200" loading="lazy" />
+        <div>
+          <p class="text-base font-extrabold tracking-tight text-slateink">dchemi<span class="text-brand-500">.</span></p>
+          <p class="text-[11px] font-semibold uppercase tracking-[0.16em] text-slate-500">{SITE.legalName}</p>
+        </div>
+      </div>
+      <p class="mt-5 max-w-md text-sm leading-6 text-slate-600">
+        Research-grade peptides, peptide blends and ancillary reagents, supplied to laboratories,
+        clinics and distributors as 10-vial kits with lot-specific certificates of analysis.
+      </p>
+      <div class="mt-5 space-y-2 text-sm">
+        <a href={`mailto:${SITE.email}`} class="flex items-center gap-2 text-slate-700 hover:text-ocean-700">
+          <span class="label w-16 shrink-0">Email</span>{SITE.email}
+        </a>
+        <a href={SITE.phoneHref} class="flex items-center gap-2 text-slate-700 hover:text-ocean-700">
+          <span class="label w-16 shrink-0">Phone</span>{SITE.phone}
+        </a>
+        <a href={SITE.whatsapp} target="_blank" rel="noopener" class="flex items-center gap-2 text-slate-700 hover:text-ocean-700">
+          <span class="label w-16 shrink-0">WhatsApp</span>Chat with sales
+        </a>
+      </div>
+    </div>
+
+    {cols.map((col) => (
+      <nav aria-label={col.title}>
+        <p class="label">{col.title}</p>
+        <ul class="mt-4 space-y-2.5">
+          {col.links.map((l) => (
+            <li>
+              <a href={l.href} class="text-sm text-slate-600 transition-colors hover:text-ocean-700">{l.label}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    ))}
+  </div>
+
+  <div class="border-t border-slate-200">
+    <div class="container-x flex flex-col gap-3 py-6 text-[12.5px] text-slate-500 md:flex-row md:items-center md:justify-between">
+      <p>
+        © {year} {SITE.legalName} · <span lang="zh-CN">{SITE.legalNameZh}</span>
+      </p>
+      <p class="max-w-2xl md:text-right">
+        Products are sold for laboratory, analytical and research purposes only. Not for human or
+        veterinary use. No statement on this site has been evaluated by the FDA.
+      </p>
+    </div>
+  </div>
+</footer>

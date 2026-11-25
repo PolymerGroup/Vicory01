@@ -1,0 +1,38 @@
+---
+import { SITE } from '../lib/site';
+
+interface Props {
+  variant?: 'bar' | 'card' | 'inline';
+  class?: string;
+}
+
+const { variant = 'bar', class: cls = '' } = Astro.props;
+---
+
+{
+  variant === 'card' ? (
+    <div class:list={['rounded-2xl border border-brand-200 bg-brand-50 p-5', cls]}>
+      <div class="flex items-start gap-3">
+        <svg class="mt-0.5 h-5 w-5 shrink-0 text-brand-600" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path d="M12 9v4m0 4h.01M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+        <div>
+          <p class="text-sm font-bold text-brand-900">{SITE.ruo}</p>
+          <p class="mt-1 text-xs leading-5 text-brand-800/85">
+            Products are supplied to laboratories, clinics and distributors for research, analytical
+            and laboratory purposes. No diagnostic, therapeutic or dosing information is provided.
+          </p>
+        </div>
+      </div>
+    </div>
+  ) : variant === 'inline' ? (
+    <p class:list={['text-[11px] font-semibold leading-4 text-brand-800', cls]}>{SITE.ruo}</p>
+  ) : (
+    <div class:list={['border-y border-brand-200 bg-brand-50', cls]}>
+      <div class="container-x flex flex-col items-start gap-1 py-2.5 sm:flex-row sm:items-center sm:justify-between">
+        <p class="text-[12px] font-bold text-brand-900">{SITE.ruo}</p>
+        <p class="text-[11px] text-brand-800/80">B2B RFQ only · No online payment</p>
+      </div>
+    </div>
+  )
+}

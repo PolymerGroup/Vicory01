@@ -1,0 +1,57 @@
+# ============================================================================
+# Cloudflare Pages headers — dchemi.com
+# Docs: https://developers.cloudflare.com/pages/configuration/headers/
+#
+# Canonical host policy
+# ---------------------
+# Only https://dchemi.com is indexed. Use a Cloudflare Redirect Rule (or Bulk
+# Redirect) to 301 www.dchemi.com -> dchemi.com and any preview domain
+# (*.pages.dev) -> dchemi.com, so mirrors never compete in search.
+#   Rule:  host eq "www.dchemi.com"  =>  301  concat("https://dchemi.com", http.request.uri.path)
+# ============================================================================
+
+/*
+  # Security
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=(), payment=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Cross-Origin-Opener-Policy: same-origin
+  Content-Security-Policy: default-src 'self'; img-src 'self' data: blob:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; font-src 'self' data:; connect-src 'self'; frame-ancestors 'self'; base-uri 'self'; form-action 'self' mailto:
+  # Do not let the browser guess MIME types for downloads (COA PDFs, MSDS)
+  X-Robots-Tag: index, follow
+
+# ---------- Long-lived immutable assets ----------
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/images/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400
+
+# ---------- Machine-readable GEO files ----------
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/llms-full.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/robots.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/sitemap.xml
+  Content-Type: application/xml; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+# ---------- HTML ----------
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+# ---------- COA PDFs (when uploaded) ----------
+/coa/*
+  Content-Type: application/pdf
+  Cache-Control: public, max-age=86400
+  Content-Disposition: inline

@@ -1,0 +1,79 @@
+---
+import type { Peptide } from '../types/peptide';
+import { money } from '../lib/site';
+
+interface Props {
+  current: Peptide;
+  related: Peptide[];
+}
+
+const { current, related } = Astro.props;
+---
+
+<section aria-labelledby="compare-heading" class="mt-16">
+  <div class="flex flex-wrap items-end justify-between gap-3">
+    <div>
+      <h2 id="compare-heading" class="text-xl font-bold text-slateink">
+        Related peptides & parameter comparison
+      </h2>
+      <p class="mt-1 text-sm text-slate-500">
+        Same category or commonly co-ordered items. All prices in USD per kit of 10 vials.
+      </p>
+    </div>
+    <a href={`/products?category=${current.category}`} class="text-sm font-semibold text-ocean-700 hover:text-ocean-800">
+      Browse all {current.categoryLabel.split(' ')[0]} →
+    </a>
+  </div>
+
+  <div class="mt-5 overflow-x-auto rounded-2xl border border-slate-200 bg-white">
+    <table class="table-lab min-w-[860px]">
+      <caption class="sr-only">Parameter comparison for related research peptides</caption>
+      <thead>
+        <tr>
+          <th scope="col">Product</th>
+          <th scope="col">Code</th>
+          <th scope="col">Class</th>
+          <th scope="col">CAS</th>
+          <th scope="col">Purity</th>
+          <th scope="col">Pack sizes</th>
+          <th scope="col" class="text-right">From / kit</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="bg-brand-50/40">
+          <td class="font-semibold text-slateink">
+            {current.name}
+            <span class="ml-2 rounded bg-brand-500 px-1.5 py-0.5 text-[10px] font-bold uppercase text-white">this item</span>
+          </td>
+          <td class="font-mono text-xs">{current.shortCode}</td>
+          <td class="text-xs">{current.moleculeClass.replace(/_/g, ' ')}</td>
+          <td class="font-mono text-xs">{current.cas || 'COA'}</td>
+          <td class="text-xs">{current.purity || 'n/a'}</td>
+          <td class="text-xs">{current.specs.map((s) => s.label).join(', ')}</td>
+          <td class="text-right font-mono text-xs font-bold">{money(current.priceFrom)}</td>
+        </tr>
+        {
+          related.map((r) => (
+            <tr>
+              <td>
+                <a href={`/peptides/${r.slug}`} class="font-medium text-ocean-700 hover:underline">
+                  {r.name}
+                </a>
+              </td>
+              <td class="font-mono text-xs">{r.shortCode}</td>
+              <td class="text-xs">{r.moleculeClass.replace(/_/g, ' ')}</td>
+              <td class="font-mono text-xs">{r.cas || 'COA'}</td>
+              <td class="text-xs">{r.purity || 'n/a'}</td>
+              <td class="text-xs">{r.specs.map((s) => s.label).join(', ')}</td>
+              <td class="text-right font-mono text-xs font-bold">{money(r.priceFrom)}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+  <p class="mt-3 text-[11px] leading-5 text-slate-400">
+    CAS numbers and sequences are published in the batch-specific certificate of analysis where not
+    listed. Comparison is provided for procurement planning only.
+  </p>
+</section>

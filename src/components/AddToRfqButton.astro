@@ -1,0 +1,68 @@
+---
+/**
+ * AddToRfqButton —— 把某个 SKU 加入全局 RFQ 抽屉。
+ * 事件委托只绑定一次，因此可以安全地在列表里渲染上千个按钮。
+ */
+import type { Spec } from '../types/peptide';
+
+interface Props {
+  slug: string;
+  name: string;
+  shortCode: string;
+  spec: Spec;
+  variant?: 'primary' | 'secondary' | 'icon';
+  class?: string;
+  label?: string;
+}
+
+const { slug, name, shortCode, spec, variant = 'primary', class: cls = '', label } = Astro.props;
+
+const payload = JSON.stringify({
+  slug,
+  name,
+  shortCode,
+  spec: spec.spec,
+  label: spec.label,
+  vials: spec.vials,
+  price: spec.perKit ?? spec.tierFrom ?? 0,
+  tiers: spec.tiers,
+});
+
+const btnClass =
+  variant === 'primary'
+    ? 'btn-primary btn-sm'
+    : variant === 'secondary'
+      ? 'btn-secondary btn-sm'
+      : 'btn-ghost btn-sm';
+---
+
+<button
+  type="button"
+  class:list={['js-add-rfq', btnClass, cls]}
+  data-item={payload}
+  aria-label={`Add ${name} ${spec.label} ${spec.vials} vials per kit to RFQ list`}
+>
+  <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+    <path d="M12 5v14M5 12h14" stroke-linecap="round" />
+  </svg>
+  {label || 'Add to RFQ'}
+</button>
+
+<script>
+  // 全局委托：所有 .js-add-rfq 按钮共用一套逻辑
+  if (!(window as any).__dchemiRfqBound) {
+    (window as any).__dchemiRfqBound = true;
+    document.addEventListener('click', (event) => {
+      const btn = (event.target as HTMLElement)?.closest?.('.js-add-rfq') as HTMLButtonElement | null;
+      if (!btn) return;
+      const raw = btn.dataset.item;
+      if (!raw) return;
+      try {
+        const payload = JSON.parse(raw);
+        (window as any).DchemiRFQ?.add(payload);
+      } catch (err) {
+        console.error('[rfq] invalid payload', err);
+      }
+    });
+  }
+</script>

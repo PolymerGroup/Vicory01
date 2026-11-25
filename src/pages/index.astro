@@ -1,0 +1,355 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ProductCard from '../components/ProductCard.astro';
+import PeptideVialPlaceholder from '../components/PeptideVialPlaceholder.astro';
+import ComplianceNotice from '../components/ComplianceNotice.astro';
+import FaqAccordion from '../components/FaqAccordion.astro';
+import { SITE, money } from '../lib/site';
+import data from '../data/peptides.json';
+import type { Peptide } from '../types/peptide';
+
+const products = data.products as unknown as Peptide[];
+const categories = data.categories;
+
+const featuredSlugs = [
+  'retatrutide',
+  'tirzepatide',
+  'semaglutide',
+  'bpc-157',
+  'tb-500-thymosin-beta-4-fragment',
+  'ghk-cu',
+  'nad-plus',
+  'mots-c',
+];
+const featured = featuredSlugs
+  .map((s) => products.find((p) => p.slug === s))
+  .filter(Boolean)
+  .slice(0, 8) as Peptide[];
+
+const totalSkus = products.reduce((n, p) => n + p.specs.length, 0);
+
+const homeFaqs = [
+  {
+    q: 'Do you sell to individual consumers?',
+    a: 'No. Dchemi supplies laboratories, clinics, research institutions and distributors on a B2B basis. Every order starts as an RFQ and is confirmed by our sales team before shipment.',
+  },
+  {
+    q: 'How are products shipped and stored?',
+    a: 'Lyophilized peptides are shipped at ambient temperature in sealed kits and should be stored at -20 °C on arrival, protected from light and moisture. Liquid ancillary reagents ship with cold packs and are stored at 2–8 °C.',
+  },
+  {
+    q: 'What documentation is included with each batch?',
+    a: 'Each batch is released against a lot-specific certificate of analysis reporting RP-HPLC purity, ESI-MS identity, appearance and water content. Batch COA PDFs are available by email or WhatsApp on request.',
+  },
+  {
+    q: 'What is the minimum order quantity?',
+    a: 'One kit (10 vials) per pack size. Volume pricing starts at 10 kits and improves at 50+ kits per line item. Mixed pallets across products are welcome for established accounts.',
+  },
+  {
+    q: 'Can you support private label and custom blends?',
+    a: 'Yes. We support OEM labelling and fixed-composition blends from 50 kits per SKU, subject to documentation review and a signed supply agreement.',
+  },
+];
+
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: homeFaqs.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+
+const heroStats = [
+  { value: String(data.productCount), label: 'Research products' },
+  { value: `${totalSkus}`, label: 'Pack-size SKUs' },
+  { value: '≥99%', label: 'RP-HPLC purity' },
+  { value: '10', label: 'Vials per kit' },
+];
+---
+
+<Layout
+  title="Research Peptides Supplier | 10-Vial Kits, COA Per Batch"
+  description="Dchemi supplies 119 research-grade peptides, blends and ancillary reagents as 10-vial kits to laboratories, clinics and distributors. RP-HPLC ≥99%, lot-specific COA, USD tiered wholesale pricing, B2B RFQ only."
+  path="/"
+  structuredData={[faqLd]}
+>
+  <!-- ============================ HERO ============================ -->
+  <section class="relative overflow-hidden bg-hero">
+    <div class="absolute inset-0 bg-grid-lab bg-grid opacity-[0.35]" aria-hidden="true"></div>
+    <div class="container-x relative grid gap-12 py-16 lg:grid-cols-[1.05fr_0.95fr] lg:items-center lg:py-24">
+      <div class="animate-fade-up">
+        <div class="flex flex-wrap items-center gap-2">
+          <span class="chip border-ocean-200 bg-white text-ocean-800">
+            <span class="h-1.5 w-1.5 rounded-full bg-ocean-500"></span>
+            {SITE.legalName}
+          </span>
+          <span class="chip">Est. {SITE.established} · Shandong, China</span>
+        </div>
+
+        <h1 class="mt-6 text-4xl font-extrabold leading-[1.05] text-slateink sm:text-5xl lg:text-[3.4rem]">
+          Research peptides,
+          <span class="bg-gradient-to-r from-brand-500 to-ocean-600 bg-clip-text text-transparent">
+            supplied by the kit.
+          </span>
+        </h1>
+
+        <p class="mt-5 max-w-xl text-[15px] leading-7 text-slate-600">
+          {data.productCount} peptides, blends and ancillary reagents in 10-vial kits, each released
+          against a lot-specific certificate of analysis. USD tiered pricing, cold-chain ready
+          packaging and documentation built for laboratories, clinics and distributors.
+        </p>
+
+        <div class="mt-7 flex flex-wrap gap-3">
+          <a href="/products" class="btn-primary">
+            Browse all {data.productCount} products
+            <svg class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path d="M10.3 3.3a1 1 0 0 1 1.4 0l6 6a1 1 0 0 1 0 1.4l-6 6a1 1 0 0 1-1.4-1.4l4.3-4.3H3a1 1 0 1 1 0-2h11.6l-4.3-4.3a1 1 0 0 1 0-1.4z" />
+            </svg>
+          </a>
+          <a href="/rfq" class="btn-secondary">Request a quote</a>
+        </div>
+
+        <dl class="mt-10 grid max-w-lg grid-cols-2 gap-4 sm:grid-cols-4">
+          {
+            heroStats.map((s) => (
+              <div>
+                <dt class="label">{s.label}</dt>
+                <dd class="mt-1 font-mono text-2xl font-extrabold text-slateink">{s.value}</dd>
+              </div>
+            ))
+          }
+        </dl>
+      </div>
+
+      <!-- 三瓶陈列 -->
+      <div class="relative mx-auto grid w-full max-w-lg grid-cols-3 items-end gap-3">
+        <div class="translate-y-6 rounded-2xl border border-slate-200 bg-white/70 p-2 shadow-card backdrop-blur">
+          <PeptideVialPlaceholder slug="hero-bpc" code="BC" spec="10mg" purity="≥99%" category="repair_recovery" />
+        </div>
+        <div class="rounded-2xl border border-slate-200 bg-white p-2 shadow-lift">
+          <PeptideVialPlaceholder slug="hero-rt" code="RT" spec="20mg" purity="≥99%" category="glp1_metabolic" />
+        </div>
+        <div class="translate-y-10 rounded-2xl border border-slate-200 bg-white/70 p-2 shadow-card backdrop-blur">
+          <PeptideVialPlaceholder slug="hero-cu" code="CU" spec="50mg" purity="≥99%" category="cosmetic_antiaging" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <ComplianceNotice variant="bar" />
+
+  <!-- ============================ CATEGORIES ============================ -->
+  <section class="container-x py-16" aria-labelledby="cat-heading">
+    <div class="flex flex-wrap items-end justify-between gap-4">
+      <div>
+        <p class="label">Catalogue structure</p>
+        <h2 id="cat-heading" class="mt-2 text-2xl font-bold text-slateink sm:text-3xl">
+          Seven research categories, one supplier
+        </h2>
+        <p class="mt-2 max-w-2xl text-sm leading-6 text-slate-600">
+          Every SKU is classified by research area so procurement teams can filter fast and keep
+          documentation consistent across a project.
+        </p>
+      </div>
+      <a href="/products" class="btn-secondary btn-sm">Open full catalogue</a>
+    </div>
+
+    <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {
+        categories.map((c) => (
+          <a
+            href={`/products?category=${c.key}`}
+            class="card group flex flex-col justify-between p-5 transition-all hover:-translate-y-0.5 hover:shadow-lift"
+          >
+            <div>
+              <div class="flex items-center justify-between">
+                <span class="label">{c.short}</span>
+                <span class="rounded-full bg-slate-100 px-2 py-0.5 font-mono text-[11px] font-bold text-slate-600">
+                  {c.count}
+                </span>
+              </div>
+              <h3 class="mt-2 text-[15px] font-bold leading-snug text-slateink group-hover:text-ocean-700">
+                {c.label}
+              </h3>
+              <p class="mt-2 text-xs leading-5 text-slate-500">{c.blurb}</p>
+            </div>
+            <span class="mt-4 inline-flex items-center gap-1 text-xs font-semibold text-brand-600">
+              View category
+              <svg class="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                <path d="M10.3 3.3a1 1 0 0 1 1.4 0l6 6a1 1 0 0 1 0 1.4l-6 6a1 1 0 0 1-1.4-1.4l4.3-4.3H3a1 1 0 1 1 0-2h11.6l-4.3-4.3a1 1 0 0 1 0-1.4z" />
+              </svg>
+            </span>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+
+  <!-- ============================ FEATURED ============================ -->
+  <section class="border-y border-slate-200 bg-white py-16" aria-labelledby="featured-heading">
+    <div class="container-x">
+      <div class="flex flex-wrap items-end justify-between gap-4">
+        <div>
+          <p class="label">Fast-moving SKUs</p>
+          <h2 id="featured-heading" class="mt-2 text-2xl font-bold text-slateink sm:text-3xl">
+            Most requested this quarter
+          </h2>
+          <p class="mt-2 max-w-2xl text-sm text-slate-600">
+            Indicative USD prices per kit of 10 vials. Volume tiers apply automatically from 10 kits.
+          </p>
+        </div>
+        <a href="/products" class="btn-secondary btn-sm">See all products</a>
+      </div>
+
+      <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {featured.map((p) => <ProductCard product={p} />)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================ QUALITY ============================ -->
+  <section class="container-x py-16" aria-labelledby="quality-heading">
+    <div class="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-start">
+      <div>
+        <p class="label">Quality system</p>
+        <h2 id="quality-heading" class="mt-2 text-2xl font-bold text-slateink sm:text-3xl">
+          Batch documentation you can file
+        </h2>
+        <p class="mt-3 text-sm leading-6 text-slate-600">
+          Every lot is released against a certificate of analysis with RP-HPLC purity, ESI-MS
+          identity, appearance and water content. Chromatograms and raw data are retained for
+          twelve months and can be attached to your institutional records.
+        </p>
+
+        <ul class="mt-6 space-y-3">
+          {
+            [
+              ['RP-HPLC purity', '≥99.0% by area normalisation at 214/280 nm'],
+              ['Identity', 'ESI-MS mass confirmation against theoretical mass'],
+              ['Water content', 'Karl Fischer titration, ≤5.0% for lyophilized powder'],
+              ['Endotoxin', 'LAL testing where applicable, ≤5 EU/mg'],
+              ['Traceability', 'Batch code format VC-2026-[CODE]-01 on every kit'],
+            ].map(([k, v]) => (
+              <li class="flex gap-3">
+                <span class="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-ocean-100 text-ocean-700">
+                  <svg class="h-3 w-3" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path d="M16.7 5.3a1 1 0 0 1 0 1.4l-7.5 7.5a1 1 0 0 1-1.4 0L4.3 11a1 1 0 0 1 1.4-1.4l2.8 2.8 6.8-6.8a1 1 0 0 1 1.4 0z" />
+                  </svg>
+                </span>
+                <p class="text-sm leading-6 text-slate-700">
+                  <span class="font-semibold text-slateink">{k}.</span> {v}
+                </p>
+              </li>
+            ))
+          }
+        </ul>
+
+        <div class="mt-7 flex flex-wrap gap-3">
+          <a href="/quality-coa" class="btn-primary btn-sm">Quality & COA centre</a>
+          <a href="/about-compliance" class="btn-secondary btn-sm">Compliance statement</a>
+        </div>
+      </div>
+
+      <div class="grid gap-4 sm:grid-cols-2">
+        {
+          [
+            { t: 'Cold-chain ready', d: 'Insulated kits with phase-change packs for 2–8 °C ancillary reagents; ambient-safe lyophilized vials.', i: '❄' },
+            { t: 'Batch-level COA', d: 'One certificate per lot, not per product family. Lot number printed on every label.', i: '📄' },
+            { t: 'Export documentation', d: 'Commercial invoice, packing list, COA and MSDS supplied with every shipment.', i: '🧾' },
+            { t: 'OEM & private label', d: 'Custom vial labels and fixed-composition blends from 50 kits per SKU.', i: '🏷' },
+          ].map((c) => (
+            <div class="card p-5">
+              <span class="text-xl" aria-hidden="true">{c.i}</span>
+              <h3 class="mt-2 text-sm font-bold text-slateink">{c.t}</h3>
+              <p class="mt-1 text-xs leading-5 text-slate-500">{c.d}</p>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================ PROCESS ============================ -->
+  <section class="border-y border-slate-200 bg-slateink py-16 text-white" aria-labelledby="process-heading">
+    <div class="container-x">
+      <div class="max-w-2xl">
+        <p class="text-[11px] font-semibold uppercase tracking-[0.16em] text-brand-300">How ordering works</p>
+        <h2 id="process-heading" class="mt-2 text-2xl font-bold sm:text-3xl">
+          RFQ in three steps — no checkout, no card data
+        </h2>
+        <p class="mt-3 text-sm leading-6 text-white/70">
+          We keep the purchase path deliberately manual: every quotation is reviewed by a sales
+          chemist before pricing is confirmed.
+        </p>
+      </div>
+
+      <div class="mt-10 grid gap-5 md:grid-cols-3">
+        {
+          [
+            ['01', 'Build your list', 'Add pack sizes to the RFQ drawer and set kit quantities. Tiers update instantly.'],
+            ['02', 'Send the RFQ', 'One click exports a formatted list to email or WhatsApp. Webhook integration available on request.'],
+            ['03', 'Confirm & ship', 'We confirm stock, documentation and freight, then issue a proforma invoice.'],
+          ].map(([n, t, d]) => (
+            <div class="rounded-2xl border border-white/10 bg-white/5 p-6">
+              <p class="font-mono text-3xl font-extrabold text-brand-400">{n}</p>
+              <h3 class="mt-3 text-base font-bold">{t}</h3>
+              <p class="mt-2 text-sm leading-6 text-white/70">{d}</p>
+            </div>
+          ))
+        }
+      </div>
+
+      <div class="mt-10 flex flex-wrap items-center gap-3">
+        <a href="/rfq" class="btn-primary">Start an RFQ</a>
+        <a href={SITE.whatsapp} target="_blank" rel="noopener" class="btn-secondary !border-white/20 !bg-white/10 !text-white hover:!bg-white/20">
+          WhatsApp {SITE.phone}
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================ FAQ ============================ -->
+  <section class="container-x py-16">
+    <div class="grid gap-10 lg:grid-cols-[0.8fr_1.2fr]">
+      <div>
+        <p class="label">Buyer questions</p>
+        <h2 class="mt-2 text-2xl font-bold text-slateink">Before you request a quote</h2>
+        <p class="mt-3 text-sm leading-6 text-slate-600">
+          The five questions our procurement inbox receives most. For anything else, email
+          <a href={`mailto:${SITE.email}`} class="font-semibold text-ocean-700 hover:underline">{SITE.email}</a>.
+        </p>
+        <div class="mt-6 rounded-2xl border border-slate-200 bg-white p-5">
+          <p class="label">Typical lead time</p>
+          <p class="mt-2 font-mono text-2xl font-extrabold text-slateink">3–7 days</p>
+          <p class="mt-1 text-xs leading-5 text-slate-500">
+            Ex-works for stocked SKUs; 10–14 days for blends and private label.
+          </p>
+        </div>
+      </div>
+      <FaqAccordion faqs={homeFaqs} title="" />
+    </div>
+  </section>
+
+  <!-- ============================ CTA ============================ -->
+  <section class="container-x pb-20">
+    <div class="overflow-hidden rounded-3xl border border-slate-200 bg-gradient-to-r from-ocean-50 via-white to-brand-50 p-8 sm:p-12">
+      <div class="flex flex-wrap items-center justify-between gap-6">
+        <div class="max-w-xl">
+          <h2 class="text-2xl font-extrabold text-slateink sm:text-3xl">
+            Need a line-by-line quotation for your next project?
+          </h2>
+          <p class="mt-2 text-sm leading-6 text-slate-600">
+            Send your target list and we will return a line-by-line quotation with tier pricing,
+            freight options and the matching batch COAs.
+          </p>
+        </div>
+        <div class="flex flex-wrap gap-3">
+          <a href="/rfq" class="btn-primary">Request quote</a>
+          <a href="/products" class="btn-secondary">Browse catalogue</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>

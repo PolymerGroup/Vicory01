@@ -1,0 +1,225 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ComplianceNotice from '../components/ComplianceNotice.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { SITE } from '../lib/site';
+import data from '../data/peptides.json';
+
+const productCount = data.productCount;
+const skuCount = (data.products as any[]).reduce((n, p) => n + p.specs.length, 0);
+
+const facts = [
+  ['Legal name', SITE.legalName],
+  ['Chinese legal name', SITE.legalNameZh],
+  ['Trading name', `${SITE.name} (dchemi.com)`],
+  ['Business model', 'B2B supply · RFQ only · no online payment'],
+  ['Catalogue', `${productCount} products · ${skuCount} pack-size SKUs`],
+  ['Head office', 'Jinan, Shandong, China'],
+  ['Primary markets', 'United States, Canada, EU, UK, Australia, Japan, Brazil'],
+  ['Customer profile', 'Research laboratories, clinics, compounding distributors'],
+  ['Minimum order', '1 kit (10 vials) per pack size'],
+  ['Lead time', '3–7 days ex-works for stocked SKUs'],
+];
+
+const supplyChain = [
+  {
+    step: '01',
+    t: 'Qualified synthesis partners',
+    d: 'Peptides are produced by long-term solid-phase synthesis partners working to written specifications: sequence, counter-ion, salt form and purity target.',
+  },
+  {
+    step: '02',
+    t: 'Purification & lyophilisation',
+    d: 'Crude material is purified by preparative RP-HPLC, exchanged into the specified salt, filtered and lyophilised in single-use trays.',
+  },
+  {
+    step: '03',
+    t: 'Release testing',
+    d: 'Each lot is sampled and tested for identity (ESI-MS), purity (RP-HPLC), water content and appearance before it is released to inventory.',
+  },
+  {
+    step: '04',
+    t: 'Kit assembly & labelling',
+    d: 'Vials are filled to nominal mass, labelled with product code, lot number and storage statement, then packed in 10-vial kits.',
+  },
+  {
+    step: '05',
+    t: 'Cold chain & export',
+    d: 'Lyophilised kits ship ambient-safe with desiccant; sterile solutions ship with phase-change packs. Export documents are prepared per destination.',
+  },
+];
+
+const compliancePoints = [
+  {
+    t: 'Research use only',
+    d: 'All products are supplied exclusively for laboratory, analytical and research purposes. They are not medicines, dietary supplements, cosmetics for human application, or veterinary products.',
+  },
+  {
+    t: 'No medical or dosing information',
+    d: 'We do not provide dosing guidance, treatment protocols, diagnostic interpretation or clinical claims. Product descriptions are limited to identity, purity, format and handling.',
+  },
+  {
+    t: 'Buyer responsibility',
+    d: 'Buyers are responsible for ensuring that import, possession and use of the products comply with the laws of their jurisdiction and with their institution’s ethics and safety policies.',
+  },
+  {
+    t: 'No online payment',
+    d: 'The website does not process card payments. Orders are confirmed through a proforma invoice issued by our sales team after an RFQ.',
+  },
+  {
+    t: 'Advertising standards',
+    d: 'Marketing text avoids disease, treatment and outcome claims. Where a compound name is also a registered medicine, the trademark belongs to its owner and is not used on this site.',
+  },
+  {
+    t: 'Documentation on request',
+    d: 'Batch COA, MSDS and packing lists are provided with every shipment and can be shared in advance for institutional review.',
+  },
+];
+---
+
+<Layout
+  title="About Shandong Vicory Biotechnology — Supply Chain & US Compliance"
+  description="Shandong Vicory Biotechnology Co., Ltd. (山东维科瑞生物科技有限公司) supplies research peptides, blends and ancillary reagents to laboratories, clinics and distributors. Supply chain standard, quality practices and US research-use compliance statement."
+  path="/about-compliance"
+>
+  <Breadcrumbs items={[{ label: 'About & Compliance' }]} />
+
+  <section class="border-b border-slate-200 bg-white">
+    <div class="container-x py-12">
+      <p class="label">Company</p>
+      <h1 class="mt-2 text-3xl font-extrabold tracking-tight text-slateink sm:text-4xl">
+        Shandong Vicory Biotechnology Co., Ltd.
+      </h1>
+      <p class="mt-1 text-base text-slate-500" lang="zh-CN">山东维科瑞生物科技有限公司</p>
+      <p class="mt-4 max-w-3xl text-[15px] leading-7 text-slate-600">
+        We are a China-based supplier of research peptides, peptide blends and ancillary laboratory
+        reagents. Our catalogue is built for procurement teams: fixed pack sizes, published tier
+        pricing, batch-level documentation and a manual quotation process that keeps every order
+        reviewed by a human before it ships.
+      </p>
+
+      <dl class="mt-8 grid gap-x-8 gap-y-4 sm:grid-cols-2 lg:grid-cols-3">
+        {
+          facts.map(([k, v]) => (
+            <div class="border-t border-slate-200 pt-3">
+              <dt class="text-[11px] font-semibold uppercase tracking-wider text-slate-500">{k}</dt>
+              <dd class="mt-1 text-sm font-medium text-slate-800">{v}</dd>
+            </div>
+          ))
+        }
+      </dl>
+    </div>
+  </section>
+
+  <ComplianceNotice variant="bar" />
+
+  <!-- Supply chain -->
+  <section id="supply-chain" class="container-x scroll-mt-24 py-14">
+    <p class="label">Supply chain standard</p>
+    <h2 class="mt-2 text-2xl font-bold text-slateink sm:text-3xl">
+      From synthesis to sealed kit
+    </h2>
+    <p class="mt-2 max-w-2xl text-sm leading-6 text-slate-600">
+      Five controlled stages, each with a written specification and a documented release decision.
+      Nothing is listed as in stock before it passes release testing.
+    </p>
+
+    <div class="mt-8 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+      {
+        supplyChain.map((s) => (
+          <div class="card p-5">
+            <p class="font-mono text-xs font-bold text-brand-600">{s.step}</p>
+            <h3 class="mt-2 text-sm font-bold text-slateink">{s.t}</h3>
+            <p class="mt-1.5 text-xs leading-5 text-slate-600">{s.d}</p>
+          </div>
+        ))
+      }
+      <div class="rounded-2xl border border-ocean-200 bg-ocean-50 p-5">
+        <h3 class="text-sm font-bold text-ocean-900">Quality practices</h3>
+        <ul class="mt-2 space-y-1.5 text-xs leading-5 text-ocean-900/80">
+          <li>· Written release specification per product</li>
+          <li>· Lot-level traceability from synthesis to kit</li>
+          <li>· Twelve-month retention of analytical records</li>
+          <li>· Non-conforming lots quarantined, never substituted</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Compliance -->
+  <section id="compliance" class="border-y border-slate-200 bg-white py-14 scroll-mt-24">
+    <div class="container-x">
+      <p class="label">United States compliance statement</p>
+      <h2 class="mt-2 text-2xl font-bold text-slateink sm:text-3xl">
+        What we sell — and what we do not claim
+      </h2>
+      <p class="mt-3 max-w-3xl text-sm leading-6 text-slate-600">
+        Dchemi products are research chemicals supplied for laboratory and analytical work. We do
+        not market them as drugs, supplements or treatments, and we do not publish clinical claims,
+        dosing guidance or outcome promises anywhere on this site.
+      </p>
+
+      <div class="mt-8 grid gap-4 md:grid-cols-2">
+        {
+          compliancePoints.map((c) => (
+            <div class="rounded-2xl border border-slate-200 bg-slate-50/60 p-5">
+              <h3 class="text-sm font-bold text-slateink">{c.t}</h3>
+              <p class="mt-1.5 text-xs leading-5 text-slate-600">{c.d}</p>
+            </div>
+          ))
+        }
+      </div>
+
+      <div class="mt-8 rounded-2xl border border-brand-200 bg-brand-50 p-5">
+        <p class="text-sm font-bold text-brand-900">{SITE.ruo}</p>
+        <p class="mt-2 text-xs leading-5 text-brand-900/80">
+          Statements on this website have not been evaluated by the Food and Drug Administration.
+          No product is intended to diagnose, treat, cure or prevent any disease. Products are not
+          for human or veterinary administration, and must not be resold for such purposes.
+        </p>
+      </div>
+
+      <div class="prose-lab mt-10 max-w-3xl">
+        <h3>Export and sanctions</h3>
+        <p>
+          Shipments are prepared with commercial invoice, packing list, certificate of analysis and
+          MSDS. We do not ship to jurisdictions subject to comprehensive trade restrictions, and we
+          may request end-use information before quoting.
+        </p>
+        <h3>Contact for compliance questions</h3>
+        <p>
+          For documentation, end-use statements or supplier questionnaires, email
+          <a href={`mailto:${SITE.email}`}>{SITE.email}</a> or call
+          <a href={SITE.phoneHref}>{SITE.phone}</a>. We answer compliance enquiries within one
+          business day.
+        </p>
+      </div>
+
+      <div class="mt-8 flex flex-wrap gap-3">
+        <a href="/rfq" class="btn-primary">Request a quotation</a>
+        <a href="/quality-coa" class="btn-secondary">Quality & COA centre</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section class="container-x py-14">
+    <div class="grid gap-6 md:grid-cols-3">
+      <div class="card p-6">
+        <p class="label">Sales</p>
+        <p class="mt-2 text-sm font-bold text-slateink">{SITE.email}</p>
+        <p class="mt-1 text-xs text-slate-500">Quotations, stock, freight</p>
+      </div>
+      <div class="card p-6">
+        <p class="label">WhatsApp / phone</p>
+        <p class="mt-2 text-sm font-bold text-slateink">{SITE.phone}</p>
+        <p class="mt-1 text-xs text-slate-500">Mon–Sat, 09:00–18:00 CST</p>
+      </div>
+      <div class="card p-6">
+        <p class="label">Documents</p>
+        <p class="mt-2 text-sm font-bold text-slateink">COA · MSDS · COO</p>
+        <p class="mt-1 text-xs text-slate-500">Issued with every shipment</p>
+      </div>
+    </div>
+  </section>
+</Layout>

@@ -1,0 +1,54 @@
+---
+import type { Spec } from '../types/peptide';
+
+interface Props {
+  spec: Spec;
+  /** 是否在标题里显示规格 */
+  showSpec?: boolean;
+  class?: string;
+}
+
+const { spec, showSpec = true, class: cls = '' } = Astro.props;
+const tiers = spec.tiers || [];
+const base = spec.perKit;
+---
+
+<div class:list={['overflow-hidden rounded-xl border border-slate-200', cls]}>
+  <table class="table-lab">
+    <caption class="sr-only">
+      Tiered wholesale pricing for {spec.label} × {spec.vials} vials per kit, USD
+    </caption>
+    <thead>
+      <tr>
+        <th scope="col">{showSpec ? `Pack size · ${spec.label} × ${spec.vials} vials` : 'Quantity'}</th>
+        <th scope="col" class="text-right">Unit price / kit</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        tiers.length ? (
+          tiers.map((t) => (
+            <tr>
+              <td class="font-medium text-slate-700">{t.label}</td>
+              <td class="text-right font-mono font-semibold text-slateink">
+                ${Number(t.price).toFixed(2)}
+                {base && t.price < base ? (
+                  <span class="ml-2 text-[11px] font-semibold text-brand-600">
+                    −{Math.round((1 - t.price / base) * 100)}%
+                  </span>
+                ) : null}
+              </td>
+            </tr>
+          ))
+        ) : (
+          <tr>
+            <td class="font-medium text-slate-700">1+ kit</td>
+            <td class="text-right font-mono font-semibold text-slateink">
+              {base ? `$${Number(base).toFixed(2)}` : 'RFQ'}
+            </td>
+          </tr>
+        )
+      }
+    </tbody>
+  </table>
+</div>

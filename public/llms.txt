@@ -1,0 +1,165 @@
+# Dchemi — Research Peptide Catalogue (machine-readable index)
+
+> Shandong Vicory Biotechnology Co., Ltd. (dchemi.com) supplies research-grade peptides, blends and ancillary
+> reagents to laboratories, clinics and distributors. All products are sold as
+> 10-vial kits for research, laboratory and analytical use only. B2B RFQ only.
+> No online payment; no human or veterinary use.
+
+Key facts
+
+- Canonical site: https://dchemi.com
+- Catalogue size: 119 products · 266 pack-size SKUs
+- Currency and unit: USD per Kit (10 vials per kit)
+- Quality: RP-HPLC purity ≥99.0%, ESI-MS identity, lot-specific COA per batch
+- Storage: lyophilized powder at -20 °C; solutions at 2–8 °C
+- Ordering: email info@dchemi.com or WhatsApp +86 15866781826 (RFQ, no checkout)
+
+## Catalogue
+
+### Metabolic & Weight-Management Peptides (16)
+- [5-Amino-1MQ](https://dchemi.com/peptides/5-amino-1mq): 5AM · from $10.09/kit · 3 pack sizes
+- [Adipotide (FTPP)](https://dchemi.com/peptides/adipotide-ftpp): AP · from $30.07/kit · 3 pack sizes
+- [AICAR](https://dchemi.com/peptides/aicar): AR · from $21.31/kit · 2 pack sizes
+- [AOD-9604](https://dchemi.com/peptides/aod-9604): AOD · from $19.53/kit · 3 pack sizes
+- [Cagrilintide](https://dchemi.com/peptides/cagrilintide): CGL · from $26.04/kit · 3 pack sizes
+- [Dulaglutide](https://dchemi.com/peptides/dulaglutide): DL · from $65.11/kit · 2 pack sizes
+- [FTPP (Adipotide)](https://dchemi.com/peptides/ftpp-adipotide): FTPP · from $53.27/kit · 1 pack sizes
+- [HGH Fragment 176-191](https://dchemi.com/peptides/hgh-fragment-176-191): FR · from $15.10/kit · 6 pack sizes
+- [Liraglutide](https://dchemi.com/peptides/liraglutide): LIRA · from $37.29/kit · 3 pack sizes
+- [Mazdutide](https://dchemi.com/peptides/mazdutide): MZ · from $30.78/kit · 2 pack sizes
+- [MOTS-c](https://dchemi.com/peptides/mots-c): MS · from $31.67/kit · 4 pack sizes
+- [Retatrutide](https://dchemi.com/peptides/retatrutide): RT · from $26.94/kit · 10 pack sizes
+- [Semaglutide](https://dchemi.com/peptides/semaglutide): SM · from $10.65/kit · 7 pack sizes
+- [SLU-PP-332](https://dchemi.com/peptides/slu-pp-332): SLU332 · from $38.67/kit · 2 pack sizes
+- [Survodutide](https://dchemi.com/peptides/survodutide): SUR · from $94.11/kit · 1 pack sizes
+- [Tirzepatide](https://dchemi.com/peptides/tirzepatide): TR · from $15.39/kit · 12 pack sizes
+
+### Repair & Recovery Peptides (13)
+- [ACE-031](https://dchemi.com/peptides/ace-031): AC · from $16.57/kit · 1 pack sizes
+- [B7-33](https://dchemi.com/peptides/b7-33): B733 · from $25.45/kit · 2 pack sizes
+- [BPC-157](https://dchemi.com/peptides/bpc-157): BC · from $11.51/kit · 4 pack sizes
+- [Cibinetide (ARA-290)](https://dchemi.com/peptides/cibinetide-ara-290): ARA · from $33.51/kit · 3 pack sizes
+- [Follistatin (FST-344)](https://dchemi.com/peptides/follistatin-fst-344): FST · from $81.68/kit · 1 pack sizes
+- [GDF-8 (Myostatin)](https://dchemi.com/peptides/gdf-8-myostatin): GDF8 · from $84.06/kit · 1 pack sizes
+- [IGF-1 LR3](https://dchemi.com/peptides/igf-1-lr3): IG · from $7.11/kit · 3 pack sizes
+- [KPV](https://dchemi.com/peptides/kpv): KPV · from $16.28/kit · 3 pack sizes
+- [LL-37](https://dchemi.com/peptides/ll-37): LL · from $44.66/kit · 3 pack sizes
+- [MGF (Mechano Growth Factor)](https://dchemi.com/peptides/mgf-mechano-growth-factor): FM · from $26.14/kit · 1 pack sizes
+- [PEG-MGF](https://dchemi.com/peptides/peg-mgf): FMP · from $36.52/kit · 1 pack sizes
+- [TB-500 (Thymosin Beta-4 Fragment)](https://dchemi.com/peptides/tb-500-thymosin-beta-4-fragment): TB · from $19.39/kit · 3 pack sizes
+- [TB-500 Fragment](https://dchemi.com/peptides/tb-500-fragment): TBFRAG · from $14.92/kit · 3 pack sizes
+
+### Cosmetic & Dermal Peptides (14)
+- [AHK-Cu](https://dchemi.com/peptides/ahk-cu): AU · from $30.13/kit · 2 pack sizes
+- [Botulinum Toxin Type A](https://dchemi.com/peptides/botulinum-toxin-type-a): XT · from $33.56/kit · 1 pack sizes
+- [Bremelanotide (PT-141)](https://dchemi.com/peptides/bremelanotide-pt-141): PT · from $29.30/kit · 1 pack sizes
+- [FOXO4-DRI](https://dchemi.com/peptides/foxo4-dri): F410 · from $44.98/kit · 2 pack sizes
+- [GHK-Cu](https://dchemi.com/peptides/ghk-cu): CU · from $11.25/kit · 2 pack sizes
+- [Glutathione](https://dchemi.com/peptides/glutathione): GTT · from $6.75/kit · 5 pack sizes
+- [Healthy Hair, Skin & Nails Blend](https://dchemi.com/peptides/healthy-hair-skin-and-nails-blend): HHB · from $44.20/kit · 1 pack sizes
+- [Lemon Bottle](https://dchemi.com/peptides/lemon-bottle): LB · from $25.22/kit · 1 pack sizes
+- [Matrixyl](https://dchemi.com/peptides/matrixyl): MX · from $17.76/kit · 1 pack sizes
+- [Melanotan I](https://dchemi.com/peptides/melanotan-i): MT1 · from $23.09/kit · 1 pack sizes
+- [Melanotan II (MT-2)](https://dchemi.com/peptides/melanotan-ii-mt-2): MT2 · from $53.12/kit · 1 pack sizes
+- [PNC-27](https://dchemi.com/peptides/pnc-27): PNC · from $22.49/kit · 3 pack sizes
+- [PTD-DBM](https://dchemi.com/peptides/ptd-dbm): PTD · from $24.36/kit · 1 pack sizes
+- [SNAP-8](https://dchemi.com/peptides/snap-8): NP · from $15.98/kit · 2 pack sizes
+
+### Growth Hormone Secretagogues (10)
+- [CJC-1295 (With DAC)](https://dchemi.com/peptides/cjc-1295-with-dac): CD · from $33.68/kit · 3 pack sizes
+- [CJC-1295 (Without DAC)](https://dchemi.com/peptides/cjc-1295-without-dac): CND · from $17.14/kit · 3 pack sizes
+- [GHRP-2](https://dchemi.com/peptides/ghrp-2): GR2 · from $15.39/kit · 3 pack sizes
+- [GHRP-6](https://dchemi.com/peptides/ghrp-6): GR6 · from $16.31/kit · 2 pack sizes
+- [Hexarelin Acetate](https://dchemi.com/peptides/hexarelin-acetate): HX · from $19.95/kit · 2 pack sizes
+- [HGH (Somatropin 191AA)](https://dchemi.com/peptides/hgh-somatropin-191aa): HGH · from $18.05/kit · 7 pack sizes
+- [Ipamorelin](https://dchemi.com/peptides/ipamorelin): IP · from $10.95/kit · 3 pack sizes
+- [MK-677 (Ibutamoren)](https://dchemi.com/peptides/mk-677-ibutamoren): MK · from $4.73/kit · 1 pack sizes
+- [Sermorelin Acetate](https://dchemi.com/peptides/sermorelin-acetate): SMO · from $18.35/kit · 3 pack sizes
+- [Tesamorelin](https://dchemi.com/peptides/tesamorelin): TSM · from $24.27/kit · 4 pack sizes
+
+### Bioregulators & Longevity Peptides (42)
+- [ACTH (1-39)](https://dchemi.com/peptides/acth-1-39): ACTH · from $26.40/kit · 1 pack sizes
+- [Adamax](https://dchemi.com/peptides/adamax): ADA · from $34.01/kit · 3 pack sizes
+- [Bronchogen](https://dchemi.com/peptides/bronchogen): AEDL · from $39.57/kit · 1 pack sizes
+- [Cardiogen](https://dchemi.com/peptides/cardiogen): AEDR · from $43.21/kit · 1 pack sizes
+- [Cartalax](https://dchemi.com/peptides/cartalax): AED · from $44.98/kit · 1 pack sizes
+- [Cerebrolysin](https://dchemi.com/peptides/cerebrolysin): CBL · from $19.51/kit · 1 pack sizes
+- [Cortagen](https://dchemi.com/peptides/cortagen): AEDP · from $44.98/kit · 1 pack sizes
+- [Crystagen](https://dchemi.com/peptides/crystagen): CRY · from $30.04/kit · 1 pack sizes
+- [Dermorphin](https://dchemi.com/peptides/dermorphin): DP · from $12.31/kit · 3 pack sizes
+- [DSIP (Delta Sleep-Inducing Peptide)](https://dchemi.com/peptides/dsip-delta-sleep-inducing-peptide): DS · from $12.43/kit · 3 pack sizes
+- [Epitalon (Epithalon)](https://dchemi.com/peptides/epitalon-epithalon): ET · from $19.24/kit · 2 pack sizes
+- [Erythropoietin (EPO)](https://dchemi.com/peptides/erythropoietin-epo): EPO · from $27.23/kit · 1 pack sizes
+- [GGH](https://dchemi.com/peptides/ggh): GGH · from $51.00/kit · 1 pack sizes
+- [Gonadorelin](https://dchemi.com/peptides/gonadorelin): GND · from $6.51/kit · 2 pack sizes
+- [Gonadorelin Acetate](https://dchemi.com/peptides/gonadorelin-acetate): GN · from $12.43/kit · 2 pack sizes
+- [HCG (Human Chorionic Gonadotropin)](https://dchemi.com/peptides/hcg-human-chorionic-gonadotropin): CG · from $15.16/kit · 4 pack sizes
+- [HGH Fragment 17-23](https://dchemi.com/peptides/hgh-fragment-17-23): F17 · from $33.15/kit · 1 pack sizes
+- [HMG (Human Menopausal Gonadotropin)](https://dchemi.com/peptides/hmg-human-menopausal-gonadotropin): GT · from $24.71/kit · 1 pack sizes
+- [Humanin](https://dchemi.com/peptides/humanin): HMN · from $122.53/kit · 1 pack sizes
+- [Kisspeptin-10](https://dchemi.com/peptides/kisspeptin-10): KS · from $20.71/kit · 2 pack sizes
+- [Livagen](https://dchemi.com/peptides/livagen): AEDK · from $44.98/kit · 1 pack sizes
+- [Melatonin](https://dchemi.com/peptides/melatonin): MTN · from $24.51/kit · 1 pack sizes
+- [NAD+](https://dchemi.com/peptides/nad-plus): NJ · from $12.14/kit · 3 pack sizes
+- [Orexin A](https://dchemi.com/peptides/orexin-a): OXA · from $266.36/kit · 1 pack sizes
+- [Orexin B](https://dchemi.com/peptides/orexin-b): OXB · from $53.27/kit · 2 pack sizes
+- [Oxytocin Acetate](https://dchemi.com/peptides/oxytocin-acetate): OT · from $10.39/kit · 3 pack sizes
+- [P21 (P021)](https://dchemi.com/peptides/p21-p021): P21 · from $3.88/kit · 2 pack sizes
+- [Pancragen](https://dchemi.com/peptides/pancragen): KEDW · from $56.82/kit · 1 pack sizes
+- [PE-22-28](https://dchemi.com/peptides/pe-22-28): PE · from $17.16/kit · 2 pack sizes
+- [Pinealon](https://dchemi.com/peptides/pinealon): PIN · from $16.57/kit · 3 pack sizes
+- [Prostamax](https://dchemi.com/peptides/prostamax): KEDP · from $76.95/kit · 1 pack sizes
+- [Relaxation PM](https://dchemi.com/peptides/relaxation-pm): RP · from $44.20/kit · 1 pack sizes
+- [Selank](https://dchemi.com/peptides/selank): SK · from $16.28/kit · 2 pack sizes
+- [Semax](https://dchemi.com/peptides/semax): SX · from $15.98/kit · 2 pack sizes
+- [SS-31 (Elamipretide)](https://dchemi.com/peptides/ss-31-elamipretide): 2S · from $20.25/kit · 3 pack sizes
+- [Teriparatide](https://dchemi.com/peptides/teriparatide): TER · from $61.56/kit · 1 pack sizes
+- [Testagen](https://dchemi.com/peptides/testagen): AEDV · from $30.78/kit · 1 pack sizes
+- [Thymalin (Thymulin)](https://dchemi.com/peptides/thymalin-thymulin): TY · from $28.42/kit · 1 pack sizes
+- [Thymosin Alpha-1](https://dchemi.com/peptides/thymosin-alpha-1): TA · from $43.50/kit · 2 pack sizes
+- [Triptorelin Acetate](https://dchemi.com/peptides/triptorelin-acetate): TRIP · from $17.76/kit · 1 pack sizes
+- [Vesugen](https://dchemi.com/peptides/vesugen): VES · from $27.70/kit · 1 pack sizes
+- [VIP (Vasoactive Intestinal Peptide)](https://dchemi.com/peptides/vip-vasoactive-intestinal-peptide): VP · from $34.93/kit · 2 pack sizes
+
+### Multi-Component Blends (9)
+- [BPC-157 + TB-500 Blend](https://dchemi.com/peptides/bpc-157-tb-500-blend): BB · from $42.41/kit · 3 pack sizes
+- [CagriSema (Cagrilintide + Semaglutide)](https://dchemi.com/peptides/cagrisema-cagrilintide-semaglutide): CS · from $32.88/kit · 3 pack sizes
+- [CJC-1295 (No DAC) + Ipamorelin Blend](https://dchemi.com/peptides/cjc-1295-no-dac-ipamorelin-blend): CP · from $39.07/kit · 2 pack sizes
+- [GLOW Blend (BPC-157 + GHK-Cu + TB-500)](https://dchemi.com/peptides/glow-blend-bpc-157-ghk-cu-tb-500): BBG · from $83.93/kit · 1 pack sizes
+- [KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV)](https://dchemi.com/peptides/klow-blend-bpc-157-ghk-cu-tb-500-kpv): KLOW · from $124.30/kit · 1 pack sizes
+- [Retatrutide + Cagrilintide Blend (20 mg + 5 mg)](https://dchemi.com/peptides/retatrutide-cagrilintide-blend-20-mg-5-mg): RC · from $195.50/kit · 1 pack sizes
+- [Retatrutide + Tirzepatide Blend (20 mg + 40 mg)](https://dchemi.com/peptides/retatrutide-tirzepatide-blend-20-mg-40-mg): RTTR · from $102.99/kit · 1 pack sizes
+- [Super Human Blend](https://dchemi.com/peptides/super-human-blend): SHB · from $44.20/kit · 1 pack sizes
+- [Tesamorelin + Ipamorelin Blend](https://dchemi.com/peptides/tesamorelin-ipamorelin-blend): TP · from $31.96/kit · 6 pack sizes
+
+### Solvents & Ancillary Reagents (15)
+- [Acetic Acid](https://dchemi.com/peptides/acetic-acid): AA · from $3.31/kit · 3 pack sizes
+- [Acetic Acid Water 0.6%](https://dchemi.com/peptides/acetic-acid-water-0-6-percent): AA06 · from $6.38/kit · 2 pack sizes
+- [Bacteriostatic Water](https://dchemi.com/peptides/bacteriostatic-water): WA · from $3.98/kit · 2 pack sizes
+- [Bacteriostatic Water](https://dchemi.com/peptides/bacteriostatic-water-bw): BW · from $6.80/kit · 2 pack sizes
+- [Bacteriostatic Water 0.9% Benzyl Alcohol](https://dchemi.com/peptides/bacteriostatic-water-0-9-percent-benzyl-alcohol): BA · from $6.80/kit · 2 pack sizes
+- [Benzyl Alcohol 0.9%](https://dchemi.com/peptides/benzyl-alcohol-0-9-percent): BZA · from $5.10/kit · 3 pack sizes
+- [L-Carnitine](https://dchemi.com/peptides/l-carnitine): LC · from $10.95/kit · 6 pack sizes
+- [Lipo-C](https://dchemi.com/peptides/lipo-c): LIPO · from $25.16/kit · 1 pack sizes
+- [MIC (Lipo-C with B12)](https://dchemi.com/peptides/mic-lipo-c-with-b12): MIC · from $44.20/kit · 2 pack sizes
+- [Vitamin B Complex Injection](https://dchemi.com/peptides/vitamin-b-complex-injection): VB · from $12.75/kit · 1 pack sizes
+- [Vitamin B12](https://dchemi.com/peptides/vitamin-b12): B12 · from $20.13/kit · 1 pack sizes
+- [Vitamin B12 Injection](https://dchemi.com/peptides/vitamin-b12-injection): VB12 · from $5.10/kit · 1 pack sizes
+- [Vitamin B6 Injection](https://dchemi.com/peptides/vitamin-b6-injection): VB6 · from $12.75/kit · 1 pack sizes
+- [Vitamin C Injection](https://dchemi.com/peptides/vitamin-c-injection): VC · from $5.10/kit · 1 pack sizes
+- [Vitamin D2 Injection](https://dchemi.com/peptides/vitamin-d2-injection): VD2 · from $28.90/kit · 1 pack sizes
+
+## Reference pages
+
+- [Quality & COA Centre](https://dchemi.com/quality-coa): batch testing, RP-HPLC/ESI-MS, COA request
+- [About & Compliance](https://dchemi.com/about-compliance): company, supply chain, US research-use statement
+- [Request a Quote](https://dchemi.com/rfq): B2B RFQ form for clinics, laboratories and distributors
+
+## Full dataset
+
+- [llms-full.txt](https://dchemi.com/llms-full.txt): complete physical/chemical parameters, pack sizes and tier pricing for all 119 products
+
+## Compliance
+
+- For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use.
+- No therapeutic, diagnostic or dosing claims are made anywhere on this site.

@@ -1,0 +1,524 @@
+---
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
+import Layout from '../../layouts/Layout.astro';
+import PeptideVialPlaceholder from '../../components/PeptideVialPlaceholder.astro';
+import TierTable from '../../components/TierTable.astro';
+import CoaPanel from '../../components/CoaPanel.astro';
+import FaqAccordion from '../../components/FaqAccordion.astro';
+import RelatedTable from '../../components/RelatedTable.astro';
+import ComplianceNotice from '../../components/ComplianceNotice.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { SITE, abs, money, jsonLd } from '../../lib/site';
+import data from '../../data/peptides.json';
+import type { Peptide } from '../../types/peptide';
+
+const products = data.products as unknown as Peptide[];
+
+// 注意：Astro 会把 getStaticPaths 提升到组件函数之外执行，
+// 因此这里只能引用模块级的 import（data），不能引用组件内 const。
+export function getStaticPaths() {
+  const list = data.products as unknown as Peptide[];
+  return list.map((product) => ({ params: { slug: product.slug }, props: { product } }));
+}
+
+const { product: p } = Astro.props as { product: Peptide };
+
+// 真实产品图：存在 /public/images/products/{slug}.webp 时自动切换
+const relImage = `/images/products/${p.slug}.webp`;
+const hasRealImage = existsSync(join(process.cwd(), 'public', relImage));
+const imageUrl = hasRealImage ? relImage : null;
+
+// 相关产品：同分类优先，其次同 molecule class，最多 6 个
+const sameCat = products.filter((x) => x.category === p.category && x.slug !== p.slug);
+const sameClass = products.filter(
+  (x) => x.slug !== p.slug && x.category !== p.category && x.moleculeClass === p.moleculeClass
+);
+const related = [...sameCat, ...sameClass].slice(0, 6);
+
+const defaultSpec = p.specs[0];
+const specJson = JSON.stringify(
+  p.specs.map((s) => ({
+    spec: s.spec,
+    label: s.label,
+    vials: s.vials,
+    perKit: s.perKit,
+    tiers: s.tiers,
+  }))
+);
+
+/* ------------------------------ JSON-LD ------------------------------ */
+const offers = p.specs.flatMap((s) =>
+  s.tiers.map((t) => ({
+    '@type': 'Offer',
+    sku: `${p.shortCode}-${s.spec}`.replace(/\s+/g, ''),
+    name: `${p.name} — ${s.label} × ${s.vials} vials/kit (${t.label})`,
+    price: Number(t.price).toFixed(2),
+    priceCurrency: 'USD',
+    availability: 'https://schema.org/InStock',
+    itemCondition: 'https://schema.org/NewCondition',
+    url: `${SITE.url}/peptides/${p.slug}`,
+    seller: { '@id': `${SITE.url}/#organization` },
+    eligibleQuantity: {
+      '@type': 'QuantitativeValue',
+      minValue: t.min,
+      ...(t.max != null ? { maxValue: t.max } : {}),
+      unitText: 'Kit',
+    },
+  }))
+);
+
+const productLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  '@id': `${SITE.url}/peptides/${p.slug}#product`,
+  name: p.name,
+  alternateName: p.aliases,
+  sku: p.shortCode,
+  mpn: `VC-${p.shortCode}`,
+  description: p.geoSummary,
+  category: p.categoryLabel,
+  brand: { '@type': 'Brand', name: SITE.name },
+  manufacturer: { '@id': `${SITE.url}/#organization` },
+  ...(imageUrl ? { image: [abs(imageUrl)] } : {}),
+  additionalProperty: [
+    { '@type': 'PropertyValue', name: 'CAS number', value: p.cas || 'Published in batch COA' },
+    { '@type': 'PropertyValue', name: 'Sequence', value: p.sequence || 'Published in batch COA' },
+    { '@type': 'PropertyValue', name: 'Molecular weight', value: p.molecularWeight || 'Published in batch COA' },
+    { '@type': 'PropertyValue', name: 'Purity', value: p.purity || 'Not applicable' },
+    { '@type': 'PropertyValue', name: 'Appearance', value: p.appearance },
+    { '@type': 'PropertyValue', name: 'Pack size', value: `${p.kitVials} vials per kit` },
+    { '@type': 'PropertyValue', name: 'Storage', value: p.storage.summary },
+    { '@type': 'PropertyValue', name: 'Research area', value: p.categoryLabel },
+  ],
+  offers: {
+    '@type': 'AggregateOffer',
+    priceCurrency: 'USD',
+    lowPrice: p.priceFrom != null ? Number(p.priceFrom).toFixed(2) : undefined,
+    highPrice: p.priceTo != null ? Number(p.priceTo).toFixed(2) : undefined,
+    offerCount: offers.length,
+    availability: 'https://schema.org/InStock',
+    offers,
+  },
+};
+
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: p.faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+
+const summaryRows = [
+  { k: 'Short code', v: p.shortCode, mono: true },
+  { k: 'CAS number', v: p.cas || 'Published in batch COA', mono: true },
+  { k: 'Molecular formula', v: p.formula || 'Published in batch COA', mono: true },
+  { k: 'Molecular weight', v: p.molecularWeight ? `${p.molecularWeight} Da` : 'Published in batch COA', mono: true },
+  { k: 'Purity', v: p.purity || 'Not applicable (ancillary reagent)', mono: false },
+  { k: 'Appearance', v: p.appearance, mono: false },
+  { k: 'Presentation', v: p.form.replace('_', ' '), mono: false },
+  { k: 'Pack size', v: `${p.kitVials} vials per kit`, mono: false },
+  { k: 'Storage', v: p.storage.summary, mono: false },
+  { k: 'Molecule class', v: p.moleculeClass.replace(/_/g, ' '), mono: false },
+];
+---
+
+<Layout
+  title={`${p.name} — ${defaultSpec.label} × ${defaultSpec.vials} Vials/Kit | COA`}
+  description={`${p.name} (${p.shortCode}) research peptide, ${defaultSpec.label} × ${p.kitVials} vials per kit, USD ${money(p.priceFrom)}–${money(p.priceTo)} per kit. RP-HPLC ≥99%, lot-specific COA, tiered B2B pricing. Research use only.`}
+  path={`/peptides/${p.slug}`}
+  image={imageUrl || SITE.logo}
+  structuredData={[productLd, faqLd]}
+>
+  <Breadcrumbs
+    items={[
+      { label: 'Products', href: '/products' },
+      { label: p.categoryShort, href: `/products?category=${p.category}` },
+      { label: p.name },
+    ]}
+  />
+
+  <!-- ======================= HERO / ENTITY SUMMARY ======================= -->
+  <section class="bg-white">
+    <div class="container-x grid gap-10 py-10 lg:grid-cols-[0.85fr_1.15fr] lg:py-14">
+      <!-- Product visual -->
+      <div class="order-2 lg:order-1">
+        <div class="overflow-hidden rounded-3xl border border-slate-200 bg-white p-3 shadow-card">
+          <PeptideVialPlaceholder
+            slug={p.slug}
+            code={p.shortCode}
+            spec={defaultSpec.label}
+            purity={p.purity}
+            category={p.category}
+            imageUrl={imageUrl}
+            vials={defaultSpec.vials}
+            form={p.form}
+            class="rounded-2xl"
+          />
+        </div>
+
+        <div class="mt-4 grid grid-cols-3 gap-3">
+          {
+            [
+              ['Form', p.form === 'sterile_solution' ? 'Solution' : p.form === 'mixed' ? 'Mixed' : 'Lyophilized'],
+              ['Vials', `${p.kitVials}/kit`],
+              ['COA', p.coaPdfUrl ? 'On file' : 'Per batch'],
+            ].map(([k, v]) => (
+              <div class="rounded-xl border border-slate-200 bg-slate-50 px-3 py-2 text-center">
+                <p class="text-[10px] font-semibold uppercase tracking-wider text-slate-500">{k}</p>
+                <p class="mt-0.5 text-xs font-bold text-slateink">{v}</p>
+              </div>
+            ))
+          }
+        </div>
+
+        <div class="mt-4 hidden rounded-xl border border-slate-200 bg-white p-4 lg:block">
+          <p class="label">Need a bulk or OEM quote?</p>
+          <p class="mt-1 text-xs leading-5 text-slate-500">
+            Private label and fixed-composition blends from 50 kits per SKU.
+          </p>
+          <a href="/rfq" class="btn-secondary btn-sm mt-3 w-full">Talk to a sales chemist</a>
+        </div>
+      </div>
+
+      <!-- Entity summary box -->
+      <div class="order-1 lg:order-2">
+        <div class="flex flex-wrap items-center gap-2">
+          <a href={`/products?category=${p.category}`} class="chip border-ocean-200 bg-ocean-50 !text-ocean-800">
+            {p.categoryLabel}
+          </a>
+          <span class="chip">
+            <span class="font-mono font-bold text-slate-700">{p.shortCode}</span>
+          </span>
+          {p.chemistryStatus === 'documented' ? (
+            <span class="chip border-emerald-200 bg-emerald-50 !text-emerald-700">
+              <span class="h-1.5 w-1.5 rounded-full bg-emerald-500"></span> Chemistry documented
+            </span>
+          ) : (
+            <span class="chip border-amber-200 bg-amber-50 !text-amber-700">
+              <span class="h-1.5 w-1.5 rounded-full bg-amber-500"></span> Chemistry on batch COA
+            </span>
+          )}
+        </div>
+
+        <h1 class="mt-4 text-3xl font-extrabold leading-tight tracking-tight text-slateink sm:text-4xl">
+          {p.name}
+        </h1>
+        <p class="mt-2 text-sm text-slate-500">
+          {p.aliases.slice(0, 6).join(' · ')}
+        </p>
+
+        <!-- Parameter table -->
+        <div class="mt-6 overflow-hidden rounded-2xl border border-slate-200">
+          <table class="table-lab">
+            <caption class="sr-only">Entity summary for {p.name}</caption>
+            <tbody>
+              {
+                summaryRows.map((r) => (
+                  <tr>
+                    <th scope="row" class="w-[38%] !border-b !border-slate-100 !bg-white !py-2.5 !text-[11px] !normal-case !tracking-normal !text-slate-500">
+                      {r.k}
+                    </th>
+                    <td class:list={['!py-2.5 text-[13px] font-medium text-slate-800', r.mono && 'font-mono']}>{r.v}</td>
+                  </tr>
+                ))
+              }
+            </tbody>
+          </table>
+        </div>
+
+        <!-- Price + spec selector -->
+        <div class="mt-6 rounded-2xl border border-slate-200 bg-slate-50/70 p-5" id="spec-box">
+          <div class="flex flex-wrap items-end justify-between gap-3">
+            <div>
+              <p class="label">Indicative price per kit (10 vials)</p>
+              <p class="mt-1 font-mono text-3xl font-extrabold text-slateink">
+                <span id="sel-price">{defaultSpec.perKit ? `$${Number(defaultSpec.perKit).toFixed(2)}` : 'RFQ'}</span>
+                <span class="text-xs font-medium text-slate-500"> / kit</span>
+              </p>
+            </div>
+            <p class="text-right text-[11px] leading-4 text-slate-500">
+              USD, ex-works.<br />Volume tiers adjust automatically.
+            </p>
+          </div>
+
+          <p class="mt-4 label">Select pack size</p>
+          <div id="spec-selector" class="mt-2 flex flex-wrap gap-2">
+            {
+              p.specs.map((s, i) => (
+                <button
+                  type="button"
+                  class:list={[
+                    'js-spec rounded-xl border px-3 py-2 text-left transition-colors',
+                    i === 0
+                      ? 'border-brand-400 bg-white shadow-sm'
+                      : 'border-slate-200 bg-white hover:border-brand-300',
+                  ]}
+                  data-index={i}
+                  aria-pressed={i === 0 ? 'true' : 'false'}
+                >
+                  <span class="block text-sm font-bold text-slateink">{s.label}</span>
+                  <span class="block font-mono text-[10px] text-slate-500">{s.vials} vials/kit</span>
+                </button>
+              ))
+            }
+          </div>
+
+          <div class="mt-4" id="sel-tiers">
+            <TierTable spec={defaultSpec} showSpec={false} />
+          </div>
+
+          <div class="mt-4 flex flex-wrap items-end gap-3">
+            <div>
+              <label for="sel-qty" class="label">Kits</label>
+              <input id="sel-qty" type="number" min="1" max="9999" value="1" class="field mt-1 !w-24 !py-2 text-center font-mono" />
+            </div>
+            <button type="button" id="sel-add" class="btn-primary flex-1 sm:flex-none">
+              <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="M12 5v14M5 12h14" stroke-linecap="round" />
+              </svg>
+              Add to RFQ list
+            </button>
+            <a href={`mailto:${SITE.email}?subject=${encodeURIComponent(`RFQ — ${p.name}`)}`} class="btn-secondary">
+              Email sales
+            </a>
+            <a href={`${SITE.whatsapp}?text=${encodeURIComponent(`Hello Dchemi, I would like a quote for ${p.name} [${p.shortCode}].`)}`} target="_blank" rel="noopener" class="btn-secondary">
+              WhatsApp
+            </a>
+          </div>
+
+          <p class="mt-3 text-[11px] leading-5 text-slate-500">
+            No online payment. Final price confirmed by sales after stock and freight review.
+            MOQ {p.moqKits} kit.
+          </p>
+        </div>
+
+        <div class="mt-4">
+          <ComplianceNotice variant="inline" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <ComplianceNotice variant="bar" />
+
+  <!-- ======================= OVERVIEW + SPECS ======================= -->
+  <section class="container-x py-12">
+    <div class="grid gap-10 lg:grid-cols-[1.15fr_0.85fr]">
+      <div>
+        <h2 class="text-xl font-bold text-slateink">Product overview</h2>
+        <p class="mt-3 text-[15px] leading-7 text-slate-700">{p.geoSummary}</p>
+
+        {
+          p.composition.length ? (
+            <div class="mt-6 rounded-2xl border border-slate-200 bg-white p-5">
+              <p class="label">Composition per vial</p>
+              <ul class="mt-2 space-y-1.5">
+                {p.composition.map((c) => (
+                  <li class="flex justify-between gap-4 text-sm">
+                    <span class="text-slate-600">{c.component}</span>
+                    <span class="font-mono font-semibold text-slateink">{c.amount}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ) : null
+        }
+
+        <div class="mt-8">
+          <h2 class="text-xl font-bold text-slateink">Pack sizes & tier pricing</h2>
+          <p class="mt-1 text-sm text-slate-500">
+            All prices USD per kit of {p.kitVials} vials. Tier discount applies per line item.
+          </p>
+          <div class="mt-4 space-y-4">
+            {
+              p.specs.map((s) => (
+                <div class="rounded-2xl border border-slate-200 bg-white p-4">
+                  <div class="mb-3 flex flex-wrap items-center justify-between gap-2">
+                    <p class="text-sm font-bold text-slateink">
+                      {s.label} <span class="font-normal text-slate-400">× {s.vials} vials/kit</span>
+                    </p>
+                    <p class="font-mono text-sm font-bold text-ocean-700">
+                      from ${Number(s.tiers[0]?.price ?? s.perKit ?? 0).toFixed(2)}
+                    </p>
+                  </div>
+                  <TierTable spec={s} showSpec={false} class="!border-0" />
+                </div>
+              ))
+            }
+          </div>
+        </div>
+      </div>
+
+      <aside class="space-y-6">
+        <div class="card p-5">
+          <p class="label">Handling & storage</p>
+          <ul class="mt-3 space-y-2 text-sm leading-6 text-slate-600">
+            <li>{p.storage.summary.replace(/\.$/, '')}.</li>
+            {
+              p.storage.reconstituted ? (
+                <li>After reconstitution: {p.storage.reconstituted}</li>
+              ) : null
+            }
+            <li>Protect from light and moisture; avoid repeated freeze–thaw cycles.</li>
+            <li>Kit format: {p.kitVials} sterile vials per kit, individually labelled.</li>
+          </ul>
+        </div>
+
+        <div class="card p-5">
+          <p class="label">Procurement notes</p>
+          <dl class="mt-3 space-y-2 text-sm">
+            <div class="flex justify-between gap-3">
+              <dt class="text-slate-500">MOQ</dt>
+              <dd class="font-semibold text-slateink">{p.moqKits} kit</dd>
+            </div>
+            <div class="flex justify-between gap-3">
+              <dt class="text-slate-500">Lead time</dt>
+              <dd class="font-semibold text-slateink">3–7 days (stock)</dd>
+            </div>
+            <div class="flex justify-between gap-3">
+              <dt class="text-slate-500">Documentation</dt>
+              <dd class="font-semibold text-slateink">COA · MSDS · packing list</dd>
+            </div>
+            <div class="flex justify-between gap-3">
+              <dt class="text-slate-500">Payment</dt>
+              <dd class="font-semibold text-slateink">Proforma invoice only</dd>
+            </div>
+          </dl>
+        </div>
+
+        <div class="rounded-2xl border border-ocean-200 bg-ocean-50 p-5">
+          <p class="text-sm font-bold text-ocean-900">Verify before you buy</p>
+          <p class="mt-1 text-xs leading-5 text-ocean-800/80">
+            Ask for the batch COA and confirm the lot number on the vial label matches the
+            certificate. We publish the format <span class="font-mono">VC-2026-[CODE]-01</span>.
+          </p>
+          <a href="/quality-coa" class="mt-3 inline-flex text-xs font-bold text-ocean-800 hover:underline">
+            How our QC works →
+          </a>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ======================= COA ======================= -->
+  <section class="container-x py-6">
+    <CoaPanel product={p} />
+  </section>
+
+  <!-- ======================= FAQ ======================= -->
+  <section class="container-x py-12">
+    <FaqAccordion faqs={p.faqs} title={`${p.name} — buyer FAQ`} />
+  </section>
+
+  <!-- ======================= RELATED ======================= -->
+  <section class="container-x pb-6">
+    <RelatedTable current={p} related={related} />
+  </section>
+
+  <!-- ======================= CTA ======================= -->
+  <section class="container-x pb-20 pt-10">
+    <div class="overflow-hidden rounded-3xl border border-slate-200 bg-gradient-to-r from-brand-50 via-white to-ocean-50 p-8 sm:p-10">
+      <div class="flex flex-wrap items-center justify-between gap-6">
+        <div class="max-w-xl">
+          <h2 class="text-xl font-extrabold text-slateink sm:text-2xl">
+            Request {p.name} pricing for your next batch
+          </h2>
+          <p class="mt-2 text-sm leading-6 text-slate-600">
+            Tell us the pack sizes and kit quantities — we reply with tier pricing, COA and freight
+            options within one business day.
+          </p>
+        </div>
+        <div class="flex flex-wrap gap-3">
+          <a href="/rfq" class="btn-primary">Request quote</a>
+          <a href="/products" class="btn-secondary">Back to catalogue</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script type="application/json" id="spec-data" set:html={specJson} />
+  <script is:inline define:vars={{ productName: p.name, productSlug: p.slug, shortCode: p.shortCode }}>
+    (function () {
+      const raw = document.getElementById('spec-data');
+      const specs = raw ? JSON.parse(raw.textContent || '[]') : [];
+      if (!specs.length) return;
+
+      const priceEl = document.getElementById('sel-price');
+      const tiersEl = document.getElementById('sel-tiers');
+      const addBtn = document.getElementById('sel-add');
+      const qtyEl = document.getElementById('sel-qty');
+      const buttons = Array.from(document.querySelectorAll('.js-spec'));
+      let current = 0;
+
+      const money = (v) => (v == null ? 'RFQ' : '$' + Number(v).toFixed(2));
+
+      function tiersHtml(s) {
+        const base = s.perKit;
+        const rows = (s.tiers || [])
+          .map((t) => {
+            const pct = base && t.price < base ? Math.round((1 - t.price / base) * 100) : 0;
+            return (
+              '<tr><td class="font-medium text-slate-700">' +
+              t.label +
+              '</td><td class="text-right font-mono font-semibold text-slateink">' +
+              money(t.price) +
+              (pct ? ' <span class="ml-2 text-[11px] font-semibold text-brand-600">−' + pct + '%</span>' : '') +
+              '</td></tr>'
+            );
+          })
+          .join('');
+        return (
+          '<div class="overflow-hidden rounded-xl border border-slate-200"><table class="table-lab">' +
+          '<thead><tr><th>Quantity</th><th class="text-right">Unit price / kit</th></tr></thead>' +
+          '<tbody>' +
+          (rows || '<tr><td>1+ kit</td><td class="text-right font-mono">' + money(base) + '</td></tr>') +
+          '</tbody></table></div>'
+        );
+      }
+
+      function select(i) {
+        current = i;
+        const s = specs[i];
+        buttons.forEach((b, idx) => {
+          const on = idx === i;
+          b.setAttribute('aria-pressed', String(on));
+          b.classList.toggle('border-brand-400', on);
+          b.classList.toggle('shadow-sm', on);
+          b.classList.toggle('border-slate-200', !on);
+        });
+        if (priceEl) priceEl.textContent = money(s.perKit);
+        if (tiersEl) tiersEl.innerHTML = tiersHtml(s);
+        if (addBtn) addBtn.dataset.payload = JSON.stringify({
+          slug: productSlug,
+          name: productName,
+          shortCode: shortCode,
+          spec: s.spec,
+          label: s.label,
+          vials: s.vials,
+          price: s.perKit,
+          tiers: s.tiers,
+        });
+      }
+
+      buttons.forEach((b, i) => b.addEventListener('click', () => select(i)));
+
+      addBtn?.addEventListener('click', () => {
+        const payload = addBtn.dataset.payload;
+        const qty = Math.max(1, Number(qtyEl?.value) || 1);
+        if (payload) {
+          try {
+            window.DchemiRFQ?.add(JSON.parse(payload), qty);
+          } catch (e) {
+            console.error(e);
+          }
+        }
+      });
+
+      select(0);
+    })();
+  </script>
+</Layout>

@@ -1,0 +1,23 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout
+  title="Page not found"
+  description="The page you are looking for does not exist. Browse the Dchemi research peptide catalogue instead."
+  path="/404"
+  noindex
+>
+  <section class="container-x flex min-h-[60vh] flex-col items-center justify-center py-20 text-center">
+    <p class="font-mono text-6xl font-extrabold text-brand-500">404</p>
+    <h1 class="mt-4 text-2xl font-bold text-slateink">This page is not in the catalogue</h1>
+    <p class="mt-2 max-w-md text-sm leading-6 text-slate-600">
+      The link may be outdated. Every product lives at <span class="font-mono">/peptides/[slug]</span>;
+      the full index is one click away.
+    </p>
+    <div class="mt-6 flex flex-wrap justify-center gap-3">
+      <a href="/products" class="btn-primary">Browse all products</a>
+      <a href="/" class="btn-secondary">Back to home</a>
+    </div>
+  </section>
+</Layout>
