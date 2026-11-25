@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:29:05.008Z",
+  "generatedAt": "2026-11-25T14:44:42.317Z",
   "sourceVersion": "1.0.0",
   "currency": "USD",
   "priceUnit": "Kit (10 vials)",
@@ -1373,7 +1373,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "221231-10-3",
-      "sequence": null,
+      "sequence": "YLRIVQCRSVEGSCGF",
       "molecularFormula": "C78H123N23O23S2",
       "formula": "C78H123N23O23S2",
       "molecularWeight": "1815.1",
@@ -2347,7 +2347,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "137525-51-0",
-      "sequence": null,
+      "sequence": "GEPPPGKPADDAGLV",
       "molecularFormula": "C62H98N16O22",
       "formula": "C62H98N16O22",
       "molecularWeight": "1419.5",
@@ -2822,7 +2822,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "857267-12-0",
-      "sequence": null,
+      "sequence": "AEDL",
       "molecularFormula": "C18H30N4O9",
       "formula": "C18H30N4O9",
       "molecularWeight": "446.5",
@@ -3368,7 +3368,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "85806-95-7",
-      "sequence": null,
+      "sequence": "AED",
       "molecularFormula": "C12H19N3O8",
       "formula": "C12H19N3O8",
       "molecularWeight": "333.29",
@@ -4220,7 +4220,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "335591-03-2",
-      "sequence": null,
+      "sequence": "AEDP",
       "molecularFormula": "C17H26N4O9",
       "formula": "C17H26N4O9",
       "molecularWeight": "430.4",
@@ -4427,7 +4427,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": null,
-      "sequence": null,
+      "sequence": "YAFGYPS",
       "molecularFormula": "C40H50N8O10",
       "formula": "C40H50N8O10",
       "molecularWeight": "802.9",
@@ -4592,7 +4592,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "62568-57-4",
-      "sequence": null,
+      "sequence": "WAGGDASGE",
       "molecularFormula": "C35H48N10O15",
       "formula": "C35H48N10O15",
       "molecularWeight": "848.8",
@@ -4891,7 +4891,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "307297-39-8",
-      "sequence": null,
+      "sequence": "AEDG",
       "molecularFormula": "C14H22N4O9",
       "formula": "C14H22N4O9",
       "molecularWeight": "390.35",
@@ -5988,7 +5988,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": null,
-      "sequence": null,
+      "sequence": "HWAWFK",
       "molecularFormula": "C46H56N12O6",
       "formula": "C46H56N12O6",
       "molecularWeight": "873.0",
@@ -7927,7 +7927,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "330936-69-1",
-      "sequence": null,
+      "sequence": "MAPRGFSCLLLLTSEIDLPVKRRA",
       "molecularFormula": "C119H204N34O32S2",
       "formula": "C119H204N34O32S2",
       "molecularWeight": "2687.2",
@@ -8366,7 +8366,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "374675-21-5",
-      "sequence": null,
+      "sequence": "YNWNSFGLRF",
       "molecularFormula": "C63H83N17O14",
       "formula": "C63H83N17O14",
       "molecularWeight": "1302.4",
@@ -9414,7 +9414,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "433257-50-2",
-      "sequence": null,
+      "sequence": "AEDK",
       "molecularFormula": "C18H31N5O9",
       "formula": "C18H31N5O9",
       "molecularWeight": "461.5",
@@ -9520,7 +9520,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "154947-66-7",
-      "sequence": null,
+      "sequence": "LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES",
       "molecularFormula": "C205H340N60O53",
       "formula": "C205H340N60O53",
       "molecularWeight": "4493",
@@ -10597,7 +10597,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "1627580-64-6",
-      "sequence": null,
+      "sequence": "MRWQEMGYIFYPRKLR",
       "molecularFormula": "C101H152N28O22S2",
       "formula": "C101H152N28O22S2",
       "molecularWeight": "2174.6",
@@ -11837,7 +11837,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "175175-23-2",
-      "sequence": null,
+      "sequence": "EDR",
       "molecularFormula": "C15H26N6O8",
       "formula": "C15H26N6O8",
       "molecularWeight": "418.40",
@@ -12164,7 +12164,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "473578-47-1",
-      "sequence": null,
+      "sequence": "KEDP",
       "molecularFormula": "C20H33N5O9",
       "formula": "C20H33N5O9",
       "molecularWeight": "487.5",
@@ -13083,7 +13083,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "129954-34-3",
-      "sequence": null,
+      "sequence": "TKPRPGP",
       "molecularFormula": "C33H57N11O9",
       "formula": "C33H57N11O9",
       "molecularWeight": "751.9",
@@ -13504,7 +13504,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": "80714-61-0",
-      "sequence": null,
+      "sequence": "MEHFPGP",
       "molecularFormula": "C37H51N9O10S",
       "formula": "C37H51N9O10S",
       "molecularWeight": "813.9",
@@ -14448,7 +14448,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": null,
-      "sequence": null,
+      "sequence": "SDKPDMAEIEKFDKSKLKKTETQEKNPLPSKETIEQEKQAGES",
       "molecularFormula": "C212H350N56O78S",
       "formula": "C212H350N56O78S",
       "molecularWeight": "4963",
@@ -14778,7 +14778,7 @@
         "summary": "Store at -20 °C, protected from light and moisture."
       },
       "cas": null,
-      "sequence": null,
+      "sequence": "SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF",
       "molecularFormula": "C181H291N55O51S2",
       "formula": "C181H291N55O51S2",
       "molecularWeight": "4118",

@@ -145,7 +145,8 @@ for (const p of data.products) {
   const formula = p.molecularFormula || p.formula || null;
   const mw = p.molecularWeight ? (/da$/i.test(String(p.molecularWeight)) ? p.molecularWeight : `${p.molecularWeight} Da`) : null;
   full.push(`- CAS: ${p.cas || coaNote}`);
-  full.push(`- Sequence: ${p.sequence || coaNote}`);
+  // 序列：只有核验过的真实值才写；没有就整行省略（与页面一致）
+  if (p.sequence) full.push(`- Sequence: ${p.sequence}`);
   full.push(`- Molecular formula: ${formula || coaNote}`);
   full.push(`- Molecular weight: ${mw || coaNote}`);
   full.push(`- Storage: ${p.storage.summary}`);

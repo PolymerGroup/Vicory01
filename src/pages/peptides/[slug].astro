@@ -115,7 +115,9 @@ const productLd = {
   ...(imageUrl ? { image: [abs(imageUrl)] } : {}),
   additionalProperty: [
     { '@type': 'PropertyValue', name: 'CAS number', value: chem.cas || chemFallback },
-    { '@type': 'PropertyValue', name: 'Sequence', value: chem.sequence || chemFallback },
+    ...(chem.sequence
+      ? [{ '@type': 'PropertyValue', name: 'Sequence', value: chem.sequence }]
+      : []),
     { '@type': 'PropertyValue', name: 'Molecular formula', value: chem.formula || chemFallback },
     { '@type': 'PropertyValue', name: 'Molecular weight', value: mwText || chemFallback },
     { '@type': 'PropertyValue', name: 'Purity', value: p.purity || 'Not applicable' },
@@ -151,7 +153,8 @@ const summaryRows = [
   { k: 'CAS number', v: chem.cas || chemFallback, mono: true },
   { k: 'Molecular formula', v: chem.formula || chemFallback, mono: true },
   { k: 'Molecular weight', v: mwText || chemFallback, mono: true },
-  { k: 'Sequence', v: chem.sequence || chemFallback, mono: true },
+  // 只有核验过的真实序列才展示；没有序列的产品整行隐藏，不回退 COA
+  ...(chem.sequence ? [{ k: 'Sequence', v: chem.sequence, mono: true }] : []),
   { k: 'Purity', v: p.purity || 'Not applicable (ancillary reagent)', mono: false },
   { k: 'Appearance', v: p.appearance, mono: false },
   { k: 'Pack size', v: `${p.kitVials} vials per kit`, mono: false },
