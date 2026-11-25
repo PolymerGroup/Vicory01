@@ -5,7 +5,7 @@ B2B research-peptide catalogue: 119 products, 266 pack-size SKUs, USD tier prici
 10 vials, lot-specific COA, RFQ-only ordering.
 
 - Canonical domain: `https://dchemi.com`
-- Hosting: GitHub + Cloudflare Pages
+- Hosting: GitHub + Cloudflare (Workers Builds or Pages)
 - Output: pure static (`output: 'static'`), zero client framework, Tailwind for styling
 - Ordering model: RFQ cart → formatted email / WhatsApp (no card payments, no backend)
 
@@ -151,21 +151,44 @@ COA batch pattern used across the site: `VC-2026-[SHORT_CODE]-01`.
 
 ---
 
-## 6. Deploy to Cloudflare Pages
+## 6. Deploy to Cloudflare
 
-1. Push this folder to GitHub (`dchemi` repo).
-2. Cloudflare Pages → **Create project** → connect the repo.
-3. Build settings:
-   - Framework preset: **Astro**
-   - Build command: `pnpm build`
-   - Build output directory: `dist`
-   - Node version: `20` (env `NODE_VERSION=20`)
-4. Custom domain: add `dchemi.com` (and `www.dchemi.com`).
-5. Add a **Redirect Rule** so mirrors never get indexed:
-   - `host eq "www.dchemi.com"` → `301` → `concat("https://dchemi.com", http.request.uri.path)`
-   - also redirect the `*.pages.dev` preview host to the canonical domain.
-6. After the first deploy: submit `https://dchemi.com/sitemap.xml` in Google Search Console and Bing
-   Webmaster Tools; verify `robots.txt` and `llms.txt` resolve.
+The repo ships **wrangler.jsonc** (assets-only Worker), so either Cloudflare product works
+without extra configuration.
+
+### Option A - Workers Builds (icory01)
+
+| Setting | Value |
+|---|---|
+| Build command | pnpm run build |
+| Deploy command | 
+px wrangler deploy |
+| Root directory | / |
+| Node | 20+ (NODE_VERSION=20) |
+| pnpm | 9.10.0 (pinned via packageManager) |
+
+wrangler.jsonc maps the Worker to ./dist, uses html_handling: drop-trailing-slash
+(matches Astro 	railingSlash: 'never') and 
+ot_found_handling: 404-page (dist/404.html).
+
+> CI note: scripts/build-data.mjs **skips regeneration** when ../master_db/master_peptides.json
+> is absent and falls back to the committed src/data/peptides.json. Keep that file committed.
+
+### Option B - Cloudflare Pages
+
+- Framework preset: **Astro**, build command pnpm build, output directory dist.
+- public/_headers is applied automatically on Pages. On a Worker, mirror the same headers via
+  wrangler.jsonc -> ssets.headers if you need them.
+
+### Domain + indexing (both options)
+
+1. Custom domain: dchemi.com (and www.dchemi.com).
+2. Add a **Redirect Rule** so mirrors never get indexed:
+   host eq "www.dchemi.com" -> 301 -> concat("https://dchemi.com", http.request.uri.path);
+   also redirect the *.workers.dev / *.pages.dev preview host to the canonical domain.
+3. After the first deploy: submit https://dchemi.com/sitemap.xml in Google Search Console and Bing
+   Webmaster Tools; verify 
+obots.txt and llms.txt resolve.
 
 ---
 
