@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:44:42.317Z",
+  "generatedAt": "2026-11-25T15:12:45.537Z",
   "sourceVersion": "1.0.0",
   "currency": "USD",
   "priceUnit": "Kit (10 vials)",
@@ -98,12 +98,13 @@
         "reconstituted": "2-8 °C, use within the period stated in the COA.",
         "summary": "Store at -20 °C, protected from light and moisture."
       },
-      "cas": null,
+      "cas": "42464-96-0",
       "sequence": null,
-      "molecularFormula": null,
-      "formula": null,
-      "molecularWeight": null,
-      "chemistryStatus": "pending-coa",
+      "molecularFormula": "C10H11IN2",
+      "formula": "C10H11IN2",
+      "molecularWeight": "286.11",
+      "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -263,12 +264,15 @@
         "reconstituted": "2-8 °C, use within the period stated in the COA.",
         "summary": "Store at -20 °C, protected from light and moisture."
       },
-      "cas": null,
+      "cas": "1169766-01-1",
       "sequence": null,
       "molecularFormula": null,
       "formula": null,
-      "molecularWeight": null,
-      "chemistryStatus": "pending-coa",
+      "molecularWeight": "74–75 kDa",
+      "chemistryStatus": "documented",
+      "chemOmit": [
+        "molecular_formula"
+      ],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -373,6 +377,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -538,6 +543,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -674,6 +680,7 @@
       "formula": "C207H308N56O58S",
       "molecularWeight": "4541",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -772,12 +779,13 @@
         "reconstituted": "2-8 °C, use within the period stated in the COA.",
         "summary": "Store at -20 °C, protected from light and moisture."
       },
-      "cas": null,
+      "cas": "859216-15-2",
       "sequence": null,
-      "molecularFormula": null,
-      "formula": null,
-      "molecularWeight": null,
-      "chemistryStatus": "pending-coa",
+      "molecularFormula": "C111H206N36O28S2",
+      "formula": "C111H206N36O28S2",
+      "molecularWeight": "2557.18",
+      "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -938,12 +946,13 @@
         "reconstituted": "2-8 °C, use within the period stated in the COA.",
         "summary": "Store at -20 °C, protected from light and moisture."
       },
-      "cas": null,
+      "cas": "859216-15-2",
       "sequence": null,
-      "molecularFormula": null,
-      "formula": null,
-      "molecularWeight": null,
-      "chemistryStatus": "pending-coa",
+      "molecularFormula": "C111H206N36O28S2",
+      "formula": "C111H206N36O28S2",
+      "molecularWeight": "2557.18",
+      "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -1102,12 +1111,13 @@
         "reconstituted": "2-8 °C, use within the period stated in the COA.",
         "summary": "Store at -20 °C, protected from light and moisture."
       },
-      "cas": null,
+      "cas": "300801-03-0",
       "sequence": null,
-      "molecularFormula": null,
-      "formula": null,
-      "molecularWeight": null,
-      "chemistryStatus": "pending-coa",
+      "molecularFormula": "C15H24CuN6O4",
+      "formula": "C15H24CuN6O4",
+      "molecularWeight": "415.94",
+      "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -1243,6 +1253,7 @@
       "formula": "C9H15N4O8P",
       "molecularWeight": "338.21",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -1378,6 +1389,7 @@
       "formula": "C78H123N23O23S2",
       "molecularWeight": "1815.1",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -1541,6 +1553,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -1674,6 +1687,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -1809,6 +1823,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -1944,6 +1959,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -2080,6 +2096,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -2246,6 +2263,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -2352,6 +2370,7 @@
       "formula": "C62H98N16O22",
       "molecularWeight": "1419.5",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -2550,6 +2569,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [
         {
           "component": "BPC-157",
@@ -2724,6 +2744,7 @@
       "formula": "C50H68N14O10",
       "molecularWeight": "1025.2",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -2827,6 +2848,7 @@
       "formula": "C18H30N4O9",
       "molecularWeight": "446.5",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -2932,6 +2954,7 @@
       "formula": "C194H312N54O59S2",
       "molecularWeight": "4409",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -3098,6 +3121,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [
         {
           "component": "Cagrilintide",
@@ -3270,6 +3294,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -3373,6 +3398,7 @@
       "formula": "C12H19N3O8",
       "molecularWeight": "333.29",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -3477,6 +3503,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -3581,6 +3608,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -3749,6 +3777,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [
         {
           "component": "CJC-1295 (No DAC)",
@@ -3894,6 +3923,7 @@
       "formula": "C165H269N47O46",
       "molecularWeight": "3647.2",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -4062,6 +4092,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -4225,6 +4256,7 @@
       "formula": "C17H26N4O9",
       "molecularWeight": "430.4",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -4328,6 +4360,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -4432,6 +4465,7 @@
       "formula": "C40H50N8O10",
       "molecularWeight": "802.9",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -4597,6 +4631,7 @@
       "formula": "C35H48N10O15",
       "molecularWeight": "848.8",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -4761,6 +4796,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -4896,6 +4932,7 @@
       "formula": "C14H22N4O9",
       "molecularWeight": "390.35",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -5032,6 +5069,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -5138,6 +5176,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -5244,6 +5283,7 @@
       "formula": "C228H388N86O64",
       "molecularWeight": "5358",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -5379,6 +5419,7 @@
       "formula": "C111H206N36O28S2",
       "molecularWeight": "2557.2",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -5483,6 +5524,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -5586,6 +5628,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -5692,6 +5735,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -5827,6 +5871,7 @@
       "formula": "C45H55N9O6",
       "molecularWeight": "818.0",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -5987,12 +6032,13 @@
         "reconstituted": "2-8 °C, use within the period stated in the COA.",
         "summary": "Store at -20 °C, protected from light and moisture."
       },
-      "cas": null,
+      "cas": "145177-42-0",
       "sequence": "HWAWFK",
       "molecularFormula": "C46H56N12O6",
       "formula": "C46H56N12O6",
       "molecularWeight": "873.0",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -6131,6 +6177,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [
         {
           "component": "BPC-157",
@@ -6250,6 +6297,7 @@
       "formula": "C10H17N3O6S",
       "molecularWeight": "307.33",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -6476,6 +6524,7 @@
       "formula": "C55H75N17O13",
       "molecularWeight": "1182.3",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -6611,6 +6660,7 @@
       "formula": "C57H79N17O15",
       "molecularWeight": "1242.3",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -6746,6 +6796,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -6941,6 +6992,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -7046,6 +7098,7 @@
       "formula": "C49H62N12O8",
       "molecularWeight": "947.1",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -7182,6 +7235,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -7466,6 +7520,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -7572,6 +7627,7 @@
       "formula": "C80H127N23O24S2",
       "molecularWeight": "1859.1",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -7827,6 +7883,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -7932,6 +7989,7 @@
       "formula": "C119H204N34O32S2",
       "molecularWeight": "2687.2",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -8038,6 +8096,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -8203,6 +8262,7 @@
       "formula": "C38H49N9O5",
       "molecularWeight": "711.9",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -8371,6 +8431,7 @@
       "formula": "C63H83N17O14",
       "molecularWeight": "1302.4",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -8506,6 +8567,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [
         {
           "component": "BPC-157",
@@ -8628,6 +8690,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -8792,6 +8855,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -9046,6 +9110,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -9152,6 +9217,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -9256,6 +9322,7 @@
       "formula": "C172H265N43O51",
       "molecularWeight": "3751",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -9419,6 +9486,7 @@
       "formula": "C18H31N5O9",
       "molecularWeight": "461.5",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -9525,6 +9593,7 @@
       "formula": "C205H340N60O53",
       "molecularWeight": "4493",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -9690,6 +9759,7 @@
       "formula": "C39H75N7O10",
       "molecularWeight": "802.1",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -9795,6 +9865,7 @@
       "formula": "C207H317N45O65",
       "molecularWeight": "4476",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -9931,6 +10002,7 @@
       "formula": "C78H111N21O19",
       "molecularWeight": "1646.8",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -10037,6 +10109,7 @@
       "formula": "C50H69N15O9",
       "molecularWeight": "1024.2",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -10142,6 +10215,7 @@
       "formula": "C13H16N2O2",
       "molecularWeight": "232.28",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -10248,6 +10322,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -10353,6 +10428,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [
         {
           "component": "Lipotropic complex",
@@ -10496,6 +10572,7 @@
       "formula": "C27H36N4O5S",
       "molecularWeight": "528.7",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -10602,6 +10679,7 @@
       "formula": "C101H152N28O22S2",
       "molecularWeight": "2174.6",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -10798,6 +10876,7 @@
       "formula": "C21H27N7O14P2",
       "molecularWeight": "663.4",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -10963,6 +11042,7 @@
       "formula": "C152H243N47O44S4",
       "molecularWeight": "3561.1",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -11068,6 +11148,7 @@
       "formula": "C123H212N44O35S",
       "molecularWeight": "2899.3",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -11202,6 +11283,7 @@
       "formula": "C45H70N12O14S2",
       "molecularWeight": "1067.2",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -11367,6 +11449,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -11500,6 +11583,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 116,
       "specs": [
@@ -11605,6 +11689,7 @@
       "formula": "C35H55N11O9",
       "molecularWeight": "773.9",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -11739,6 +11824,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -11842,6 +11928,7 @@
       "formula": "C15H26N6O8",
       "molecularWeight": "418.40",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -12006,6 +12093,7 @@
       "formula": "C188H293N53O44S",
       "molecularWeight": "4032",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -12169,6 +12257,7 @@
       "formula": "C20H33N5O9",
       "molecularWeight": "487.5",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -12273,6 +12362,7 @@
       "formula": "C124H225N61O28S2",
       "molecularWeight": "3082.6",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -12377,6 +12467,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -12483,6 +12574,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -12859,6 +12951,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [
         {
           "component": "Retatrutide",
@@ -12974,6 +13067,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [
         {
           "component": "Retatrutide",
@@ -13088,6 +13182,7 @@
       "formula": "C33H57N11O9",
       "molecularWeight": "751.9",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -13224,6 +13319,7 @@
       "formula": "C187H291N45O59",
       "molecularWeight": "4114",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -13509,6 +13605,7 @@
       "formula": "C37H51N9O10S",
       "molecularWeight": "813.9",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -13644,6 +13741,7 @@
       "formula": "C149H246N44O42S",
       "molecularWeight": "3357.9",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -13808,6 +13906,7 @@
       "formula": "C18H14N2O2",
       "molecularWeight": "290.3",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -13942,6 +14041,7 @@
       "formula": "C42H72N16O15S",
       "molecularWeight": "1073.2",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -14078,6 +14178,7 @@
       "formula": "C32H49N9O5",
       "molecularWeight": "639.8",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -14242,6 +14343,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -14347,6 +14449,7 @@
       "formula": "C192H289N47O61",
       "molecularWeight": "4232",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -14453,6 +14556,7 @@
       "formula": "C212H350N56O78S",
       "molecularWeight": "4963",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -14618,6 +14722,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -14783,6 +14888,7 @@
       "formula": "C181H291N55O51S2",
       "molecularWeight": "4118",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -14887,6 +14993,7 @@
       "formula": "C221H366N72O67S",
       "molecularWeight": "5136",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -15083,6 +15190,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [
         {
           "component": "Tesamorelin",
@@ -15345,6 +15453,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -15449,6 +15558,7 @@
       "formula": "C33H54N12O15",
       "molecularWeight": "858.9",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -15555,6 +15665,7 @@
       "formula": "C129H215N33O55",
       "molecularWeight": "3108.3",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -15689,6 +15800,7 @@
       "formula": "C225H348N48O68",
       "molecularWeight": "4813",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -16123,6 +16235,7 @@
       "formula": "C66H86N18O15",
       "molecularWeight": "1371.5",
       "chemistryStatus": "documented",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -16226,6 +16339,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -16330,6 +16444,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -16465,6 +16580,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -16570,6 +16686,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -16675,6 +16792,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -16781,6 +16899,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -16887,6 +17006,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -16993,6 +17113,7 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
+      "chemOmit": [],
       "composition": [],
       "kitVials": 6,
       "specs": [

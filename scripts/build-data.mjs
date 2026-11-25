@@ -86,6 +86,12 @@ function cleanCas(cas) {
   return v && casChecksumOk(v) ? v : null;
 }
 
+/** CSV 里的 omit_fields（分号分隔）→ 模板按字段隐藏整行，例如 ace-031 不显示分子式 */
+function chemOmit(slug) {
+  const raw = (chemRef[slug]?.omit_fields || '').trim();
+  return raw ? raw.split(';').map((s) => s.trim()).filter(Boolean) : [];
+}
+
 /* ------------------------------------------------------------------ */
 /* 分类元数据（与 master taxonomy 的 site_buckets 一一对应）           */
 /* ------------------------------------------------------------------ */
@@ -306,6 +312,7 @@ const products = master.products
         p.cas || cleanCas(chemRef[p.slug]?.cas) || chemRef[p.slug]?.molecular_formula
           ? 'documented'
           : 'pending-coa',
+      chemOmit: chemOmit(p.slug),
       composition: p.composition || [],
       kitVials: specs[0]?.vials || 10,
       specs,

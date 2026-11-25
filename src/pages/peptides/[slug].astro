@@ -58,6 +58,7 @@ const chem = {
   mw: p.molecularWeight || null,
 };
 const hasChem = Boolean(chem.cas || chem.sequence || chem.formula || chem.mw);
+const omit = new Set<string>((p as any).chemOmit || []);
 const isBlend = p.sequenceType === 'blend' || p.category === 'blend';
 const chemFallback = isBlend ? 'Fixed composition — see batch COA' : COA_FALLBACK;
 const mwText = chem.mw
@@ -114,12 +115,18 @@ const productLd = {
   manufacturer: { '@id': `${SITE.url}/#organization` },
   ...(imageUrl ? { image: [abs(imageUrl)] } : {}),
   additionalProperty: [
-    { '@type': 'PropertyValue', name: 'CAS number', value: chem.cas || chemFallback },
+    ...(omit.has('cas')
+      ? []
+      : [{ '@type': 'PropertyValue', name: 'CAS number', value: chem.cas || chemFallback }]),
     ...(chem.sequence
       ? [{ '@type': 'PropertyValue', name: 'Sequence', value: chem.sequence }]
       : []),
-    { '@type': 'PropertyValue', name: 'Molecular formula', value: chem.formula || chemFallback },
-    { '@type': 'PropertyValue', name: 'Molecular weight', value: mwText || chemFallback },
+    ...(omit.has('molecular_formula')
+      ? []
+      : [{ '@type': 'PropertyValue', name: 'Molecular formula', value: chem.formula || chemFallback }]),
+    ...(omit.has('molecular_weight')
+      ? []
+      : [{ '@type': 'PropertyValue', name: 'Molecular weight', value: mwText || chemFallback }]),
     { '@type': 'PropertyValue', name: 'Purity', value: p.purity || 'Not applicable' },
     { '@type': 'PropertyValue', name: 'Appearance', value: p.appearance },
     { '@type': 'PropertyValue', name: 'Pack size', value: `${p.kitVials} vials per kit` },
@@ -149,18 +156,18 @@ const faqLd = {
 };
 
 const summaryRows = [
-  { k: 'Short code', v: p.shortCode, mono: true },
-  { k: 'CAS number', v: chem.cas || chemFallback, mono: true },
-  { k: 'Molecular formula', v: chem.formula || chemFallback, mono: true },
-  { k: 'Molecular weight', v: mwText || chemFallback, mono: true },
+  { key: 'shortCode', k: 'Short code', v: p.shortCode, mono: true },
+  { key: 'cas', k: 'CAS number', v: chem.cas || chemFallback, mono: true },
+  { key: 'molecular_formula', k: 'Molecular formula', v: chem.formula || chemFallback, mono: true },
+  { key: 'molecular_weight', k: 'Molecular weight', v: mwText || chemFallback, mono: true },
   // 只有核验过的真实序列才展示；没有序列的产品整行隐藏，不回退 COA
-  ...(chem.sequence ? [{ k: 'Sequence', v: chem.sequence, mono: true }] : []),
-  { k: 'Purity', v: p.purity || 'Not applicable (ancillary reagent)', mono: false },
-  { k: 'Appearance', v: p.appearance, mono: false },
-  { k: 'Pack size', v: `${p.kitVials} vials per kit`, mono: false },
-  { k: 'Storage', v: p.storage.summary, mono: false },
-  { k: 'Molecule class', v: p.moleculeClass.replace(/_/g, ' '), mono: false },
-];
+  ...(chem.sequence ? [{ key: 'sequence', k: 'Sequence', v: chem.sequence, mono: true }] : []),
+  { key: 'purity', k: 'Purity', v: p.purity || 'Not applicable (ancillary reagent)', mono: false },
+  { key: 'appearance', k: 'Appearance', v: p.appearance, mono: false },
+  { key: 'pack', k: 'Pack size', v: `${p.kitVials} vials per kit`, mono: false },
+  { key: 'storage', k: 'Storage', v: p.storage.summary, mono: false },
+  { key: 'class', k: 'Molecule class', v: p.moleculeClass.replace(/_/g, ' '), mono: false },
+].filter((r) => !omit.has(r.key));
 ---
 
 <Layout

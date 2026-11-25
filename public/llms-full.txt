@@ -18,9 +18,9 @@ Total products: 119. Total pack-size SKUs: 266.
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 42464-96-0
+- Molecular formula: C10H11IN2
+- Molecular weight: 286.11 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -55,9 +55,9 @@ A: 5-Amino-1MQ is available in 3 configurations: 5 mg, 10 mg, 50 mg. Each kit co
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
+- CAS: 1169766-01-1
 - Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- Molecular weight: 74–75 kDa
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -198,9 +198,9 @@ A: ACTH (1-39) is available in 1 configuration: 5 mg. Each kit contains 10 vials
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 859216-15-2
+- Molecular formula: C111H206N36O28S2
+- Molecular weight: 2557.18 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -235,9 +235,9 @@ A: Adamax is available in 3 configurations: 5 mg, 10 mg, 20 mg. Each kit contain
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 859216-15-2
+- Molecular formula: C111H206N36O28S2
+- Molecular weight: 2557.18 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -272,9 +272,9 @@ A: Adipotide (FTPP) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each ki
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 300801-03-0
+- Molecular formula: C15H24CuN6O4
+- Molecular weight: 415.94 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -1576,7 +1576,7 @@ A: GHRP-2 is available in 3 configurations: 5 mg, 10 mg, 15 mg. Each kit contain
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
+- CAS: 145177-42-0
 - Sequence: HWAWFK
 - Molecular formula: C46H56N12O6
 - Molecular weight: 873.0 Da
