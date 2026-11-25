@@ -3,18 +3,10 @@ import Layout from '../layouts/Layout.astro';
 import ComplianceNotice from '../components/ComplianceNotice.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import { SITE } from '../lib/site';
-import data from '../data/peptides.json';
-
-const productCount = data.productCount;
-const skuCount = (data.products as any[]).reduce((n, p) => n + p.specs.length, 0);
 
 const facts = [
   ['Legal name', SITE.legalName],
-  ['Chinese legal name', SITE.legalNameZh],
-  ['Trading name', `${SITE.name} (dchemi.com)`],
   ['Business model', 'B2B supply · RFQ only · no online payment'],
-  ['Catalogue', `${productCount} products · ${skuCount} pack-size SKUs`],
-  ['Head office', 'Jinan, Shandong, China'],
   ['Primary markets', 'United States, Canada, EU, UK, Australia, Japan, Brazil'],
   ['Customer profile', 'Research laboratories, clinics, compounding distributors'],
   ['Minimum order', '1 kit (10 vials) per pack size'],
