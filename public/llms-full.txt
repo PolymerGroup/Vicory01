@@ -23,13 +23,13 @@ Total products: 119. Total pack-size SKUs: 266.
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $10.09 – $71.94 per kit (USD)
+- Price range: $20.18 – $143.88 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $11.87 | $11.87 | $10.92 | $10.09 |
-| 10 mg × 10 vials | $13.93 | $13.93 | $12.82 | $11.84 |
-| 50 mg × 10 vials | $71.94 | $71.94 | $66.18 | $61.15 |
+| 5 mg × 10 vials | $23.74 | $23.74 | $21.84 | $20.18 |
+| 10 mg × 10 vials | $27.86 | $27.86 | $25.64 | $23.68 |
+| 50 mg × 10 vials | $143.88 | $143.88 | $132.36 | $122.30 |
 
 Summary: 5-Amino-1MQ (5AM) is a small-molecule research compound supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 50 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -59,11 +59,11 @@ A: 5-Amino-1MQ is available in 3 configurations: 5 mg, 10 mg, 50 mg. Each kit co
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $16.57 – $19.50 per kit (USD)
+- Price range: $33.14 – $39.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 1 mg × 10 vials | $19.50 | $19.50 | $17.94 | $16.57 |
+| 1 mg × 10 vials | $39.00 | $39.00 | $35.88 | $33.14 |
 
 Summary: ACE-031 (AC) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 1 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -93,13 +93,13 @@ A: ACE-031 is available in 1 configuration: 1 mg. Each kit contains 10 vials. Mi
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $3.31 – $7.66 per kit (USD)
+- Price range: $6.62 – $15.32 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 3 mL × 10 vials | $7.66 | $7.66 | $7.05 | $6.51 |
-| 5 mL × 10 vials | $5.01 | $5.01 | $4.61 | $4.26 |
-| 10 mL × 10 vials | $3.90 | $3.90 | $3.59 | $3.31 |
+| 3 mL × 10 vials | $15.32 | $15.32 | $14.10 | $13.02 |
+| 5 mL × 10 vials | $10.02 | $10.02 | $9.22 | $8.52 |
+| 10 mL × 10 vials | $7.80 | $7.80 | $7.18 | $6.62 |
 
 Summary: Acetic Acid (AA) is a laboratory solvent supplied as sterile solution. The catalogue lists 3 pack sizes: 3 ml, 5 ml, 10 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
 
@@ -129,12 +129,12 @@ A: Acetic Acid is available in 3 configurations: 3 ml, 5 ml, 10 ml. Each kit con
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $6.38 – $10.00 per kit (USD)
+- Price range: $12.76 – $20.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 3 mL × 10 vials | $7.50 | $7.50 | $6.90 | $6.38 |
-| 10 mL × 10 vials | $10.00 | $10.00 | $9.20 | $8.50 |
+| 3 mL × 10 vials | $15.00 | $15.00 | $13.80 | $12.76 |
+| 10 mL × 10 vials | $20.00 | $20.00 | $18.40 | $17.00 |
 
 Summary: Acetic Acid Water 0.6% (AA06) is a laboratory solvent supplied as sterile solution. The catalogue lists 2 pack sizes: 3 ml, 10 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
 
@@ -164,11 +164,11 @@ A: Acetic Acid Water 0.6% is available in 2 configurations: 3 ml, 10 ml. Each ki
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $26.40 – $31.06 per kit (USD)
+- Price range: $52.80 – $62.12 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $31.06 | $31.06 | $28.58 | $26.40 |
+| 5 mg × 10 vials | $62.12 | $62.12 | $57.16 | $52.80 |
 
 Summary: ACTH (1-39) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 5 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -198,13 +198,13 @@ A: ACTH (1-39) is available in 1 configuration: 5 mg. Each kit contains 10 vials
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $34.01 – $59.89 per kit (USD)
+- Price range: $68.02 – $119.78 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $40.01 | $40.01 | $36.81 | $34.01 |
-| 10 mg × 10 vials | $59.89 | $59.89 | $55.10 | $50.91 |
-| 20 mg × 10 vials | $50.14 | $50.14 | $46.13 | $42.62 |
+| 5 mg × 10 vials | $80.02 | $80.02 | $73.62 | $68.02 |
+| 10 mg × 10 vials | $119.78 | $119.78 | $110.20 | $101.82 |
+| 20 mg × 10 vials | $100.28 | $100.28 | $92.26 | $85.24 |
 
 Summary: Adamax (ADA) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -234,13 +234,13 @@ A: Adamax is available in 3 configurations: 5 mg, 10 mg, 20 mg. Each kit contain
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $30.07 – $111.83 per kit (USD)
+- Price range: $60.14 – $223.66 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $35.38 | $35.38 | $32.55 | $30.07 |
-| 5 mg × 10 vials | $77.99 | $77.99 | $71.75 | $66.29 |
-| 10 mg × 10 vials | $111.83 | $111.83 | $102.88 | $95.06 |
+| 2 mg × 10 vials | $70.76 | $70.76 | $65.10 | $60.14 |
+| 5 mg × 10 vials | $155.98 | $155.98 | $143.50 | $132.58 |
+| 10 mg × 10 vials | $223.66 | $223.66 | $205.76 | $190.12 |
 
 Summary: Adipotide (FTPP) (AP) is a cyclic synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -270,12 +270,12 @@ A: Adipotide (FTPP) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each ki
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $30.13 – $48.93 per kit (USD)
+- Price range: $60.26 – $97.86 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 50 mg × 10 vials | $35.45 | $35.45 | $32.61 | $30.13 |
-| 100 mg × 10 vials | $48.93 | $48.93 | $45.02 | $41.59 |
+| 50 mg × 10 vials | $70.90 | $70.90 | $65.22 | $60.26 |
+| 100 mg × 10 vials | $97.86 | $97.86 | $90.04 | $83.18 |
 
 Summary: AHK-Cu (AU) is a copper-complexed peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 50 mg, 100 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -305,12 +305,12 @@ A: AHK-Cu is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $21.31 – $43.18 per kit (USD)
+- Price range: $42.62 – $86.36 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 50 mg × 10 vials | $25.07 | $25.07 | $23.06 | $21.31 |
-| 100 mg × 10 vials | $43.18 | $43.18 | $39.73 | $36.70 |
+| 50 mg × 10 vials | $50.14 | $50.14 | $46.12 | $42.62 |
+| 100 mg × 10 vials | $86.36 | $86.36 | $79.46 | $73.40 |
 
 Summary: AICAR (AR) is a small-molecule research compound supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 50 mg, 100 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -340,13 +340,13 @@ A: AICAR is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 v
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $19.53 – $86.35 per kit (USD)
+- Price range: $39.06 – $172.70 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $22.98 | $22.98 | $21.14 | $19.53 |
-| 5 mg × 10 vials | $47.35 | $47.35 | $43.56 | $40.25 |
-| 10 mg × 10 vials | $86.35 | $86.35 | $79.44 | $73.40 |
+| 2 mg × 10 vials | $45.96 | $45.96 | $42.28 | $39.06 |
+| 5 mg × 10 vials | $94.70 | $94.70 | $87.12 | $80.50 |
+| 10 mg × 10 vials | $172.70 | $172.70 | $158.88 | $146.80 |
 
 Summary: AOD-9604 is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -376,12 +376,12 @@ A: AOD-9604 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contai
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $25.45 – $106.36 per kit (USD)
+- Price range: $50.90 – $212.72 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $29.94 | $29.94 | $27.54 | $25.45 |
-| 10 mg × 10 vials | $106.36 | $106.36 | $97.85 | $90.41 |
+| 2 mg × 10 vials | $59.88 | $59.88 | $55.08 | $50.90 |
+| 10 mg × 10 vials | $212.72 | $212.72 | $195.70 | $180.82 |
 
 Summary: B7-33 (B733) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 2 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -411,12 +411,12 @@ A: B7-33 is available in 2 configurations: 2 mg, 10 mg. Each kit contains 10 via
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $3.98 – $5.63 per kit (USD)
+- Price range: $7.96 – $11.26 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 3 mL × 10 vials | $4.68 | $4.68 | $4.31 | $3.98 |
-| 10 mL × 10 vials | $5.63 | $5.63 | $5.18 | $4.79 |
+| 3 mL × 10 vials | $9.36 | $9.36 | $8.62 | $7.96 |
+| 10 mL × 10 vials | $11.26 | $11.26 | $10.36 | $9.58 |
 
 Summary: Bacteriostatic Water (WA) is a laboratory solvent supplied as sterile solution. The catalogue lists 2 pack sizes: 3 ml, 10 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
 
@@ -446,12 +446,12 @@ A: Bacteriostatic Water is available in 2 configurations: 3 ml, 10 ml. Each kit 
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $6.80 – $10.00 per kit (USD)
+- Price range: $13.60 – $20.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 3 mL × 10 vials | $8.00 | $8.00 | $7.36 | $6.80 |
-| 10 mL × 10 vials | $10.00 | $10.00 | $9.20 | $8.50 |
+| 3 mL × 10 vials | $16.00 | $16.00 | $14.72 | $13.60 |
+| 10 mL × 10 vials | $20.00 | $20.00 | $18.40 | $17.00 |
 
 Summary: Bacteriostatic Water (BW) is a laboratory solvent supplied as sterile solution. The catalogue lists 2 pack sizes: 3 ml, 10 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
 
@@ -481,12 +481,12 @@ A: Bacteriostatic Water is available in 2 configurations: 3 ml, 10 ml. Each kit 
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $6.80 – $10.00 per kit (USD)
+- Price range: $13.60 – $20.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 3 mL × 10 vials | $8.00 | $8.00 | $7.36 | $6.80 |
-| 10 mL × 10 vials | $10.00 | $10.00 | $9.20 | $8.50 |
+| 3 mL × 10 vials | $16.00 | $16.00 | $14.72 | $13.60 |
+| 10 mL × 10 vials | $20.00 | $20.00 | $18.40 | $17.00 |
 
 Summary: Bacteriostatic Water 0.9% Benzyl Alcohol (BA) is a laboratory solvent supplied as sterile solution. The catalogue lists 2 pack sizes: 3 ml, 10 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
 
@@ -516,13 +516,13 @@ A: Bacteriostatic Water 0.9% Benzyl Alcohol is available in 2 configurations: 3 
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $5.10 – $9.00 per kit (USD)
+- Price range: $10.20 – $18.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 3 mL × 10 vials | $6.00 | $6.00 | $5.52 | $5.10 |
-| 5 mL × 10 vials | $7.00 | $7.00 | $6.44 | $5.95 |
-| 10 mL × 10 vials | $9.00 | $9.00 | $8.28 | $7.65 |
+| 3 mL × 10 vials | $12.00 | $12.00 | $11.04 | $10.20 |
+| 5 mL × 10 vials | $14.00 | $14.00 | $12.88 | $11.90 |
+| 10 mL × 10 vials | $18.00 | $18.00 | $16.56 | $15.30 |
 
 Summary: Benzyl Alcohol 0.9% (BZA) is a laboratory solvent supplied as sterile solution. The catalogue lists 3 pack sizes: 3 ml, 5 ml, 10 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
 
@@ -552,11 +552,11 @@ A: Benzyl Alcohol 0.9% is available in 3 configurations: 3 ml, 5 ml, 10 ml. Each
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $33.56 – $39.48 per kit (USD)
+- Price range: $67.12 – $78.96 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 100 IU × 10 vials | $39.48 | $39.48 | $36.32 | $33.56 |
+| 100 IU × 10 vials | $78.96 | $78.96 | $72.64 | $67.12 |
 
 Summary: Botulinum Toxin Type A (XT) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 100 iu. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -586,14 +586,14 @@ A: Botulinum Toxin Type A is available in 1 configuration: 100 iu. Each kit cont
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $11.51 – $80.00 per kit (USD)
+- Price range: $23.02 – $160.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $13.54 | $13.54 | $12.46 | $11.51 |
-| 5 mg × 10 vials | $17.76 | $17.76 | $16.34 | $15.10 |
-| 10 mg × 10 vials | $25.07 | $25.07 | $23.06 | $21.31 |
-| 20 mg × 10 vials | $80.00 | $80.00 | $73.60 | $68.00 |
+| 2 mg × 10 vials | $27.08 | $27.08 | $24.92 | $23.02 |
+| 5 mg × 10 vials | $35.52 | $35.52 | $32.68 | $30.20 |
+| 10 mg × 10 vials | $50.14 | $50.14 | $46.12 | $42.62 |
+| 20 mg × 10 vials | $160.00 | $160.00 | $147.20 | $136.00 |
 
 Summary: BPC-157 (BC) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 4 pack sizes: 2 mg, 5 mg, 10 mg, 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -623,13 +623,13 @@ A: BPC-157 is available in 4 configurations: 2 mg, 5 mg, 10 mg, 20 mg. Each kit 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $42.41 – $146.66 per kit (USD)
+- Price range: $84.82 – $293.32 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $49.89 | $49.89 | $45.90 | $42.41 |
-| 20 mg × 10 vials | $93.66 | $93.66 | $86.17 | $79.61 |
-| 30 mg × 10 vials | $146.66 | $146.66 | $134.93 | $124.66 |
+| 10 mg × 10 vials | $99.78 | $99.78 | $91.80 | $84.82 |
+| 20 mg × 10 vials | $187.32 | $187.32 | $172.34 | $159.22 |
+| 30 mg × 10 vials | $293.32 | $293.32 | $269.86 | $249.32 |
 
 Summary: BPC-157 + TB-500 Blend (BB) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 10 mg, 20 mg, 30 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines BPC-157 and TB-500 in equal parts. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
@@ -659,11 +659,11 @@ A: BPC-157 + TB-500 Blend is available in 3 configurations: 10 mg, 20 mg, 30 mg.
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $29.30 – $34.47 per kit (USD)
+- Price range: $58.60 – $68.94 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $34.47 | $34.47 | $31.71 | $29.30 |
+| 10 mg × 10 vials | $68.94 | $68.94 | $63.42 | $58.60 |
 
 Summary: Bremelanotide (PT-141) is a cyclic synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -693,11 +693,11 @@ A: Bremelanotide (PT-141) is available in 1 configuration: 10 mg. Each kit conta
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $39.57 – $46.55 per kit (USD)
+- Price range: $79.14 – $93.10 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 20 mg × 10 vials | $46.55 | $46.55 | $42.83 | $39.57 |
+| 20 mg × 10 vials | $93.10 | $93.10 | $85.66 | $79.14 |
 
 Summary: Bronchogen (AEDL) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -727,13 +727,13 @@ A: Bronchogen is available in 1 configuration: 20 mg. Each kit contains 10 vials
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $26.04 – $112.81 per kit (USD)
+- Price range: $52.08 – $225.62 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $30.64 | $30.64 | $28.19 | $26.04 |
-| 5 mg × 10 vials | $65.11 | $65.11 | $59.90 | $55.34 |
-| 10 mg × 10 vials | $112.81 | $112.81 | $103.79 | $95.89 |
+| 2 mg × 10 vials | $61.28 | $61.28 | $56.38 | $52.08 |
+| 5 mg × 10 vials | $130.22 | $130.22 | $119.80 | $110.68 |
+| 10 mg × 10 vials | $225.62 | $225.62 | $207.58 | $191.78 |
 
 Summary: Cagrilintide (CGL) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -763,13 +763,13 @@ A: Cagrilintide is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit co
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $32.88 – $100.28 per kit (USD)
+- Price range: $65.76 – $200.56 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $38.68 | $38.68 | $35.59 | $32.88 |
-| 10 mg × 10 vials | $55.29 | $55.29 | $50.87 | $47.00 |
-| 20 mg × 10 vials | $100.28 | $100.28 | $92.26 | $85.24 |
+| 5 mg × 10 vials | $77.36 | $77.36 | $71.18 | $65.76 |
+| 10 mg × 10 vials | $110.58 | $110.58 | $101.74 | $94.00 |
+| 20 mg × 10 vials | $200.56 | $200.56 | $184.52 | $170.48 |
 
 Summary: CagriSema (Cagrilintide + Semaglutide) (CS) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines Cagrilintide and Semaglutide in equal parts. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
@@ -799,11 +799,11 @@ A: CagriSema (Cagrilintide + Semaglutide) is available in 3 configurations: 5 mg
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $43.21 – $50.84 per kit (USD)
+- Price range: $86.42 – $101.68 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 20 mg × 10 vials | $50.84 | $50.84 | $46.77 | $43.21 |
+| 20 mg × 10 vials | $101.68 | $101.68 | $93.54 | $86.42 |
 
 Summary: Cardiogen (AEDR) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -833,11 +833,11 @@ A: Cardiogen is available in 1 configuration: 20 mg. Each kit contains 10 vials.
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $44.98 – $52.92 per kit (USD)
+- Price range: $89.96 – $105.84 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 20 mg × 10 vials | $52.92 | $52.92 | $48.69 | $44.98 |
+| 20 mg × 10 vials | $105.84 | $105.84 | $97.38 | $89.96 |
 
 Summary: Cartalax (AED) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -867,11 +867,11 @@ A: Cartalax is available in 1 configuration: 20 mg. Each kit contains 10 vials. 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $19.51 – $22.95 per kit (USD)
+- Price range: $39.02 – $45.90 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 60 mg × 10 vials | $22.95 | $22.95 | $21.11 | $19.51 |
+| 60 mg × 10 vials | $45.90 | $45.90 | $42.22 | $39.02 |
 
 Summary: Cerebrolysin (CBL) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 60 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -901,13 +901,13 @@ A: Cerebrolysin is available in 1 configuration: 60 mg. Each kit contains 10 via
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $33.51 – $140.00 per kit (USD)
+- Price range: $67.02 – $280.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $39.42 | $39.42 | $36.27 | $33.51 |
-| 16 mg × 10 vials | $53.27 | $53.27 | $49.01 | $45.28 |
-| 40 mg × 10 vials | $140.00 | $140.00 | $128.80 | $119.00 |
+| 10 mg × 10 vials | $78.84 | $78.84 | $72.54 | $67.02 |
+| 16 mg × 10 vials | $106.54 | $106.54 | $98.02 | $90.56 |
+| 40 mg × 10 vials | $280.00 | $280.00 | $257.60 | $238.00 |
 
 Summary: Cibinetide (ARA-290) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 10 mg, 16 mg, 40 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -937,12 +937,12 @@ A: Cibinetide (ARA-290) is available in 3 configurations: 10 mg, 16 mg, 40 mg. E
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $39.07 – $210.00 per kit (USD)
+- Price range: $78.14 – $420.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $45.96 | $45.96 | $42.28 | $39.07 |
-| 20 mg × 10 vials | $210.00 | $210.00 | $193.20 | $178.50 |
+| 10 mg × 10 vials | $91.92 | $91.92 | $84.56 | $78.14 |
+| 20 mg × 10 vials | $420.00 | $420.00 | $386.40 | $357.00 |
 
 Summary: CJC-1295 (No DAC) + Ipamorelin Blend (CP) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 10 mg, 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines CJC-1295 (No DAC) and Ipamorelin in equal parts. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
@@ -972,13 +972,13 @@ A: CJC-1295 (No DAC) + Ipamorelin Blend is available in 2 configurations: 10 mg,
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $33.68 – $105.85 per kit (USD)
+- Price range: $67.36 – $211.70 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $39.62 | $39.62 | $36.45 | $33.68 |
-| 5 mg × 10 vials | $90.88 | $90.88 | $83.61 | $77.25 |
-| 10 mg × 10 vials | $105.85 | $105.85 | $97.38 | $89.97 |
+| 2 mg × 10 vials | $79.24 | $79.24 | $72.90 | $67.36 |
+| 5 mg × 10 vials | $181.76 | $181.76 | $167.22 | $154.50 |
+| 10 mg × 10 vials | $211.70 | $211.70 | $194.76 | $179.94 |
 
 Summary: CJC-1295 (With DAC) (CD) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1008,13 +1008,13 @@ A: CJC-1295 (With DAC) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $17.14 – $61.98 per kit (USD)
+- Price range: $34.28 – $123.96 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $20.16 | $20.16 | $18.55 | $17.14 |
-| 5 mg × 10 vials | $35.86 | $35.86 | $32.99 | $30.48 |
-| 10 mg × 10 vials | $61.98 | $61.98 | $57.02 | $52.68 |
+| 2 mg × 10 vials | $40.32 | $40.32 | $37.10 | $34.28 |
+| 5 mg × 10 vials | $71.72 | $71.72 | $65.98 | $60.96 |
+| 10 mg × 10 vials | $123.96 | $123.96 | $114.04 | $105.36 |
 
 Summary: CJC-1295 (Without DAC) (CND) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1044,11 +1044,11 @@ A: CJC-1295 (Without DAC) is available in 3 configurations: 2 mg, 5 mg, 10 mg. E
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $44.98 – $52.92 per kit (USD)
+- Price range: $89.96 – $105.84 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 20 mg × 10 vials | $52.92 | $52.92 | $48.69 | $44.98 |
+| 20 mg × 10 vials | $105.84 | $105.84 | $97.38 | $89.96 |
 
 Summary: Cortagen (AEDP) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -1078,11 +1078,11 @@ A: Cortagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $30.04 – $35.34 per kit (USD)
+- Price range: $60.08 – $70.68 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 20 mg × 10 vials | $35.34 | $35.34 | $32.51 | $30.04 |
+| 20 mg × 10 vials | $70.68 | $70.68 | $65.02 | $60.08 |
 
 Summary: Crystagen (CRY) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -1112,13 +1112,13 @@ A: Crystagen is available in 1 configuration: 20 mg. Each kit contains 10 vials.
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $12.31 – $47.35 per kit (USD)
+- Price range: $24.62 – $94.70 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $14.48 | $14.48 | $13.32 | $12.31 |
-| 5 mg × 10 vials | $15.32 | $15.32 | $14.09 | $13.02 |
-| 10 mg × 10 vials | $47.35 | $47.35 | $43.56 | $40.25 |
+| 2 mg × 10 vials | $28.96 | $28.96 | $26.64 | $24.62 |
+| 5 mg × 10 vials | $30.64 | $30.64 | $28.18 | $26.04 |
+| 10 mg × 10 vials | $94.70 | $94.70 | $87.12 | $80.50 |
 
 Summary: Dermorphin (DP) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1148,13 +1148,13 @@ A: Dermorphin is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit cont
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $12.43 – $36.91 per kit (USD)
+- Price range: $24.86 – $73.82 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $14.62 | $14.62 | $13.45 | $12.43 |
-| 5 mg × 10 vials | $22.63 | $22.63 | $20.82 | $19.24 |
-| 10 mg × 10 vials | $36.91 | $36.91 | $33.96 | $31.37 |
+| 2 mg × 10 vials | $29.24 | $29.24 | $26.90 | $24.86 |
+| 5 mg × 10 vials | $45.26 | $45.26 | $41.64 | $38.48 |
+| 10 mg × 10 vials | $73.82 | $73.82 | $67.92 | $62.74 |
 
 Summary: DSIP (Delta Sleep-Inducing Peptide) (DS) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1184,12 +1184,12 @@ A: DSIP (Delta Sleep-Inducing Peptide) is available in 3 configurations: 2 mg, 5
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $65.11 – $141.36 per kit (USD)
+- Price range: $130.22 – $282.72 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $76.60 | $76.60 | $70.47 | $65.11 |
-| 10 mg × 10 vials | $141.36 | $141.36 | $130.05 | $120.16 |
+| 5 mg × 10 vials | $153.20 | $153.20 | $140.94 | $130.22 |
+| 10 mg × 10 vials | $282.72 | $282.72 | $260.10 | $240.32 |
 
 Summary: Dulaglutide (DL) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -1219,12 +1219,12 @@ A: Dulaglutide is available in 2 configurations: 5 mg, 10 mg. Each kit contains 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $19.24 – $73.47 per kit (USD)
+- Price range: $38.48 – $146.94 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $22.63 | $22.63 | $20.82 | $19.24 |
-| 50 mg × 10 vials | $73.47 | $73.47 | $67.59 | $62.45 |
+| 10 mg × 10 vials | $45.26 | $45.26 | $41.64 | $38.48 |
+| 50 mg × 10 vials | $146.94 | $146.94 | $135.18 | $124.90 |
 
 Summary: Epitalon (Epithalon) (ET) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 10 mg, 50 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1254,11 +1254,11 @@ A: Epitalon (Epithalon) is available in 2 configurations: 10 mg, 50 mg. Each kit
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $27.23 – $32.03 per kit (USD)
+- Price range: $54.46 – $64.06 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 3000 IU × 10 vials | $32.03 | $32.03 | $29.47 | $27.23 |
+| 3000 IU × 10 vials | $64.06 | $64.06 | $58.94 | $54.46 |
 
 Summary: Erythropoietin (EPO) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 3000 iu. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -1288,11 +1288,11 @@ A: Erythropoietin (EPO) is available in 1 configuration: 3000 iu. Each kit conta
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $81.68 – $96.10 per kit (USD)
+- Price range: $163.36 – $192.20 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 1 mg × 10 vials | $96.10 | $96.10 | $88.41 | $81.68 |
+| 1 mg × 10 vials | $192.20 | $192.20 | $176.82 | $163.36 |
 
 Summary: Follistatin (FST-344) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 1 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -1322,12 +1322,12 @@ A: Follistatin (FST-344) is available in 1 configuration: 1 mg. Each kit contain
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $44.98 – $188.02 per kit (USD)
+- Price range: $89.96 – $376.04 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $52.92 | $52.92 | $48.69 | $44.98 |
-| 10 mg × 10 vials | $188.02 | $188.02 | $172.98 | $159.82 |
+| 2 mg × 10 vials | $105.84 | $105.84 | $97.38 | $89.96 |
+| 10 mg × 10 vials | $376.04 | $376.04 | $345.96 | $319.64 |
 
 Summary: FOXO4-DRI (F410) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 2 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1357,11 +1357,11 @@ A: FOXO4-DRI is available in 2 configurations: 2 mg, 10 mg. Each kit contains 10
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $53.27 – $62.67 per kit (USD)
+- Price range: $106.54 – $125.34 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $62.67 | $62.67 | $57.66 | $53.27 |
+| 5 mg × 10 vials | $125.34 | $125.34 | $115.32 | $106.54 |
 
 Summary: FTPP (Adipotide) is a cyclic synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 5 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -1391,11 +1391,11 @@ A: FTPP (Adipotide) is available in 1 configuration: 5 mg. Each kit contains 10 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $84.06 – $98.89 per kit (USD)
+- Price range: $168.12 – $197.78 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 1 mg × 10 vials | $98.89 | $98.89 | $90.98 | $84.06 |
+| 1 mg × 10 vials | $197.78 | $197.78 | $181.96 | $168.12 |
 
 Summary: GDF-8 (Myostatin) (GDF8) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 1 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -1425,11 +1425,11 @@ A: GDF-8 (Myostatin) is available in 1 configuration: 1 mg. Each kit contains 10
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $51.00 – $60.00 per kit (USD)
+- Price range: $102.00 – $120.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mL × 10 vials | $60.00 | $60.00 | $55.20 | $51.00 |
+| 10 mL × 10 vials | $120.00 | $120.00 | $110.40 | $102.00 |
 
 Summary: GGH is a ready-to-use liquid blend supplied as sterile solution. The catalogue lists 1 pack size: 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99% (HPLC) with sterile solution appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. For laboratory research use only; not for human or veterinary use.
 
@@ -1459,12 +1459,12 @@ A: GGH is available in 1 configuration: 10 ml. Each kit contains 10 vials. Minim
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $11.25 – $15.02 per kit (USD)
+- Price range: $22.50 – $30.04 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 50 mg × 10 vials | $13.23 | $13.23 | $12.17 | $11.25 |
-| 100 mg × 10 vials | $15.02 | $15.02 | $13.82 | $12.77 |
+| 50 mg × 10 vials | $26.46 | $26.46 | $24.34 | $22.50 |
+| 100 mg × 10 vials | $30.04 | $30.04 | $27.64 | $25.54 |
 
 Summary: GHK-Cu (CU) is a copper-complexed peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 50 mg, 100 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -1494,13 +1494,13 @@ A: GHK-Cu is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $15.39 – $32.03 per kit (USD)
+- Price range: $30.78 – $64.06 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $18.11 | $18.11 | $16.66 | $15.39 |
-| 10 mg × 10 vials | $23.68 | $23.68 | $21.79 | $20.13 |
-| 15 mg × 10 vials | $32.03 | $32.03 | $29.47 | $27.23 |
+| 5 mg × 10 vials | $36.22 | $36.22 | $33.32 | $30.78 |
+| 10 mg × 10 vials | $47.36 | $47.36 | $43.58 | $40.26 |
+| 15 mg × 10 vials | $64.06 | $64.06 | $58.94 | $54.46 |
 
 Summary: GHRP-2 (GR2) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 15 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1530,12 +1530,12 @@ A: GHRP-2 is available in 3 configurations: 5 mg, 10 mg, 15 mg. Each kit contain
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $16.31 – $24.03 per kit (USD)
+- Price range: $32.62 – $48.06 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $19.19 | $19.19 | $17.65 | $16.31 |
-| 10 mg × 10 vials | $24.03 | $24.03 | $22.11 | $20.43 |
+| 5 mg × 10 vials | $38.38 | $38.38 | $35.30 | $32.62 |
+| 10 mg × 10 vials | $48.06 | $48.06 | $44.22 | $40.86 |
 
 Summary: GHRP-6 (GR6) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1565,11 +1565,11 @@ A: GHRP-6 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vi
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $83.93 – $98.74 per kit (USD)
+- Price range: $167.86 – $197.48 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 70 mg × 10 vials | $98.74 | $98.74 | $90.84 | $83.93 |
+| 70 mg × 10 vials | $197.48 | $197.48 | $181.68 | $167.86 |
 
 Summary: GLOW Blend (BPC-157 + GHK-Cu + TB-500) (BBG) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 1 pack size: 70 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines BPC-157 10 mg, GHK-Cu 50 mg and TB-500 10 mg. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
@@ -1599,15 +1599,15 @@ A: GLOW Blend (BPC-157 + GHK-Cu + TB-500) is available in 1 configuration: 70 mg
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $6.75 – $90.00 per kit (USD)
+- Price range: $13.50 – $180.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 0.6 g × 10 vials | $35.00 | $35.00 | $32.20 | $29.75 |
-| 1.5 g × 10 vials | $90.00 | $90.00 | $82.80 | $76.50 |
-| 400 mg × 10 vials | $10.79 | $10.79 | $9.93 | $9.17 |
-| 600 mg × 10 vials | $7.94 | $7.94 | $7.30 | $6.75 |
-| 1500 mg × 10 vials | $18.11 | $18.11 | $16.66 | $15.39 |
+| 0.6 g × 10 vials | $70.00 | $70.00 | $64.40 | $59.50 |
+| 1.5 g × 10 vials | $180.00 | $180.00 | $165.60 | $153.00 |
+| 400 mg × 10 vials | $21.58 | $21.58 | $19.86 | $18.34 |
+| 600 mg × 10 vials | $15.88 | $15.88 | $14.60 | $13.50 |
+| 1500 mg × 10 vials | $36.22 | $36.22 | $33.32 | $30.78 |
 
 Summary: Glutathione (GTT) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 5 pack sizes: 0.6 g, 1.5 g, 400 mg, 600 mg, 1500 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1637,12 +1637,12 @@ A: Glutathione is available in 5 configurations: 0.6 g, 1.5 g, 400 mg, 600 mg, 1
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $6.51 – $10.45 per kit (USD)
+- Price range: $13.02 – $20.90 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $7.66 | $7.66 | $7.05 | $6.51 |
-| 10 mg × 10 vials | $10.45 | $10.45 | $9.61 | $8.88 |
+| 2 mg × 10 vials | $15.32 | $15.32 | $14.10 | $13.02 |
+| 10 mg × 10 vials | $20.90 | $20.90 | $19.22 | $17.76 |
 
 Summary: Gonadorelin (GND) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 2 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1672,12 +1672,12 @@ A: Gonadorelin is available in 2 configurations: 2 mg, 10 mg. Each kit contains 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $12.43 – $23.12 per kit (USD)
+- Price range: $24.86 – $46.24 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $14.62 | $14.62 | $13.45 | $12.43 |
-| 5 mg × 10 vials | $23.12 | $23.12 | $21.27 | $19.65 |
+| 2 mg × 10 vials | $29.24 | $29.24 | $26.90 | $24.86 |
+| 5 mg × 10 vials | $46.24 | $46.24 | $42.54 | $39.30 |
 
 Summary: Gonadorelin Acetate (GN) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 2 mg, 5 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1707,14 +1707,14 @@ A: Gonadorelin Acetate is available in 2 configurations: 2 mg, 5 mg. Each kit co
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $15.16 – $66.16 per kit (USD)
+- Price range: $30.32 – $132.32 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 1000 IU × 10 vials | $17.83 | $17.83 | $16.40 | $15.16 |
-| 2000 IU × 10 vials | $21.14 | $21.14 | $19.45 | $17.97 |
-| 5000 IU × 10 vials | $44.60 | $44.60 | $41.03 | $37.91 |
-| 10000 IU × 10 vials | $66.16 | $66.16 | $60.87 | $56.24 |
+| 1000 IU × 10 vials | $35.66 | $35.66 | $32.80 | $30.32 |
+| 2000 IU × 10 vials | $42.28 | $42.28 | $38.90 | $35.94 |
+| 5000 IU × 10 vials | $89.20 | $89.20 | $82.06 | $75.82 |
+| 10000 IU × 10 vials | $132.32 | $132.32 | $121.74 | $112.48 |
 
 Summary: HCG (Human Chorionic Gonadotropin) (CG) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 4 pack sizes: 1000 iu, 2000 iu, 5000 iu, 10000 iu. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1744,11 +1744,11 @@ A: HCG (Human Chorionic Gonadotropin) is available in 4 configurations: 1000 iu,
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $44.20 – $52.00 per kit (USD)
+- Price range: $88.40 – $104.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mL × 10 vials | $52.00 | $52.00 | $47.84 | $44.20 |
+| 10 mL × 10 vials | $104.00 | $104.00 | $95.68 | $88.40 |
 
 Summary: Healthy Hair, Skin & Nails Blend (HHB) is a ready-to-use liquid blend supplied as sterile solution. The catalogue lists 1 pack size: 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99% (HPLC) with sterile solution appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1778,12 +1778,12 @@ A: Healthy Hair, Skin & Nails Blend is available in 1 configuration: 10 ml. Each
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $19.95 – $52.11 per kit (USD)
+- Price range: $39.90 – $104.22 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $23.47 | $23.47 | $21.59 | $19.95 |
-| 5 mg × 10 vials | $52.11 | $52.11 | $47.94 | $44.29 |
+| 2 mg × 10 vials | $46.94 | $46.94 | $43.18 | $39.90 |
+| 5 mg × 10 vials | $104.22 | $104.22 | $95.88 | $88.58 |
 
 Summary: Hexarelin Acetate (HX) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 2 mg, 5 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1813,17 +1813,17 @@ A: Hexarelin Acetate is available in 2 configurations: 2 mg, 5 mg. Each kit cont
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $18.05 – $64.07 per kit (USD)
+- Price range: $36.10 – $128.14 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 6 IU × 10 vials | $21.24 | $21.24 | $19.54 | $18.05 |
-| 8 IU × 10 vials | $24.03 | $24.03 | $22.11 | $20.43 |
-| 10 IU × 10 vials | $27.86 | $27.86 | $25.63 | $23.68 |
-| 12 IU × 10 vials | $34.82 | $34.82 | $32.03 | $29.60 |
-| 15 IU × 10 vials | $43.18 | $43.18 | $39.73 | $36.70 |
-| 24 IU × 10 vials | $64.07 | $64.07 | $58.94 | $54.46 |
-| 36 IU × 10 vials | $50.14 | $50.14 | $46.13 | $42.62 |
+| 6 IU × 10 vials | $42.48 | $42.48 | $39.08 | $36.10 |
+| 8 IU × 10 vials | $48.06 | $48.06 | $44.22 | $40.86 |
+| 10 IU × 10 vials | $55.72 | $55.72 | $51.26 | $47.36 |
+| 12 IU × 10 vials | $69.64 | $69.64 | $64.06 | $59.20 |
+| 15 IU × 10 vials | $86.36 | $86.36 | $79.46 | $73.40 |
+| 24 IU × 10 vials | $128.14 | $128.14 | $117.88 | $108.92 |
+| 36 IU × 10 vials | $100.28 | $100.28 | $92.26 | $85.24 |
 
 Summary: HGH (Somatropin 191AA) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 7 pack sizes: 6 iu, 8 iu, 10 iu, 12 iu, 15 iu, 24 iu and 1 more. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
@@ -1853,11 +1853,11 @@ A: HGH (Somatropin 191AA) is available in 7 configurations: 6 iu, 8 iu, 10 iu, 1
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $33.15 – $39.00 per kit (USD)
+- Price range: $66.30 – $78.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $39.00 | $39.00 | $35.88 | $33.15 |
+| 10 mg × 10 vials | $78.00 | $78.00 | $71.76 | $66.30 |
 
 Summary: HGH Fragment 17-23 (F17) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1887,16 +1887,16 @@ A: HGH Fragment 17-23 is available in 1 configuration: 10 mg. Each kit contains 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $15.10 – $112.81 per kit (USD)
+- Price range: $30.20 – $225.62 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 1 mg × 10 vials | $17.76 | $17.76 | $16.34 | $15.10 |
-| 2 mg × 10 vials | $22.98 | $22.98 | $21.14 | $19.53 |
-| 5 mg × 10 vials | $44.57 | $44.57 | $41.00 | $37.88 |
-| 10 mg × 10 vials | $79.39 | $79.39 | $73.04 | $67.48 |
-| 12 mg × 10 vials | $90.18 | $90.18 | $82.97 | $76.65 |
-| 15 mg × 10 vials | $112.81 | $112.81 | $103.79 | $95.89 |
+| 1 mg × 10 vials | $35.52 | $35.52 | $32.68 | $30.20 |
+| 2 mg × 10 vials | $45.96 | $45.96 | $42.28 | $39.06 |
+| 5 mg × 10 vials | $89.14 | $89.14 | $82.00 | $75.76 |
+| 10 mg × 10 vials | $158.78 | $158.78 | $146.08 | $134.96 |
+| 12 mg × 10 vials | $180.36 | $180.36 | $165.94 | $153.30 |
+| 15 mg × 10 vials | $225.62 | $225.62 | $207.58 | $191.78 |
 
 Summary: HGH Fragment 176-191 (FR) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 6 pack sizes: 1 mg, 2 mg, 5 mg, 10 mg, 12 mg, 15 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
@@ -1926,11 +1926,11 @@ A: HGH Fragment 176-191 is available in 6 configurations: 1 mg, 2 mg, 5 mg, 10 m
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $24.71 – $29.07 per kit (USD)
+- Price range: $49.42 – $58.14 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 75 IU × 10 vials | $29.07 | $29.07 | $26.74 | $24.71 |
+| 75 IU × 10 vials | $58.14 | $58.14 | $53.48 | $49.42 |
 
 Summary: HMG (Human Menopausal Gonadotropin) (GT) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 75 iu. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -1960,11 +1960,11 @@ A: HMG (Human Menopausal Gonadotropin) is available in 1 configuration: 75 iu. E
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $122.53 – $144.15 per kit (USD)
+- Price range: $245.06 – $288.30 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $144.15 | $144.15 | $132.62 | $122.53 |
+| 10 mg × 10 vials | $288.30 | $288.30 | $265.24 | $245.06 |
 
 Summary: Humanin (HMN) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -1994,13 +1994,13 @@ A: Humanin is available in 1 configuration: 10 mg. Each kit contains 10 vials. M
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $7.11 – $108.64 per kit (USD)
+- Price range: $14.22 – $217.28 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 0.1 mg × 10 vials | $8.36 | $8.36 | $7.69 | $7.11 |
-| 1 mg × 10 vials | $108.64 | $108.64 | $99.95 | $92.34 |
-| 100 mcg × 10 vials | $18.80 | $18.80 | $17.30 | $15.98 |
+| 0.1 mg × 10 vials | $16.72 | $16.72 | $15.38 | $14.22 |
+| 1 mg × 10 vials | $217.28 | $217.28 | $199.90 | $184.68 |
+| 100 mcg × 10 vials | $37.60 | $37.60 | $34.60 | $31.96 |
 
 Summary: IGF-1 LR3 (IG) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 0.1 mg, 1 mg, 100 mcg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -2030,13 +2030,13 @@ A: IGF-1 LR3 is available in 3 configurations: 0.1 mg, 1 mg, 100 mcg. Each kit c
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $10.95 – $28.20 per kit (USD)
+- Price range: $21.90 – $56.40 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $12.88 | $12.88 | $11.85 | $10.95 |
-| 5 mg × 10 vials | $19.15 | $19.15 | $17.62 | $16.28 |
-| 10 mg × 10 vials | $28.20 | $28.20 | $25.94 | $23.97 |
+| 2 mg × 10 vials | $25.76 | $25.76 | $23.70 | $21.90 |
+| 5 mg × 10 vials | $38.30 | $38.30 | $35.24 | $32.56 |
+| 10 mg × 10 vials | $56.40 | $56.40 | $51.88 | $47.94 |
 
 Summary: Ipamorelin (IP) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -2066,12 +2066,12 @@ A: Ipamorelin is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit cont
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $20.71 – $39.35 per kit (USD)
+- Price range: $41.42 – $78.70 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $24.37 | $24.37 | $22.42 | $20.71 |
-| 10 mg × 10 vials | $39.35 | $39.35 | $36.20 | $33.45 |
+| 5 mg × 10 vials | $48.74 | $48.74 | $44.84 | $41.42 |
+| 10 mg × 10 vials | $78.70 | $78.70 | $72.40 | $66.90 |
 
 Summary: Kisspeptin-10 (KS) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -2101,11 +2101,11 @@ A: Kisspeptin-10 is available in 2 configurations: 5 mg, 10 mg. Each kit contain
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $124.30 – $146.24 per kit (USD)
+- Price range: $248.60 – $292.48 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 80 mg × 10 vials | $146.24 | $146.24 | $134.54 | $124.30 |
+| 80 mg × 10 vials | $292.48 | $292.48 | $269.08 | $248.60 |
 
 Summary: KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 1 pack size: 80 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines BPC-157 10 mg, GHK-Cu 50 mg, TB-500 10 mg and KPV 10 mg. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
@@ -2135,13 +2135,13 @@ A: KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) is available in 1 configuration:
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $16.28 – $95.00 per kit (USD)
+- Price range: $32.56 – $190.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $19.15 | $19.15 | $17.62 | $16.28 |
-| 10 mg × 10 vials | $25.77 | $25.77 | $23.71 | $21.90 |
-| 30 mg × 10 vials | $95.00 | $95.00 | $87.40 | $80.75 |
+| 5 mg × 10 vials | $38.30 | $38.30 | $35.24 | $32.56 |
+| 10 mg × 10 vials | $51.54 | $51.54 | $47.42 | $43.80 |
+| 30 mg × 10 vials | $190.00 | $190.00 | $174.80 | $161.50 |
 
 Summary: KPV is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 30 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -2171,16 +2171,16 @@ A: KPV is available in 3 configurations: 5 mg, 10 mg, 30 mg. Each kit contains 1
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $10.95 – $30.64 per kit (USD)
+- Price range: $21.90 – $61.28 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $18.11 | $18.11 | $16.66 | $15.39 |
-| 10 mL × 10 vials | $12.88 | $12.88 | $11.85 | $10.95 |
-| 200 mg × 10 vials | $18.45 | $18.45 | $16.97 | $15.68 |
-| 400 mg × 10 vials | $24.03 | $24.03 | $22.11 | $20.43 |
-| 600 mg × 10 vials | $27.16 | $27.16 | $24.99 | $23.09 |
-| 1200 mg × 10 vials | $30.64 | $30.64 | $28.19 | $26.04 |
+| 2 mg × 10 vials | $36.22 | $36.22 | $33.32 | $30.78 |
+| 10 mL × 10 vials | $25.76 | $25.76 | $23.70 | $21.90 |
+| 200 mg × 10 vials | $36.90 | $36.90 | $33.94 | $31.36 |
+| 400 mg × 10 vials | $48.06 | $48.06 | $44.22 | $40.86 |
+| 600 mg × 10 vials | $54.32 | $54.32 | $49.98 | $46.18 |
+| 1200 mg × 10 vials | $61.28 | $61.28 | $56.38 | $52.08 |
 
 Summary: L-Carnitine (LC) is a non-peptide injectable supplied as both lyophilized powder and sterile solution formats. The catalogue lists 6 pack sizes: 2 mg, 10 ml, 200 mg, 400 mg, 600 mg, 1200 mg. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -2210,11 +2210,11 @@ A: L-Carnitine is available in 6 configurations: 2 mg, 10 ml, 200 mg, 400 mg, 60
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $25.22 – $29.67 per kit (USD)
+- Price range: $50.44 – $59.34 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mL × 10 vials | $29.67 | $29.67 | $27.30 | $25.22 |
+| 10 mL × 10 vials | $59.34 | $59.34 | $54.60 | $50.44 |
 
 Summary: Lemon Bottle (LB) is a ready-to-use liquid blend supplied as sterile solution. The catalogue lists 1 pack size: 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99% (HPLC) with sterile solution appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. For laboratory research use only; not for human or veterinary use.
 
@@ -2244,11 +2244,11 @@ A: Lemon Bottle is available in 1 configuration: 10 ml. Each kit contains 10 via
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $25.16 – $29.60 per kit (USD)
+- Price range: $50.32 – $59.20 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mL × 10 vials | $29.60 | $29.60 | $27.23 | $25.16 |
+| 10 mL × 10 vials | $59.20 | $59.20 | $54.46 | $50.32 |
 
 Summary: Lipo-C (LIPO) is a ready-to-use liquid blend supplied as sterile solution. The catalogue lists 1 pack size: 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99% (HPLC) with sterile solution appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. For laboratory research use only; not for human or veterinary use.
 
@@ -2278,13 +2278,13 @@ A: Lipo-C is available in 1 configuration: 10 ml. Each kit contains 10 vials. Mi
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $37.29 – $233.98 per kit (USD)
+- Price range: $74.58 – $467.96 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $43.87 | $43.87 | $40.36 | $37.29 |
-| 10 mg × 10 vials | $77.99 | $77.99 | $71.75 | $66.29 |
-| 30 mg × 10 vials | $233.98 | $233.98 | $215.26 | $198.88 |
+| 5 mg × 10 vials | $87.74 | $87.74 | $80.72 | $74.58 |
+| 10 mg × 10 vials | $155.98 | $155.98 | $143.50 | $132.58 |
+| 30 mg × 10 vials | $467.96 | $467.96 | $430.52 | $397.76 |
 
 Summary: Liraglutide (LIRA) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 30 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -2314,11 +2314,11 @@ A: Liraglutide is available in 3 configurations: 5 mg, 10 mg, 30 mg. Each kit co
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $44.98 – $52.92 per kit (USD)
+- Price range: $89.96 – $105.84 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 20 mg × 10 vials | $52.92 | $52.92 | $48.69 | $44.98 |
+| 20 mg × 10 vials | $105.84 | $105.84 | $97.38 | $89.96 |
 
 Summary: Livagen (AEDK) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -2348,13 +2348,13 @@ A: Livagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. M
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $44.66 – $200.00 per kit (USD)
+- Price range: $89.32 – $400.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $52.54 | $52.54 | $48.34 | $44.66 |
-| 5 mL × 10 vials | $126.00 | $126.00 | $115.92 | $107.10 |
-| 10 mL × 10 vials | $200.00 | $200.00 | $184.00 | $170.00 |
+| 5 mg × 10 vials | $105.08 | $105.08 | $96.68 | $89.32 |
+| 5 mL × 10 vials | $252.00 | $252.00 | $231.84 | $214.20 |
+| 10 mL × 10 vials | $400.00 | $400.00 | $368.00 | $340.00 |
 
 Summary: LL-37 is a linear synthetic peptide supplied as both lyophilized powder and sterile solution formats. The catalogue lists 3 pack sizes: 5 mg, 5 ml, 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC); appearance differs by format (powder vs solution). Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -2384,11 +2384,11 @@ A: LL-37 is available in 3 configurations: 5 mg, 5 ml, 10 ml. Each kit contains 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $17.76 – $20.89 per kit (USD)
+- Price range: $35.52 – $41.78 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $20.89 | $20.89 | $19.22 | $17.76 |
+| 10 mg × 10 vials | $41.78 | $41.78 | $38.44 | $35.52 |
 
 Summary: Matrixyl (MX) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -2418,12 +2418,12 @@ A: Matrixyl is available in 1 configuration: 10 mg. Each kit contains 10 vials. 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $30.78 – $119.08 per kit (USD)
+- Price range: $61.56 – $238.16 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $36.21 | $36.21 | $33.31 | $30.78 |
-| 10 mg × 10 vials | $119.08 | $119.08 | $109.55 | $101.22 |
+| 5 mg × 10 vials | $72.42 | $72.42 | $66.62 | $61.56 |
+| 10 mg × 10 vials | $238.16 | $238.16 | $219.10 | $202.44 |
 
 Summary: Mazdutide (MZ) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -2453,11 +2453,11 @@ A: Mazdutide is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $23.09 – $27.16 per kit (USD)
+- Price range: $46.18 – $54.32 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $27.16 | $27.16 | $24.99 | $23.09 |
+| 10 mg × 10 vials | $54.32 | $54.32 | $49.98 | $46.18 |
 
 Summary: Melanotan I (MT1) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -2487,11 +2487,11 @@ A: Melanotan I is available in 1 configuration: 10 mg. Each kit contains 10 vial
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $53.12 – $62.50 per kit (USD)
+- Price range: $106.24 – $125.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $62.50 | $62.50 | $57.50 | $53.12 |
+| 10 mg × 10 vials | $125.00 | $125.00 | $115.00 | $106.24 |
 
 Summary: Melanotan II (MT-2) (MT2) is a cyclic synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -2521,11 +2521,11 @@ A: Melanotan II (MT-2) is available in 1 configuration: 10 mg. Each kit contains
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $24.51 – $28.83 per kit (USD)
+- Price range: $49.02 – $57.66 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $28.83 | $28.83 | $26.52 | $24.51 |
+| 10 mg × 10 vials | $57.66 | $57.66 | $53.04 | $49.02 |
 
 Summary: Melatonin (MTN) is a small-molecule research compound supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -2555,11 +2555,11 @@ A: Melatonin is available in 1 configuration: 10 mg. Each kit contains 10 vials.
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $26.14 – $30.75 per kit (USD)
+- Price range: $52.28 – $61.50 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $30.75 | $30.75 | $28.29 | $26.14 |
+| 2 mg × 10 vials | $61.50 | $61.50 | $56.58 | $52.28 |
 
 Summary: MGF (Mechano Growth Factor) (FM) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 2 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -2589,12 +2589,12 @@ A: MGF (Mechano Growth Factor) is available in 1 configuration: 2 mg. Each kit c
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $44.20 – $52.23 per kit (USD)
+- Price range: $88.40 – $104.46 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $52.23 | $52.23 | $48.05 | $44.40 |
-| 10 mL × 10 vials | $52.00 | $52.00 | $47.84 | $44.20 |
+| 10 mg × 10 vials | $104.46 | $104.46 | $96.10 | $88.80 |
+| 10 mL × 10 vials | $104.00 | $104.00 | $95.68 | $88.40 |
 
 Summary: MIC (Lipo-C with B12) is a ready-to-use liquid blend supplied as both lyophilized powder and sterile solution formats. The catalogue lists 2 pack sizes: 10 mg, 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Component ratios follow the specification printed on each vial label. Purity is stated at ≥99% (HPLC); appearance differs by format (powder vs solution). For laboratory research use only; not for human or veterinary use.
 
@@ -2624,11 +2624,11 @@ A: MIC (Lipo-C with B12) is available in 2 configurations: 10 mg, 10 ml. Each ki
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $4.73 – $5.57 per kit (USD)
+- Price range: $9.46 – $11.14 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $5.57 | $5.57 | $5.12 | $4.73 |
+| 5 mg × 10 vials | $11.14 | $11.14 | $10.24 | $9.46 |
 
 Summary: MK-677 (Ibutamoren) is a small-molecule research compound supplied as white lyophilized powder. The catalogue lists 1 pack size: 5 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -2658,14 +2658,14 @@ A: MK-677 (Ibutamoren) is available in 1 configuration: 5 mg. Each kit contains 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $31.67 – $131.27 per kit (USD)
+- Price range: $63.34 – $262.54 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $37.26 | $37.26 | $34.28 | $31.67 |
-| 15 mg × 10 vials | $59.19 | $59.19 | $54.45 | $50.31 |
-| 20 mg × 10 vials | $67.90 | $67.90 | $62.47 | $57.72 |
-| 40 mg × 10 vials | $131.27 | $131.27 | $120.77 | $111.58 |
+| 10 mg × 10 vials | $74.52 | $74.52 | $68.56 | $63.34 |
+| 15 mg × 10 vials | $118.38 | $118.38 | $108.90 | $100.62 |
+| 20 mg × 10 vials | $135.80 | $135.80 | $124.94 | $115.44 |
+| 40 mg × 10 vials | $262.54 | $262.54 | $241.54 | $223.16 |
 
 Summary: MOTS-c (MS) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 4 pack sizes: 10 mg, 15 mg, 20 mg, 40 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -2695,13 +2695,13 @@ A: MOTS-c is available in 4 configurations: 10 mg, 15 mg, 20 mg, 40 mg. Each kit
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $12.14 – $30.08 per kit (USD)
+- Price range: $24.28 – $60.16 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 100 mg × 10 vials | $14.28 | $14.28 | $13.14 | $12.14 |
-| 500 mg × 10 vials | $22.42 | $22.42 | $20.63 | $19.06 |
-| 1000 mg × 10 vials | $30.08 | $30.08 | $27.67 | $25.57 |
+| 100 mg × 10 vials | $28.56 | $28.56 | $26.28 | $24.28 |
+| 500 mg × 10 vials | $44.84 | $44.84 | $41.26 | $38.12 |
+| 1000 mg × 10 vials | $60.16 | $60.16 | $55.34 | $51.14 |
 
 Summary: NAD+ (NJ) is a small-molecule research compound supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 100 mg, 500 mg, 1000 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -2731,11 +2731,11 @@ A: NAD+ is available in 3 configurations: 100 mg, 500 mg, 1000 mg. Each kit cont
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $266.36 – $313.37 per kit (USD)
+- Price range: $532.72 – $626.74 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $313.37 | $313.37 | $288.30 | $266.36 |
+| 10 mg × 10 vials | $626.74 | $626.74 | $576.60 | $532.72 |
 
 Summary: Orexin A (OXA) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -2765,12 +2765,12 @@ A: Orexin A is available in 1 configuration: 10 mg. Each kit contains 10 vials. 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $53.27 – $126.74 per kit (USD)
+- Price range: $106.54 – $253.48 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $62.67 | $62.67 | $57.66 | $53.27 |
-| 10 mg × 10 vials | $126.74 | $126.74 | $116.60 | $107.73 |
+| 5 mg × 10 vials | $125.34 | $125.34 | $115.32 | $106.54 |
+| 10 mg × 10 vials | $253.48 | $253.48 | $233.20 | $215.46 |
 
 Summary: Orexin B (OXB) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -2800,13 +2800,13 @@ A: Orexin B is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $10.39 – $29.94 per kit (USD)
+- Price range: $20.78 – $59.88 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $12.22 | $12.22 | $11.24 | $10.39 |
-| 5 mg × 10 vials | $19.50 | $19.50 | $17.94 | $16.57 |
-| 10 mg × 10 vials | $29.94 | $29.94 | $27.54 | $25.45 |
+| 2 mg × 10 vials | $24.44 | $24.44 | $22.48 | $20.78 |
+| 5 mg × 10 vials | $39.00 | $39.00 | $35.88 | $33.14 |
+| 10 mg × 10 vials | $59.88 | $59.88 | $55.08 | $50.90 |
 
 Summary: Oxytocin Acetate (OT) is a cyclic synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -2836,12 +2836,12 @@ A: Oxytocin Acetate is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each ki
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $3.88 – $162.95 per kit (USD)
+- Price range: $7.76 – $325.90 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $162.95 | $162.95 | $149.91 | $138.51 |
-| 10 mg × 41 vials | $4.57 | $4.57 | $4.20 | $3.88 |
+| 5 mg × 10 vials | $325.90 | $325.90 | $299.82 | $277.02 |
+| 10 mg × 41 vials | $9.14 | $9.14 | $8.40 | $7.76 |
 
 Summary: P21 (P021) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -2871,11 +2871,11 @@ A: P21 (P021) is available in 2 configurations: 5 mg, 10 mg. Each kit contains 1
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 116 vials per kit
-- Price range: $56.82 – $66.85 per kit (USD)
+- Price range: $113.64 – $133.70 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 20 mg × 116 vials | $66.85 | $66.85 | $61.50 | $56.82 |
+| 20 mg × 116 vials | $133.70 | $133.70 | $123.00 | $113.64 |
 
 Summary: Pancragen (KEDW) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 116 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -2905,12 +2905,12 @@ A: Pancragen is available in 1 configuration: 20 mg. Each kit contains 116 vials
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $17.16 – $39.00 per kit (USD)
+- Price range: $34.32 – $78.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $20.19 | $20.19 | $18.57 | $17.16 |
-| 10 mg × 10 vials | $39.00 | $39.00 | $35.88 | $33.15 |
+| 5 mg × 10 vials | $40.38 | $40.38 | $37.14 | $34.32 |
+| 10 mg × 10 vials | $78.00 | $78.00 | $71.76 | $66.30 |
 
 Summary: PE-22-28 is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -2940,11 +2940,11 @@ A: PE-22-28 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $36.52 – $42.97 per kit (USD)
+- Price range: $73.04 – $85.94 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $42.97 | $42.97 | $39.53 | $36.52 |
+| 2 mg × 10 vials | $85.94 | $85.94 | $79.06 | $73.04 |
 
 Summary: PEG-MGF (FMP) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 2 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -2974,13 +2974,13 @@ A: PEG-MGF is available in 1 configuration: 2 mg. Each kit contains 10 vials. Mi
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $16.57 – $130.80 per kit (USD)
+- Price range: $33.14 – $261.60 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $19.50 | $19.50 | $17.94 | $16.57 |
-| 10 mg × 10 vials | $32.03 | $32.03 | $29.47 | $27.23 |
-| 20 mg × 10 vials | $130.80 | $130.80 | $120.34 | $111.18 |
+| 5 mg × 10 vials | $39.00 | $39.00 | $35.88 | $33.14 |
+| 10 mg × 10 vials | $64.06 | $64.06 | $58.94 | $54.46 |
+| 20 mg × 10 vials | $261.60 | $261.60 | $240.68 | $222.36 |
 
 Summary: Pinealon (PIN) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -3010,13 +3010,13 @@ A: Pinealon is available in 3 configurations: 5 mg, 10 mg, 20 mg. Each kit conta
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $22.49 – $93.31 per kit (USD)
+- Price range: $44.98 – $186.62 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $26.46 | $26.46 | $24.34 | $22.49 |
-| 5 mg × 10 vials | $46.66 | $46.66 | $42.93 | $39.66 |
-| 10 mg × 10 vials | $93.31 | $93.31 | $85.85 | $79.31 |
+| 2 mg × 10 vials | $52.92 | $52.92 | $48.68 | $44.98 |
+| 5 mg × 10 vials | $93.32 | $93.32 | $85.86 | $79.32 |
+| 10 mg × 10 vials | $186.62 | $186.62 | $171.70 | $158.62 |
 
 Summary: PNC-27 is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -3046,11 +3046,11 @@ A: PNC-27 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $76.95 – $90.53 per kit (USD)
+- Price range: $153.90 – $181.06 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 20 mg × 10 vials | $90.53 | $90.53 | $83.29 | $76.95 |
+| 20 mg × 10 vials | $181.06 | $181.06 | $166.58 | $153.90 |
 
 Summary: Prostamax (KEDP) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -3080,11 +3080,11 @@ A: Prostamax is available in 1 configuration: 20 mg. Each kit contains 10 vials.
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $24.36 – $28.66 per kit (USD)
+- Price range: $48.72 – $57.32 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 1 mg × 10 vials | $28.66 | $28.66 | $26.37 | $24.36 |
+| 1 mg × 10 vials | $57.32 | $57.32 | $52.74 | $48.72 |
 
 Summary: PTD-DBM is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 1 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -3114,11 +3114,11 @@ A: PTD-DBM is available in 1 configuration: 1 mg. Each kit contains 10 vials. Mi
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $44.20 – $52.00 per kit (USD)
+- Price range: $88.40 – $104.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mL × 10 vials | $52.00 | $52.00 | $47.84 | $44.20 |
+| 10 mL × 10 vials | $104.00 | $104.00 | $95.68 | $88.40 |
 
 Summary: Relaxation PM (RP) is a ready-to-use liquid blend supplied as sterile solution. The catalogue lists 1 pack size: 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99% (HPLC) with sterile solution appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. For laboratory research use only; not for human or veterinary use.
 
@@ -3148,20 +3148,20 @@ A: Relaxation PM is available in 1 configuration: 10 ml. Each kit contains 10 vi
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $26.94 – $239.83 per kit (USD)
+- Price range: $53.88 – $479.66 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $31.69 | $31.69 | $29.15 | $26.94 |
-| 10 mg × 10 vials | $53.27 | $53.27 | $49.01 | $45.28 |
-| 15 mg × 10 vials | $72.77 | $72.77 | $66.95 | $61.85 |
-| 20 mg × 10 vials | $92.97 | $92.97 | $85.53 | $79.02 |
-| 30 mg × 10 vials | $127.55 | $127.55 | $117.35 | $108.42 |
-| 40 mg × 10 vials | $122.76 | $122.76 | $112.94 | $104.35 |
-| 50 mg × 10 vials | $135.42 | $135.42 | $124.59 | $115.11 |
-| 60 mg × 10 vials | $221.45 | $221.45 | $203.73 | $188.23 |
-| 80 mg × 10 vials | $151.81 | $151.81 | $139.67 | $129.04 |
-| 100 mg × 10 vials | $239.83 | $239.83 | $220.64 | $203.86 |
+| 5 mg × 10 vials | $63.38 | $63.38 | $58.30 | $53.88 |
+| 10 mg × 10 vials | $106.54 | $106.54 | $98.02 | $90.56 |
+| 15 mg × 10 vials | $145.54 | $145.54 | $133.90 | $123.70 |
+| 20 mg × 10 vials | $185.94 | $185.94 | $171.06 | $158.04 |
+| 30 mg × 10 vials | $255.10 | $255.10 | $234.70 | $216.84 |
+| 40 mg × 10 vials | $245.52 | $245.52 | $225.88 | $208.70 |
+| 50 mg × 10 vials | $270.84 | $270.84 | $249.18 | $230.22 |
+| 60 mg × 10 vials | $442.90 | $442.90 | $407.46 | $376.46 |
+| 80 mg × 10 vials | $303.62 | $303.62 | $279.34 | $258.08 |
+| 100 mg × 10 vials | $479.66 | $479.66 | $441.28 | $407.72 |
 
 Summary: Retatrutide (RT) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 10 pack sizes: 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 40 mg and 4 more. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
@@ -3191,11 +3191,11 @@ A: Retatrutide is available in 10 configurations: 5 mg, 10 mg, 15 mg, 20 mg, 30 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $195.50 – $230.00 per kit (USD)
+- Price range: $391.00 – $460.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 25 mg × 10 vials | $230.00 | $230.00 | $211.60 | $195.50 |
+| 25 mg × 10 vials | $460.00 | $460.00 | $423.20 | $391.00 |
 
 Summary: Retatrutide + Cagrilintide Blend (20 mg + 5 mg) (RC) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 1 pack size: 25 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines Retatrutide 20 mg and Cagrilintide 5 mg. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
@@ -3225,11 +3225,11 @@ A: Retatrutide + Cagrilintide Blend (20 mg + 5 mg) is available in 1 configurati
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $102.99 – $121.17 per kit (USD)
+- Price range: $205.98 – $242.34 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 60 mg × 10 vials | $121.17 | $121.17 | $111.48 | $102.99 |
+| 60 mg × 10 vials | $242.34 | $242.34 | $222.96 | $205.98 |
 
 Summary: Retatrutide + Tirzepatide Blend (20 mg + 40 mg) (RTTR) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 1 pack size: 60 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines Retatrutide 20 mg and Tirzepatide 40 mg. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
@@ -3259,12 +3259,12 @@ A: Retatrutide + Tirzepatide Blend (20 mg + 40 mg) is available in 1 configurati
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $16.28 – $28.55 per kit (USD)
+- Price range: $32.56 – $57.10 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $19.15 | $19.15 | $17.62 | $16.28 |
-| 10 mg × 10 vials | $28.55 | $28.55 | $26.27 | $24.27 |
+| 5 mg × 10 vials | $38.30 | $38.30 | $35.24 | $32.56 |
+| 10 mg × 10 vials | $57.10 | $57.10 | $52.54 | $48.54 |
 
 Summary: Selank (SK) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -3294,17 +3294,17 @@ A: Selank is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vi
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $10.65 – $64.07 per kit (USD)
+- Price range: $21.30 – $128.14 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $12.53 | $12.53 | $11.53 | $10.65 |
-| 5 mg × 10 vials | $17.51 | $17.51 | $16.11 | $14.88 |
-| 10 mg × 10 vials | $23.68 | $23.68 | $21.79 | $20.13 |
-| 15 mg × 10 vials | $29.25 | $29.25 | $26.91 | $24.86 |
-| 20 mg × 10 vials | $36.21 | $36.21 | $33.31 | $30.78 |
-| 30 mg × 10 vials | $64.07 | $64.07 | $58.94 | $54.46 |
-| 50 mg × 10 vials | $62.05 | $62.05 | $57.09 | $52.74 |
+| 2 mg × 10 vials | $25.06 | $25.06 | $23.06 | $21.30 |
+| 5 mg × 10 vials | $35.02 | $35.02 | $32.22 | $29.76 |
+| 10 mg × 10 vials | $47.36 | $47.36 | $43.58 | $40.26 |
+| 15 mg × 10 vials | $58.50 | $58.50 | $53.82 | $49.72 |
+| 20 mg × 10 vials | $72.42 | $72.42 | $66.62 | $61.56 |
+| 30 mg × 10 vials | $128.14 | $128.14 | $117.88 | $108.92 |
+| 50 mg × 10 vials | $124.10 | $124.10 | $114.18 | $105.48 |
 
 Summary: Semaglutide (SM) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 7 pack sizes: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg and 1 more. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
@@ -3334,12 +3334,12 @@ A: Semaglutide is available in 7 configurations: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $15.98 – $27.86 per kit (USD)
+- Price range: $31.96 – $55.72 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $18.80 | $18.80 | $17.30 | $15.98 |
-| 10 mg × 10 vials | $27.86 | $27.86 | $25.63 | $23.68 |
+| 5 mg × 10 vials | $37.60 | $37.60 | $34.60 | $31.96 |
+| 10 mg × 10 vials | $55.72 | $55.72 | $51.26 | $47.36 |
 
 Summary: Semax (SX) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -3369,13 +3369,13 @@ A: Semax is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 via
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $18.35 – $66.85 per kit (USD)
+- Price range: $36.70 – $133.70 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $21.59 | $21.59 | $19.86 | $18.35 |
-| 5 mg × 10 vials | $39.00 | $39.00 | $35.88 | $33.15 |
-| 10 mg × 10 vials | $66.85 | $66.85 | $61.50 | $56.82 |
+| 2 mg × 10 vials | $43.18 | $43.18 | $39.72 | $36.70 |
+| 5 mg × 10 vials | $78.00 | $78.00 | $71.76 | $66.30 |
+| 10 mg × 10 vials | $133.70 | $133.70 | $123.00 | $113.64 |
 
 Summary: Sermorelin Acetate (SMO) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -3405,12 +3405,12 @@ A: Sermorelin Acetate is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $38.67 – $83.12 per kit (USD)
+- Price range: $77.34 – $166.24 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $45.50 | $45.50 | $41.86 | $38.67 |
-| 10 mg × 10 vials | $83.12 | $83.12 | $76.47 | $70.65 |
+| 5 mg × 10 vials | $91.00 | $91.00 | $83.72 | $77.34 |
+| 10 mg × 10 vials | $166.24 | $166.24 | $152.94 | $141.30 |
 
 Summary: SLU-PP-332 (SLU332) is a small-molecule research compound supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -3440,12 +3440,12 @@ A: SLU-PP-332 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 1
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $15.98 – $107.10 per kit (USD)
+- Price range: $31.96 – $214.20 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $18.80 | $18.80 | $17.30 | $15.98 |
-| 100 mg × 10 vials | $107.10 | $107.10 | $98.53 | $91.03 |
+| 10 mg × 10 vials | $37.60 | $37.60 | $34.60 | $31.96 |
+| 100 mg × 10 vials | $214.20 | $214.20 | $197.06 | $182.06 |
 
 Summary: SNAP-8 (NP) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 10 mg, 100 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -3475,13 +3475,13 @@ A: SNAP-8 is available in 2 configurations: 10 mg, 100 mg. Each kit contains 10 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $20.25 – $165.04 per kit (USD)
+- Price range: $40.50 – $330.08 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $23.82 | $23.82 | $21.91 | $20.25 |
-| 10 mg × 10 vials | $42.83 | $42.83 | $39.40 | $36.41 |
-| 50 mg × 10 vials | $165.04 | $165.04 | $151.84 | $140.28 |
+| 5 mg × 10 vials | $47.64 | $47.64 | $43.82 | $40.50 |
+| 10 mg × 10 vials | $85.66 | $85.66 | $78.80 | $72.82 |
+| 50 mg × 10 vials | $330.08 | $330.08 | $303.68 | $280.56 |
 
 Summary: SS-31 (Elamipretide) (2S) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 50 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -3511,11 +3511,11 @@ A: SS-31 (Elamipretide) is available in 3 configurations: 5 mg, 10 mg, 50 mg. Ea
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $44.20 – $52.00 per kit (USD)
+- Price range: $88.40 – $104.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mL × 10 vials | $52.00 | $52.00 | $47.84 | $44.20 |
+| 10 mL × 10 vials | $104.00 | $104.00 | $95.68 | $88.40 |
 
 Summary: Super Human Blend (SHB) is a multi-component peptide blend supplied as sterile solution. The catalogue lists 1 pack size: 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with sterile solution appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. For laboratory research use only; not for human or veterinary use.
 
@@ -3545,11 +3545,11 @@ A: Super Human Blend is available in 1 configuration: 10 ml. Each kit contains 1
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $94.11 – $110.72 per kit (USD)
+- Price range: $188.22 – $221.44 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $110.72 | $110.72 | $101.86 | $94.11 |
+| 10 mg × 10 vials | $221.44 | $221.44 | $203.72 | $188.22 |
 
 Summary: Survodutide (SUR) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -3579,13 +3579,13 @@ A: Survodutide is available in 1 configuration: 10 mg. Each kit contains 10 vial
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $19.39 – $79.39 per kit (USD)
+- Price range: $38.78 – $158.78 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $22.81 | $22.81 | $20.99 | $19.39 |
-| 5 mg × 10 vials | $42.48 | $42.48 | $39.08 | $36.11 |
-| 10 mg × 10 vials | $79.39 | $79.39 | $73.04 | $67.48 |
+| 2 mg × 10 vials | $45.62 | $45.62 | $41.98 | $38.78 |
+| 5 mg × 10 vials | $84.96 | $84.96 | $78.16 | $72.22 |
+| 10 mg × 10 vials | $158.78 | $158.78 | $146.08 | $134.96 |
 
 Summary: TB-500 (Thymosin Beta-4 Fragment) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -3615,13 +3615,13 @@ A: TB-500 (Thymosin Beta-4 Fragment) is available in 3 configurations: 2 mg, 5 m
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $14.92 – $36.98 per kit (USD)
+- Price range: $29.84 – $73.96 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $17.55 | $17.55 | $16.15 | $14.92 |
-| 5 mg × 10 vials | $24.44 | $24.44 | $22.48 | $20.77 |
-| 10 mg × 10 vials | $36.98 | $36.98 | $34.02 | $31.43 |
+| 2 mg × 10 vials | $35.10 | $35.10 | $32.30 | $29.84 |
+| 5 mg × 10 vials | $48.88 | $48.88 | $44.96 | $41.54 |
+| 10 mg × 10 vials | $73.96 | $73.96 | $68.04 | $62.86 |
 
 Summary: TB-500 Fragment (TBFRAG) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -3651,11 +3651,11 @@ A: TB-500 Fragment is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $61.56 – $72.42 per kit (USD)
+- Price range: $123.12 – $144.84 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $72.42 | $72.42 | $66.63 | $61.56 |
+| 10 mg × 10 vials | $144.84 | $144.84 | $133.26 | $123.12 |
 
 Summary: Teriparatide (TER) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -3685,14 +3685,14 @@ A: Teriparatide is available in 1 configuration: 10 mg. Each kit contains 10 via
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $24.27 – $177.58 per kit (USD)
+- Price range: $48.54 – $355.16 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $28.55 | $28.55 | $26.27 | $24.27 |
-| 5 mg × 10 vials | $53.97 | $53.97 | $49.65 | $45.87 |
-| 10 mg × 10 vials | $102.37 | $102.37 | $94.18 | $87.01 |
-| 20 mg × 10 vials | $177.58 | $177.58 | $163.37 | $150.94 |
+| 2 mg × 10 vials | $57.10 | $57.10 | $52.54 | $48.54 |
+| 5 mg × 10 vials | $107.94 | $107.94 | $99.30 | $91.74 |
+| 10 mg × 10 vials | $204.74 | $204.74 | $188.36 | $174.02 |
+| 20 mg × 10 vials | $355.16 | $355.16 | $326.74 | $301.88 |
 
 Summary: Tesamorelin (TSM) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 4 pack sizes: 2 mg, 5 mg, 10 mg, 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -3722,16 +3722,16 @@ A: Tesamorelin is available in 4 configurations: 2 mg, 5 mg, 10 mg, 20 mg. Each 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $31.96 – $108.43 per kit (USD)
+- Price range: $63.92 – $216.86 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 8(6+2) mg × 10 vials | $39.00 | $39.00 | $35.88 | $33.15 |
-| 10(5+5) mg × 10 vials | $37.60 | $37.60 | $34.59 | $31.96 |
-| 13(10+3) mg × 10 vials | $66.85 | $66.85 | $61.50 | $56.82 |
-| 15(10+5) mg × 10 vials | $72.42 | $72.42 | $66.63 | $61.56 |
-| 15 mg × 10 vials | $108.43 | $108.43 | $99.76 | $92.17 |
-| 17(8.5+8.5) mg × 10 vials | $68.25 | $68.25 | $62.79 | $58.01 |
+| 8(6+2) mg × 10 vials | $78.00 | $78.00 | $71.76 | $66.30 |
+| 10(5+5) mg × 10 vials | $75.20 | $75.20 | $69.18 | $63.92 |
+| 13(10+3) mg × 10 vials | $133.70 | $133.70 | $123.00 | $113.64 |
+| 15(10+5) mg × 10 vials | $144.84 | $144.84 | $133.26 | $123.12 |
+| 15 mg × 10 vials | $216.86 | $216.86 | $199.52 | $184.34 |
+| 17(8.5+8.5) mg × 10 vials | $136.50 | $136.50 | $125.58 | $116.02 |
 
 Summary: Tesamorelin + Ipamorelin Blend (TP) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 6 pack sizes: 8 mg, 10 mg, 13 mg, 15 mg, 15 mg, 17 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Component ratios follow the specification printed on each vial label. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
@@ -3761,11 +3761,11 @@ A: Tesamorelin + Ipamorelin Blend is available in 6 configurations: 8 mg, 10 mg,
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $30.78 – $36.21 per kit (USD)
+- Price range: $61.56 – $72.42 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 20 mg × 10 vials | $36.21 | $36.21 | $33.31 | $30.78 |
+| 20 mg × 10 vials | $72.42 | $72.42 | $66.62 | $61.56 |
 
 Summary: Testagen (AEDV) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -3795,11 +3795,11 @@ A: Testagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $28.42 – $33.43 per kit (USD)
+- Price range: $56.84 – $66.86 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $33.43 | $33.43 | $30.76 | $28.42 |
+| 10 mg × 10 vials | $66.86 | $66.86 | $61.52 | $56.84 |
 
 Summary: Thymalin (Thymulin) (TY) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -3829,12 +3829,12 @@ A: Thymalin (Thymulin) is available in 1 configuration: 10 mg. Each kit contains
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $43.50 – $85.65 per kit (USD)
+- Price range: $87.00 – $171.30 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $51.18 | $51.18 | $47.09 | $43.50 |
-| 10 mg × 10 vials | $85.65 | $85.65 | $78.80 | $72.80 |
+| 5 mg × 10 vials | $102.36 | $102.36 | $94.18 | $87.00 |
+| 10 mg × 10 vials | $171.30 | $171.30 | $157.60 | $145.60 |
 
 Summary: Thymosin Alpha-1 (TA) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -3864,22 +3864,22 @@ A: Thymosin Alpha-1 is available in 2 configurations: 5 mg, 10 mg. Each kit cont
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $15.39 – $230.00 per kit (USD)
+- Price range: $30.78 – $460.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $18.11 | $18.11 | $16.66 | $15.39 |
-| 5 mg × 10 vials | $19.50 | $19.50 | $17.94 | $16.57 |
-| 10 mg × 10 vials | $30.64 | $30.64 | $28.19 | $26.04 |
-| 15 mg × 10 vials | $37.60 | $37.60 | $34.59 | $31.96 |
-| 20 mg × 10 vials | $49.79 | $49.79 | $45.81 | $42.32 |
-| 30 mg × 10 vials | $66.85 | $66.85 | $61.50 | $56.82 |
-| 40 mg × 10 vials | $86.00 | $86.00 | $79.12 | $73.10 |
-| 50 mg × 10 vials | $103.06 | $103.06 | $94.82 | $87.60 |
-| 60 mg × 10 vials | $119.78 | $119.78 | $110.20 | $101.81 |
-| 80 mg × 10 vials | $174.09 | $174.09 | $160.16 | $147.98 |
-| 100 mg × 10 vials | $176.73 | $176.73 | $162.59 | $150.22 |
-| 120 mg × 10 vials | $230.00 | $230.00 | $211.60 | $195.50 |
+| 2 mg × 10 vials | $36.22 | $36.22 | $33.32 | $30.78 |
+| 5 mg × 10 vials | $39.00 | $39.00 | $35.88 | $33.14 |
+| 10 mg × 10 vials | $61.28 | $61.28 | $56.38 | $52.08 |
+| 15 mg × 10 vials | $75.20 | $75.20 | $69.18 | $63.92 |
+| 20 mg × 10 vials | $99.58 | $99.58 | $91.62 | $84.64 |
+| 30 mg × 10 vials | $133.70 | $133.70 | $123.00 | $113.64 |
+| 40 mg × 10 vials | $172.00 | $172.00 | $158.24 | $146.20 |
+| 50 mg × 10 vials | $206.12 | $206.12 | $189.64 | $175.20 |
+| 60 mg × 10 vials | $239.56 | $239.56 | $220.40 | $203.62 |
+| 80 mg × 10 vials | $348.18 | $348.18 | $320.32 | $295.96 |
+| 100 mg × 10 vials | $353.46 | $353.46 | $325.18 | $300.44 |
+| 120 mg × 10 vials | $460.00 | $460.00 | $423.20 | $391.00 |
 
 Summary: Tirzepatide (TR) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 12 pack sizes: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg and 6 more. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
@@ -3909,11 +3909,11 @@ A: Tirzepatide is available in 12 configurations: 2 mg, 5 mg, 10 mg, 15 mg, 20 m
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $17.76 – $20.89 per kit (USD)
+- Price range: $35.52 – $41.78 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mg × 10 vials | $20.89 | $20.89 | $19.22 | $17.76 |
+| 2 mg × 10 vials | $41.78 | $41.78 | $38.44 | $35.52 |
 
 Summary: Triptorelin Acetate (TRIP) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 2 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -3943,11 +3943,11 @@ A: Triptorelin Acetate is available in 1 configuration: 2 mg. Each kit contains 
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $27.70 – $32.59 per kit (USD)
+- Price range: $55.40 – $65.18 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 10 mg × 10 vials | $32.59 | $32.59 | $29.98 | $27.70 |
+| 10 mg × 10 vials | $65.18 | $65.18 | $59.96 | $55.40 |
 
 Summary: Vesugen (VES) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
@@ -3977,12 +3977,12 @@ A: Vesugen is available in 1 configuration: 10 mg. Each kit contains 10 vials. M
 - Molecular formula / weight: — / —
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
-- Price range: $34.93 – $68.94 per kit (USD)
+- Price range: $69.86 – $137.88 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 5 mg × 10 vials | $41.09 | $41.09 | $37.80 | $34.93 |
-| 10 mg × 10 vials | $68.94 | $68.94 | $63.42 | $58.60 |
+| 5 mg × 10 vials | $82.18 | $82.18 | $75.60 | $69.86 |
+| 10 mg × 10 vials | $137.88 | $137.88 | $126.84 | $117.20 |
 
 Summary: VIP (Vasoactive Intestinal Peptide) (VP) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
@@ -4012,11 +4012,11 @@ A: VIP (Vasoactive Intestinal Peptide) is available in 2 configurations: 5 mg, 1
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $12.75 – $15.00 per kit (USD)
+- Price range: $25.50 – $30.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mL × 10 vials | $15.00 | $15.00 | $13.80 | $12.75 |
+| 2 mL × 10 vials | $30.00 | $30.00 | $27.60 | $25.50 |
 
 Summary: Vitamin B Complex Injection (VB) is a non-peptide injectable supplied as sterile solution. The catalogue lists 1 pack size: 2 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
 
@@ -4046,11 +4046,11 @@ A: Vitamin B Complex Injection is available in 1 configuration: 2 ml. Each kit c
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $20.13 – $23.68 per kit (USD)
+- Price range: $40.26 – $47.36 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 1 mg × 10 vials | $23.68 | $23.68 | $21.79 | $20.13 |
+| 1 mg × 10 vials | $47.36 | $47.36 | $43.58 | $40.26 |
 
 Summary: Vitamin B12 is a non-peptide injectable supplied as sterile solution. The catalogue lists 1 pack size: 1 mg. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
 
@@ -4080,11 +4080,11 @@ A: Vitamin B12 is available in 1 configuration: 1 mg. Each kit contains 10 vials
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $5.10 – $6.00 per kit (USD)
+- Price range: $10.20 – $12.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 1 mL × 10 vials | $6.00 | $6.00 | $5.52 | $5.10 |
+| 1 mL × 10 vials | $12.00 | $12.00 | $11.04 | $10.20 |
 
 Summary: Vitamin B12 Injection (VB12) is a non-peptide injectable supplied as sterile solution. The catalogue lists 1 pack size: 1 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
 
@@ -4114,11 +4114,11 @@ A: Vitamin B12 Injection is available in 1 configuration: 1 ml. Each kit contain
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $12.75 – $15.00 per kit (USD)
+- Price range: $25.50 – $30.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mL × 10 vials | $15.00 | $15.00 | $13.80 | $12.75 |
+| 2 mL × 10 vials | $30.00 | $30.00 | $27.60 | $25.50 |
 
 Summary: Vitamin B6 Injection (VB6) is a non-peptide injectable supplied as sterile solution. The catalogue lists 1 pack size: 2 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
 
@@ -4148,11 +4148,11 @@ A: Vitamin B6 Injection is available in 1 configuration: 2 ml. Each kit contains
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
-- Price range: $5.10 – $6.00 per kit (USD)
+- Price range: $10.20 – $12.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 2 mL × 10 vials | $6.00 | $6.00 | $5.52 | $5.10 |
+| 2 mL × 10 vials | $12.00 | $12.00 | $11.04 | $10.20 |
 
 Summary: Vitamin C Injection (VC) is a non-peptide injectable supplied as sterile solution. The catalogue lists 1 pack size: 2 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
 
@@ -4182,11 +4182,11 @@ A: Vitamin C Injection is available in 1 configuration: 2 ml. Each kit contains 
 - Molecular formula / weight: — / —
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 6 vials per kit
-- Price range: $28.90 – $34.00 per kit (USD)
+- Price range: $57.80 – $68.00 per kit (USD)
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
-| 1 mL × 6 vials | $34.00 | $34.00 | $31.28 | $28.90 |
+| 1 mL × 6 vials | $68.00 | $68.00 | $62.56 | $57.80 |
 
 Summary: Vitamin D2 Injection (VD2) is a non-peptide injectable supplied as sterile solution. The catalogue lists 1 pack size: 1 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 6 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
 

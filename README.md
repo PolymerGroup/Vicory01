@@ -215,6 +215,7 @@ obots.txt and llms.txt resolve.
 |---|---|
 | Add / edit a product | governance layer (`master_peptides.json`) → `pnpm run data` |
 | Change pricing tiers | `TIER_POLICY` in the governance layer |
+| Change the site-wide price multiplier | `PRICE_MULTIPLIER` in `scripts/build-data.mjs` (default `2`; override with `PRICE_MULTIPLIER=1.5 pnpm run data`). The governance DB keeps reference prices; the site sells at reference × multiplier, and every SKU price, tier, `perVial`, JSON-LD offer and llms file is derived from it. |
 | Change brand info | `src/lib/site.ts` |
 | Change colours | `tailwind.config.mjs` |
 | Add a page | `src/pages/*.astro` (auto-routed, statically built) |

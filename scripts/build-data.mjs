@@ -122,6 +122,17 @@ const ORDER = [
 /* ------------------------------------------------------------------ */
 /* 工具                                                               */
 /* ------------------------------------------------------------------ */
+/**
+ * 站点售价系数（markup）。
+ * 治理层 master_peptides.json 里的是「成本/参考价」，站点对外报价 = 参考价 × 该系数。
+ * 2026-11 调整：全站价格统一 ×2（例如 $40 → $80）。
+ * 可用环境变量覆盖：PRICE_MULTIPLIER=1.5 pnpm run data
+ */
+const PRICE_MULTIPLIER = (() => {
+  const raw = Number(process.env.PRICE_MULTIPLIER ?? 2);
+  return Number.isFinite(raw) && raw > 0 ? raw : 1;
+})();
+
 const nf = new Intl.NumberFormat('en-US', {
   minimumFractionDigits: 2,
   maximumFractionDigits: 2,
@@ -129,6 +140,12 @@ const nf = new Intl.NumberFormat('en-US', {
 
 function fmtMoney(v) {
   return v == null ? null : Number(nf.format(v).replace(/,/g, ''));
+}
+
+/** 应用售价系数，保留两位小数（$40.00 → $80.00） */
+function sell(v) {
+  if (v == null) return null;
+  return Math.round(Number(v) * PRICE_MULTIPLIER * 100) / 100;
 }
 
 function specLabel(sku) {
@@ -170,10 +187,12 @@ const products = master.products
   .filter((p) => p.publishable !== false)
   .map((p) => {
     const specs = (p.skus || []).map((s) => {
+      // 先把参考价乘以售价系数，再参与所有派生计算，保证档位折扣与单价一致
+      const perKit = sell(s.price?.per_kit_usd);
       const tiers = (s.tiers || []).map((t) => ({
         min: t.min_qty,
         max: t.max_qty,
-        price: fmtMoney(t.unit_price_usd),
+        price: sell(t.unit_price_usd),
         label:
           t.max_qty == null ? `${t.min_qty}+ Kits` : `${t.min_qty}–${t.max_qty} Kits`,
       }));
@@ -183,10 +202,12 @@ const products = master.products
         strength: s.strength,
         unit: s.unit,
         vials: s.vials || 10,
-        perKit: fmtMoney(s.price?.per_kit_usd),
-        perVial: fmtMoney(s.price?.per_vial_usd),
+        perKit,
+        // 单价按「每箱价 ÷ 支数」重新推导，避免沿用治理层已四舍五入的旧值后误差被放大
+        perVial:
+          perKit == null ? null : Math.round((perKit / (s.vials || 10)) * 100) / 100,
         tiers,
-        tierFrom: tiers.length ? tiers[0].price : fmtMoney(s.price?.per_kit_usd),
+        tierFrom: tiers.length ? tiers[0].price : perKit,
       };
     });
 
