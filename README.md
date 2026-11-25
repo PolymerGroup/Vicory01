@@ -60,6 +60,8 @@ MASTER_DB=/path/to/master_peptides.json pnpm run data   # override
 │   └── images/
 │       ├── logo.png          # transparent orange/blue mark
 │       └── products/         # drop {slug}.webp here → auto-swaps the placeholder
+├── reference/
+│   └── chemistry_reference.csv  # PubChem-verified CAS / formula / MW, one row per slug
 ├── scripts/
 │   ├── build-data.mjs        # master_peptides.json → src/data/peptides.json
 │   └── gen-llms.mjs          # → public/llms.txt + public/llms-full.txt

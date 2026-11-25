@@ -48,6 +48,45 @@ if (!existsSync(MASTER)) {
 const master = JSON.parse(readFileSync(MASTER, 'utf8'));
 
 /* ------------------------------------------------------------------ */
+/* 化学补录表：reference/chemistry_reference.csv                        */
+/* 由 scripts/enrich-chemistry（PubChem 身份匹配 + 分子式/分子量合理性 +   */
+/* CAS 校验和）生成，人工可审。仓库内提交，CI 构建同样读取。              */
+/* ------------------------------------------------------------------ */
+const CHEM_CSV = resolve(ROOT, 'reference', 'chemistry_reference.csv');
+
+function readChemRef() {
+  if (!existsSync(CHEM_CSV)) return {};
+  const lines = readFileSync(CHEM_CSV, 'utf8').split(/\r?\n/).filter((l) => l.trim());
+  if (lines.length < 2) return {};
+  const parse = (line) => (line.match(/"([^"]*)"/g) || []).map((c) => c.slice(1, -1));
+  const header = parse(lines[0]);
+  const out = {};
+  for (const line of lines.slice(1)) {
+    const cells = parse(line);
+    const rec = {};
+    header.forEach((h, i) => (rec[h] = cells[i] ?? ''));
+    if (rec.slug) out[rec.slug] = rec;
+  }
+  return out;
+}
+
+const chemRef = readChemRef();
+
+/** CAS 校验和（与治理层同一算法）：CSV 被手改也能挡住错值 */
+function casChecksumOk(cas) {
+  if (!/^\d{2,7}-\d{2}-\d$/.test(cas)) return false;
+  const d = cas.replace(/-/g, '');
+  let total = 0;
+  [...d.slice(0, -1)].reverse().forEach((ch, i) => (total += Number(ch) * (i + 1)));
+  return total % 10 === Number(d[d.length - 1]);
+}
+
+function cleanCas(cas) {
+  const v = (cas || '').trim();
+  return v && casChecksumOk(v) ? v : null;
+}
+
+/* ------------------------------------------------------------------ */
 /* 分类元数据（与 master taxonomy 的 site_buckets 一一对应）           */
 /* ------------------------------------------------------------------ */
 const CATEGORY_META = {
@@ -254,13 +293,19 @@ const products = master.products
           p.storage?.solution ||
           'Store at -20 °C, protected from light and moisture',
       },
-      cas: p.cas || null,
-      sequence: p.sequence || null,
+      // 化学参数：治理层优先，其次 PubChem 校验后的补录表，最后为空（页面回退 COA）
+      cas: p.cas || cleanCas(chemRef[p.slug]?.cas) || null,
+      sequence: p.sequence || (chemRef[p.slug]?.sequence || '').trim() || null,
       // 分子式同时输出两种键名：molecularFormula（schema.org 习惯）+ formula（旧键，向后兼容）
-      molecularFormula: p.molecular_formula || null,
-      formula: p.molecular_formula || null,
-      molecularWeight: p.molecular_weight || null,
-      chemistryStatus: p.cas ? 'documented' : 'pending-coa',
+      molecularFormula:
+        p.molecular_formula || (chemRef[p.slug]?.molecular_formula || '').trim() || null,
+      formula: p.molecular_formula || (chemRef[p.slug]?.molecular_formula || '').trim() || null,
+      molecularWeight:
+        p.molecular_weight || (chemRef[p.slug]?.molecular_weight || '').trim() || null,
+      chemistryStatus:
+        p.cas || cleanCas(chemRef[p.slug]?.cas) || chemRef[p.slug]?.molecular_formula
+          ? 'documented'
+          : 'pending-coa',
       composition: p.composition || [],
       kitVials: specs[0]?.vials || 10,
       specs,
