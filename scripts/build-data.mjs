@@ -27,8 +27,21 @@ const MASTER =
   process.env.MASTER_DB ||
   resolve(ROOT, '..', 'master_db', 'master_peptides.json');
 
+const OUT_FILE = resolve(ROOT, 'src/data/peptides.json');
+
+// CI / Cloudflare Pages 上不存在治理层主库（它在本地 ../master_db/）：
+// 只要 src/data/peptides.json 已经提交，就直接跳过，用已提交的数据构建。
 if (!existsSync(MASTER)) {
-  console.error(`[build-data] 找不到 master 数据库: ${MASTER}`);
+  if (existsSync(OUT_FILE)) {
+    console.log(
+      `[build-data] master DB not found at ${MASTER} — using committed src/data/peptides.json (skip regenerate).`
+    );
+    process.exit(0);
+  }
+  console.error(
+    `[build-data] 找不到 master 数据库 (${MASTER})，仓库里也没有 src/data/peptides.json。\n` +
+      `请先在有主库的机器上运行 pnpm run data，或设置环境变量 MASTER_DB 指向主库路径。`
+  );
   process.exit(1);
 }
 
