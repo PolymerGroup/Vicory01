@@ -8,7 +8,6 @@ export const SITE = {
   name: 'Dchemi',
   tagline: 'Research-Grade Peptides, Supplied by the Kit',
   legalName: 'Shandong Vicory Biotechnology Co., Ltd.',
-  legalNameZh: '山东维科瑞生物科技有限公司',
   email: 'info@dchemi.com',
   phone: '+86 15866781826',
   phoneHref: 'tel:+8615866781826',
