@@ -1,4 +1,4 @@
-/** PepPedia 分类元数据（与 content.config.ts 的 enum 对应） */
+/** PepPedia category metadata (mirrors the enum in content.config.ts) */
 export const PEPPEDIA_CATEGORIES = {
   fundamentals: {
     label: 'Fundamentals',

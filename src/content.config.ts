@@ -2,8 +2,8 @@ import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
 /**
- * PepPedia —— 多肽知识库（文章集合）
- * 全部内容保持实验室/分析方法/采购语境，不涉及疗效、剂量或人体使用。
+ * PepPedia - peptide knowledge base (article collection)
+ * All copy stays in laboratory / analytical / procurement framing; no efficacy, dosing or human-use claims.
  */
 const peppedia = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/peppedia' }),

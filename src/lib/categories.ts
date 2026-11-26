@@ -1,7 +1,7 @@
 /**
- * 分类落地页内容（A1）
- * 每个分类一个独立可索引 URL：/categories/{slug}
- * 与 /llms/{slug}.txt 使用同一套 slug，便于机器与人类读到同一棵树。
+ * Category landing page content.
+ * One indexable URL per category: /peptides/{slug}
+ * Shares slugs with /llms/{slug}.txt so machines and humans read the same tree.
  */
 export interface CategoryPage {
   key: string;

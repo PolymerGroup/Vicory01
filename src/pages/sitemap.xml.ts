@@ -10,11 +10,11 @@ export const GET: APIRoute = async () => {
   const today = new Date().toISOString().slice(0, 10);
   const products = (data.products as any[]) || [];
 
-  // 数据生成日期：产品页 lastmod 用它而不是构建日期，
-  // 否则每次 CI 重建都会告诉搜索引擎"119 个产品今天全改了"。
+  // Product pages use the data timestamp as lastmod, not the build date,
+  // otherwise every CI build claims all 119 products changed.
   const dataDate = String((data as any).generatedAt || '').slice(0, 10) || today;
 
-  // 文章排序固定下来，保证多次构建输出完全一致（文件系统遍历顺序不稳定）
+  // Sort articles deterministically so repeated builds emit identical output
   const posts = (await getCollection('peppedia')).sort(
     (a, b) =>
       b.data.publishedAt.getTime() - a.data.publishedAt.getTime() || a.id.localeCompare(b.id)

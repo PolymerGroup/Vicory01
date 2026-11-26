@@ -1,4 +1,4 @@
-/** 与 src/data/peptides.json 一一对应的类型定义（构建期校验用） */
+/** Types mirroring src/data/peptides.json (used for build-time checks) */
 
 export interface Tier {
   min: number;
@@ -63,9 +63,9 @@ export interface Peptide {
   };
   cas: string | null;
   sequence: string | null;
-  /** 分子式（规范键，schema.org 风格） */
+  /** Molecular formula (canonical key, schema.org style) */
   molecularFormula: string | null;
-  /** 分子式（旧键，保留向后兼容） */
+  /** Molecular formula (legacy key, kept for compatibility) */
   formula: string | null;
   molecularWeight: string | null;
   chemistryStatus: 'documented' | 'pending-coa';

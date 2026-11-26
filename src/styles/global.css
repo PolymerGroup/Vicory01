@@ -97,7 +97,7 @@
     @apply text-ocean-700 underline decoration-ocean-300 underline-offset-2 hover:text-ocean-800;
   }
 
-  /* 长文（PepPedia 文章）排版 */
+  /* Long-form typography for PepPedia articles */
   .prose-article {
     @apply text-[15.5px] leading-[1.8] text-slate-700;
   }

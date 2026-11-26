@@ -1,19 +1,19 @@
 /**
  * build-data.mjs
  * ------------------------------------------------------------------
- * 把治理层产出的 master_peptides.json（119 个可上站产品）
- * 转换成站点消费的 src/data/peptides.json。
+ * Turns the governance output (master_peptides.json, 119 publishable products)
+ * into the site payload src/data/peptides.json.
  *
- * 用法：
+ * Usage:
  *   node scripts/build-data.mjs
  *   MASTER_DB=../master_db/master_peptides.json node scripts/build-data.mjs
  *
- * 设计要点：
- *  - 只取 publishable=true 的 119 个产品，drafts 一律不进站；
- *  - 报价统一为 USD / Kit(10 vials)，阶梯价直接用 master 里的 tiers；
- *  - CAS / 序列 / 分子量在源表缺失时为 null，站点显示 “Available on batch COA”，
- *    绝不编造化学参数；
- *  - COA 面板为 “illustrative specimen”，仅展示规格限值，不伪造实测值。
+ * Design notes:
+ *  - only publishable=true products are emitted; drafts never ship;
+ *  - prices are USD per kit (10 vials) and reuse the master tier table;
+ *  - CAS / sequence / molecular weight stay null when the source lacks them and the site shows a COA note,
+ *    never inventing chemistry;
+ *  - the COA panel is an illustrative specimen: limits only, no fabricated measurements.
  * ------------------------------------------------------------------
  */
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
@@ -29,8 +29,8 @@ const MASTER =
 
 const OUT_FILE = resolve(ROOT, 'src/data/peptides.json');
 
-// CI / Cloudflare Pages 上不存在治理层主库（它在本地 ../master_db/）：
-// 只要 src/data/peptides.json 已经提交，就直接跳过，用已提交的数据构建。
+// CI has no governance database (it lives locally in ../master_db/):
+// as long as src/data/peptides.json is committed we skip regeneration and build from it.
 if (!existsSync(MASTER)) {
   if (existsSync(OUT_FILE)) {
     console.log(
@@ -39,8 +39,8 @@ if (!existsSync(MASTER)) {
     process.exit(0);
   }
   console.error(
-    `[build-data] 找不到 master 数据库 (${MASTER})，仓库里也没有 src/data/peptides.json。\n` +
-      `请先在有主库的机器上运行 pnpm run data，或设置环境变量 MASTER_DB 指向主库路径。`
+    `[build-data] master database not found at ${MASTER} and no committed src/data/peptides.json.\n` +
+      `Run pnpm run data on a machine that has the database, or point MASTER_DB at it.`
   );
   process.exit(1);
 }
@@ -48,9 +48,9 @@ if (!existsSync(MASTER)) {
 const master = JSON.parse(readFileSync(MASTER, 'utf8'));
 
 /* ------------------------------------------------------------------ */
-/* 化学补录表：reference/chemistry_reference.csv                        */
-/* 由 scripts/enrich-chemistry（PubChem 身份匹配 + 分子式/分子量合理性 +   */
-/* CAS 校验和）生成，人工可审。仓库内提交，CI 构建同样读取。              */
+/* Chemistry reference table: reference/chemistry_reference.csv          */
+/* Built by the PubChem enrichment pass (identity match, formula/weight   */
+/* sanity, CAS checksum), reviewed by hand and committed for CI builds.   */
 /* ------------------------------------------------------------------ */
 const CHEM_CSV = resolve(ROOT, 'reference', 'chemistry_reference.csv');
 
@@ -72,7 +72,7 @@ function readChemRef() {
 
 const chemRef = readChemRef();
 
-/** CAS 校验和（与治理层同一算法）：CSV 被手改也能挡住错值 */
+/** CAS checksum (same algorithm as the governance layer) to catch bad hand edits */
 function casChecksumOk(cas) {
   if (!/^\d{2,7}-\d{2}-\d$/.test(cas)) return false;
   const d = cas.replace(/-/g, '');
@@ -83,19 +83,19 @@ function casChecksumOk(cas) {
 
 function cleanCas(cas) {
   const v = (cas || '').trim();
-  // 允许带注释的写法，如 "100-51-6 (Benzyl alcohol)"：只校验前面的 CAS 本体，展示保留全文
+  // Annotated forms such as "100-51-6 (Benzyl alcohol)" are accepted: validate the core, render the full string
   const m = v.match(/^(\d{2,7}-\d{2}-\d)/);
   return m && casChecksumOk(m[1]) ? v : null;
 }
 
-/** CSV 里的 omit_fields（分号分隔）→ 模板按字段隐藏整行，例如 ace-031 不显示分子式 */
+/** omit_fields from the CSV (semicolon separated) hides whole rows, e.g. ace-031 has no formula row */
 function chemOmit(slug) {
   const raw = (chemRef[slug]?.omit_fields || '').trim();
   return raw ? raw.split(';').map((s) => s.trim()).filter(Boolean) : [];
 }
 
 /* ------------------------------------------------------------------ */
-/* 分类元数据（与 master taxonomy 的 site_buckets 一一对应）           */
+/* Category metadata (mirrors the master taxonomy site_buckets)          */
 /* ------------------------------------------------------------------ */
 const CATEGORY_META = {
   glp1_metabolic: {
@@ -167,13 +167,13 @@ const ORDER = [
 ];
 
 /* ------------------------------------------------------------------ */
-/* 工具                                                               */
+/* Utilities                                                          */
 /* ------------------------------------------------------------------ */
 /**
- * 站点售价系数（markup）。
- * 治理层 master_peptides.json 里的是「成本/参考价」，站点对外报价 = 参考价 × 该系数。
- * 2026-11 调整：全站价格统一 ×2（例如 $40 → $80）。
- * 可用环境变量覆盖：PRICE_MULTIPLIER=1.5 pnpm run data
+ * Site price multiplier (markup).
+ * The governance DB holds reference prices; the site sells at reference x multiplier.
+ * 2026-11 adjustment: every price doubled ($40 -> $80).
+ * Override with PRICE_MULTIPLIER=1.5 pnpm run data
  */
 const PRICE_MULTIPLIER = (() => {
   const raw = Number(process.env.PRICE_MULTIPLIER ?? 2);
@@ -189,7 +189,7 @@ function fmtMoney(v) {
   return v == null ? null : Number(nf.format(v).replace(/,/g, ''));
 }
 
-/** 应用售价系数，保留两位小数（$40.00 → $80.00） */
+/** Apply the multiplier and round to two decimals ($40.00 -> $80.00) */
 function sell(v) {
   if (v == null) return null;
   return Math.round(Number(v) * PRICE_MULTIPLIER * 100) / 100;
@@ -228,13 +228,13 @@ function coaFor(p) {
 }
 
 /* ------------------------------------------------------------------ */
-/* 转换                                                               */
+/* Transform                                                          */
 /* ------------------------------------------------------------------ */
 const products = master.products
   .filter((p) => p.publishable !== false)
   .map((p) => {
     const specs = (p.skus || []).map((s) => {
-      // 先把参考价乘以售价系数，再参与所有派生计算，保证档位折扣与单价一致
+      // Apply the multiplier first so tier discounts stay consistent with the unit price
       const perKit = sell(s.price?.per_kit_usd);
       const tiers = (s.tiers || []).map((t) => ({
         min: t.min_qty,
@@ -250,7 +250,7 @@ const products = master.products
         unit: s.unit,
         vials: s.vials || 10,
         perKit,
-        // 单价按「每箱价 ÷ 支数」重新推导，避免沿用治理层已四舍五入的旧值后误差被放大
+        // Derive the per-vial price from the kit price instead of reusing the rounded governance value
         perVial:
           perKit == null ? null : Math.round((perKit / (s.vials || 10)) * 100) / 100,
         tiers,
@@ -301,10 +301,10 @@ const products = master.products
           p.storage?.solution ||
           'Store at -20 °C, protected from light and moisture',
       },
-      // 化学参数：治理层优先，其次 PubChem 校验后的补录表，最后为空（页面回退 COA）
+      // Chemistry: governance value first, then the verified reference table, else null (page falls back to COA)
       cas: p.cas || cleanCas(chemRef[p.slug]?.cas) || null,
       sequence: p.sequence || (chemRef[p.slug]?.sequence || '').trim() || null,
-      // 分子式同时输出两种键名：molecularFormula（schema.org 习惯）+ formula（旧键，向后兼容）
+      // Emit both formula keys: molecularFormula (schema.org) and the legacy formula key
       molecularFormula:
         p.molecular_formula || (chemRef[p.slug]?.molecular_formula || '').trim() || null,
       formula: p.molecular_formula || (chemRef[p.slug]?.molecular_formula || '').trim() || null,
@@ -332,9 +332,9 @@ const products = master.products
   });
 
 /* ------------------------------------------------------------------ */
-/* 去重：把各页共享的模板句，换成按产品数据计算出来的专属文案。
- * 目的：降低产品页两两 5-gram Jaccard 相似度（目标 <0.30），
- * 同时保证每一句都是真实数据，不是同义词替换。
+/* De-duplication: replace shared boilerplate with copy computed from each product.
+ * Goal: lower pairwise 5-gram Jaccard on product pages (target <0.30)
+ * while keeping every sentence factual rather than synonym swapping.
  * ------------------------------------------------------------------ */
 const usd = (v) => (v == null ? 'quote' : `$${Number(v).toFixed(2)}`);
 const pctOff = (base, v) => (base && v ? Math.round((1 - v / base) * 100) : 0);
@@ -359,7 +359,7 @@ function diversifyProduct(p) {
   if (p.molecularWeight) chem.push(`${p.molecularWeight} Da`);
   const isLyo = p.form !== 'sterile_solution';
 
-  /* ---- 1) 页面 overview：3 套结构，均带本产品数字 ---- */
+  /* ---- 1) page overview: three structures, each carrying this product's numbers ---- */
   const variants = [
     `${p.name} (${p.shortCode}) sits in the ${p.categoryLabel} group and ships as ${
       isLyo ? 'lyophilized powder' : 'sterile solution'
@@ -379,7 +379,7 @@ function diversifyProduct(p) {
   ];
   p.overview = variants[seedOf(p.slug) % variants.length];
 
-  /* ---- 2) 三条「只有这页才有」的目录说明 ---- */
+  /* ---- 2) three catalogue notes that only this page can have ---- */
   const notes = [];
   if (list != null && perVial != null) {
     notes.push(
@@ -401,7 +401,7 @@ function diversifyProduct(p) {
   );
   p.catalogueNotes = notes;
 
-  /* ---- 3) 重写两条最重复的 FAQ 答案 ---- */
+  /* ---- 3) rewrite the two most repetitive FAQ answers ---- */
   const storeVariants = isLyo
     ? [
         `Hold the sealed ${p.kitVials}-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this ${p.shortCode} preparation does not tolerate repeated freeze–thaw.`,
@@ -445,11 +445,11 @@ function diversifyProduct(p) {
 
 products.forEach(diversifyProduct);
 
-/* 校验 */
+/* Validation */
 const slugs = new Set();for (const p of products) {
-  if (slugs.has(p.slug)) throw new Error(`slug 重复: ${p.slug}`);
+  if (slugs.has(p.slug)) throw new Error(`duplicate slug: ${p.slug}`);
   slugs.add(p.slug);
-  if (!p.specs.length) throw new Error(`无规格: ${p.slug}`);
+  if (!p.specs.length) throw new Error(`no specs: ${p.slug}`);
 }
 
 const counts = ORDER.map((k) => ({

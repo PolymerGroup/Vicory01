@@ -1,6 +1,6 @@
 /**
- * 站点级常量与工具函数。
- * 任何页面都从这里取品牌信息，避免硬编码散落各处。
+ * Site-wide constants and helpers.
+ * Pages read brand data from here instead of hard-coding it.
  */
 export const SITE = {
   url: 'https://dchemi.com',
@@ -22,8 +22,8 @@ export const SITE = {
   ruoShort: 'Research use only. Not for human or veterinary use.',
   established: '2016',
   /**
-   * 已验证的官方外链（Organization.sameAs）。
-   * 只放真实存在的账号；拿到 LinkedIn / YouTube / GitHub 链接后填进来即可。
+   * Verified official profiles (Organization.sameAs).
+   * Only real accounts; add LinkedIn / YouTube / GitHub URLs once available.
    */
   social: [] as string[],
   currency: 'USD',
@@ -56,12 +56,12 @@ export function kitLabel(vials = 10): string {
   return `${vials} vials/kit`;
 }
 
-/** 询盘话术：统一的 RFQ 邮件主题 */
+/** Single RFQ email subject used everywhere */
 export function rfqSubject(extra?: string): string {
   return `B2B RFQ — Dchemi${extra ? ` — ${extra}` : ''}`;
 }
 
-/** JSON-LD 安全序列化：避免 `</script>` 注入，并保持中文可读 */
+/** Safe JSON-LD serialisation (no </script> injection, readable output) */
 export function jsonLd(data: unknown): string {
   return JSON.stringify(data).replace(/</g, '\\u003c');
 }

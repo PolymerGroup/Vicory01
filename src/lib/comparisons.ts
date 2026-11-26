@@ -1,10 +1,10 @@
 /**
- * 对比页数据（GEO：AI 引用率最高的内容形态）
+ * Comparison page data (the format AI answers cite most often).
  *
- * 写作原则：
- *  - 只讲结构、理化参数、受体类属与供应形态，不做疗效/剂量陈述（research use only）
- *  - 数字必须与 peptides.json 一致（页面会用数据自动渲染参数表做交叉校验）
- *  - 药代数值一律标注 "reported"，避免绝对化
+ * Writing rules:
+ *  - structure, physicochemical parameters, receptor class and supply format only; no efficacy or dosing claims
+ *  - numbers must match peptides.json; the page re-renders a data table to cross-check
+ *  - pharmacokinetic values are always marked "reported"
  */
 export interface ComparisonRow {
   label: string;

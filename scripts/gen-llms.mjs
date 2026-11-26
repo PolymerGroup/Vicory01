@@ -1,13 +1,13 @@
 /**
  * gen-llms.mjs
  * ------------------------------------------------------------------
- * 构建期生成 GEO 抓取资产：
- *   public/llms.txt                 —— 索引（小而快，先读这个）
- *   public/llms/{category}.txt      —— 7 个分类的完整数据（每个 ~30–60 KB）
- *   public/peptides/{slug}.json     —— 单个产品的结构化 JSON（可增量抓取）
- *   public/llms-full.txt            —— 全量单文件（向后兼容，体积较大）
+ * Generates the GEO retrieval assets at build time:
+ *   public/llms.txt                 - index (small, read this first)
+ *   public/llms/{category}.txt      - full data per category (~30-60 KB each)
+ *   public/peptides/{slug}.json     - structured JSON per product (incremental fetch)
+ *   public/llms-full.txt            - legacy single file (large)
  *
- * 设计目的：避免让模型一次吞 260 KB；索引 → 分类 → 单品三级粒度。
+ * Rationale: never make a model swallow 260 KB - index, category, product.
  * ------------------------------------------------------------------
  */
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'node:fs';
@@ -25,7 +25,7 @@ const RUO =
   'For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use.';
 const money = (v) => (v == null ? 'RFQ' : `$${Number(v).toFixed(2)}`);
 
-/* 分类 → 文件名（与将来 /peptides/{slug} 分类落地页保持同一套 slug） */
+/* Category to filename (same slugs as the /peptides/{slug} landing pages) */
 const CAT_SLUG = {
   glp1_metabolic: 'glp1-metabolic',
   repair_recovery: 'repair-recovery',
@@ -36,7 +36,7 @@ const CAT_SLUG = {
   solvent_ancillary: 'ancillary',
 };
 
-/* ---------------- PepPedia 文章元数据 ---------------- */
+/* ---------------- PepPedia article metadata ---------------- */
 const PEPPEDIA_DIR = resolve(ROOT, 'src/content/peppedia');
 
 function readPeppedia() {
@@ -66,7 +66,7 @@ function readPeppedia() {
 
 const peppedia = readPeppedia();
 
-/* ---------------- 单个产品的详细 Markdown 块 ---------------- */
+/* ---------------- detailed Markdown block per product ---------------- */
 function productBlock(p) {
   const out = [];
   const blend = p.sequenceType === 'blend' || p.category === 'blend';
@@ -119,7 +119,7 @@ function productBlock(p) {
   return out;
 }
 
-/* ---------------- 单个产品的 JSON ---------------- */
+/* ---------------- JSON payload per product ---------------- */
 function productJson(p) {
   const formula = p.molecularFormula || p.formula || null;
   return {
@@ -164,7 +164,7 @@ function productJson(p) {
   };
 }
 
-/* ---------------- 写入 7 个分类文件 ---------------- */
+/* ---------------- write the seven category files ---------------- */
 const llmsDir = resolve(ROOT, 'public/llms');
 mkdirSync(llmsDir, { recursive: true });
 const jsonDir = resolve(ROOT, 'public/peptides');
@@ -191,12 +191,12 @@ for (const c of data.categories) {
   catStats.push({ key: c.key, slug: fileSlug, label: c.label, count: items.length, kb: text.length / 1024 });
 }
 
-/* ---------------- 写入 119 个产品 JSON ---------------- */
+/* ---------------- write 119 product JSON files ---------------- */
 for (const p of data.products) {
   writeFileSync(resolve(jsonDir, `${p.slug}.json`), JSON.stringify(productJson(p), null, 2), 'utf8');
 }
 
-/* ---------------- llms.txt：只做索引 ---------------- */
+/* ---------------- llms.txt: index only ---------------- */
 const idx = [];
 idx.push('# Dchemi — Research Peptide Catalogue (LLM index)');
 idx.push('');
@@ -265,7 +265,7 @@ idx.push('');
 const indexPath = resolve(ROOT, 'public/llms.txt');
 writeFileSync(indexPath, idx.join('\n'), 'utf8');
 
-/* ---------------- llms-full.txt（向后兼容） ---------------- */
+/* ---------------- llms-full.txt (legacy, kept for compatibility) ---------------- */
 const full = [];
 full.push(`# Dchemi full product dataset — ${BRAND}`);
 full.push('');
