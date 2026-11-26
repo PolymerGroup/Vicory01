@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import ProductCard from '../components/ProductCard.astro';
 import ComplianceNotice from '../components/ComplianceNotice.astro';
 import { SITE } from '../lib/site';
+import { CATEGORY_PAGES } from '../lib/categories';
 import data from '../data/peptides.json';
 import type { Peptide } from '../types/peptide';
 
@@ -53,7 +54,10 @@ const itemListLd = {
             Filter by research area or search by name, short code, CAS or alias.
           </p>
         </div>
-        <div class="flex gap-2">
+        <div class="flex flex-wrap items-center gap-3">
+          <a href="/peptides" class="text-sm font-semibold text-ocean-700 hover:underline">
+            Browse all 7 categories →
+          </a>
           <a href="/rfq" class="btn-primary btn-sm">Request quote</a>
         </div>
       </div>

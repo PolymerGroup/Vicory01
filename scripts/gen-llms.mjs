@@ -227,6 +227,7 @@ for (const c of catStats) {
   idx.push(
     `- [${c.label}](${SITE}/llms/${c.slug}.txt): ${c.count} products, ${c.kb.toFixed(0)} KB — ${data.categories.find((x) => x.key === c.key)?.blurb || ''}`
   );
+  idx.push(`  Human page: ${SITE}/peptides/${c.slug}`);
 }
 idx.push('');
 idx.push('## Catalogue (name · short code · starting price)');

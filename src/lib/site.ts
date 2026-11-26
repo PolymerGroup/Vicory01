@@ -33,9 +33,10 @@ export const SITE = {
 } as const;
 
 export const NAV = [
-  { href: '/products', label: 'All Peptides' },
-  { href: '/products?category=glp1_metabolic', label: 'Metabolic' },
-  { href: '/products?category=repair_recovery', label: 'Repair' },
+  { href: '/products', label: 'Catalogue' },
+  { href: '/peptides/glp1-metabolic', label: 'Metabolic' },
+  { href: '/peptides/repair-recovery', label: 'Repair' },
+  { href: '/compare', label: 'Compare' },
   { href: '/peppedia', label: 'PepPedia' },
   { href: '/about-compliance', label: 'About' },
   { href: '/rfq', label: 'Request Quote' },

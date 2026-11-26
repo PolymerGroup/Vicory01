@@ -1,0 +1,151 @@
+---
+/**
+ * 分类落地页渲染组件。
+ * 由 /peptides/{category-slug} 这些静态路由复用，避免 7 份重复模板。
+ */
+import Layout from '../layouts/Layout.astro';
+import Breadcrumbs from './Breadcrumbs.astro';
+import ProductCard from './ProductCard.astro';
+import FaqAccordion from './FaqAccordion.astro';
+import { SITE, money } from '../lib/site';
+import { COMPARISONS } from '../lib/comparisons';
+import data from '../data/peptides.json';
+import type { Peptide } from '../types/peptide';
+import type { CategoryPage } from '../lib/categories';
+
+interface Props {
+  c: CategoryPage;
+}
+
+const { c } = Astro.props;
+const all = data.products as unknown as Peptide[];
+const items = all.filter((p) => p.category === c.key);
+const skuCount = items.reduce((n, p) => n + p.specs.length, 0);
+const priceFrom = Math.min(...items.map((p) => p.priceFrom ?? Infinity));
+const TODAY = new Date().toISOString().slice(0, 10);
+
+const related = COMPARISONS.filter((x) => {
+  const a = all.find((p) => p.slug === x.a);
+  const b = all.find((p) => p.slug === x.b);
+  return a?.category === c.key || b?.category === c.key;
+});
+
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: c.faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+
+const listLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${SITE.url}/peptides/${c.slug}#collection`,
+  url: `${SITE.url}/peptides/${c.slug}`,
+  name: c.h1,
+  description: c.description,
+  inLanguage: 'en',
+  dateModified: TODAY,
+  isPartOf: { '@id': `${SITE.url}/#website` },
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: items.length,
+    itemListElement: items.map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `${SITE.url}/peptides/${p.slug}`,
+      name: p.name,
+    })),
+  },
+};
+---
+
+<Layout
+  title={c.title}
+  description={c.description}
+  exactTitle
+  path={`/peptides/${c.slug}`}
+  structuredData={[listLd, faqLd]}
+>
+  <section class="mx-auto max-w-6xl px-4 pt-8 sm:px-6 lg:px-8">
+    <Breadcrumbs items={[{ label: 'Categories', href: '/peptides' }, { label: c.navLabel }]} />
+
+    <header class="mt-6 max-w-3xl">
+      <p class="text-xs font-semibold uppercase tracking-[0.18em] text-brand-600">Catalogue category</p>
+      <h1 class="mt-2 text-3xl font-extrabold leading-tight tracking-tight text-slateink sm:text-4xl">
+        {c.h1}
+      </h1>
+      {c.intro.map((p, i) => (
+        <p class:list={['mt-4 text-[15px] leading-7 text-slate-700', i === 0 && 'max-w-3xl']}>{p}</p>
+      ))}
+      <p class="mt-3 text-[11px] font-medium uppercase tracking-wider text-slate-400">
+        Last reviewed: {TODAY} · Research use only
+      </p>
+    </header>
+
+    <dl class="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-4">
+      {
+        [
+          ['Products', `${items.length}`],
+          ['Pack-size SKUs', `${skuCount}`],
+          ['From', money(priceFrom) + ' / kit'],
+          ['Unit', '10 vials per kit'],
+        ].map(([k, v]) => (
+          <div class="rounded-xl border border-slate-200 bg-slate-50 px-4 py-3">
+            <dt class="text-[10px] font-semibold uppercase tracking-wider text-slate-500">{k}</dt>
+            <dd class="mt-0.5 text-sm font-bold text-slateink">{v}</dd>
+          </div>
+        ))
+      }
+    </dl>
+
+    <h2 class="mt-12 text-xl font-bold text-slateink">All {items.length} products in this category</h2>
+    <div class="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      {items.map((p) => <ProductCard product={p} />)}
+    </div>
+
+    <h2 class="mt-14 text-xl font-bold text-slateink">What defines this category</h2>
+    <div class="mt-4 grid gap-4 sm:grid-cols-3">
+      {
+        c.highlights.map((h) => (
+          <div class="rounded-2xl border border-slate-200 bg-white p-5">
+            <p class="text-sm font-semibold text-slateink">{h.title}</p>
+            <p class="mt-1.5 text-[13px] leading-6 text-slate-600">{h.body}</p>
+          </div>
+        ))
+      }
+    </div>
+
+    {
+      related.length > 0 && (
+        <div class="mt-10 rounded-2xl border border-slate-200 bg-slate-50 p-5">
+          <p class="text-sm font-semibold text-slateink">Related comparisons</p>
+          <ul class="mt-2 flex flex-wrap gap-x-4 gap-y-2 text-sm">
+            {related.map((x) => {
+              const a = all.find((p) => p.slug === x.a);
+              const b = all.find((p) => p.slug === x.b);
+              return (
+                <li>
+                  <a href={`/compare/${x.pair}`} class="text-ocean-700 hover:underline">
+                    {a?.name} vs {b?.name}
+                  </a>
+                </li>
+              );
+            })}
+          </ul>
+        </div>
+      )
+    }
+
+    <div class="mt-14">
+      <FaqAccordion
+        faqs={c.faqs}
+        title={`${c.navLabel} — category questions`}
+        subtitle="Procurement, documentation and analytical questions for this group."
+      />
+    </div>
+  </section>
+</Layout>

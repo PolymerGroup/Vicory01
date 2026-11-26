@@ -2,6 +2,7 @@ import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import data from '../data/peptides.json';
 import { COMPARISONS } from '../lib/comparisons';
+import { CATEGORY_PAGES } from '../lib/categories';
 
 const SITE = 'https://dchemi.com';
 
@@ -22,6 +23,12 @@ export const GET: APIRoute = async () => {
   const staticPages = [
     { loc: '/', priority: '1.0', changefreq: 'weekly' },
     { loc: '/products', priority: '0.95', changefreq: 'weekly' },
+    { loc: '/peptides', priority: '0.85', changefreq: 'weekly' },
+    ...CATEGORY_PAGES.map((c) => ({
+      loc: `/peptides/${c.slug}`,
+      priority: '0.9',
+      changefreq: 'weekly',
+    })),
     { loc: '/compare', priority: '0.8', changefreq: 'monthly' },
     { loc: '/peppedia', priority: '0.85', changefreq: 'weekly' },
     { loc: '/quality-coa', priority: '0.7', changefreq: 'monthly' },
