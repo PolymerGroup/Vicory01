@@ -3693,10 +3693,10 @@ A: Survodutide is available in 1 configuration: 10 mg. Each kit contains 10 vial
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Sequence: SDKPDMAEIEKFDKSKLKKTETQEKNPLPSKETIEQEKQAGES
-- Molecular formula: C212H350N56O78S
-- Molecular weight: 4963 Da
+- CAS: 885340-08-9
+- Sequence: LKKTETQ
+- Molecular formula: C38H68N10O14
+- Molecular weight: 889 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials

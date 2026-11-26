@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T01:04:53.861Z",
+  "generatedAt": "2026-11-26T01:09:55.031Z",
   "sourceVersion": "1.0.0",
   "currency": "USD",
   "priceUnit": "Kit (10 vials)",
@@ -14555,11 +14555,11 @@
         "reconstituted": "2-8 °C, use within the period stated in the COA.",
         "summary": "Store at -20 °C, protected from light and moisture."
       },
-      "cas": null,
-      "sequence": "SDKPDMAEIEKFDKSKLKKTETQEKNPLPSKETIEQEKQAGES",
-      "molecularFormula": "C212H350N56O78S",
-      "formula": "C212H350N56O78S",
-      "molecularWeight": "4963",
+      "cas": "885340-08-9",
+      "sequence": "LKKTETQ",
+      "molecularFormula": "C38H68N10O14",
+      "formula": "C38H68N10O14",
+      "molecularWeight": "889",
       "chemistryStatus": "documented",
       "chemOmit": [],
       "composition": [],

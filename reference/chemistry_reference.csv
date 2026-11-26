@@ -100,7 +100,7 @@
 "ss-31-elamipretide","SS-31 (Elamipretide)","736992-21-5","C32H49N9O5","639.8","","https://pubchem.ncbi.nlm.nih.gov/compound/11764719 (title~:Elamipretide)","11764719","Elamipretide","title","2026-11-25",""
 "super-human-blend","Super Human Blend","","","","","not-applicable (formulated / blend)","","","skipped","2026-11-25",""
 "survodutide","Survodutide","2805997-46-8","C192H289N47O61","4232","","https://pubchem.ncbi.nlm.nih.gov/compound/171378821 (title:Survodutide)","171378821","Survodutide","title","2026-11-25",""
-"tb-500-thymosin-beta-4-fragment","TB-500 (Thymosin Beta-4 Fragment)","","C212H350N56O78S","4963","SDKPDMAEIEKFDKSKLKKTETQEKNPLPSKETIEQEKQAGES","https://pubchem.ncbi.nlm.nih.gov/compound/45382195 (title~:Thymosin Beta 4) | sequence: Thymosin beta-4, N-acetylated (calc 4963.50 vs PubChem 4963.00)","45382195","Thymosin Beta 4","title","2026-11-25",""
+"tb-500-thymosin-beta-4-fragment","TB-500 (Thymosin Beta-4 Fragment)","885340-08-9","C38H68N10O14","889","LKKTETQ","manual override — 7-residue fragment Ac-LKKTETQ (PubChem CID 62707662, CAS 885340-08-9; calc 889.02 Da)","45382195","Thymosin Beta 4","manual","2026-11-25",""
 "tb-500-fragment","TB-500 Fragment","","","","","pubchem:not-found","","","not-found","2026-11-25",""
 "teriparatide","Teriparatide","52232-67-4","C181H291N55O51S2","4118","SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF","pubchem (verified)","16133850","Teriparatide","manual","2026-11-25",""
 "tesamorelin","Tesamorelin","218949-48-5","C221H366N72O67S","5136","","pubchem (verified)","16137828","Tesamorelin","manual","2026-11-25",""
