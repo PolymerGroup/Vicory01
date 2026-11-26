@@ -31,7 +31,7 @@ const rows = [current, ...related].map((p) => ({ p, chem: chemOf(p) }));
         Related peptides & parameter comparison
       </h2>
       <p class="mt-1 text-sm text-slate-500">
-        {current.categoryLabel} peers and nearby reference points, priced per kit of {current.kitVials} vials.
+        Related peptides for {current.name} come from the same research area ({current.categoryLabel}) and are priced per kit of {current.kitVials} vials.
       </p>
     </div>
     <a href={`/products?category=${current.category}`} class="text-sm font-semibold text-ocean-700 hover:text-ocean-800">

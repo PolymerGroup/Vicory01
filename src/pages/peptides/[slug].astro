@@ -388,10 +388,12 @@ const summaryRows = [
     <div class="grid gap-10 lg:grid-cols-[1.15fr_0.85fr]">
       <div>
         <h2 class="text-xl font-bold text-slateink">Product overview</h2>
-        <p class="mt-3 text-[15px] leading-7 text-slate-700">{p.overview || p.geoSummary}</p>
+        <h3 class="mt-5 text-base font-semibold text-slateink">What {p.name} is</h3>
+        <p class="mt-2 text-[15px] leading-7 text-slate-700">{p.overview || p.geoSummary}</p>
 
+        <h3 class="mt-6 text-base font-semibold text-slateink">Catalogue parameters on file</h3>
         {p.catalogueNotes?.length ? (
-          <ul class="mt-4 space-y-2">
+          <ul class="mt-2 space-y-2">
             {p.catalogueNotes.map((n) => (
               <li class="flex gap-2 text-[13px] leading-6 text-slate-600">
                 <span class="mt-2 h-1 w-1 shrink-0 rounded-full bg-brand-400" />
@@ -418,9 +420,11 @@ const summaryRows = [
         }
 
         <div class="mt-8">
-          <h2 class="text-xl font-bold text-slateink">Pack sizes & tier pricing</h2>
-          <p class="mt-1 text-sm text-slate-500">
-            All prices USD per kit of {p.kitVials} vials; 50+ kits for this {defaultSpec.label} size are  per kit.
+          <h2 class="text-xl font-bold text-slateink">Pack sizes &amp; tier pricing</h2>
+          <h3 class="mt-4 text-base font-semibold text-slateink">Volume tiers per pack size</h3>
+          <p class="mt-2 text-sm text-slate-500">
+            All prices are USD per kit of {p.kitVials} vials. For the {defaultSpec.label} size the 50+ kit tier is
+            {defaultSpec.tiers?.[2] ? ` $${defaultSpec.tiers[2].price.toFixed(2)}` : ' quoted on request'} per kit.
           </p>
           <div class="mt-4 space-y-4">
             {

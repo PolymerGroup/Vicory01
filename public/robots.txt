@@ -1,16 +1,68 @@
 # Dchemi — research peptides, B2B RFQ only.
 # Canonical host: https://dchemi.com
+#
+# Crawl policy: everything public is crawlable. Only parameterised filter URLs
+# are excluded so that ?category= / ?q= variants do not compete with /products.
+
 User-agent: *
 Allow: /
-
-# Machine-readable index for LLM crawlers
-# https://dchemi.com/llms.txt
-# https://dchemi.com/llms-full.txt
-
-# No private areas on this site. Keep parameterised filter URLs out of the index
-# so that ?category= / ?q= variants do not compete with /products.
 Disallow: /products?
 Disallow: /*?q=
 Disallow: /*?category=
+
+# ---------------------------------------------------------------------------
+# AI search / answer engines — explicitly allowed. These are the crawlers that
+# cite our product pages in ChatGPT Search, Perplexity, Claude and Gemini, so
+# they must never be blocked.
+# ---------------------------------------------------------------------------
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# ---------------------------------------------------------------------------
+# Model-training crawlers — also allowed. Nothing on this site is private, and
+# being in the training corpus helps brand recognition in generated answers.
+# ---------------------------------------------------------------------------
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# ---------------------------------------------------------------------------
+# Machine-readable entry points
+# https://dchemi.com/llms.txt          index of every dataset
+# https://dchemi.com/llms-full.txt     single-file full dataset
+# https://dchemi.com/peptides/{slug}.json   one JSON per product
+# ---------------------------------------------------------------------------
 
 Sitemap: https://dchemi.com/sitemap.xml
