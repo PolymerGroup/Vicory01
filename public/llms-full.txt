@@ -819,9 +819,9 @@ A: CagriSema (Cagrilintide + Semaglutide) is available in 3 configurations: 5 mg
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 857267-11-9
+- Molecular formula: C18H31N7O9
+- Molecular weight: 489.48 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -890,9 +890,9 @@ A: Cartalax is available in 1 configuration: 20 mg. Each kit contains 10 vials. 
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 12656-61-0
+- Molecular formula: Mixture (Peptides & free amino acids)
+- Molecular weight: Mixture (<10 kDa peptide fraction) Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -925,9 +925,9 @@ A: Cerebrolysin is available in 1 configuration: 60 mg. Each kit contains 10 via
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 1208243-50-8
+- Molecular formula: C51H84N16O21
+- Molecular weight: 1257.31 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -962,9 +962,9 @@ A: Cibinetide (ARA-290) is available in 3 configurations: 10 mg, 16 mg, 40 mg. E
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: fixed composition, listed in the batch-specific COA
-- Molecular formula: fixed composition, listed in the batch-specific COA
-- Molecular weight: fixed composition, listed in the batch-specific COA
+- CAS: 863288-34-0 + 170851-70-4
+- Molecular formula: C152H252N44O42 + C38H49N9O5
+- Molecular weight: 3367.90 Da + 711.9 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -1035,9 +1035,9 @@ A: CJC-1295 (With DAC) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 863288-34-0
+- Molecular formula: C152H252N44O42
+- Molecular weight: 3367.90 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -1109,8 +1109,8 @@ A: Cortagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. 
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- Molecular formula: C14H21N3O8
+- Molecular weight: 359.33 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -1468,9 +1468,9 @@ A: GDF-8 (Myostatin) is available in 1 configuration: 1 mg. Each kit contains 10
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 7451-76-5
+- Molecular formula: C10H15N5O4
+- Molecular weight: 269.26 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -1797,9 +1797,9 @@ A: HCG (Human Chorionic Gonadotropin) is available in 4 configurations: 1000 iu,
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 89030-95-5 (GHK-Cu) + 137525-51-0 (BPC-157) + 77591-33-4 (TB-500)
+- Molecular formula: Mixture (Multi-component peptide blend)
+- Molecular weight: Mixture (Component-specific; see COA) Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -1909,9 +1909,9 @@ A: HGH (Somatropin 191AA) is available in 7 configurations: 6 iu, 8 iu, 10 iu, 1
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 221231-10-3
+- Molecular formula: C78H125N23O23S2
+- Molecular weight: 1817.10 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -2166,9 +2166,9 @@ A: Kisspeptin-10 is available in 2 configurations: 5 mg, 10 mg. Each kit contain
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: fixed composition, listed in the batch-specific COA
-- Molecular formula: fixed composition, listed in the batch-specific COA
-- Molecular weight: fixed composition, listed in the batch-specific COA
+- CAS: 137525-51-0 + 89030-95-5 + 885340-08-9 + 67727-97-3
+- Molecular formula: C62H98N16O22 + C14H24CuN6O4 + C38H68N10O14 + C16H30N4O4
+- Molecular weight: 1419.5 Da + 403.93 Da + 889 Da + 342.43 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -2201,9 +2201,9 @@ A: KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) is available in 1 configuration:
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 67727-97-3
+- Molecular formula: C16H30N4O4
+- Molecular weight: 342.43 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -2314,8 +2314,8 @@ A: Lemon Bottle is available in 1 configuration: 10 ml. Each kit contains 10 via
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- Molecular formula: Mixture (Multi-component formulation)
+- Molecular weight: Mixture (Component-specific; see COA) Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -2636,8 +2636,8 @@ A: Melatonin is available in 1 configuration: 10 mg. Each kit contains 10 vials.
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- Molecular formula: C121H199N41O40
+- Molecular weight: 2868.20 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -2671,8 +2671,8 @@ A: MGF (Mechano Growth Factor) is available in 1 configuration: 2 mg. Each kit c
 - Appearance: White Lyophilized Powder
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- Molecular formula: Mixture (Multi-component formulation)
+- Molecular weight: Mixture (Component-specific) Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -2925,9 +2925,9 @@ A: Oxytocin Acetate is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each ki
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 1246751-68-7
+- Molecular formula: C27H42N6O8
+- Molecular weight: 578.67 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -2962,8 +2962,8 @@ A: P21 (P021) is available in 2 configurations: 5 mg, 10 mg. Each kit contains 1
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- Molecular formula: C26H36N6O9
+- Molecular weight: 576.60 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 116 vials per kit
 - Price unit: USD per kit of 116 vials
@@ -3214,8 +3214,8 @@ A: PTD-DBM is available in 1 configuration: 1 mg. Each kit contains 10 vials. Mi
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- Molecular formula: Mixture
+- Molecular weight: Mixture Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -3731,9 +3731,9 @@ A: TB-500 (Thymosin Beta-4 Fragment) is available in 3 configurations: 2 mg, 5 m
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 885340-08-9
+- Molecular formula: C38H68N10O14
+- Molecular weight: 889.02 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -3882,9 +3882,9 @@ A: Tesamorelin + Ipamorelin Blend is available in 6 configurations: 8 mg, 10 mg,
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 1026993-38-3
+- Molecular formula: C17H29N5O9
+- Molecular weight: 447.44 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -4069,9 +4069,9 @@ A: Triptorelin Acetate is available in 1 configuration: 2 mg. Each kit contains 
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 204271-66-9
+- Molecular formula: C15H26N4O8
+- Molecular weight: 390.39 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials

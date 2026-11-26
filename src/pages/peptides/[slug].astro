@@ -61,11 +61,13 @@ const hasChem = Boolean(chem.cas || chem.sequence || chem.formula || chem.mw);
 const omit = new Set<string>((p as any).chemOmit || []);
 const isBlend = p.sequenceType === 'blend' || p.category === 'blend';
 const chemFallback = isBlend ? 'Fixed composition — see batch COA' : COA_FALLBACK;
-// 分子量：若数据里已自带单位（Da / kDa，含 "18.02 Da (water) / 108.14 Da ..." 这类复合写法）则原样展示
-const mwText = chem.mw
-  ? /da/i.test(String(chem.mw))
-    ? String(chem.mw)
-    : `${chem.mw} Da`
+// 分子量：本身带单位（Da/kDa）或非数值型描述（如 "Mixture (Component-specific; see COA)"）都原样展示，
+// 只有纯数值才补 " Da"
+const rawMw = chem.mw == null ? null : String(chem.mw);
+const mwText = rawMw
+  ? /da/i.test(rawMw) || !/^\d/.test(rawMw)
+    ? rawMw
+    : `${rawMw} Da`
   : null;
 
 /* ------------------------------ JSON-LD ------------------------------ */
