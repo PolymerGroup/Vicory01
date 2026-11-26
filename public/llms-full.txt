@@ -637,9 +637,9 @@ A: BPC-157 is available in 4 configurations: 2 mg, 5 mg, 10 mg, 20 mg. Each kit 
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: fixed composition, listed in the batch-specific COA
-- Molecular formula: fixed composition, listed in the batch-specific COA
-- Molecular weight: fixed composition, listed in the batch-specific COA
+- CAS: 137525-51-0 + 885340-08-9
+- Molecular formula: C62H98N16O22 + C38H68N10O14
+- Molecular weight: 1419.5 Da + 889 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -782,9 +782,9 @@ A: Cagrilintide is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit co
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: fixed composition, listed in the batch-specific COA
-- Molecular formula: fixed composition, listed in the batch-specific COA
-- Molecular weight: fixed composition, listed in the batch-specific COA
+- CAS: 1415456-99-3 + 910463-68-2
+- Molecular formula: C194H312N54O59S2 + C187H291N45O59
+- Molecular weight: 4409 Da + 4114 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -1503,9 +1503,9 @@ A: GGH is available in 1 configuration: 10 ml. Each kit contains 10 vials. Minim
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 89030-95-5
+- Molecular formula: C14H24CuN6O4
+- Molecular weight: 403.93 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -1613,9 +1613,9 @@ A: GHRP-6 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vi
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: fixed composition, listed in the batch-specific COA
-- Molecular formula: fixed composition, listed in the batch-specific COA
-- Molecular weight: fixed composition, listed in the batch-specific COA
+- CAS: 137525-51-0 + 89030-95-5 + 885340-08-9
+- Molecular formula: C62H98N16O22 + C14H24CuN6O4 + C38H68N10O14
+- Molecular weight: 1419.5 Da + 403.93 Da + 889 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -3292,9 +3292,9 @@ A: Retatrutide is available in 10 configurations: 5 mg, 10 mg, 15 mg, 20 mg, 30 
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: fixed composition, listed in the batch-specific COA
-- Molecular formula: fixed composition, listed in the batch-specific COA
-- Molecular weight: fixed composition, listed in the batch-specific COA
+- CAS: 2381089-83-2 + 1415456-99-3
+- Molecular formula: C221H342N46O68 + C194H312N54O59S2
+- Molecular weight: 4731 Da + 4409 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -3327,9 +3327,9 @@ A: Retatrutide + Cagrilintide Blend (20 mg + 5 mg) is available in 1 configurati
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: fixed composition, listed in the batch-specific COA
-- Molecular formula: fixed composition, listed in the batch-specific COA
-- Molecular weight: fixed composition, listed in the batch-specific COA
+- CAS: 2381089-83-2 + 2023788-19-2
+- Molecular formula: C221H342N46O68 + C225H348N48O68
+- Molecular weight: 4731 Da + 4813 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -3842,9 +3842,9 @@ A: Tesamorelin is available in 4 configurations: 2 mg, 5 mg, 10 mg, 20 mg. Each 
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: fixed composition, listed in the batch-specific COA
-- Molecular formula: fixed composition, listed in the batch-specific COA
-- Molecular weight: fixed composition, listed in the batch-specific COA
+- CAS: 218949-48-5 + 170851-70-4
+- Molecular formula: C221H366N72O67S + C38H49N9O5
+- Molecular weight: 5136 Da + 711.9 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials

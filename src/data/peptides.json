@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T01:09:55.031Z",
+  "generatedAt": "2026-11-26T01:27:24.797Z",
   "sourceVersion": "1.0.0",
   "currency": "USD",
   "priceUnit": "Kit (10 vials)",
@@ -2263,7 +2263,9 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
-      "chemOmit": [],
+      "chemOmit": [
+        "cas"
+      ],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -2563,12 +2565,12 @@
         "reconstituted": "2-8 °C, use within the period stated in the COA.",
         "summary": "Store at -20 °C, protected from light and moisture."
       },
-      "cas": null,
+      "cas": "137525-51-0 + 885340-08-9",
       "sequence": null,
-      "molecularFormula": null,
-      "formula": null,
-      "molecularWeight": null,
-      "chemistryStatus": "pending-coa",
+      "molecularFormula": "C62H98N16O22 + C38H68N10O14",
+      "formula": "C62H98N16O22 + C38H68N10O14",
+      "molecularWeight": "1419.5 Da + 889 Da",
+      "chemistryStatus": "documented",
       "chemOmit": [],
       "composition": [
         {
@@ -3115,12 +3117,12 @@
         "reconstituted": "2-8 °C, use within the period stated in the COA.",
         "summary": "Store at -20 °C, protected from light and moisture."
       },
-      "cas": null,
+      "cas": "1415456-99-3 + 910463-68-2",
       "sequence": null,
-      "molecularFormula": null,
-      "formula": null,
-      "molecularWeight": null,
-      "chemistryStatus": "pending-coa",
+      "molecularFormula": "C194H312N54O59S2 + C187H291N45O59",
+      "formula": "C194H312N54O59S2 + C187H291N45O59",
+      "molecularWeight": "4409 Da + 4114 Da",
+      "chemistryStatus": "documented",
       "chemOmit": [],
       "composition": [
         {
@@ -5071,7 +5073,9 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
-      "chemOmit": [],
+      "chemOmit": [
+        "cas"
+      ],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -5178,7 +5182,9 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
-      "chemOmit": [],
+      "chemOmit": [
+        "cas"
+      ],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -5526,7 +5532,9 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
-      "chemOmit": [],
+      "chemOmit": [
+        "cas"
+      ],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -5731,12 +5739,12 @@
         "reconstituted": "2-8 °C, use within the period stated in the COA.",
         "summary": "Store at -20 °C, protected from light and moisture."
       },
-      "cas": null,
+      "cas": "89030-95-5",
       "sequence": null,
-      "molecularFormula": null,
-      "formula": null,
-      "molecularWeight": null,
-      "chemistryStatus": "pending-coa",
+      "molecularFormula": "C14H24CuN6O4",
+      "formula": "C14H24CuN6O4",
+      "molecularWeight": "403.93",
+      "chemistryStatus": "documented",
       "chemOmit": [],
       "composition": [],
       "kitVials": 10,
@@ -6173,12 +6181,12 @@
         "reconstituted": "2-8 °C, use within the period stated in the COA.",
         "summary": "Store at -20 °C, protected from light and moisture."
       },
-      "cas": null,
+      "cas": "137525-51-0 + 89030-95-5 + 885340-08-9",
       "sequence": null,
-      "molecularFormula": null,
-      "formula": null,
-      "molecularWeight": null,
-      "chemistryStatus": "pending-coa",
+      "molecularFormula": "C62H98N16O22 + C14H24CuN6O4 + C38H68N10O14",
+      "formula": "C62H98N16O22 + C14H24CuN6O4 + C38H68N10O14",
+      "molecularWeight": "1419.5 Da + 403.93 Da + 889 Da",
+      "chemistryStatus": "documented",
       "chemOmit": [],
       "composition": [
         {
@@ -6798,7 +6806,9 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
-      "chemOmit": [],
+      "chemOmit": [
+        "cas"
+      ],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -7237,7 +7247,9 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
-      "chemOmit": [],
+      "chemOmit": [
+        "cas"
+      ],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -7885,7 +7897,9 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
-      "chemOmit": [],
+      "chemOmit": [
+        "cas"
+      ],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -11829,7 +11843,9 @@
       "formula": null,
       "molecularWeight": null,
       "chemistryStatus": "pending-coa",
-      "chemOmit": [],
+      "chemOmit": [
+        "cas"
+      ],
       "composition": [],
       "kitVials": 10,
       "specs": [
@@ -12950,12 +12966,12 @@
         "reconstituted": "2-8 °C, use within the period stated in the COA.",
         "summary": "Store at -20 °C, protected from light and moisture."
       },
-      "cas": null,
+      "cas": "2381089-83-2 + 1415456-99-3",
       "sequence": null,
-      "molecularFormula": null,
-      "formula": null,
-      "molecularWeight": null,
-      "chemistryStatus": "pending-coa",
+      "molecularFormula": "C221H342N46O68 + C194H312N54O59S2",
+      "formula": "C221H342N46O68 + C194H312N54O59S2",
+      "molecularWeight": "4731 Da + 4409 Da",
+      "chemistryStatus": "documented",
       "chemOmit": [],
       "composition": [
         {
@@ -13066,12 +13082,12 @@
         "reconstituted": "2-8 °C, use within the period stated in the COA.",
         "summary": "Store at -20 °C, protected from light and moisture."
       },
-      "cas": null,
+      "cas": "2381089-83-2 + 2023788-19-2",
       "sequence": null,
-      "molecularFormula": null,
-      "formula": null,
-      "molecularWeight": null,
-      "chemistryStatus": "pending-coa",
+      "molecularFormula": "C221H342N46O68 + C225H348N48O68",
+      "formula": "C221H342N46O68 + C225H348N48O68",
+      "molecularWeight": "4731 Da + 4813 Da",
+      "chemistryStatus": "documented",
       "chemOmit": [],
       "composition": [
         {
@@ -15189,12 +15205,12 @@
         "reconstituted": "2-8 °C, use within the period stated in the COA.",
         "summary": "Store at -20 °C, protected from light and moisture."
       },
-      "cas": null,
+      "cas": "218949-48-5 + 170851-70-4",
       "sequence": null,
-      "molecularFormula": null,
-      "formula": null,
-      "molecularWeight": null,
-      "chemistryStatus": "pending-coa",
+      "molecularFormula": "C221H366N72O67S + C38H49N9O5",
+      "formula": "C221H366N72O67S + C38H49N9O5",
+      "molecularWeight": "5136 Da + 711.9 Da",
+      "chemistryStatus": "documented",
       "chemOmit": [],
       "composition": [
         {
