@@ -1,0 +1,96 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/mic-lipo-c-with-b12",
+  "lastReviewed": "2026-11-26",
+  "name": "MIC (Lipo-C with B12)",
+  "slug": "mic-lipo-c-with-b12",
+  "shortCode": "MIC",
+  "aliases": [
+    "MIC",
+    "Lipo-C with B12",
+    "LC216"
+  ],
+  "category": {
+    "key": "solvent_ancillary",
+    "label": "Solvents & Ancillary Reagents"
+  },
+  "chemistry": {
+    "cas": null,
+    "sequence": null,
+    "molecularFormula": "Mixture (Multi-component formulation)",
+    "molecularWeight": "Mixture (Component-specific)",
+    "purity": null,
+    "appearance": "White Lyophilized Powder",
+    "form": "mixed",
+    "moleculeClass": "solution_blend",
+    "sequenceType": "solution_blend"
+  },
+  "packSizes": [
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 104.46,
+      "perVial": 10.45,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 104.46
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 96.1
+        },
+        {
+          "label": "50+ Kits",
+          "price": 88.8
+        }
+      ]
+    },
+    {
+      "spec": "10ml*10vials",
+      "label": "10 mL",
+      "vials": 10,
+      "perKit": 104,
+      "perVial": 10.4,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 104
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 95.68
+        },
+        {
+          "label": "50+ Kits",
+          "price": 88.4
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 88.4,
+    "to": 104.46,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "MIC (Lipo-C with B12) is a ready-to-use liquid blend supplied as both lyophilized powder and sterile solution formats. The catalogue lists 2 pack sizes: 10 mg, 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Component ratios follow the specification printed on each vial label. Purity is stated at ≥99% (HPLC); appearance differs by format (powder vs solution). For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "What documentation is supplied with MIC (Lipo-C with B12)?",
+      "answer": "Every batch of MIC (Lipo-C with B12) is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request."
+    },
+    {
+      "question": "How should MIC (Lipo-C with B12) be stored?",
+      "answer": "This item ships in more than one format: keep lyophilized vials at -20 °C, protected from light and moisture, and keep solution vials at 2-8 °C without freezing. Follow the instructions printed on the certificate of analysis for each lot. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for MIC (Lipo-C with B12)?",
+      "answer": "MIC (Lipo-C with B12) is available in 2 configurations: 10 mg, 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

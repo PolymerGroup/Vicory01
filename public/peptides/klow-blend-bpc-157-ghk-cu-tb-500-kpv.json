@@ -1,0 +1,74 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/klow-blend-bpc-157-ghk-cu-tb-500-kpv",
+  "lastReviewed": "2026-11-26",
+  "name": "KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV)",
+  "slug": "klow-blend-bpc-157-ghk-cu-tb-500-kpv",
+  "shortCode": "KLOW",
+  "aliases": [
+    "KLOW",
+    "KLOW80"
+  ],
+  "category": {
+    "key": "blend",
+    "label": "Multi-Component Blends"
+  },
+  "chemistry": {
+    "cas": "137525-51-0 + 89030-95-5 + 885340-08-9 + 67727-97-3",
+    "sequence": null,
+    "molecularFormula": "C62H98N16O22 + C14H24CuN6O4 + C38H68N10O14 + C16H30N4O4",
+    "molecularWeight": "1419.5 Da + 403.93 Da + 889 Da + 342.43 Da",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "blend",
+    "sequenceType": "blend"
+  },
+  "packSizes": [
+    {
+      "spec": "80mg*10vials",
+      "label": "80 mg",
+      "vials": 10,
+      "perKit": 292.48,
+      "perVial": 29.25,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 292.48
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 269.08
+        },
+        {
+          "label": "50+ Kits",
+          "price": 248.6
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 248.6,
+    "to": 292.48,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 1 pack size: 80 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines BPC-157 10 mg, GHK-Cu 50 mg, TB-500 10 mg and KPV 10 mg. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) tested for purity and identity?",
+      "answer": "Each lot of KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV)?",
+      "answer": "KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) is available in 1 configuration: 80 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

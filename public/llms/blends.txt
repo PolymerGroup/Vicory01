@@ -1,0 +1,343 @@
+# Multi-Component Blends — Dchemi research peptide dataset
+
+> For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use.
+
+Source: https://dchemi.com · generated 2026-11-26 · currency USD · unit Kit (10 vials)
+Products in this category: 9
+Index: https://dchemi.com/llms.txt · Full dataset: https://dchemi.com/llms-full.txt
+
+---
+
+## BPC-157 + TB-500 Blend
+
+- Canonical URL: https://dchemi.com/peptides/bpc-157-tb-500-blend
+- Machine-readable JSON: https://dchemi.com/peptides/bpc-157-tb-500-blend.json
+- Short code: BB
+- Aliases: BB, BPC/TB Blend, BB10, BB20, BPC157+TB500
+- Category: Multi-Component Blends
+- Molecule class: blend (blend)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 137525-51-0 + 885340-08-9
+- Molecular formula: C62H98N16O22 + C38H68N10O14
+- Molecular weight: 1419.5 Da + 889 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $84.82 – $293.32 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mg × 10 vials | $99.78 | $99.78 | $91.80 | $84.82 |
+| 20 mg × 10 vials | $187.32 | $187.32 | $172.34 | $159.22 |
+| 30 mg × 10 vials | $293.32 | $293.32 | $269.86 | $249.32 |
+
+Summary: BPC-157 + TB-500 Blend (BB) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 10 mg, 20 mg, 30 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines BPC-157 and TB-500 in equal parts. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
+
+Q: How is BPC-157 + TB-500 Blend tested for purity and identity?
+A: Each lot of BPC-157 + TB-500 Blend is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should BPC-157 + TB-500 Blend be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for BPC-157 + TB-500 Blend?
+A: BPC-157 + TB-500 Blend is available in 3 configurations: 10 mg, 20 mg, 30 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## CagriSema (Cagrilintide + Semaglutide)
+
+- Canonical URL: https://dchemi.com/peptides/cagrisema-cagrilintide-semaglutide
+- Machine-readable JSON: https://dchemi.com/peptides/cagrisema-cagrilintide-semaglutide.json
+- Short code: CS
+- Aliases: CS, CagriSema, Cagrilintide + Semaglutide
+- Category: Multi-Component Blends
+- Molecule class: blend (blend)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 1415456-99-3 + 910463-68-2
+- Molecular formula: C194H312N54O59S2 + C187H291N45O59
+- Molecular weight: 4409 Da + 4114 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $65.76 – $200.56 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $77.36 | $77.36 | $71.18 | $65.76 |
+| 10 mg × 10 vials | $110.58 | $110.58 | $101.74 | $94.00 |
+| 20 mg × 10 vials | $200.56 | $200.56 | $184.52 | $170.48 |
+
+Summary: CagriSema (Cagrilintide + Semaglutide) (CS) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines Cagrilintide and Semaglutide in equal parts. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
+
+Q: How is CagriSema (Cagrilintide + Semaglutide) tested for purity and identity?
+A: Each lot of CagriSema (Cagrilintide + Semaglutide) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should CagriSema (Cagrilintide + Semaglutide) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for CagriSema (Cagrilintide + Semaglutide)?
+A: CagriSema (Cagrilintide + Semaglutide) is available in 3 configurations: 5 mg, 10 mg, 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## CJC-1295 (No DAC) + Ipamorelin Blend
+
+- Canonical URL: https://dchemi.com/peptides/cjc-1295-no-dac-ipamorelin-blend
+- Machine-readable JSON: https://dchemi.com/peptides/cjc-1295-no-dac-ipamorelin-blend.json
+- Short code: CP
+- Aliases: CP, CJC no DAC + IPA, CP10, CP20, CJC-1295 + Ipamorelin
+- Category: Multi-Component Blends
+- Molecule class: blend (blend)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 863288-34-0 + 170851-70-4
+- Molecular formula: C152H252N44O42 + C38H49N9O5
+- Molecular weight: 3367.90 Da + 711.9 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $78.14 – $420.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mg × 10 vials | $91.92 | $91.92 | $84.56 | $78.14 |
+| 20 mg × 10 vials | $420.00 | $420.00 | $386.40 | $357.00 |
+
+Summary: CJC-1295 (No DAC) + Ipamorelin Blend (CP) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 10 mg, 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines CJC-1295 (No DAC) and Ipamorelin in equal parts. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
+
+Q: How is CJC-1295 (No DAC) + Ipamorelin Blend tested for purity and identity?
+A: Each lot of CJC-1295 (No DAC) + Ipamorelin Blend is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should CJC-1295 (No DAC) + Ipamorelin Blend be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for CJC-1295 (No DAC) + Ipamorelin Blend?
+A: CJC-1295 (No DAC) + Ipamorelin Blend is available in 2 configurations: 10 mg, 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## GLOW Blend (BPC-157 + GHK-Cu + TB-500)
+
+- Canonical URL: https://dchemi.com/peptides/glow-blend-bpc-157-ghk-cu-tb-500
+- Machine-readable JSON: https://dchemi.com/peptides/glow-blend-bpc-157-ghk-cu-tb-500.json
+- Short code: BBG
+- Aliases: BBG, Glow, GLOW70, BC10+Cu50+TB10, BPC-157/GHK-Cu/TB-500
+- Category: Multi-Component Blends
+- Molecule class: blend (blend)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 137525-51-0 + 89030-95-5 + 885340-08-9
+- Molecular formula: C62H98N16O22 + C14H24CuN6O4 + C38H68N10O14
+- Molecular weight: 1419.5 Da + 403.93 Da + 889 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $167.86 – $197.48 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 70 mg × 10 vials | $197.48 | $197.48 | $181.68 | $167.86 |
+
+Summary: GLOW Blend (BPC-157 + GHK-Cu + TB-500) (BBG) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 1 pack size: 70 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines BPC-157 10 mg, GHK-Cu 50 mg and TB-500 10 mg. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
+
+Q: How is GLOW Blend (BPC-157 + GHK-Cu + TB-500) tested for purity and identity?
+A: Each lot of GLOW Blend (BPC-157 + GHK-Cu + TB-500) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should GLOW Blend (BPC-157 + GHK-Cu + TB-500) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for GLOW Blend (BPC-157 + GHK-Cu + TB-500)?
+A: GLOW Blend (BPC-157 + GHK-Cu + TB-500) is available in 1 configuration: 70 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV)
+
+- Canonical URL: https://dchemi.com/peptides/klow-blend-bpc-157-ghk-cu-tb-500-kpv
+- Machine-readable JSON: https://dchemi.com/peptides/klow-blend-bpc-157-ghk-cu-tb-500-kpv.json
+- Short code: KLOW
+- Aliases: KLOW, KLOW80
+- Category: Multi-Component Blends
+- Molecule class: blend (blend)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 137525-51-0 + 89030-95-5 + 885340-08-9 + 67727-97-3
+- Molecular formula: C62H98N16O22 + C14H24CuN6O4 + C38H68N10O14 + C16H30N4O4
+- Molecular weight: 1419.5 Da + 403.93 Da + 889 Da + 342.43 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $248.60 – $292.48 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 80 mg × 10 vials | $292.48 | $292.48 | $269.08 | $248.60 |
+
+Summary: KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 1 pack size: 80 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines BPC-157 10 mg, GHK-Cu 50 mg, TB-500 10 mg and KPV 10 mg. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
+
+Q: How is KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) tested for purity and identity?
+A: Each lot of KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV)?
+A: KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) is available in 1 configuration: 80 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Retatrutide + Cagrilintide Blend (20 mg + 5 mg)
+
+- Canonical URL: https://dchemi.com/peptides/retatrutide-cagrilintide-blend-20-mg-5-mg
+- Machine-readable JSON: https://dchemi.com/peptides/retatrutide-cagrilintide-blend-20-mg-5-mg.json
+- Short code: RC
+- Aliases: RC, Reta 20 + Cagri 5, RC25
+- Category: Multi-Component Blends
+- Molecule class: blend (blend)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 2381089-83-2 + 1415456-99-3
+- Molecular formula: C221H342N46O68 + C194H312N54O59S2
+- Molecular weight: 4731 Da + 4409 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $391.00 – $460.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 25 mg × 10 vials | $460.00 | $460.00 | $423.20 | $391.00 |
+
+Summary: Retatrutide + Cagrilintide Blend (20 mg + 5 mg) (RC) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 1 pack size: 25 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines Retatrutide 20 mg and Cagrilintide 5 mg. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Retatrutide + Cagrilintide Blend (20 mg + 5 mg) tested for purity and identity?
+A: Each lot of Retatrutide + Cagrilintide Blend (20 mg + 5 mg) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Retatrutide + Cagrilintide Blend (20 mg + 5 mg) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Retatrutide + Cagrilintide Blend (20 mg + 5 mg)?
+A: Retatrutide + Cagrilintide Blend (20 mg + 5 mg) is available in 1 configuration: 25 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Retatrutide + Tirzepatide Blend (20 mg + 40 mg)
+
+- Canonical URL: https://dchemi.com/peptides/retatrutide-tirzepatide-blend-20-mg-40-mg
+- Machine-readable JSON: https://dchemi.com/peptides/retatrutide-tirzepatide-blend-20-mg-40-mg.json
+- Short code: RTTR
+- Aliases: RTTR, Reta 20 + Tirz 40, Retatrutide/Tirzepatide Blend
+- Category: Multi-Component Blends
+- Molecule class: blend (blend)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 2381089-83-2 + 2023788-19-2
+- Molecular formula: C221H342N46O68 + C225H348N48O68
+- Molecular weight: 4731 Da + 4813 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $205.98 – $242.34 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 60 mg × 10 vials | $242.34 | $242.34 | $222.96 | $205.98 |
+
+Summary: Retatrutide + Tirzepatide Blend (20 mg + 40 mg) (RTTR) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 1 pack size: 60 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines Retatrutide 20 mg and Tirzepatide 40 mg. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Retatrutide + Tirzepatide Blend (20 mg + 40 mg) tested for purity and identity?
+A: Each lot of Retatrutide + Tirzepatide Blend (20 mg + 40 mg) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Retatrutide + Tirzepatide Blend (20 mg + 40 mg) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Retatrutide + Tirzepatide Blend (20 mg + 40 mg)?
+A: Retatrutide + Tirzepatide Blend (20 mg + 40 mg) is available in 1 configuration: 60 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Super Human Blend
+
+- Canonical URL: https://dchemi.com/peptides/super-human-blend
+- Machine-readable JSON: https://dchemi.com/peptides/super-human-blend.json
+- Short code: SHB
+- Aliases: SHB
+- Category: Multi-Component Blends
+- Molecule class: blend (blend)
+- Appearance: Sterile Solution
+- Purity: ≥99.0% (HPLC)
+- CAS: fixed composition, listed in the batch-specific COA
+- Molecular formula: fixed composition, listed in the batch-specific COA
+- Molecular weight: fixed composition, listed in the batch-specific COA
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $88.40 – $104.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mL × 10 vials | $104.00 | $104.00 | $95.68 | $88.40 |
+
+Summary: Super Human Blend (SHB) is a multi-component peptide blend supplied as sterile solution. The catalogue lists 1 pack size: 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with sterile solution appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Super Human Blend tested for purity and identity?
+A: Each lot of Super Human Blend is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Super Human Blend be stored?
+A: Super Human Blend is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Super Human Blend?
+A: Super Human Blend is available in 1 configuration: 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Tesamorelin + Ipamorelin Blend
+
+- Canonical URL: https://dchemi.com/peptides/tesamorelin-ipamorelin-blend
+- Machine-readable JSON: https://dchemi.com/peptides/tesamorelin-ipamorelin-blend.json
+- Short code: TP
+- Aliases: TP, Tesa + IPA, Tesamorelin/Ipamorelin
+- Category: Multi-Component Blends
+- Molecule class: blend (blend)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 218949-48-5 + 170851-70-4
+- Molecular formula: C221H366N72O67S + C38H49N9O5
+- Molecular weight: 5136 Da + 711.9 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $63.92 – $216.86 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 8(6+2) mg × 10 vials | $78.00 | $78.00 | $71.76 | $66.30 |
+| 10(5+5) mg × 10 vials | $75.20 | $75.20 | $69.18 | $63.92 |
+| 13(10+3) mg × 10 vials | $133.70 | $133.70 | $123.00 | $113.64 |
+| 15(10+5) mg × 10 vials | $144.84 | $144.84 | $133.26 | $123.12 |
+| 15 mg × 10 vials | $216.86 | $216.86 | $199.52 | $184.34 |
+| 17(8.5+8.5) mg × 10 vials | $136.50 | $136.50 | $125.58 | $116.02 |
+
+Summary: Tesamorelin + Ipamorelin Blend (TP) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 6 pack sizes: 8 mg, 10 mg, 13 mg, 15 mg, 15 mg, 17 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Component ratios follow the specification printed on each vial label. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Tesamorelin + Ipamorelin Blend tested for purity and identity?
+A: Each lot of Tesamorelin + Ipamorelin Blend is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Tesamorelin + Ipamorelin Blend be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Tesamorelin + Ipamorelin Blend?
+A: Tesamorelin + Ipamorelin Blend is available in 6 configurations: 8 mg, 10 mg, 13 mg, 15 mg, 15 mg, 17 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---

@@ -1,0 +1,116 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/oxytocin-acetate",
+  "lastReviewed": "2026-11-26",
+  "name": "Oxytocin Acetate",
+  "slug": "oxytocin-acetate",
+  "shortCode": "OT",
+  "aliases": [
+    "OT",
+    "Oxytocin"
+  ],
+  "category": {
+    "key": "bioregulator",
+    "label": "Bioregulators & Longevity Peptides"
+  },
+  "chemistry": {
+    "cas": "6233-83-6",
+    "sequence": null,
+    "molecularFormula": "C45H70N12O14S2",
+    "molecularWeight": "1067.2",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "cyclic_peptide",
+    "sequenceType": "cyclic_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "2mg*10vials",
+      "label": "2 mg",
+      "vials": 10,
+      "perKit": 24.44,
+      "perVial": 2.44,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 24.44
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 22.48
+        },
+        {
+          "label": "50+ Kits",
+          "price": 20.78
+        }
+      ]
+    },
+    {
+      "spec": "5mg*10vials",
+      "label": "5 mg",
+      "vials": 10,
+      "perKit": 39,
+      "perVial": 3.9,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 39
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 35.88
+        },
+        {
+          "label": "50+ Kits",
+          "price": 33.14
+        }
+      ]
+    },
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 59.88,
+      "perVial": 5.99,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 59.88
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 55.08
+        },
+        {
+          "label": "50+ Kits",
+          "price": 50.9
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 20.78,
+    "to": 59.88,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "Oxytocin Acetate (OT) is a cyclic synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is Oxytocin Acetate tested for purity and identity?",
+      "answer": "Each lot of Oxytocin Acetate is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should Oxytocin Acetate be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Oxytocin Acetate?",
+      "answer": "Oxytocin Acetate is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

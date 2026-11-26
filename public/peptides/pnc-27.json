@@ -1,0 +1,116 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/pnc-27",
+  "lastReviewed": "2026-11-26",
+  "name": "PNC-27",
+  "slug": "pnc-27",
+  "shortCode": "PNC",
+  "aliases": [
+    "PNC",
+    "PNC27"
+  ],
+  "category": {
+    "key": "cosmetic_antiaging",
+    "label": "Cosmetic & Dermal Peptides"
+  },
+  "chemistry": {
+    "cas": "1159861-00-3",
+    "sequence": null,
+    "molecularFormula": "C188H293N53O44S",
+    "molecularWeight": "4032",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "modified_peptide",
+    "sequenceType": "modified_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "2mg*10vials",
+      "label": "2 mg",
+      "vials": 10,
+      "perKit": 52.92,
+      "perVial": 5.29,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 52.92
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 48.68
+        },
+        {
+          "label": "50+ Kits",
+          "price": 44.98
+        }
+      ]
+    },
+    {
+      "spec": "5mg*10vials",
+      "label": "5 mg",
+      "vials": 10,
+      "perKit": 93.32,
+      "perVial": 9.33,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 93.32
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 85.86
+        },
+        {
+          "label": "50+ Kits",
+          "price": 79.32
+        }
+      ]
+    },
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 186.62,
+      "perVial": 18.66,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 186.62
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 171.7
+        },
+        {
+          "label": "50+ Kits",
+          "price": 158.62
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 44.98,
+    "to": 186.62,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "PNC-27 is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is PNC-27 tested for purity and identity?",
+      "answer": "Each lot of PNC-27 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should PNC-27 be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for PNC-27?",
+      "answer": "PNC-27 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

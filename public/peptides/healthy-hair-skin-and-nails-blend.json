@@ -1,0 +1,75 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/healthy-hair-skin-and-nails-blend",
+  "lastReviewed": "2026-11-26",
+  "name": "Healthy Hair, Skin & Nails Blend",
+  "slug": "healthy-hair-skin-and-nails-blend",
+  "shortCode": "HHB",
+  "aliases": [
+    "HHB",
+    "Healthy Hair Skin and Nails",
+    "Hair Skin Nails Blend"
+  ],
+  "category": {
+    "key": "cosmetic_antiaging",
+    "label": "Cosmetic & Dermal Peptides"
+  },
+  "chemistry": {
+    "cas": "89030-95-5 (GHK-Cu) + 137525-51-0 (BPC-157) + 77591-33-4 (TB-500)",
+    "sequence": null,
+    "molecularFormula": "Mixture (Multi-component peptide blend)",
+    "molecularWeight": "Mixture (Component-specific; see COA)",
+    "purity": null,
+    "appearance": "Sterile Solution",
+    "form": "sterile_solution",
+    "moleculeClass": "solution_blend",
+    "sequenceType": "solution_blend"
+  },
+  "packSizes": [
+    {
+      "spec": "10ml*10vials",
+      "label": "10 mL",
+      "vials": 10,
+      "perKit": 104,
+      "perVial": 10.4,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 104
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 95.68
+        },
+        {
+          "label": "50+ Kits",
+          "price": 88.4
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 88.4,
+    "to": 104,
+    "moqKits": 1
+  },
+  "storage": "Store at 2-8 °C, protected from light; do not freeze.",
+  "definition": "Healthy Hair, Skin & Nails Blend (HHB) is a ready-to-use liquid blend supplied as sterile solution. The catalogue lists 1 pack size: 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99% (HPLC) with sterile solution appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "What documentation is supplied with Healthy Hair, Skin & Nails Blend?",
+      "answer": "Every batch of Healthy Hair, Skin & Nails Blend is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request."
+    },
+    {
+      "question": "How should Healthy Hair, Skin & Nails Blend be stored?",
+      "answer": "Healthy Hair, Skin & Nails Blend is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Healthy Hair, Skin & Nails Blend?",
+      "answer": "Healthy Hair, Skin & Nails Blend is available in 1 configuration: 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

@@ -1,0 +1,180 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/tesamorelin-ipamorelin-blend",
+  "lastReviewed": "2026-11-26",
+  "name": "Tesamorelin + Ipamorelin Blend",
+  "slug": "tesamorelin-ipamorelin-blend",
+  "shortCode": "TP",
+  "aliases": [
+    "TP",
+    "Tesa + IPA",
+    "Tesamorelin/Ipamorelin"
+  ],
+  "category": {
+    "key": "blend",
+    "label": "Multi-Component Blends"
+  },
+  "chemistry": {
+    "cas": "218949-48-5 + 170851-70-4",
+    "sequence": null,
+    "molecularFormula": "C221H366N72O67S + C38H49N9O5",
+    "molecularWeight": "5136 Da + 711.9 Da",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "blend",
+    "sequenceType": "blend"
+  },
+  "packSizes": [
+    {
+      "spec": "8(6+2)mg*10vials",
+      "label": "8(6+2) mg",
+      "vials": 10,
+      "perKit": 78,
+      "perVial": 7.8,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 78
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 71.76
+        },
+        {
+          "label": "50+ Kits",
+          "price": 66.3
+        }
+      ]
+    },
+    {
+      "spec": "10(5+5)mg*10vials",
+      "label": "10(5+5) mg",
+      "vials": 10,
+      "perKit": 75.2,
+      "perVial": 7.52,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 75.2
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 69.18
+        },
+        {
+          "label": "50+ Kits",
+          "price": 63.92
+        }
+      ]
+    },
+    {
+      "spec": "13(10+3)mg*10vials",
+      "label": "13(10+3) mg",
+      "vials": 10,
+      "perKit": 133.7,
+      "perVial": 13.37,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 133.7
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 123
+        },
+        {
+          "label": "50+ Kits",
+          "price": 113.64
+        }
+      ]
+    },
+    {
+      "spec": "15(10+5)mg*10vials",
+      "label": "15(10+5) mg",
+      "vials": 10,
+      "perKit": 144.84,
+      "perVial": 14.48,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 144.84
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 133.26
+        },
+        {
+          "label": "50+ Kits",
+          "price": 123.12
+        }
+      ]
+    },
+    {
+      "spec": "15mg*10vials",
+      "label": "15 mg",
+      "vials": 10,
+      "perKit": 216.86,
+      "perVial": 21.69,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 216.86
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 199.52
+        },
+        {
+          "label": "50+ Kits",
+          "price": 184.34
+        }
+      ]
+    },
+    {
+      "spec": "17(8.5+8.5)mg*10vials",
+      "label": "17(8.5+8.5) mg",
+      "vials": 10,
+      "perKit": 136.5,
+      "perVial": 13.65,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 136.5
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 125.58
+        },
+        {
+          "label": "50+ Kits",
+          "price": 116.02
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 63.92,
+    "to": 216.86,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "Tesamorelin + Ipamorelin Blend (TP) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 6 pack sizes: 8 mg, 10 mg, 13 mg, 15 mg, 15 mg, 17 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Component ratios follow the specification printed on each vial label. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is Tesamorelin + Ipamorelin Blend tested for purity and identity?",
+      "answer": "Each lot of Tesamorelin + Ipamorelin Blend is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should Tesamorelin + Ipamorelin Blend be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Tesamorelin + Ipamorelin Blend?",
+      "answer": "Tesamorelin + Ipamorelin Blend is available in 6 configurations: 8 mg, 10 mg, 13 mg, 15 mg, 15 mg, 17 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

@@ -1,0 +1,118 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/tb-500-thymosin-beta-4-fragment",
+  "lastReviewed": "2026-11-26",
+  "name": "TB-500 (Thymosin Beta-4 Fragment)",
+  "slug": "tb-500-thymosin-beta-4-fragment",
+  "shortCode": "TB",
+  "aliases": [
+    "TB",
+    "Thymosin Beta-4",
+    "TB-500",
+    "TB4"
+  ],
+  "category": {
+    "key": "repair_recovery",
+    "label": "Repair & Recovery Peptides"
+  },
+  "chemistry": {
+    "cas": "885340-08-9",
+    "sequence": "LKKTETQ",
+    "molecularFormula": "C38H68N10O14",
+    "molecularWeight": "889",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "linear_peptide",
+    "sequenceType": "linear_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "2mg*10vials",
+      "label": "2 mg",
+      "vials": 10,
+      "perKit": 45.62,
+      "perVial": 4.56,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 45.62
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 41.98
+        },
+        {
+          "label": "50+ Kits",
+          "price": 38.78
+        }
+      ]
+    },
+    {
+      "spec": "5mg*10vials",
+      "label": "5 mg",
+      "vials": 10,
+      "perKit": 84.96,
+      "perVial": 8.5,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 84.96
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 78.16
+        },
+        {
+          "label": "50+ Kits",
+          "price": 72.22
+        }
+      ]
+    },
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 158.78,
+      "perVial": 15.88,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 158.78
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 146.08
+        },
+        {
+          "label": "50+ Kits",
+          "price": 134.96
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 38.78,
+    "to": 158.78,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "TB-500 (Thymosin Beta-4 Fragment) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is TB-500 (Thymosin Beta-4 Fragment) tested for purity and identity?",
+      "answer": "Each lot of TB-500 (Thymosin Beta-4 Fragment) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should TB-500 (Thymosin Beta-4 Fragment) be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for TB-500 (Thymosin Beta-4 Fragment)?",
+      "answer": "TB-500 (Thymosin Beta-4 Fragment) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

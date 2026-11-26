@@ -1,0 +1,265 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/retatrutide",
+  "lastReviewed": "2026-11-26",
+  "name": "Retatrutide",
+  "slug": "retatrutide",
+  "shortCode": "RT",
+  "aliases": [
+    "RT",
+    "Retatrutide",
+    "Reta",
+    "LY3437943"
+  ],
+  "category": {
+    "key": "glp1_metabolic",
+    "label": "Metabolic & Weight-Management Peptides"
+  },
+  "chemistry": {
+    "cas": "2381089-83-2",
+    "sequence": null,
+    "molecularFormula": "C221H342N46O68",
+    "molecularWeight": "4731",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "modified_peptide",
+    "sequenceType": "modified_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "5mg*10vials",
+      "label": "5 mg",
+      "vials": 10,
+      "perKit": 63.38,
+      "perVial": 6.34,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 63.38
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 58.3
+        },
+        {
+          "label": "50+ Kits",
+          "price": 53.88
+        }
+      ]
+    },
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 106.54,
+      "perVial": 10.65,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 106.54
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 98.02
+        },
+        {
+          "label": "50+ Kits",
+          "price": 90.56
+        }
+      ]
+    },
+    {
+      "spec": "15mg*10vials",
+      "label": "15 mg",
+      "vials": 10,
+      "perKit": 145.54,
+      "perVial": 14.55,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 145.54
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 133.9
+        },
+        {
+          "label": "50+ Kits",
+          "price": 123.7
+        }
+      ]
+    },
+    {
+      "spec": "20mg*10vials",
+      "label": "20 mg",
+      "vials": 10,
+      "perKit": 185.94,
+      "perVial": 18.59,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 185.94
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 171.06
+        },
+        {
+          "label": "50+ Kits",
+          "price": 158.04
+        }
+      ]
+    },
+    {
+      "spec": "30mg*10vials",
+      "label": "30 mg",
+      "vials": 10,
+      "perKit": 255.1,
+      "perVial": 25.51,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 255.1
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 234.7
+        },
+        {
+          "label": "50+ Kits",
+          "price": 216.84
+        }
+      ]
+    },
+    {
+      "spec": "40mg*10vials",
+      "label": "40 mg",
+      "vials": 10,
+      "perKit": 245.52,
+      "perVial": 24.55,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 245.52
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 225.88
+        },
+        {
+          "label": "50+ Kits",
+          "price": 208.7
+        }
+      ]
+    },
+    {
+      "spec": "50mg*10vials",
+      "label": "50 mg",
+      "vials": 10,
+      "perKit": 270.84,
+      "perVial": 27.08,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 270.84
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 249.18
+        },
+        {
+          "label": "50+ Kits",
+          "price": 230.22
+        }
+      ]
+    },
+    {
+      "spec": "60mg*10vials",
+      "label": "60 mg",
+      "vials": 10,
+      "perKit": 442.9,
+      "perVial": 44.29,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 442.9
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 407.46
+        },
+        {
+          "label": "50+ Kits",
+          "price": 376.46
+        }
+      ]
+    },
+    {
+      "spec": "80mg*10vials",
+      "label": "80 mg",
+      "vials": 10,
+      "perKit": 303.62,
+      "perVial": 30.36,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 303.62
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 279.34
+        },
+        {
+          "label": "50+ Kits",
+          "price": 258.08
+        }
+      ]
+    },
+    {
+      "spec": "100mg*10vials",
+      "label": "100 mg",
+      "vials": 10,
+      "perKit": 479.66,
+      "perVial": 47.97,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 479.66
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 441.28
+        },
+        {
+          "label": "50+ Kits",
+          "price": 407.72
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 53.88,
+    "to": 479.66,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "Retatrutide (RT) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 10 pack sizes: 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 40 mg and 4 more. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is Retatrutide tested for purity and identity?",
+      "answer": "Each lot of Retatrutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should Retatrutide be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Retatrutide?",
+      "answer": "Retatrutide is available in 10 configurations: 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 50 mg, 60 mg and 2 more. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

@@ -1,0 +1,96 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/selank",
+  "lastReviewed": "2026-11-26",
+  "name": "Selank",
+  "slug": "selank",
+  "shortCode": "SK",
+  "aliases": [
+    "SK",
+    "Selank",
+    "TP-7"
+  ],
+  "category": {
+    "key": "bioregulator",
+    "label": "Bioregulators & Longevity Peptides"
+  },
+  "chemistry": {
+    "cas": "129954-34-3",
+    "sequence": "TKPRPGP",
+    "molecularFormula": "C33H57N11O9",
+    "molecularWeight": "751.9",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "modified_peptide",
+    "sequenceType": "modified_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "5mg*10vials",
+      "label": "5 mg",
+      "vials": 10,
+      "perKit": 38.3,
+      "perVial": 3.83,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 38.3
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 35.24
+        },
+        {
+          "label": "50+ Kits",
+          "price": 32.56
+        }
+      ]
+    },
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 57.1,
+      "perVial": 5.71,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 57.1
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 52.54
+        },
+        {
+          "label": "50+ Kits",
+          "price": 48.54
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 32.56,
+    "to": 57.1,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "Selank (SK) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is Selank tested for purity and identity?",
+      "answer": "Each lot of Selank is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should Selank be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Selank?",
+      "answer": "Selank is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

@@ -1,0 +1,118 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/cjc-1295-with-dac",
+  "lastReviewed": "2026-11-26",
+  "name": "CJC-1295 (With DAC)",
+  "slug": "cjc-1295-with-dac",
+  "shortCode": "CD",
+  "aliases": [
+    "CD",
+    "CJC-1295",
+    "CJC-1295 DAC",
+    "DAC:GRF"
+  ],
+  "category": {
+    "key": "gh_secretagogue",
+    "label": "Growth Hormone Secretagogues"
+  },
+  "chemistry": {
+    "cas": "446262-90-4",
+    "sequence": null,
+    "molecularFormula": "C165H269N47O46",
+    "molecularWeight": "3647.2",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "modified_peptide",
+    "sequenceType": "modified_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "2mg*10vials",
+      "label": "2 mg",
+      "vials": 10,
+      "perKit": 79.24,
+      "perVial": 7.92,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 79.24
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 72.9
+        },
+        {
+          "label": "50+ Kits",
+          "price": 67.36
+        }
+      ]
+    },
+    {
+      "spec": "5mg*10vials",
+      "label": "5 mg",
+      "vials": 10,
+      "perKit": 181.76,
+      "perVial": 18.18,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 181.76
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 167.22
+        },
+        {
+          "label": "50+ Kits",
+          "price": 154.5
+        }
+      ]
+    },
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 211.7,
+      "perVial": 21.17,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 211.7
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 194.76
+        },
+        {
+          "label": "50+ Kits",
+          "price": 179.94
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 67.36,
+    "to": 211.7,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "CJC-1295 (With DAC) (CD) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is CJC-1295 (With DAC) tested for purity and identity?",
+      "answer": "Each lot of CJC-1295 (With DAC) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should CJC-1295 (With DAC) be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for CJC-1295 (With DAC)?",
+      "answer": "CJC-1295 (With DAC) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

@@ -1,0 +1,118 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/igf-1-lr3",
+  "lastReviewed": "2026-11-26",
+  "name": "IGF-1 LR3",
+  "slug": "igf-1-lr3",
+  "shortCode": "IG",
+  "aliases": [
+    "IG",
+    "IGF-1 LR3",
+    "Long R3 IGF-1",
+    "LR3 IGF-1"
+  ],
+  "category": {
+    "key": "repair_recovery",
+    "label": "Repair & Recovery Peptides"
+  },
+  "chemistry": {
+    "cas": "946870-92-4",
+    "sequence": null,
+    "molecularFormula": null,
+    "molecularWeight": null,
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "protein",
+    "sequenceType": "protein"
+  },
+  "packSizes": [
+    {
+      "spec": "0.1mg*10vials",
+      "label": "0.1 mg",
+      "vials": 10,
+      "perKit": 16.72,
+      "perVial": 1.67,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 16.72
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 15.38
+        },
+        {
+          "label": "50+ Kits",
+          "price": 14.22
+        }
+      ]
+    },
+    {
+      "spec": "1mg*10vials",
+      "label": "1 mg",
+      "vials": 10,
+      "perKit": 217.28,
+      "perVial": 21.73,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 217.28
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 199.9
+        },
+        {
+          "label": "50+ Kits",
+          "price": 184.68
+        }
+      ]
+    },
+    {
+      "spec": "100mcg*10vials",
+      "label": "100 mcg",
+      "vials": 10,
+      "perKit": 37.6,
+      "perVial": 3.76,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 37.6
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 34.6
+        },
+        {
+          "label": "50+ Kits",
+          "price": 31.96
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 14.22,
+    "to": 217.28,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "IGF-1 LR3 (IG) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 0.1 mg, 1 mg, 100 mcg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is IGF-1 LR3 tested for purity and identity?",
+      "answer": "Each lot of IGF-1 LR3 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should IGF-1 LR3 be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for IGF-1 LR3?",
+      "answer": "IGF-1 LR3 is available in 3 configurations: 0.1 mg, 1 mg, 100 mcg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

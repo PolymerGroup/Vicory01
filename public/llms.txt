@@ -1,20 +1,37 @@
-# Dchemi — Research Peptide Catalogue (machine-readable index)
+# Dchemi — Research Peptide Catalogue (LLM index)
 
 > Shandong Vicory Biotechnology Co., Ltd. (dchemi.com) supplies research-grade peptides, blends and ancillary
 > reagents to laboratories, clinics and distributors. All products are sold as
 > 10-vial kits for research, laboratory and analytical use only. B2B RFQ only.
 > No online payment; no human or veterinary use.
 
-Key facts
+## Start here
+
+- [Full dataset (single file, ~260 KB)](https://dchemi.com/llms-full.txt): every product, all parameters and tiers
+- [Product JSON]( https://dchemi.com/peptides/{slug}.json ): one file per product, schema `dchemi.product/1`
+- [Comparisons](https://dchemi.com/compare): side-by-side analytical comparisons (X vs Y)
+
+## Key facts
 
 - Canonical site: https://dchemi.com
 - Catalogue size: 119 products · 266 pack-size SKUs
-- Currency and unit: USD per Kit (10 vials per kit)
+- Currency and unit: USD per kit (10 vials per kit)
 - Quality: RP-HPLC purity ≥99.0%, ESI-MS identity, lot-specific COA per batch
 - Storage: lyophilized powder at -20 °C; solutions at 2–8 °C
 - Ordering: email info@dchemi.com or WhatsApp +86 15866781826 (RFQ, no checkout)
+- Generated: 2026-11-26 · every dataset page carries its own `Last reviewed` date
 
-## Catalogue
+## Category datasets
+
+- [Metabolic & Weight-Management Peptides](https://dchemi.com/llms/glp1-metabolic.txt): 16 products, 37 KB — GLP-1 / GIP / amylin receptor research peptides, supplied as lyophilized powder in 10-vial kits.
+- [Repair & Recovery Peptides](https://dchemi.com/llms/repair-recovery.txt): 13 products, 29 KB — Regenerative research peptides including BPC-157, TB-500 and KPV, batch-tested by RP-HPLC.
+- [Cosmetic & Dermal Peptides](https://dchemi.com/llms/cosmetic-antiaging.txt): 14 products, 31 KB — Copper peptides and signal peptides for cosmetic raw-material and in-vitro dermal research.
+- [Growth Hormone Secretagogues](https://dchemi.com/llms/gh-secretagogues.txt): 10 products, 23 KB — GHRH analogues and ghrelin-receptor secretagogues for endocrine research use only.
+- [Bioregulators & Longevity Peptides](https://dchemi.com/llms/bioregulators.txt): 42 products, 92 KB — Short bioregulatory peptides, neuropeptides and mitochondrial-derived peptides.
+- [Multi-Component Blends](https://dchemi.com/llms/blends.txt): 9 products, 22 KB — Pre-formulated multi-peptide blends with a fixed per-vial composition.
+- [Solvents & Ancillary Reagents](https://dchemi.com/llms/ancillary.txt): 15 products, 33 KB — Bacteriostatic water, dilute acetic acid, benzyl alcohol and non-peptide ancillary reagents.
+
+## Catalogue (name · short code · starting price)
 
 ### Metabolic & Weight-Management Peptides (16)
 - [5-Amino-1MQ](https://dchemi.com/peptides/5-amino-1mq): 5AM · from $20.18/kit · 3 pack sizes
@@ -167,10 +184,6 @@ Key facts
 - [Quality & COA Centre](https://dchemi.com/quality-coa): batch testing, RP-HPLC/ESI-MS, COA request
 - [About & Compliance](https://dchemi.com/about-compliance): company, supply chain, US research-use statement
 - [Request a Quote](https://dchemi.com/rfq): B2B RFQ form for clinics, laboratories and distributors
-
-## Full dataset
-
-- [llms-full.txt](https://dchemi.com/llms-full.txt): complete physical/chemical parameters, pack sizes and tier pricing for all 119 products
 
 ## Compliance
 

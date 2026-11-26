@@ -1,0 +1,118 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/ll-37",
+  "lastReviewed": "2026-11-26",
+  "name": "LL-37",
+  "slug": "ll-37",
+  "shortCode": "LL",
+  "aliases": [
+    "LL",
+    "LL-37",
+    "Cathelicidin LL-37",
+    "hCAP-18 fragment"
+  ],
+  "category": {
+    "key": "repair_recovery",
+    "label": "Repair & Recovery Peptides"
+  },
+  "chemistry": {
+    "cas": "154947-66-7",
+    "sequence": "LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES",
+    "molecularFormula": "C205H340N60O53",
+    "molecularWeight": "4493",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "mixed",
+    "moleculeClass": "linear_peptide",
+    "sequenceType": "linear_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "5mg*10vials",
+      "label": "5 mg",
+      "vials": 10,
+      "perKit": 105.08,
+      "perVial": 10.51,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 105.08
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 96.68
+        },
+        {
+          "label": "50+ Kits",
+          "price": 89.32
+        }
+      ]
+    },
+    {
+      "spec": "5ml*10vials",
+      "label": "5 mL",
+      "vials": 10,
+      "perKit": 252,
+      "perVial": 25.2,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 252
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 231.84
+        },
+        {
+          "label": "50+ Kits",
+          "price": 214.2
+        }
+      ]
+    },
+    {
+      "spec": "10ml*10vials",
+      "label": "10 mL",
+      "vials": 10,
+      "perKit": 400,
+      "perVial": 40,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 400
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 368
+        },
+        {
+          "label": "50+ Kits",
+          "price": 340
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 89.32,
+    "to": 400,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "LL-37 is a linear synthetic peptide supplied as both lyophilized powder and sterile solution formats. The catalogue lists 3 pack sizes: 5 mg, 5 ml, 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC); appearance differs by format (powder vs solution). Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is LL-37 tested for purity and identity?",
+      "answer": "Each lot of LL-37 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should LL-37 be stored?",
+      "answer": "This item ships in more than one format: keep lyophilized vials at -20 °C, protected from light and moisture, and keep solution vials at 2-8 °C without freezing. Follow the instructions printed on the certificate of analysis for each lot. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for LL-37?",
+      "answer": "LL-37 is available in 3 configurations: 5 mg, 5 ml, 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

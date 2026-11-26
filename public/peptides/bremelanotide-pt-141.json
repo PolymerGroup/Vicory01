@@ -1,0 +1,75 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/bremelanotide-pt-141",
+  "lastReviewed": "2026-11-26",
+  "name": "Bremelanotide (PT-141)",
+  "slug": "bremelanotide-pt-141",
+  "shortCode": "PT",
+  "aliases": [
+    "PT",
+    "Bremelanotide",
+    "PT 141"
+  ],
+  "category": {
+    "key": "cosmetic_antiaging",
+    "label": "Cosmetic & Dermal Peptides"
+  },
+  "chemistry": {
+    "cas": "189691-06-3",
+    "sequence": null,
+    "molecularFormula": "C50H68N14O10",
+    "molecularWeight": "1025.2",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "cyclic_peptide",
+    "sequenceType": "cyclic_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 68.94,
+      "perVial": 6.89,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 68.94
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 63.42
+        },
+        {
+          "label": "50+ Kits",
+          "price": 58.6
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 58.6,
+    "to": 68.94,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "Bremelanotide (PT-141) is a cyclic synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is Bremelanotide (PT-141) tested for purity and identity?",
+      "answer": "Each lot of Bremelanotide (PT-141) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should Bremelanotide (PT-141) be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Bremelanotide (PT-141)?",
+      "answer": "Bremelanotide (PT-141) is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

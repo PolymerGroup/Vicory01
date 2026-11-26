@@ -1,0 +1,117 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/tb-500-fragment",
+  "lastReviewed": "2026-11-26",
+  "name": "TB-500 Fragment",
+  "slug": "tb-500-fragment",
+  "shortCode": "TBFRAG",
+  "aliases": [
+    "TBFRAG",
+    "TB4 Fragment",
+    "TB-500 Frag"
+  ],
+  "category": {
+    "key": "repair_recovery",
+    "label": "Repair & Recovery Peptides"
+  },
+  "chemistry": {
+    "cas": "885340-08-9",
+    "sequence": null,
+    "molecularFormula": "C38H68N10O14",
+    "molecularWeight": "889.02",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "linear_peptide",
+    "sequenceType": "linear_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "2mg*10vials",
+      "label": "2 mg",
+      "vials": 10,
+      "perKit": 35.1,
+      "perVial": 3.51,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 35.1
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 32.3
+        },
+        {
+          "label": "50+ Kits",
+          "price": 29.84
+        }
+      ]
+    },
+    {
+      "spec": "5mg*10vials",
+      "label": "5 mg",
+      "vials": 10,
+      "perKit": 48.88,
+      "perVial": 4.89,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 48.88
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 44.96
+        },
+        {
+          "label": "50+ Kits",
+          "price": 41.54
+        }
+      ]
+    },
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 73.96,
+      "perVial": 7.4,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 73.96
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 68.04
+        },
+        {
+          "label": "50+ Kits",
+          "price": 62.86
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 29.84,
+    "to": 73.96,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "TB-500 Fragment (TBFRAG) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is TB-500 Fragment tested for purity and identity?",
+      "answer": "Each lot of TB-500 Fragment is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should TB-500 Fragment be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for TB-500 Fragment?",
+      "answer": "TB-500 Fragment is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

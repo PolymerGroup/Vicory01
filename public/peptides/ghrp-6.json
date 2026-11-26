@@ -1,0 +1,97 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/ghrp-6",
+  "lastReviewed": "2026-11-26",
+  "name": "GHRP-6",
+  "slug": "ghrp-6",
+  "shortCode": "GR6",
+  "aliases": [
+    "GR6",
+    "GHRP-6",
+    "GHRP6",
+    "Growth Hormone Releasing Peptide-6"
+  ],
+  "category": {
+    "key": "gh_secretagogue",
+    "label": "Growth Hormone Secretagogues"
+  },
+  "chemistry": {
+    "cas": "145177-42-0",
+    "sequence": "HWAWFK",
+    "molecularFormula": "C46H56N12O6",
+    "molecularWeight": "873.0",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "modified_peptide",
+    "sequenceType": "modified_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "5mg*10vials",
+      "label": "5 mg",
+      "vials": 10,
+      "perKit": 38.38,
+      "perVial": 3.84,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 38.38
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 35.3
+        },
+        {
+          "label": "50+ Kits",
+          "price": 32.62
+        }
+      ]
+    },
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 48.06,
+      "perVial": 4.81,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 48.06
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 44.22
+        },
+        {
+          "label": "50+ Kits",
+          "price": 40.86
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 32.62,
+    "to": 48.06,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "GHRP-6 (GR6) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is GHRP-6 tested for purity and identity?",
+      "answer": "Each lot of GHRP-6 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should GHRP-6 be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for GHRP-6?",
+      "answer": "GHRP-6 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

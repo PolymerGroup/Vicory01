@@ -1,0 +1,116 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/acetic-acid",
+  "lastReviewed": "2026-11-26",
+  "name": "Acetic Acid",
+  "slug": "acetic-acid",
+  "shortCode": "AA",
+  "aliases": [
+    "AA",
+    "Acetic Acid Solution"
+  ],
+  "category": {
+    "key": "solvent_ancillary",
+    "label": "Solvents & Ancillary Reagents"
+  },
+  "chemistry": {
+    "cas": "64-19-7",
+    "sequence": null,
+    "molecularFormula": "C2H4O2",
+    "molecularWeight": "60.05",
+    "purity": null,
+    "appearance": "Sterile Solution",
+    "form": "sterile_solution",
+    "moleculeClass": "solvent",
+    "sequenceType": "solvent"
+  },
+  "packSizes": [
+    {
+      "spec": "3ml*10vials",
+      "label": "3 mL",
+      "vials": 10,
+      "perKit": 15.32,
+      "perVial": 1.53,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 15.32
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 14.1
+        },
+        {
+          "label": "50+ Kits",
+          "price": 13.02
+        }
+      ]
+    },
+    {
+      "spec": "5ml*10vials",
+      "label": "5 mL",
+      "vials": 10,
+      "perKit": 10.02,
+      "perVial": 1,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 10.02
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 9.22
+        },
+        {
+          "label": "50+ Kits",
+          "price": 8.52
+        }
+      ]
+    },
+    {
+      "spec": "10ml*10vials",
+      "label": "10 mL",
+      "vials": 10,
+      "perKit": 7.8,
+      "perVial": 0.78,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 7.8
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 7.18
+        },
+        {
+          "label": "50+ Kits",
+          "price": 6.62
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 6.62,
+    "to": 15.32,
+    "moqKits": 1
+  },
+  "storage": "Store at 2-8 °C, protected from light; do not freeze.",
+  "definition": "Acetic Acid (AA) is a laboratory solvent supplied as sterile solution. The catalogue lists 3 pack sizes: 3 ml, 5 ml, 10 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "What documentation is supplied with Acetic Acid?",
+      "answer": "Every batch of Acetic Acid is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request."
+    },
+    {
+      "question": "How should Acetic Acid be stored?",
+      "answer": "Acetic Acid is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Acetic Acid?",
+      "answer": "Acetic Acid is available in 3 configurations: 3 ml, 5 ml, 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

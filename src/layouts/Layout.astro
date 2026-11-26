@@ -71,7 +71,18 @@ const organization = {
     addressRegion: SITE.addressRegion,
     addressLocality: SITE.addressLocality,
   },
-  sameAs: [SITE.whatsapp],
+  // GEO：成立年份 + 已知外链 + 领域标签，帮助模型建立实体一致性
+  foundingDate: SITE.established,
+  sameAs: [SITE.whatsapp, ...(SITE.social || [])],
+  knowsAbout: [
+    'research peptides',
+    'peptide synthesis',
+    'lyophilized peptides',
+    'RP-HPLC purity testing',
+    'ESI-MS identity confirmation',
+    'certificate of analysis',
+    'peptide handling and storage',
+  ],
   description:
     'B2B supplier of research-grade peptides, peptide blends and ancillary reagents supplied as 10-vial kits for laboratory and analytical use only.',
 };

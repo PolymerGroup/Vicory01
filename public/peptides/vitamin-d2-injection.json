@@ -1,0 +1,76 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/vitamin-d2-injection",
+  "lastReviewed": "2026-11-26",
+  "name": "Vitamin D2 Injection",
+  "slug": "vitamin-d2-injection",
+  "shortCode": "VD2",
+  "aliases": [
+    "VD2",
+    "Ergocalciferol",
+    "VD2 Injection",
+    "Ergocalciferol Injection"
+  ],
+  "category": {
+    "key": "solvent_ancillary",
+    "label": "Solvents & Ancillary Reagents"
+  },
+  "chemistry": {
+    "cas": "50-14-6",
+    "sequence": null,
+    "molecularFormula": "C28H44O",
+    "molecularWeight": "396.6",
+    "purity": null,
+    "appearance": "Sterile Solution",
+    "form": "sterile_solution",
+    "moleculeClass": "non_peptide",
+    "sequenceType": "non_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "1ml:5mg*6vials",
+      "label": "1 mL",
+      "vials": 6,
+      "perKit": 68,
+      "perVial": 11.33,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 68
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 62.56
+        },
+        {
+          "label": "50+ Kits",
+          "price": 57.8
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 6 vials",
+    "from": 57.8,
+    "to": 68,
+    "moqKits": 1
+  },
+  "storage": "Store at 2-8 °C, protected from light; do not freeze.",
+  "definition": "Vitamin D2 Injection (VD2) is a non-peptide injectable supplied as sterile solution. The catalogue lists 1 pack size: 1 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 6 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "What documentation is supplied with Vitamin D2 Injection?",
+      "answer": "Every batch of Vitamin D2 Injection is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request."
+    },
+    {
+      "question": "How should Vitamin D2 Injection be stored?",
+      "answer": "Vitamin D2 Injection is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Vitamin D2 Injection?",
+      "answer": "Vitamin D2 Injection is available in 1 configuration: 1 ml. Each kit contains 6 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

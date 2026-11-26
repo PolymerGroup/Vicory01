@@ -1,0 +1,116 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/adamax",
+  "lastReviewed": "2026-11-26",
+  "name": "Adamax",
+  "slug": "adamax",
+  "shortCode": "ADA",
+  "aliases": [
+    "ADA",
+    "Adamax Peptide"
+  ],
+  "category": {
+    "key": "bioregulator",
+    "label": "Bioregulators & Longevity Peptides"
+  },
+  "chemistry": {
+    "cas": "859216-15-2",
+    "sequence": null,
+    "molecularFormula": "C111H206N36O28S2",
+    "molecularWeight": "2557.18",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "linear_peptide",
+    "sequenceType": "linear_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "5mg*10vials",
+      "label": "5 mg",
+      "vials": 10,
+      "perKit": 80.02,
+      "perVial": 8,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 80.02
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 73.62
+        },
+        {
+          "label": "50+ Kits",
+          "price": 68.02
+        }
+      ]
+    },
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 119.78,
+      "perVial": 11.98,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 119.78
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 110.2
+        },
+        {
+          "label": "50+ Kits",
+          "price": 101.82
+        }
+      ]
+    },
+    {
+      "spec": "20mg*10vials",
+      "label": "20 mg",
+      "vials": 10,
+      "perKit": 100.28,
+      "perVial": 10.03,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 100.28
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 92.26
+        },
+        {
+          "label": "50+ Kits",
+          "price": 85.24
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 68.02,
+    "to": 119.78,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "Adamax (ADA) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is Adamax tested for purity and identity?",
+      "answer": "Each lot of Adamax is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should Adamax be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Adamax?",
+      "answer": "Adamax is available in 3 configurations: 5 mg, 10 mg, 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

@@ -1,0 +1,75 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/orexin-a",
+  "lastReviewed": "2026-11-26",
+  "name": "Orexin A",
+  "slug": "orexin-a",
+  "shortCode": "OXA",
+  "aliases": [
+    "OXA",
+    "Orexin A",
+    "Hypocretin-1"
+  ],
+  "category": {
+    "key": "bioregulator",
+    "label": "Bioregulators & Longevity Peptides"
+  },
+  "chemistry": {
+    "cas": "205599-75-3",
+    "sequence": null,
+    "molecularFormula": "C152H243N47O44S4",
+    "molecularWeight": "3561.1",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "linear_peptide",
+    "sequenceType": "linear_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 626.74,
+      "perVial": 62.67,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 626.74
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 576.6
+        },
+        {
+          "label": "50+ Kits",
+          "price": 532.72
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 532.72,
+    "to": 626.74,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "Orexin A (OXA) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is Orexin A tested for purity and identity?",
+      "answer": "Each lot of Orexin A is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should Orexin A be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Orexin A?",
+      "answer": "Orexin A is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

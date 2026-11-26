@@ -1,0 +1,77 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/glow-blend-bpc-157-ghk-cu-tb-500",
+  "lastReviewed": "2026-11-26",
+  "name": "GLOW Blend (BPC-157 + GHK-Cu + TB-500)",
+  "slug": "glow-blend-bpc-157-ghk-cu-tb-500",
+  "shortCode": "BBG",
+  "aliases": [
+    "BBG",
+    "Glow",
+    "GLOW70",
+    "BC10+Cu50+TB10",
+    "BPC-157/GHK-Cu/TB-500"
+  ],
+  "category": {
+    "key": "blend",
+    "label": "Multi-Component Blends"
+  },
+  "chemistry": {
+    "cas": "137525-51-0 + 89030-95-5 + 885340-08-9",
+    "sequence": null,
+    "molecularFormula": "C62H98N16O22 + C14H24CuN6O4 + C38H68N10O14",
+    "molecularWeight": "1419.5 Da + 403.93 Da + 889 Da",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "blend",
+    "sequenceType": "blend"
+  },
+  "packSizes": [
+    {
+      "spec": "70mg*10vials",
+      "label": "70 mg",
+      "vials": 10,
+      "perKit": 197.48,
+      "perVial": 19.75,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 197.48
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 181.68
+        },
+        {
+          "label": "50+ Kits",
+          "price": 167.86
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 167.86,
+    "to": 197.48,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "GLOW Blend (BPC-157 + GHK-Cu + TB-500) (BBG) is a multi-component peptide blend supplied as white lyophilized powder. The catalogue lists 1 pack size: 70 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Each unit combines BPC-157 10 mg, GHK-Cu 50 mg and TB-500 10 mg. Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is GLOW Blend (BPC-157 + GHK-Cu + TB-500) tested for purity and identity?",
+      "answer": "Each lot of GLOW Blend (BPC-157 + GHK-Cu + TB-500) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should GLOW Blend (BPC-157 + GHK-Cu + TB-500) be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for GLOW Blend (BPC-157 + GHK-Cu + TB-500)?",
+      "answer": "GLOW Blend (BPC-157 + GHK-Cu + TB-500) is available in 1 configuration: 70 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

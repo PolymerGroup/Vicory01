@@ -1,0 +1,94 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/b7-33",
+  "lastReviewed": "2026-11-26",
+  "name": "B7-33",
+  "slug": "b7-33",
+  "shortCode": "B733",
+  "aliases": [
+    "B733"
+  ],
+  "category": {
+    "key": "repair_recovery",
+    "label": "Repair & Recovery Peptides"
+  },
+  "chemistry": {
+    "cas": "1818415-56-3",
+    "sequence": null,
+    "molecularFormula": "C131H229N41O36S",
+    "molecularWeight": "2986.54",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "linear_peptide",
+    "sequenceType": "linear_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "2mg*10vials",
+      "label": "2 mg",
+      "vials": 10,
+      "perKit": 59.88,
+      "perVial": 5.99,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 59.88
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 55.08
+        },
+        {
+          "label": "50+ Kits",
+          "price": 50.9
+        }
+      ]
+    },
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 212.72,
+      "perVial": 21.27,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 212.72
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 195.7
+        },
+        {
+          "label": "50+ Kits",
+          "price": 180.82
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 50.9,
+    "to": 212.72,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "B7-33 (B733) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 2 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is B7-33 tested for purity and identity?",
+      "answer": "Each lot of B7-33 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should B7-33 be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for B7-33?",
+      "answer": "B7-33 is available in 2 configurations: 2 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

@@ -1,0 +1,137 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/tesamorelin",
+  "lastReviewed": "2026-11-26",
+  "name": "Tesamorelin",
+  "slug": "tesamorelin",
+  "shortCode": "TSM",
+  "aliases": [
+    "TSM",
+    "Tesamorelin"
+  ],
+  "category": {
+    "key": "gh_secretagogue",
+    "label": "Growth Hormone Secretagogues"
+  },
+  "chemistry": {
+    "cas": "218949-48-5",
+    "sequence": null,
+    "molecularFormula": "C221H366N72O67S",
+    "molecularWeight": "5136",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "modified_peptide",
+    "sequenceType": "modified_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "2mg*10vials",
+      "label": "2 mg",
+      "vials": 10,
+      "perKit": 57.1,
+      "perVial": 5.71,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 57.1
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 52.54
+        },
+        {
+          "label": "50+ Kits",
+          "price": 48.54
+        }
+      ]
+    },
+    {
+      "spec": "5mg*10vials",
+      "label": "5 mg",
+      "vials": 10,
+      "perKit": 107.94,
+      "perVial": 10.79,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 107.94
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 99.3
+        },
+        {
+          "label": "50+ Kits",
+          "price": 91.74
+        }
+      ]
+    },
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 204.74,
+      "perVial": 20.47,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 204.74
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 188.36
+        },
+        {
+          "label": "50+ Kits",
+          "price": 174.02
+        }
+      ]
+    },
+    {
+      "spec": "20mg*10vials",
+      "label": "20 mg",
+      "vials": 10,
+      "perKit": 355.16,
+      "perVial": 35.52,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 355.16
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 326.74
+        },
+        {
+          "label": "50+ Kits",
+          "price": 301.88
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 48.54,
+    "to": 355.16,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "Tesamorelin (TSM) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 4 pack sizes: 2 mg, 5 mg, 10 mg, 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is Tesamorelin tested for purity and identity?",
+      "answer": "Each lot of Tesamorelin is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should Tesamorelin be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Tesamorelin?",
+      "answer": "Tesamorelin is available in 4 configurations: 2 mg, 5 mg, 10 mg, 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

@@ -1,0 +1,138 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/hcg-human-chorionic-gonadotropin",
+  "lastReviewed": "2026-11-26",
+  "name": "HCG (Human Chorionic Gonadotropin)",
+  "slug": "hcg-human-chorionic-gonadotropin",
+  "shortCode": "CG",
+  "aliases": [
+    "CG",
+    "Chorionic Gonadotropin",
+    "Human Chorionic Gonadotropin"
+  ],
+  "category": {
+    "key": "bioregulator",
+    "label": "Bioregulators & Longevity Peptides"
+  },
+  "chemistry": {
+    "cas": null,
+    "sequence": null,
+    "molecularFormula": null,
+    "molecularWeight": null,
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "protein",
+    "sequenceType": "protein"
+  },
+  "packSizes": [
+    {
+      "spec": "1000iu*10vials",
+      "label": "1000 IU",
+      "vials": 10,
+      "perKit": 35.66,
+      "perVial": 3.57,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 35.66
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 32.8
+        },
+        {
+          "label": "50+ Kits",
+          "price": 30.32
+        }
+      ]
+    },
+    {
+      "spec": "2000iu*10vials",
+      "label": "2000 IU",
+      "vials": 10,
+      "perKit": 42.28,
+      "perVial": 4.23,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 42.28
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 38.9
+        },
+        {
+          "label": "50+ Kits",
+          "price": 35.94
+        }
+      ]
+    },
+    {
+      "spec": "5000iu*10vials",
+      "label": "5000 IU",
+      "vials": 10,
+      "perKit": 89.2,
+      "perVial": 8.92,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 89.2
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 82.06
+        },
+        {
+          "label": "50+ Kits",
+          "price": 75.82
+        }
+      ]
+    },
+    {
+      "spec": "10000iu*10vials",
+      "label": "10000 IU",
+      "vials": 10,
+      "perKit": 132.32,
+      "perVial": 13.23,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 132.32
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 121.74
+        },
+        {
+          "label": "50+ Kits",
+          "price": 112.48
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 30.32,
+    "to": 132.32,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "HCG (Human Chorionic Gonadotropin) (CG) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 4 pack sizes: 1000 iu, 2000 iu, 5000 iu, 10000 iu. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is HCG (Human Chorionic Gonadotropin) tested for purity and identity?",
+      "answer": "Each lot of HCG (Human Chorionic Gonadotropin) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should HCG (Human Chorionic Gonadotropin) be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for HCG (Human Chorionic Gonadotropin)?",
+      "answer": "HCG (Human Chorionic Gonadotropin) is available in 4 configurations: 1000 iu, 2000 iu, 5000 iu, 10000 iu. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

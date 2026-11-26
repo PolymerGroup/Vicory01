@@ -1,0 +1,202 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/hgh-somatropin-191aa",
+  "lastReviewed": "2026-11-26",
+  "name": "HGH (Somatropin 191AA)",
+  "slug": "hgh-somatropin-191aa",
+  "shortCode": "HGH",
+  "aliases": [
+    "HGH",
+    "Somatropin",
+    "191AA",
+    "Human Growth Hormone"
+  ],
+  "category": {
+    "key": "gh_secretagogue",
+    "label": "Growth Hormone Secretagogues"
+  },
+  "chemistry": {
+    "cas": null,
+    "sequence": null,
+    "molecularFormula": null,
+    "molecularWeight": null,
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "protein",
+    "sequenceType": "protein"
+  },
+  "packSizes": [
+    {
+      "spec": "6iu*10vials",
+      "label": "6 IU",
+      "vials": 10,
+      "perKit": 42.48,
+      "perVial": 4.25,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 42.48
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 39.08
+        },
+        {
+          "label": "50+ Kits",
+          "price": 36.1
+        }
+      ]
+    },
+    {
+      "spec": "8iu*10vials",
+      "label": "8 IU",
+      "vials": 10,
+      "perKit": 48.06,
+      "perVial": 4.81,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 48.06
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 44.22
+        },
+        {
+          "label": "50+ Kits",
+          "price": 40.86
+        }
+      ]
+    },
+    {
+      "spec": "10iu*10vials",
+      "label": "10 IU",
+      "vials": 10,
+      "perKit": 55.72,
+      "perVial": 5.57,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 55.72
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 51.26
+        },
+        {
+          "label": "50+ Kits",
+          "price": 47.36
+        }
+      ]
+    },
+    {
+      "spec": "12iu*10vials",
+      "label": "12 IU",
+      "vials": 10,
+      "perKit": 69.64,
+      "perVial": 6.96,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 69.64
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 64.06
+        },
+        {
+          "label": "50+ Kits",
+          "price": 59.2
+        }
+      ]
+    },
+    {
+      "spec": "15iu*10vials",
+      "label": "15 IU",
+      "vials": 10,
+      "perKit": 86.36,
+      "perVial": 8.64,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 86.36
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 79.46
+        },
+        {
+          "label": "50+ Kits",
+          "price": 73.4
+        }
+      ]
+    },
+    {
+      "spec": "24iu*10vials",
+      "label": "24 IU",
+      "vials": 10,
+      "perKit": 128.14,
+      "perVial": 12.81,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 128.14
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 117.88
+        },
+        {
+          "label": "50+ Kits",
+          "price": 108.92
+        }
+      ]
+    },
+    {
+      "spec": "36iu*10vials",
+      "label": "36 IU",
+      "vials": 10,
+      "perKit": 100.28,
+      "perVial": 10.03,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 100.28
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 92.26
+        },
+        {
+          "label": "50+ Kits",
+          "price": 85.24
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 36.1,
+    "to": 128.14,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "HGH (Somatropin 191AA) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 7 pack sizes: 6 iu, 8 iu, 10 iu, 12 iu, 15 iu, 24 iu and 1 more. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is HGH (Somatropin 191AA) tested for purity and identity?",
+      "answer": "Each lot of HGH (Somatropin 191AA) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should HGH (Somatropin 191AA) be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for HGH (Somatropin 191AA)?",
+      "answer": "HGH (Somatropin 191AA) is available in 7 configurations: 6 iu, 8 iu, 10 iu, 12 iu, 15 iu, 24 iu, 36 iu. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

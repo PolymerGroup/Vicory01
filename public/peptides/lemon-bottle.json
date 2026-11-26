@@ -1,0 +1,74 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/lemon-bottle",
+  "lastReviewed": "2026-11-26",
+  "name": "Lemon Bottle",
+  "slug": "lemon-bottle",
+  "shortCode": "LB",
+  "aliases": [
+    "LB",
+    "Lemonbottle"
+  ],
+  "category": {
+    "key": "cosmetic_antiaging",
+    "label": "Cosmetic & Dermal Peptides"
+  },
+  "chemistry": {
+    "cas": "302-95-4",
+    "sequence": null,
+    "molecularFormula": "C24H39NaO4",
+    "molecularWeight": "414.6",
+    "purity": null,
+    "appearance": "Sterile Solution",
+    "form": "sterile_solution",
+    "moleculeClass": "solution_blend",
+    "sequenceType": "solution_blend"
+  },
+  "packSizes": [
+    {
+      "spec": "10ml*10vials",
+      "label": "10 mL",
+      "vials": 10,
+      "perKit": 59.34,
+      "perVial": 5.93,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 59.34
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 54.6
+        },
+        {
+          "label": "50+ Kits",
+          "price": 50.44
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 50.44,
+    "to": 59.34,
+    "moqKits": 1
+  },
+  "storage": "Store at 2-8 °C, protected from light; do not freeze.",
+  "definition": "Lemon Bottle (LB) is a ready-to-use liquid blend supplied as sterile solution. The catalogue lists 1 pack size: 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99% (HPLC) with sterile solution appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "What documentation is supplied with Lemon Bottle?",
+      "answer": "Every batch of Lemon Bottle is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request."
+    },
+    {
+      "question": "How should Lemon Bottle be stored?",
+      "answer": "Lemon Bottle is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Lemon Bottle?",
+      "answer": "Lemon Bottle is available in 1 configuration: 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

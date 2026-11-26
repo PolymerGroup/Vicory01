@@ -1,0 +1,635 @@
+# Metabolic & Weight-Management Peptides — Dchemi research peptide dataset
+
+> For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use.
+
+Source: https://dchemi.com · generated 2026-11-26 · currency USD · unit Kit (10 vials)
+Products in this category: 16
+Index: https://dchemi.com/llms.txt · Full dataset: https://dchemi.com/llms-full.txt
+
+---
+
+## 5-Amino-1MQ
+
+- Canonical URL: https://dchemi.com/peptides/5-amino-1mq
+- Machine-readable JSON: https://dchemi.com/peptides/5-amino-1mq.json
+- Short code: 5AM
+- Aliases: 5AM, 5-Amino-1-methylquinolinium
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: small_molecule (small_molecule)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 42464-96-0
+- Molecular formula: C10H11IN2
+- Molecular weight: 286.11 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $20.18 – $143.88 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $23.74 | $23.74 | $21.84 | $20.18 |
+| 10 mg × 10 vials | $27.86 | $27.86 | $25.64 | $23.68 |
+| 50 mg × 10 vials | $143.88 | $143.88 | $132.36 | $122.30 |
+
+Summary: 5-Amino-1MQ (5AM) is a small-molecule research compound supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 50 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is 5-Amino-1MQ tested for purity and identity?
+A: Each lot of 5-Amino-1MQ is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should 5-Amino-1MQ be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for 5-Amino-1MQ?
+A: 5-Amino-1MQ is available in 3 configurations: 5 mg, 10 mg, 50 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Adipotide (FTPP)
+
+- Canonical URL: https://dchemi.com/peptides/adipotide-ftpp
+- Machine-readable JSON: https://dchemi.com/peptides/adipotide-ftpp.json
+- Short code: AP
+- Aliases: AP, FTPP, FTTP, Fat Targeting Peptide
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: cyclic_peptide (cyclic_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 859216-15-2
+- Molecular formula: C111H206N36O28S2
+- Molecular weight: 2557.18 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $60.14 – $223.66 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mg × 10 vials | $70.76 | $70.76 | $65.10 | $60.14 |
+| 5 mg × 10 vials | $155.98 | $155.98 | $143.50 | $132.58 |
+| 10 mg × 10 vials | $223.66 | $223.66 | $205.76 | $190.12 |
+
+Summary: Adipotide (FTPP) (AP) is a cyclic synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Adipotide (FTPP) tested for purity and identity?
+A: Each lot of Adipotide (FTPP) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Adipotide (FTPP) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Adipotide (FTPP)?
+A: Adipotide (FTPP) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## AICAR
+
+- Canonical URL: https://dchemi.com/peptides/aicar
+- Machine-readable JSON: https://dchemi.com/peptides/aicar.json
+- Short code: AR
+- Aliases: AR, AICA Ribonucleotide, Acadesine
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: small_molecule (small_molecule)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 3031-94-5
+- Molecular formula: C9H15N4O8P
+- Molecular weight: 338.21 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $42.62 – $86.36 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 50 mg × 10 vials | $50.14 | $50.14 | $46.12 | $42.62 |
+| 100 mg × 10 vials | $86.36 | $86.36 | $79.46 | $73.40 |
+
+Summary: AICAR (AR) is a small-molecule research compound supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 50 mg, 100 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is AICAR tested for purity and identity?
+A: Each lot of AICAR is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should AICAR be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for AICAR?
+A: AICAR is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## AOD-9604
+
+- Canonical URL: https://dchemi.com/peptides/aod-9604
+- Machine-readable JSON: https://dchemi.com/peptides/aod-9604.json
+- Short code: AOD
+- Aliases: AOD, hGH Fragment 177-191, AOD 9604
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: modified_peptide (modified_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 221231-10-3
+- Sequence: YLRIVQCRSVEGSCGF
+- Molecular formula: C78H123N23O23S2
+- Molecular weight: 1815.1 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $39.06 – $172.70 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mg × 10 vials | $45.96 | $45.96 | $42.28 | $39.06 |
+| 5 mg × 10 vials | $94.70 | $94.70 | $87.12 | $80.50 |
+| 10 mg × 10 vials | $172.70 | $172.70 | $158.88 | $146.80 |
+
+Summary: AOD-9604 is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is AOD-9604 tested for purity and identity?
+A: Each lot of AOD-9604 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should AOD-9604 be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for AOD-9604?
+A: AOD-9604 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Cagrilintide
+
+- Canonical URL: https://dchemi.com/peptides/cagrilintide
+- Machine-readable JSON: https://dchemi.com/peptides/cagrilintide.json
+- Short code: CGL
+- Aliases: CGL, Cagrilintide, Cagri
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: modified_peptide (modified_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 1415456-99-3
+- Molecular formula: C194H312N54O59S2
+- Molecular weight: 4409 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $52.08 – $225.62 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mg × 10 vials | $61.28 | $61.28 | $56.38 | $52.08 |
+| 5 mg × 10 vials | $130.22 | $130.22 | $119.80 | $110.68 |
+| 10 mg × 10 vials | $225.62 | $225.62 | $207.58 | $191.78 |
+
+Summary: Cagrilintide (CGL) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Cagrilintide tested for purity and identity?
+A: Each lot of Cagrilintide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Cagrilintide be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Cagrilintide?
+A: Cagrilintide is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Dulaglutide
+
+- Canonical URL: https://dchemi.com/peptides/dulaglutide
+- Machine-readable JSON: https://dchemi.com/peptides/dulaglutide.json
+- Short code: DL
+- Aliases: DL, Dulaglutide
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: protein (protein)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 923950-08-7
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: 59,669 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $130.22 – $282.72 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $153.20 | $153.20 | $140.94 | $130.22 |
+| 10 mg × 10 vials | $282.72 | $282.72 | $260.10 | $240.32 |
+
+Summary: Dulaglutide (DL) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Dulaglutide tested for purity and identity?
+A: Each lot of Dulaglutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Dulaglutide be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Dulaglutide?
+A: Dulaglutide is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## FTPP (Adipotide)
+
+- Canonical URL: https://dchemi.com/peptides/ftpp-adipotide
+- Machine-readable JSON: https://dchemi.com/peptides/ftpp-adipotide.json
+- Short code: FTPP
+- Aliases: FTPP, Adipotide, FTTP
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: cyclic_peptide (cyclic_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 859216-15-2
+- Molecular formula: C111H206N36O28S2
+- Molecular weight: 2557.2 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $106.54 – $125.34 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $125.34 | $125.34 | $115.32 | $106.54 |
+
+Summary: FTPP (Adipotide) is a cyclic synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 5 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is FTPP (Adipotide) tested for purity and identity?
+A: Each lot of FTPP (Adipotide) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should FTPP (Adipotide) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for FTPP (Adipotide)?
+A: FTPP (Adipotide) is available in 1 configuration: 5 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## HGH Fragment 176-191
+
+- Canonical URL: https://dchemi.com/peptides/hgh-fragment-176-191
+- Machine-readable JSON: https://dchemi.com/peptides/hgh-fragment-176-191.json
+- Short code: FR
+- Aliases: FR, HGH Frag 176-191, Fragment 176-191, AOD9604 parent
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: modified_peptide (modified_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 221231-10-3
+- Molecular formula: C80H127N23O24S2
+- Molecular weight: 1859.1 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $30.20 – $225.62 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 1 mg × 10 vials | $35.52 | $35.52 | $32.68 | $30.20 |
+| 2 mg × 10 vials | $45.96 | $45.96 | $42.28 | $39.06 |
+| 5 mg × 10 vials | $89.14 | $89.14 | $82.00 | $75.76 |
+| 10 mg × 10 vials | $158.78 | $158.78 | $146.08 | $134.96 |
+| 12 mg × 10 vials | $180.36 | $180.36 | $165.94 | $153.30 |
+| 15 mg × 10 vials | $225.62 | $225.62 | $207.58 | $191.78 |
+
+Summary: HGH Fragment 176-191 (FR) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 6 pack sizes: 1 mg, 2 mg, 5 mg, 10 mg, 12 mg, 15 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
+
+Q: How is HGH Fragment 176-191 tested for purity and identity?
+A: Each lot of HGH Fragment 176-191 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should HGH Fragment 176-191 be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for HGH Fragment 176-191?
+A: HGH Fragment 176-191 is available in 6 configurations: 1 mg, 2 mg, 5 mg, 10 mg, 12 mg, 15 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Liraglutide
+
+- Canonical URL: https://dchemi.com/peptides/liraglutide
+- Machine-readable JSON: https://dchemi.com/peptides/liraglutide.json
+- Short code: LIRA
+- Aliases: LIRA, Liraglutide
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: modified_peptide (modified_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 204656-20-2
+- Molecular formula: C172H265N43O51
+- Molecular weight: 3751 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $74.58 – $467.96 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $87.74 | $87.74 | $80.72 | $74.58 |
+| 10 mg × 10 vials | $155.98 | $155.98 | $143.50 | $132.58 |
+| 30 mg × 10 vials | $467.96 | $467.96 | $430.52 | $397.76 |
+
+Summary: Liraglutide (LIRA) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 30 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Liraglutide tested for purity and identity?
+A: Each lot of Liraglutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Liraglutide be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Liraglutide?
+A: Liraglutide is available in 3 configurations: 5 mg, 10 mg, 30 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Mazdutide
+
+- Canonical URL: https://dchemi.com/peptides/mazdutide
+- Machine-readable JSON: https://dchemi.com/peptides/mazdutide.json
+- Short code: MZ
+- Aliases: MZ, Mazdutide, IBI362
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: modified_peptide (modified_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 2259884-03-0
+- Molecular formula: C207H317N45O65
+- Molecular weight: 4476 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $61.56 – $238.16 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $72.42 | $72.42 | $66.62 | $61.56 |
+| 10 mg × 10 vials | $238.16 | $238.16 | $219.10 | $202.44 |
+
+Summary: Mazdutide (MZ) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Mazdutide tested for purity and identity?
+A: Each lot of Mazdutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Mazdutide be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Mazdutide?
+A: Mazdutide is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## MOTS-c
+
+- Canonical URL: https://dchemi.com/peptides/mots-c
+- Machine-readable JSON: https://dchemi.com/peptides/mots-c.json
+- Short code: MS
+- Aliases: MS, MOTS-c, MOTS c, Mitochondrial ORF of the 12S rRNA type-c
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 1627580-64-6
+- Sequence: MRWQEMGYIFYPRKLR
+- Molecular formula: C101H152N28O22S2
+- Molecular weight: 2174.6 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $63.34 – $262.54 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mg × 10 vials | $74.52 | $74.52 | $68.56 | $63.34 |
+| 15 mg × 10 vials | $118.38 | $118.38 | $108.90 | $100.62 |
+| 20 mg × 10 vials | $135.80 | $135.80 | $124.94 | $115.44 |
+| 40 mg × 10 vials | $262.54 | $262.54 | $241.54 | $223.16 |
+
+Summary: MOTS-c (MS) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 4 pack sizes: 10 mg, 15 mg, 20 mg, 40 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is MOTS-c tested for purity and identity?
+A: Each lot of MOTS-c is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should MOTS-c be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for MOTS-c?
+A: MOTS-c is available in 4 configurations: 10 mg, 15 mg, 20 mg, 40 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Retatrutide
+
+- Canonical URL: https://dchemi.com/peptides/retatrutide
+- Machine-readable JSON: https://dchemi.com/peptides/retatrutide.json
+- Short code: RT
+- Aliases: RT, Retatrutide, Reta, LY3437943
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: modified_peptide (modified_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 2381089-83-2
+- Molecular formula: C221H342N46O68
+- Molecular weight: 4731 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $53.88 – $479.66 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $63.38 | $63.38 | $58.30 | $53.88 |
+| 10 mg × 10 vials | $106.54 | $106.54 | $98.02 | $90.56 |
+| 15 mg × 10 vials | $145.54 | $145.54 | $133.90 | $123.70 |
+| 20 mg × 10 vials | $185.94 | $185.94 | $171.06 | $158.04 |
+| 30 mg × 10 vials | $255.10 | $255.10 | $234.70 | $216.84 |
+| 40 mg × 10 vials | $245.52 | $245.52 | $225.88 | $208.70 |
+| 50 mg × 10 vials | $270.84 | $270.84 | $249.18 | $230.22 |
+| 60 mg × 10 vials | $442.90 | $442.90 | $407.46 | $376.46 |
+| 80 mg × 10 vials | $303.62 | $303.62 | $279.34 | $258.08 |
+| 100 mg × 10 vials | $479.66 | $479.66 | $441.28 | $407.72 |
+
+Summary: Retatrutide (RT) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 10 pack sizes: 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 40 mg and 4 more. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Retatrutide tested for purity and identity?
+A: Each lot of Retatrutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Retatrutide be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Retatrutide?
+A: Retatrutide is available in 10 configurations: 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 50 mg, 60 mg and 2 more. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Semaglutide
+
+- Canonical URL: https://dchemi.com/peptides/semaglutide
+- Machine-readable JSON: https://dchemi.com/peptides/semaglutide.json
+- Short code: SM
+- Aliases: SM, Semaglutide, Sema, GLP-1
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: modified_peptide (modified_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 910463-68-2
+- Molecular formula: C187H291N45O59
+- Molecular weight: 4114 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $21.30 – $128.14 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mg × 10 vials | $25.06 | $25.06 | $23.06 | $21.30 |
+| 5 mg × 10 vials | $35.02 | $35.02 | $32.22 | $29.76 |
+| 10 mg × 10 vials | $47.36 | $47.36 | $43.58 | $40.26 |
+| 15 mg × 10 vials | $58.50 | $58.50 | $53.82 | $49.72 |
+| 20 mg × 10 vials | $72.42 | $72.42 | $66.62 | $61.56 |
+| 30 mg × 10 vials | $128.14 | $128.14 | $117.88 | $108.92 |
+| 50 mg × 10 vials | $124.10 | $124.10 | $114.18 | $105.48 |
+
+Summary: Semaglutide (SM) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 7 pack sizes: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg and 1 more. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Semaglutide tested for purity and identity?
+A: Each lot of Semaglutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Semaglutide be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Semaglutide?
+A: Semaglutide is available in 7 configurations: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 50 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## SLU-PP-332
+
+- Canonical URL: https://dchemi.com/peptides/slu-pp-332
+- Machine-readable JSON: https://dchemi.com/peptides/slu-pp-332.json
+- Short code: SLU332
+- Aliases: SLU332, SLU-PP332
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: small_molecule (small_molecule)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 303760-60-3
+- Molecular formula: C18H14N2O2
+- Molecular weight: 290.3 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $77.34 – $166.24 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $91.00 | $91.00 | $83.72 | $77.34 |
+| 10 mg × 10 vials | $166.24 | $166.24 | $152.94 | $141.30 |
+
+Summary: SLU-PP-332 (SLU332) is a small-molecule research compound supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is SLU-PP-332 tested for purity and identity?
+A: Each lot of SLU-PP-332 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should SLU-PP-332 be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for SLU-PP-332?
+A: SLU-PP-332 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Survodutide
+
+- Canonical URL: https://dchemi.com/peptides/survodutide
+- Machine-readable JSON: https://dchemi.com/peptides/survodutide.json
+- Short code: SUR
+- Aliases: SUR, Survodutide, BI 456906
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: modified_peptide (modified_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 2805997-46-8
+- Molecular formula: C192H289N47O61
+- Molecular weight: 4232 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $188.22 – $221.44 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mg × 10 vials | $221.44 | $221.44 | $203.72 | $188.22 |
+
+Summary: Survodutide (SUR) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Survodutide tested for purity and identity?
+A: Each lot of Survodutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Survodutide be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Survodutide?
+A: Survodutide is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Tirzepatide
+
+- Canonical URL: https://dchemi.com/peptides/tirzepatide
+- Machine-readable JSON: https://dchemi.com/peptides/tirzepatide.json
+- Short code: TR
+- Aliases: TR, Tirzepatide
+- Category: Metabolic & Weight-Management Peptides
+- Molecule class: modified_peptide (modified_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 2023788-19-2
+- Molecular formula: C225H348N48O68
+- Molecular weight: 4813 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $30.78 – $460.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mg × 10 vials | $36.22 | $36.22 | $33.32 | $30.78 |
+| 5 mg × 10 vials | $39.00 | $39.00 | $35.88 | $33.14 |
+| 10 mg × 10 vials | $61.28 | $61.28 | $56.38 | $52.08 |
+| 15 mg × 10 vials | $75.20 | $75.20 | $69.18 | $63.92 |
+| 20 mg × 10 vials | $99.58 | $99.58 | $91.62 | $84.64 |
+| 30 mg × 10 vials | $133.70 | $133.70 | $123.00 | $113.64 |
+| 40 mg × 10 vials | $172.00 | $172.00 | $158.24 | $146.20 |
+| 50 mg × 10 vials | $206.12 | $206.12 | $189.64 | $175.20 |
+| 60 mg × 10 vials | $239.56 | $239.56 | $220.40 | $203.62 |
+| 80 mg × 10 vials | $348.18 | $348.18 | $320.32 | $295.96 |
+| 100 mg × 10 vials | $353.46 | $353.46 | $325.18 | $300.44 |
+| 120 mg × 10 vials | $460.00 | $460.00 | $423.20 | $391.00 |
+
+Summary: Tirzepatide (TR) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 12 pack sizes: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg and 6 more. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Tirzepatide tested for purity and identity?
+A: Each lot of Tirzepatide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Tirzepatide be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Tirzepatide?
+A: Tirzepatide is available in 12 configurations: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 50 mg and 4 more. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---

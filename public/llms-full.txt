@@ -5,26 +5,28 @@
 Source: https://dchemi.com · generated 2026-11-26 · currency USD · unit Kit (10 vials)
 
 Total products: 119. Total pack-size SKUs: 266.
+Prefer the split files for incremental retrieval: https://dchemi.com/llms.txt
 
 ---
 
 ## 5-Amino-1MQ
 
 - Canonical URL: https://dchemi.com/peptides/5-amino-1mq
+- Machine-readable JSON: https://dchemi.com/peptides/5-amino-1mq.json
 - Short code: 5AM
 - Aliases: 5AM, 5-Amino-1-methylquinolinium
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: small_molecule (small_molecule)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 42464-96-0
 - Molecular formula: C10H11IN2
 - Molecular weight: 286.11 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $20.18 – $143.88 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -48,20 +50,21 @@ A: 5-Amino-1MQ is available in 3 configurations: 5 mg, 10 mg, 50 mg. Each kit co
 ## ACE-031
 
 - Canonical URL: https://dchemi.com/peptides/ace-031
+- Machine-readable JSON: https://dchemi.com/peptides/ace-031.json
 - Short code: AC
 - Aliases: AC, ACE031, ACVR2B-Fc
 - Category: Repair & Recovery Peptides
 - Molecule class: protein (protein)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 1169766-01-1
 - Molecular formula: published in the batch-specific COA
 - Molecular weight: 74–75 kDa
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $33.14 – $39.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -83,20 +86,21 @@ A: ACE-031 is available in 1 configuration: 1 mg. Each kit contains 10 vials. Mi
 ## Acetic Acid
 
 - Canonical URL: https://dchemi.com/peptides/acetic-acid
+- Machine-readable JSON: https://dchemi.com/peptides/acetic-acid.json
 - Short code: AA
 - Aliases: AA, Acetic Acid Solution
 - Category: Solvents & Ancillary Reagents
 - Molecule class: solvent (solvent)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: 64-19-7
 - Molecular formula: C2H4O2
 - Molecular weight: 60.05 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $6.62 – $15.32 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -120,20 +124,21 @@ A: Acetic Acid is available in 3 configurations: 3 ml, 5 ml, 10 ml. Each kit con
 ## Acetic Acid Water 0.6%
 
 - Canonical URL: https://dchemi.com/peptides/acetic-acid-water-0-6-percent
+- Machine-readable JSON: https://dchemi.com/peptides/acetic-acid-water-0-6-percent.json
 - Short code: AA06
 - Aliases: AA06, 0.6% Acetic Acid, AA Water
 - Category: Solvents & Ancillary Reagents
 - Molecule class: solvent (solvent)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: 64-19-7
 - Molecular formula: C2H4O2
 - Molecular weight: 60.05 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $12.76 – $20.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -156,20 +161,21 @@ A: Acetic Acid Water 0.6% is available in 2 configurations: 3 ml, 10 ml. Each ki
 ## ACTH (1-39)
 
 - Canonical URL: https://dchemi.com/peptides/acth-1-39
+- Machine-readable JSON: https://dchemi.com/peptides/acth-1-39.json
 - Short code: ACTH
 - Aliases: ACTH, Corticotropin (1-39), ACTH1-39, Adrenocorticotropic Hormone 1-39
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 9002-60-2
 - Molecular formula: C207H308N56O58S
 - Molecular weight: 4541 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $52.80 – $62.12 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -191,20 +197,21 @@ A: ACTH (1-39) is available in 1 configuration: 5 mg. Each kit contains 10 vials
 ## Adamax
 
 - Canonical URL: https://dchemi.com/peptides/adamax
+- Machine-readable JSON: https://dchemi.com/peptides/adamax.json
 - Short code: ADA
 - Aliases: ADA, Adamax Peptide
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 859216-15-2
 - Molecular formula: C111H206N36O28S2
 - Molecular weight: 2557.18 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $68.02 – $119.78 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -228,20 +235,21 @@ A: Adamax is available in 3 configurations: 5 mg, 10 mg, 20 mg. Each kit contain
 ## Adipotide (FTPP)
 
 - Canonical URL: https://dchemi.com/peptides/adipotide-ftpp
+- Machine-readable JSON: https://dchemi.com/peptides/adipotide-ftpp.json
 - Short code: AP
 - Aliases: AP, FTPP, FTTP, Fat Targeting Peptide
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: cyclic_peptide (cyclic_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 859216-15-2
 - Molecular formula: C111H206N36O28S2
 - Molecular weight: 2557.18 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $60.14 – $223.66 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -265,20 +273,21 @@ A: Adipotide (FTPP) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each ki
 ## AHK-Cu
 
 - Canonical URL: https://dchemi.com/peptides/ahk-cu
+- Machine-readable JSON: https://dchemi.com/peptides/ahk-cu.json
 - Short code: AU
 - Aliases: AU, Copper Peptide AHK
 - Category: Cosmetic & Dermal Peptides
 - Molecule class: metal_complex (metal_complex)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 300801-03-0
 - Molecular formula: C15H24CuN6O4
 - Molecular weight: 415.94 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $60.26 – $97.86 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -301,20 +310,21 @@ A: AHK-Cu is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 
 ## AICAR
 
 - Canonical URL: https://dchemi.com/peptides/aicar
+- Machine-readable JSON: https://dchemi.com/peptides/aicar.json
 - Short code: AR
 - Aliases: AR, AICA Ribonucleotide, Acadesine
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: small_molecule (small_molecule)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 3031-94-5
 - Molecular formula: C9H15N4O8P
 - Molecular weight: 338.21 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $42.62 – $86.36 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -337,11 +347,11 @@ A: AICAR is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 v
 ## AOD-9604
 
 - Canonical URL: https://dchemi.com/peptides/aod-9604
+- Machine-readable JSON: https://dchemi.com/peptides/aod-9604.json
 - Short code: AOD
 - Aliases: AOD, hGH Fragment 177-191, AOD 9604
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 221231-10-3
@@ -349,9 +359,10 @@ A: AICAR is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 v
 - Molecular formula: C78H123N23O23S2
 - Molecular weight: 1815.1 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $39.06 – $172.70 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -375,20 +386,21 @@ A: AOD-9604 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contai
 ## B7-33
 
 - Canonical URL: https://dchemi.com/peptides/b7-33
+- Machine-readable JSON: https://dchemi.com/peptides/b7-33.json
 - Short code: B733
 - Aliases: B733
 - Category: Repair & Recovery Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 1818415-56-3
 - Molecular formula: C131H229N41O36S
 - Molecular weight: 2986.54 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $50.90 – $212.72 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -411,20 +423,21 @@ A: B7-33 is available in 2 configurations: 2 mg, 10 mg. Each kit contains 10 via
 ## Bacteriostatic Water
 
 - Canonical URL: https://dchemi.com/peptides/bacteriostatic-water
+- Machine-readable JSON: https://dchemi.com/peptides/bacteriostatic-water.json
 - Short code: WA
 - Aliases: WA
 - Category: Solvents & Ancillary Reagents
 - Molecule class: solvent (solvent)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: 100-51-6(Benzyl alcohol)
 - Molecular formula: Mixture (0.9% C7H8O in H2O)
 - Molecular weight: 18.02 Da (water) / 108.14 Da (benzyl alcohol) Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $7.96 – $11.26 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -447,20 +460,21 @@ A: Bacteriostatic Water is available in 2 configurations: 3 ml, 10 ml. Each kit 
 ## Bacteriostatic Water
 
 - Canonical URL: https://dchemi.com/peptides/bacteriostatic-water-bw
+- Machine-readable JSON: https://dchemi.com/peptides/bacteriostatic-water-bw.json
 - Short code: BW
 - Aliases: BW, BAC Water, Sterile Bacteriostatic Water
 - Category: Solvents & Ancillary Reagents
 - Molecule class: solvent (solvent)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: 100-51-6
 - Molecular formula: C7H8O
 - Molecular weight: 108.14 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $13.60 – $20.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -483,20 +497,21 @@ A: Bacteriostatic Water is available in 2 configurations: 3 ml, 10 ml. Each kit 
 ## Bacteriostatic Water 0.9% Benzyl Alcohol
 
 - Canonical URL: https://dchemi.com/peptides/bacteriostatic-water-0-9-percent-benzyl-alcohol
+- Machine-readable JSON: https://dchemi.com/peptides/bacteriostatic-water-0-9-percent-benzyl-alcohol.json
 - Short code: BA
 - Aliases: BA, BAC Water 0.9% BA, Bacteriostatic Water with Benzyl Alcohol
 - Category: Solvents & Ancillary Reagents
 - Molecule class: solvent (solvent)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: 100-51-6
 - Molecular formula: C7H8O
 - Molecular weight: 108.14 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $13.60 – $20.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -519,20 +534,21 @@ A: Bacteriostatic Water 0.9% Benzyl Alcohol is available in 2 configurations: 3 
 ## Benzyl Alcohol 0.9%
 
 - Canonical URL: https://dchemi.com/peptides/benzyl-alcohol-0-9-percent
+- Machine-readable JSON: https://dchemi.com/peptides/benzyl-alcohol-0-9-percent.json
 - Short code: BZA
 - Aliases: BZA, Benzyl Alcohol, BA 0.9%, Benzyl Alcohol Solution
 - Category: Solvents & Ancillary Reagents
 - Molecule class: solvent (solvent)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: 100-51-6
 - Molecular formula: C7H8O
 - Molecular weight: 108.14 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $10.20 – $18.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -556,20 +572,21 @@ A: Benzyl Alcohol 0.9% is available in 3 configurations: 3 ml, 5 ml, 10 ml. Each
 ## Botulinum Toxin Type A
 
 - Canonical URL: https://dchemi.com/peptides/botulinum-toxin-type-a
+- Machine-readable JSON: https://dchemi.com/peptides/botulinum-toxin-type-a.json
 - Short code: XT
 - Aliases: XT, Botulinum Toxin Type A, BoNT-A, Botulinum Neurotoxin Type A
 - Category: Cosmetic & Dermal Peptides
 - Molecule class: protein (protein)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Molecular formula: published in the batch-specific COA
 - Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $67.12 – $78.96 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -591,11 +608,11 @@ A: Botulinum Toxin Type A is available in 1 configuration: 100 iu. Each kit cont
 ## BPC-157
 
 - Canonical URL: https://dchemi.com/peptides/bpc-157
+- Machine-readable JSON: https://dchemi.com/peptides/bpc-157.json
 - Short code: BC
 - Aliases: BC, BPC 157, Body Protection Compound 157, Pentadecapeptide BPC 157
 - Category: Repair & Recovery Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 137525-51-0
@@ -603,9 +620,10 @@ A: Botulinum Toxin Type A is available in 1 configuration: 100 iu. Each kit cont
 - Molecular formula: C62H98N16O22
 - Molecular weight: 1419.5 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $23.02 – $160.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -630,20 +648,21 @@ A: BPC-157 is available in 4 configurations: 2 mg, 5 mg, 10 mg, 20 mg. Each kit 
 ## BPC-157 + TB-500 Blend
 
 - Canonical URL: https://dchemi.com/peptides/bpc-157-tb-500-blend
+- Machine-readable JSON: https://dchemi.com/peptides/bpc-157-tb-500-blend.json
 - Short code: BB
 - Aliases: BB, BPC/TB Blend, BB10, BB20, BPC157+TB500
 - Category: Multi-Component Blends
 - Molecule class: blend (blend)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 137525-51-0 + 885340-08-9
 - Molecular formula: C62H98N16O22 + C38H68N10O14
 - Molecular weight: 1419.5 Da + 889 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $84.82 – $293.32 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -667,20 +686,21 @@ A: BPC-157 + TB-500 Blend is available in 3 configurations: 10 mg, 20 mg, 30 mg.
 ## Bremelanotide (PT-141)
 
 - Canonical URL: https://dchemi.com/peptides/bremelanotide-pt-141
+- Machine-readable JSON: https://dchemi.com/peptides/bremelanotide-pt-141.json
 - Short code: PT
 - Aliases: PT, Bremelanotide, PT 141
 - Category: Cosmetic & Dermal Peptides
 - Molecule class: cyclic_peptide (cyclic_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 189691-06-3
 - Molecular formula: C50H68N14O10
 - Molecular weight: 1025.2 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $58.60 – $68.94 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -702,11 +722,11 @@ A: Bremelanotide (PT-141) is available in 1 configuration: 10 mg. Each kit conta
 ## Bronchogen
 
 - Canonical URL: https://dchemi.com/peptides/bronchogen
+- Machine-readable JSON: https://dchemi.com/peptides/bronchogen.json
 - Short code: AEDL
 - Aliases: AEDL
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 857267-12-0
@@ -714,9 +734,10 @@ A: Bremelanotide (PT-141) is available in 1 configuration: 10 mg. Each kit conta
 - Molecular formula: C18H30N4O9
 - Molecular weight: 446.5 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $79.14 – $93.10 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -738,20 +759,21 @@ A: Bronchogen is available in 1 configuration: 20 mg. Each kit contains 10 vials
 ## Cagrilintide
 
 - Canonical URL: https://dchemi.com/peptides/cagrilintide
+- Machine-readable JSON: https://dchemi.com/peptides/cagrilintide.json
 - Short code: CGL
 - Aliases: CGL, Cagrilintide, Cagri
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 1415456-99-3
 - Molecular formula: C194H312N54O59S2
 - Molecular weight: 4409 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $52.08 – $225.62 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -775,20 +797,21 @@ A: Cagrilintide is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit co
 ## CagriSema (Cagrilintide + Semaglutide)
 
 - Canonical URL: https://dchemi.com/peptides/cagrisema-cagrilintide-semaglutide
+- Machine-readable JSON: https://dchemi.com/peptides/cagrisema-cagrilintide-semaglutide.json
 - Short code: CS
 - Aliases: CS, CagriSema, Cagrilintide + Semaglutide
 - Category: Multi-Component Blends
 - Molecule class: blend (blend)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 1415456-99-3 + 910463-68-2
 - Molecular formula: C194H312N54O59S2 + C187H291N45O59
 - Molecular weight: 4409 Da + 4114 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $65.76 – $200.56 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -812,20 +835,21 @@ A: CagriSema (Cagrilintide + Semaglutide) is available in 3 configurations: 5 mg
 ## Cardiogen
 
 - Canonical URL: https://dchemi.com/peptides/cardiogen
+- Machine-readable JSON: https://dchemi.com/peptides/cardiogen.json
 - Short code: AEDR
 - Aliases: AEDR
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 857267-11-9
 - Molecular formula: C18H31N7O9
 - Molecular weight: 489.48 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $86.42 – $101.68 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -847,11 +871,11 @@ A: Cardiogen is available in 1 configuration: 20 mg. Each kit contains 10 vials.
 ## Cartalax
 
 - Canonical URL: https://dchemi.com/peptides/cartalax
+- Machine-readable JSON: https://dchemi.com/peptides/cartalax.json
 - Short code: AED
 - Aliases: AED
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 85806-95-7
@@ -859,9 +883,10 @@ A: Cardiogen is available in 1 configuration: 20 mg. Each kit contains 10 vials.
 - Molecular formula: C12H19N3O8
 - Molecular weight: 333.29 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $89.96 – $105.84 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -883,20 +908,21 @@ A: Cartalax is available in 1 configuration: 20 mg. Each kit contains 10 vials. 
 ## Cerebrolysin
 
 - Canonical URL: https://dchemi.com/peptides/cerebrolysin
+- Machine-readable JSON: https://dchemi.com/peptides/cerebrolysin.json
 - Short code: CBL
 - Aliases: CBL, Cerebrolysin
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: protein (protein)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 12656-61-0
 - Molecular formula: Mixture (Peptides & free amino acids)
 - Molecular weight: Mixture (<10 kDa peptide fraction) Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $39.02 – $45.90 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -918,20 +944,21 @@ A: Cerebrolysin is available in 1 configuration: 60 mg. Each kit contains 10 via
 ## Cibinetide (ARA-290)
 
 - Canonical URL: https://dchemi.com/peptides/cibinetide-ara-290
+- Machine-readable JSON: https://dchemi.com/peptides/cibinetide-ara-290.json
 - Short code: ARA
 - Aliases: ARA, Cibinetide
 - Category: Repair & Recovery Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 1208243-50-8
 - Molecular formula: C51H84N16O21
 - Molecular weight: 1257.31 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $67.02 – $280.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -955,20 +982,21 @@ A: Cibinetide (ARA-290) is available in 3 configurations: 10 mg, 16 mg, 40 mg. E
 ## CJC-1295 (No DAC) + Ipamorelin Blend
 
 - Canonical URL: https://dchemi.com/peptides/cjc-1295-no-dac-ipamorelin-blend
+- Machine-readable JSON: https://dchemi.com/peptides/cjc-1295-no-dac-ipamorelin-blend.json
 - Short code: CP
 - Aliases: CP, CJC no DAC + IPA, CP10, CP20, CJC-1295 + Ipamorelin
 - Category: Multi-Component Blends
 - Molecule class: blend (blend)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 863288-34-0 + 170851-70-4
 - Molecular formula: C152H252N44O42 + C38H49N9O5
 - Molecular weight: 3367.90 Da + 711.9 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $78.14 – $420.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -991,20 +1019,21 @@ A: CJC-1295 (No DAC) + Ipamorelin Blend is available in 2 configurations: 10 mg,
 ## CJC-1295 (With DAC)
 
 - Canonical URL: https://dchemi.com/peptides/cjc-1295-with-dac
+- Machine-readable JSON: https://dchemi.com/peptides/cjc-1295-with-dac.json
 - Short code: CD
 - Aliases: CD, CJC-1295, CJC-1295 DAC, DAC:GRF
 - Category: Growth Hormone Secretagogues
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 446262-90-4
 - Molecular formula: C165H269N47O46
 - Molecular weight: 3647.2 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $67.36 – $211.70 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1028,20 +1057,21 @@ A: CJC-1295 (With DAC) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each
 ## CJC-1295 (Without DAC)
 
 - Canonical URL: https://dchemi.com/peptides/cjc-1295-without-dac
+- Machine-readable JSON: https://dchemi.com/peptides/cjc-1295-without-dac.json
 - Short code: CND
 - Aliases: CND, CJC-1295, CJC-1295 No DAC, CJC1295 Without DAC, Mod GRF 1-29, ModGRF(1-29)
 - Category: Growth Hormone Secretagogues
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 863288-34-0
 - Molecular formula: C152H252N44O42
 - Molecular weight: 3367.90 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $34.28 – $123.96 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1065,11 +1095,11 @@ A: CJC-1295 (Without DAC) is available in 3 configurations: 2 mg, 5 mg, 10 mg. E
 ## Cortagen
 
 - Canonical URL: https://dchemi.com/peptides/cortagen
+- Machine-readable JSON: https://dchemi.com/peptides/cortagen.json
 - Short code: AEDP
 - Aliases: AEDP
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 335591-03-2
@@ -1077,9 +1107,10 @@ A: CJC-1295 (Without DAC) is available in 3 configurations: 2 mg, 5 mg, 10 mg. E
 - Molecular formula: C17H26N4O9
 - Molecular weight: 430.4 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $89.96 – $105.84 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1101,20 +1132,21 @@ A: Cortagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. 
 ## Crystagen
 
 - Canonical URL: https://dchemi.com/peptides/crystagen
+- Machine-readable JSON: https://dchemi.com/peptides/crystagen.json
 - Short code: CRY
 - Aliases: CRY
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Molecular formula: C14H21N3O8
 - Molecular weight: 359.33 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $60.08 – $70.68 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1136,11 +1168,11 @@ A: Crystagen is available in 1 configuration: 20 mg. Each kit contains 10 vials.
 ## Dermorphin
 
 - Canonical URL: https://dchemi.com/peptides/dermorphin
+- Machine-readable JSON: https://dchemi.com/peptides/dermorphin.json
 - Short code: DP
 - Aliases: DP, Dermorphin
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 77614-16-5
@@ -1148,9 +1180,10 @@ A: Crystagen is available in 1 configuration: 20 mg. Each kit contains 10 vials.
 - Molecular formula: C40H50N8O10
 - Molecular weight: 802.9 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $24.62 – $94.70 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1174,11 +1207,11 @@ A: Dermorphin is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit cont
 ## DSIP (Delta Sleep-Inducing Peptide)
 
 - Canonical URL: https://dchemi.com/peptides/dsip-delta-sleep-inducing-peptide
+- Machine-readable JSON: https://dchemi.com/peptides/dsip-delta-sleep-inducing-peptide.json
 - Short code: DS
 - Aliases: DS, DSIP, Delta Sleep Inducing Peptide
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 62568-57-4
@@ -1186,9 +1219,10 @@ A: Dermorphin is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit cont
 - Molecular formula: C35H48N10O15
 - Molecular weight: 848.8 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $24.86 – $73.82 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1212,20 +1246,21 @@ A: DSIP (Delta Sleep-Inducing Peptide) is available in 3 configurations: 2 mg, 5
 ## Dulaglutide
 
 - Canonical URL: https://dchemi.com/peptides/dulaglutide
+- Machine-readable JSON: https://dchemi.com/peptides/dulaglutide.json
 - Short code: DL
 - Aliases: DL, Dulaglutide
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: protein (protein)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 923950-08-7
 - Molecular formula: published in the batch-specific COA
 - Molecular weight: 59,669 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $130.22 – $282.72 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1248,11 +1283,11 @@ A: Dulaglutide is available in 2 configurations: 5 mg, 10 mg. Each kit contains 
 ## Epitalon (Epithalon)
 
 - Canonical URL: https://dchemi.com/peptides/epitalon-epithalon
+- Machine-readable JSON: https://dchemi.com/peptides/epitalon-epithalon.json
 - Short code: ET
 - Aliases: ET, Epitalon, AEDG
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 307297-39-8
@@ -1260,9 +1295,10 @@ A: Dulaglutide is available in 2 configurations: 5 mg, 10 mg. Each kit contains 
 - Molecular formula: C14H22N4O9
 - Molecular weight: 390.35 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $38.48 – $146.94 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1285,20 +1321,21 @@ A: Epitalon (Epithalon) is available in 2 configurations: 10 mg, 50 mg. Each kit
 ## Erythropoietin (EPO)
 
 - Canonical URL: https://dchemi.com/peptides/erythropoietin-epo
+- Machine-readable JSON: https://dchemi.com/peptides/erythropoietin-epo.json
 - Short code: EPO
 - Aliases: EPO, Epoetin, Erythropoietin, Epoetin Alfa
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: protein (protein)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Molecular formula: published in the batch-specific COA
 - Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $54.46 – $64.06 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1320,20 +1357,21 @@ A: Erythropoietin (EPO) is available in 1 configuration: 3000 iu. Each kit conta
 ## Follistatin (FST-344)
 
 - Canonical URL: https://dchemi.com/peptides/follistatin-fst-344
+- Machine-readable JSON: https://dchemi.com/peptides/follistatin-fst-344.json
 - Short code: FST
 - Aliases: FST, Follistatin, FST-344, Follistatin 344
 - Category: Repair & Recovery Peptides
 - Molecule class: protein (protein)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Molecular formula: published in the batch-specific COA
 - Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $163.36 – $192.20 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1355,20 +1393,21 @@ A: Follistatin (FST-344) is available in 1 configuration: 1 mg. Each kit contain
 ## FOXO4-DRI
 
 - Canonical URL: https://dchemi.com/peptides/foxo4-dri
+- Machine-readable JSON: https://dchemi.com/peptides/foxo4-dri.json
 - Short code: F410
 - Aliases: F410, FOXO4 DRI, FOXO4-D-Retro-Inverso, FOX04-DRI
 - Category: Cosmetic & Dermal Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 2460055-10-9
 - Molecular formula: C228H388N86O64
 - Molecular weight: 5358 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $89.96 – $376.04 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1391,20 +1430,21 @@ A: FOXO4-DRI is available in 2 configurations: 2 mg, 10 mg. Each kit contains 10
 ## FTPP (Adipotide)
 
 - Canonical URL: https://dchemi.com/peptides/ftpp-adipotide
+- Machine-readable JSON: https://dchemi.com/peptides/ftpp-adipotide.json
 - Short code: FTPP
 - Aliases: FTPP, Adipotide, FTTP
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: cyclic_peptide (cyclic_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 859216-15-2
 - Molecular formula: C111H206N36O28S2
 - Molecular weight: 2557.2 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $106.54 – $125.34 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1426,20 +1466,21 @@ A: FTPP (Adipotide) is available in 1 configuration: 5 mg. Each kit contains 10 
 ## GDF-8 (Myostatin)
 
 - Canonical URL: https://dchemi.com/peptides/gdf-8-myostatin
+- Machine-readable JSON: https://dchemi.com/peptides/gdf-8-myostatin.json
 - Short code: GDF8
 - Aliases: GDF8, Myostatin
 - Category: Repair & Recovery Peptides
 - Molecule class: protein (protein)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Molecular formula: published in the batch-specific COA
 - Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $168.12 – $197.78 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1461,20 +1502,21 @@ A: GDF-8 (Myostatin) is available in 1 configuration: 1 mg. Each kit contains 10
 ## GGH
 
 - Canonical URL: https://dchemi.com/peptides/ggh
+- Machine-readable JSON: https://dchemi.com/peptides/ggh.json
 - Short code: GGH
 - Aliases: GGH
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: solution_blend (solution_blend)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: 7451-76-5
 - Molecular formula: C10H15N5O4
 - Molecular weight: 269.26 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $102.00 – $120.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1496,20 +1538,21 @@ A: GGH is available in 1 configuration: 10 ml. Each kit contains 10 vials. Minim
 ## GHK-Cu
 
 - Canonical URL: https://dchemi.com/peptides/ghk-cu
+- Machine-readable JSON: https://dchemi.com/peptides/ghk-cu.json
 - Short code: CU
 - Aliases: CU, Copper Tripeptide-1, GHK Copper, Copper Peptide GHK-Cu
 - Category: Cosmetic & Dermal Peptides
 - Molecule class: metal_complex (metal_complex)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 89030-95-5
 - Molecular formula: C14H24CuN6O4
 - Molecular weight: 403.93 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $22.50 – $30.04 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1532,20 +1575,21 @@ A: GHK-Cu is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 
 ## GHRP-2
 
 - Canonical URL: https://dchemi.com/peptides/ghrp-2
+- Machine-readable JSON: https://dchemi.com/peptides/ghrp-2.json
 - Short code: GR2
 - Aliases: GR2, Pralmorelin, GHRP2
 - Category: Growth Hormone Secretagogues
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 158861-67-7
 - Molecular formula: C45H55N9O6
 - Molecular weight: 818.0 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $30.78 – $64.06 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1569,11 +1613,11 @@ A: GHRP-2 is available in 3 configurations: 5 mg, 10 mg, 15 mg. Each kit contain
 ## GHRP-6
 
 - Canonical URL: https://dchemi.com/peptides/ghrp-6
+- Machine-readable JSON: https://dchemi.com/peptides/ghrp-6.json
 - Short code: GR6
 - Aliases: GR6, GHRP-6, GHRP6, Growth Hormone Releasing Peptide-6
 - Category: Growth Hormone Secretagogues
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 145177-42-0
@@ -1581,9 +1625,10 @@ A: GHRP-2 is available in 3 configurations: 5 mg, 10 mg, 15 mg. Each kit contain
 - Molecular formula: C46H56N12O6
 - Molecular weight: 873.0 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $32.62 – $48.06 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1606,20 +1651,21 @@ A: GHRP-6 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vi
 ## GLOW Blend (BPC-157 + GHK-Cu + TB-500)
 
 - Canonical URL: https://dchemi.com/peptides/glow-blend-bpc-157-ghk-cu-tb-500
+- Machine-readable JSON: https://dchemi.com/peptides/glow-blend-bpc-157-ghk-cu-tb-500.json
 - Short code: BBG
 - Aliases: BBG, Glow, GLOW70, BC10+Cu50+TB10, BPC-157/GHK-Cu/TB-500
 - Category: Multi-Component Blends
 - Molecule class: blend (blend)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 137525-51-0 + 89030-95-5 + 885340-08-9
 - Molecular formula: C62H98N16O22 + C14H24CuN6O4 + C38H68N10O14
 - Molecular weight: 1419.5 Da + 403.93 Da + 889 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $167.86 – $197.48 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1641,20 +1687,21 @@ A: GLOW Blend (BPC-157 + GHK-Cu + TB-500) is available in 1 configuration: 70 mg
 ## Glutathione
 
 - Canonical URL: https://dchemi.com/peptides/glutathione
+- Machine-readable JSON: https://dchemi.com/peptides/glutathione.json
 - Short code: GTT
 - Aliases: GTT, Glutathione, GSH, L-Glutathione
 - Category: Cosmetic & Dermal Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 70-18-8
 - Molecular formula: C10H17N3O6S
 - Molecular weight: 307.33 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $13.50 – $180.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1680,20 +1727,21 @@ A: Glutathione is available in 5 configurations: 0.6 g, 1.5 g, 400 mg, 600 mg, 1
 ## Gonadorelin
 
 - Canonical URL: https://dchemi.com/peptides/gonadorelin
+- Machine-readable JSON: https://dchemi.com/peptides/gonadorelin.json
 - Short code: GND
 - Aliases: GND, Gonadorelin, GnRH, LHRH
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 33515-09-2
 - Molecular formula: C55H75N17O13
 - Molecular weight: 1182.3 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $13.02 – $20.90 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1716,20 +1764,21 @@ A: Gonadorelin is available in 2 configurations: 2 mg, 10 mg. Each kit contains 
 ## Gonadorelin Acetate
 
 - Canonical URL: https://dchemi.com/peptides/gonadorelin-acetate
+- Machine-readable JSON: https://dchemi.com/peptides/gonadorelin-acetate.json
 - Short code: GN
 - Aliases: GN, Gonadorelin Acetate, GnRH Acetate
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 52699-48-6
 - Molecular formula: C57H79N17O15
 - Molecular weight: 1242.3 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $24.86 – $46.24 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1752,20 +1801,21 @@ A: Gonadorelin Acetate is available in 2 configurations: 2 mg, 5 mg. Each kit co
 ## HCG (Human Chorionic Gonadotropin)
 
 - Canonical URL: https://dchemi.com/peptides/hcg-human-chorionic-gonadotropin
+- Machine-readable JSON: https://dchemi.com/peptides/hcg-human-chorionic-gonadotropin.json
 - Short code: CG
 - Aliases: CG, Chorionic Gonadotropin, Human Chorionic Gonadotropin
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: protein (protein)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Molecular formula: published in the batch-specific COA
 - Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $30.32 – $132.32 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1790,20 +1840,21 @@ A: HCG (Human Chorionic Gonadotropin) is available in 4 configurations: 1000 iu,
 ## Healthy Hair, Skin & Nails Blend
 
 - Canonical URL: https://dchemi.com/peptides/healthy-hair-skin-and-nails-blend
+- Machine-readable JSON: https://dchemi.com/peptides/healthy-hair-skin-and-nails-blend.json
 - Short code: HHB
 - Aliases: HHB, Healthy Hair Skin and Nails, Hair Skin Nails Blend
 - Category: Cosmetic & Dermal Peptides
 - Molecule class: solution_blend (solution_blend)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: 89030-95-5 (GHK-Cu) + 137525-51-0 (BPC-157) + 77591-33-4 (TB-500)
 - Molecular formula: Mixture (Multi-component peptide blend)
 - Molecular weight: Mixture (Component-specific; see COA) Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $88.40 – $104.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1825,20 +1876,21 @@ A: Healthy Hair, Skin & Nails Blend is available in 1 configuration: 10 ml. Each
 ## Hexarelin Acetate
 
 - Canonical URL: https://dchemi.com/peptides/hexarelin-acetate
+- Machine-readable JSON: https://dchemi.com/peptides/hexarelin-acetate.json
 - Short code: HX
 - Aliases: HX, Hexarelin, HEX
 - Category: Growth Hormone Secretagogues
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 208251-52-9
 - Molecular formula: C49H62N12O8
 - Molecular weight: 947.1 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $39.90 – $104.22 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1861,20 +1913,21 @@ A: Hexarelin Acetate is available in 2 configurations: 2 mg, 5 mg. Each kit cont
 ## HGH (Somatropin 191AA)
 
 - Canonical URL: https://dchemi.com/peptides/hgh-somatropin-191aa
+- Machine-readable JSON: https://dchemi.com/peptides/hgh-somatropin-191aa.json
 - Short code: HGH
 - Aliases: HGH, Somatropin, 191AA, Human Growth Hormone
 - Category: Growth Hormone Secretagogues
 - Molecule class: protein (protein)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Molecular formula: published in the batch-specific COA
 - Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $36.10 – $128.14 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1902,20 +1955,21 @@ A: HGH (Somatropin 191AA) is available in 7 configurations: 6 iu, 8 iu, 10 iu, 1
 ## HGH Fragment 17-23
 
 - Canonical URL: https://dchemi.com/peptides/hgh-fragment-17-23
+- Machine-readable JSON: https://dchemi.com/peptides/hgh-fragment-17-23.json
 - Short code: F17
 - Aliases: F17, hGH 17-23
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 221231-10-3
 - Molecular formula: C78H125N23O23S2
 - Molecular weight: 1817.10 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $66.30 – $78.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1937,20 +1991,21 @@ A: HGH Fragment 17-23 is available in 1 configuration: 10 mg. Each kit contains 
 ## HGH Fragment 176-191
 
 - Canonical URL: https://dchemi.com/peptides/hgh-fragment-176-191
+- Machine-readable JSON: https://dchemi.com/peptides/hgh-fragment-176-191.json
 - Short code: FR
 - Aliases: FR, HGH Frag 176-191, Fragment 176-191, AOD9604 parent
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 221231-10-3
 - Molecular formula: C80H127N23O24S2
 - Molecular weight: 1859.1 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $30.20 – $225.62 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -1977,20 +2032,21 @@ A: HGH Fragment 176-191 is available in 6 configurations: 1 mg, 2 mg, 5 mg, 10 m
 ## HMG (Human Menopausal Gonadotropin)
 
 - Canonical URL: https://dchemi.com/peptides/hmg-human-menopausal-gonadotropin
+- Machine-readable JSON: https://dchemi.com/peptides/hmg-human-menopausal-gonadotropin.json
 - Short code: GT
 - Aliases: GT, Menotropin, Human Menopausal Gonadotropin
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: protein (protein)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Molecular formula: published in the batch-specific COA
 - Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $49.42 – $58.14 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2012,11 +2068,11 @@ A: HMG (Human Menopausal Gonadotropin) is available in 1 configuration: 75 iu. E
 ## Humanin
 
 - Canonical URL: https://dchemi.com/peptides/humanin
+- Machine-readable JSON: https://dchemi.com/peptides/humanin.json
 - Short code: HMN
 - Aliases: HMN, Humanin, HN
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 330936-69-1
@@ -2024,9 +2080,10 @@ A: HMG (Human Menopausal Gonadotropin) is available in 1 configuration: 75 iu. E
 - Molecular formula: C119H204N34O32S2
 - Molecular weight: 2687.2 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $245.06 – $288.30 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2048,20 +2105,21 @@ A: Humanin is available in 1 configuration: 10 mg. Each kit contains 10 vials. M
 ## IGF-1 LR3
 
 - Canonical URL: https://dchemi.com/peptides/igf-1-lr3
+- Machine-readable JSON: https://dchemi.com/peptides/igf-1-lr3.json
 - Short code: IG
 - Aliases: IG, IGF-1 LR3, Long R3 IGF-1, LR3 IGF-1
 - Category: Repair & Recovery Peptides
 - Molecule class: protein (protein)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 946870-92-4
 - Molecular formula: published in the batch-specific COA
 - Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $14.22 – $217.28 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2085,20 +2143,21 @@ A: IGF-1 LR3 is available in 3 configurations: 0.1 mg, 1 mg, 100 mcg. Each kit c
 ## Ipamorelin
 
 - Canonical URL: https://dchemi.com/peptides/ipamorelin
+- Machine-readable JSON: https://dchemi.com/peptides/ipamorelin.json
 - Short code: IP
 - Aliases: IP, Ipamorelin, IPA
 - Category: Growth Hormone Secretagogues
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 170851-70-4
 - Molecular formula: C38H49N9O5
 - Molecular weight: 711.9 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $21.90 – $56.40 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2122,11 +2181,11 @@ A: Ipamorelin is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit cont
 ## Kisspeptin-10
 
 - Canonical URL: https://dchemi.com/peptides/kisspeptin-10
+- Machine-readable JSON: https://dchemi.com/peptides/kisspeptin-10.json
 - Short code: KS
 - Aliases: KS, Kisspeptin-10, Kisspeptin 10, Kiss-10, KP-10, Metastin 45-54
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 374675-21-5
@@ -2134,9 +2193,10 @@ A: Ipamorelin is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit cont
 - Molecular formula: C63H83N17O14
 - Molecular weight: 1302.4 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $41.42 – $78.70 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2159,20 +2219,21 @@ A: Kisspeptin-10 is available in 2 configurations: 5 mg, 10 mg. Each kit contain
 ## KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV)
 
 - Canonical URL: https://dchemi.com/peptides/klow-blend-bpc-157-ghk-cu-tb-500-kpv
+- Machine-readable JSON: https://dchemi.com/peptides/klow-blend-bpc-157-ghk-cu-tb-500-kpv.json
 - Short code: KLOW
 - Aliases: KLOW, KLOW80
 - Category: Multi-Component Blends
 - Molecule class: blend (blend)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 137525-51-0 + 89030-95-5 + 885340-08-9 + 67727-97-3
 - Molecular formula: C62H98N16O22 + C14H24CuN6O4 + C38H68N10O14 + C16H30N4O4
 - Molecular weight: 1419.5 Da + 403.93 Da + 889 Da + 342.43 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $248.60 – $292.48 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2194,20 +2255,21 @@ A: KLOW Blend (BPC-157 + GHK-Cu + TB-500 + KPV) is available in 1 configuration:
 ## KPV
 
 - Canonical URL: https://dchemi.com/peptides/kpv
+- Machine-readable JSON: https://dchemi.com/peptides/kpv.json
 - Short code: KPV
 - Aliases: KPV, Lys-Pro-Val, KPV Tripeptide
 - Category: Repair & Recovery Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 67727-97-3
 - Molecular formula: C16H30N4O4
 - Molecular weight: 342.43 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $32.56 – $190.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2231,20 +2293,21 @@ A: KPV is available in 3 configurations: 5 mg, 10 mg, 30 mg. Each kit contains 1
 ## L-Carnitine
 
 - Canonical URL: https://dchemi.com/peptides/l-carnitine
+- Machine-readable JSON: https://dchemi.com/peptides/l-carnitine.json
 - Short code: LC
 - Aliases: LC, Levocarnitine
 - Category: Solvents & Ancillary Reagents
 - Molecule class: non_peptide (non_peptide)
-- Presentation: mixed
 - Appearance: White Lyophilized Powder
 - Purity: not applicable (ancillary reagent)
 - CAS: 541-15-1
 - Molecular formula: C7H15NO3
 - Molecular weight: 161.20 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $21.90 – $61.28 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2271,20 +2334,21 @@ A: L-Carnitine is available in 6 configurations: 2 mg, 10 ml, 200 mg, 400 mg, 60
 ## Lemon Bottle
 
 - Canonical URL: https://dchemi.com/peptides/lemon-bottle
+- Machine-readable JSON: https://dchemi.com/peptides/lemon-bottle.json
 - Short code: LB
 - Aliases: LB, Lemonbottle
 - Category: Cosmetic & Dermal Peptides
 - Molecule class: solution_blend (solution_blend)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: 302-95-4
 - Molecular formula: C24H39NaO4
 - Molecular weight: 414.6 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $50.44 – $59.34 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2306,20 +2370,21 @@ A: Lemon Bottle is available in 1 configuration: 10 ml. Each kit contains 10 via
 ## Lipo-C
 
 - Canonical URL: https://dchemi.com/peptides/lipo-c
+- Machine-readable JSON: https://dchemi.com/peptides/lipo-c.json
 - Short code: LIPO
 - Aliases: LIPO, Lipo C, Lipotropic Complex, LC526
 - Category: Solvents & Ancillary Reagents
 - Molecule class: solution_blend (solution_blend)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Molecular formula: Mixture (Multi-component formulation)
 - Molecular weight: Mixture (Component-specific; see COA) Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $50.32 – $59.20 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2341,20 +2406,21 @@ A: Lipo-C is available in 1 configuration: 10 ml. Each kit contains 10 vials. Mi
 ## Liraglutide
 
 - Canonical URL: https://dchemi.com/peptides/liraglutide
+- Machine-readable JSON: https://dchemi.com/peptides/liraglutide.json
 - Short code: LIRA
 - Aliases: LIRA, Liraglutide
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 204656-20-2
 - Molecular formula: C172H265N43O51
 - Molecular weight: 3751 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $74.58 – $467.96 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2378,11 +2444,11 @@ A: Liraglutide is available in 3 configurations: 5 mg, 10 mg, 30 mg. Each kit co
 ## Livagen
 
 - Canonical URL: https://dchemi.com/peptides/livagen
+- Machine-readable JSON: https://dchemi.com/peptides/livagen.json
 - Short code: AEDK
 - Aliases: AEDK
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 433257-50-2
@@ -2390,9 +2456,10 @@ A: Liraglutide is available in 3 configurations: 5 mg, 10 mg, 30 mg. Each kit co
 - Molecular formula: C18H31N5O9
 - Molecular weight: 461.5 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $89.96 – $105.84 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2414,11 +2481,11 @@ A: Livagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. M
 ## LL-37
 
 - Canonical URL: https://dchemi.com/peptides/ll-37
+- Machine-readable JSON: https://dchemi.com/peptides/ll-37.json
 - Short code: LL
 - Aliases: LL, LL-37, Cathelicidin LL-37, hCAP-18 fragment
 - Category: Repair & Recovery Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: mixed
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 154947-66-7
@@ -2426,9 +2493,10 @@ A: Livagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. M
 - Molecular formula: C205H340N60O53
 - Molecular weight: 4493 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $89.32 – $400.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2452,20 +2520,21 @@ A: LL-37 is available in 3 configurations: 5 mg, 5 ml, 10 ml. Each kit contains 
 ## Matrixyl
 
 - Canonical URL: https://dchemi.com/peptides/matrixyl
+- Machine-readable JSON: https://dchemi.com/peptides/matrixyl.json
 - Short code: MX
 - Aliases: MX, Palmitoyl Pentapeptide-4, Matrixyl 3000
 - Category: Cosmetic & Dermal Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 214047-00-4
 - Molecular formula: C39H75N7O10
 - Molecular weight: 802.1 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $35.52 – $41.78 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2487,20 +2556,21 @@ A: Matrixyl is available in 1 configuration: 10 mg. Each kit contains 10 vials. 
 ## Mazdutide
 
 - Canonical URL: https://dchemi.com/peptides/mazdutide
+- Machine-readable JSON: https://dchemi.com/peptides/mazdutide.json
 - Short code: MZ
 - Aliases: MZ, Mazdutide, IBI362
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 2259884-03-0
 - Molecular formula: C207H317N45O65
 - Molecular weight: 4476 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $61.56 – $238.16 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2523,20 +2593,21 @@ A: Mazdutide is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10
 ## Melanotan I
 
 - Canonical URL: https://dchemi.com/peptides/melanotan-i
+- Machine-readable JSON: https://dchemi.com/peptides/melanotan-i.json
 - Short code: MT1
 - Aliases: MT1, Afamelanotide, Melanotan-1, MT-1
 - Category: Cosmetic & Dermal Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 75921-69-6
 - Molecular formula: C78H111N21O19
 - Molecular weight: 1646.8 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $46.18 – $54.32 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2558,20 +2629,21 @@ A: Melanotan I is available in 1 configuration: 10 mg. Each kit contains 10 vial
 ## Melanotan II (MT-2)
 
 - Canonical URL: https://dchemi.com/peptides/melanotan-ii-mt-2
+- Machine-readable JSON: https://dchemi.com/peptides/melanotan-ii-mt-2.json
 - Short code: MT2
 - Aliases: MT2, Melanotan II, MT-2, Melanotan 2 Acetate
 - Category: Cosmetic & Dermal Peptides
 - Molecule class: cyclic_peptide (cyclic_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 121062-08-6
 - Molecular formula: C50H69N15O9
 - Molecular weight: 1024.2 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $106.24 – $125.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2593,20 +2665,21 @@ A: Melanotan II (MT-2) is available in 1 configuration: 10 mg. Each kit contains
 ## Melatonin
 
 - Canonical URL: https://dchemi.com/peptides/melatonin
+- Machine-readable JSON: https://dchemi.com/peptides/melatonin.json
 - Short code: MTN
 - Aliases: MTN, Melatonin, N-Acetyl-5-methoxytryptamine
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: small_molecule (small_molecule)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 73-31-4
 - Molecular formula: C13H16N2O2
 - Molecular weight: 232.28 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $49.02 – $57.66 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2628,20 +2701,21 @@ A: Melatonin is available in 1 configuration: 10 mg. Each kit contains 10 vials.
 ## MGF (Mechano Growth Factor)
 
 - Canonical URL: https://dchemi.com/peptides/mgf-mechano-growth-factor
+- Machine-readable JSON: https://dchemi.com/peptides/mgf-mechano-growth-factor.json
 - Short code: FM
 - Aliases: FM, MGF, IGF-1Ec, Mechano Growth Factor
 - Category: Repair & Recovery Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Molecular formula: C121H199N41O40
 - Molecular weight: 2868.20 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $52.28 – $61.50 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2663,20 +2737,21 @@ A: MGF (Mechano Growth Factor) is available in 1 configuration: 2 mg. Each kit c
 ## MIC (Lipo-C with B12)
 
 - Canonical URL: https://dchemi.com/peptides/mic-lipo-c-with-b12
+- Machine-readable JSON: https://dchemi.com/peptides/mic-lipo-c-with-b12.json
 - Short code: MIC
 - Aliases: MIC, Lipo-C with B12, LC216
 - Category: Solvents & Ancillary Reagents
 - Molecule class: solution_blend (solution_blend)
-- Presentation: mixed
 - Appearance: White Lyophilized Powder
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Molecular formula: Mixture (Multi-component formulation)
 - Molecular weight: Mixture (Component-specific) Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $88.40 – $104.46 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2699,20 +2774,21 @@ A: MIC (Lipo-C with B12) is available in 2 configurations: 10 mg, 10 ml. Each ki
 ## MK-677 (Ibutamoren)
 
 - Canonical URL: https://dchemi.com/peptides/mk-677-ibutamoren
+- Machine-readable JSON: https://dchemi.com/peptides/mk-677-ibutamoren.json
 - Short code: MK
 - Aliases: MK, Ibutamoren
 - Category: Growth Hormone Secretagogues
 - Molecule class: small_molecule (small_molecule)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 159634-47-6
 - Molecular formula: C27H36N4O5S
 - Molecular weight: 528.7 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $9.46 – $11.14 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2734,11 +2810,11 @@ A: MK-677 (Ibutamoren) is available in 1 configuration: 5 mg. Each kit contains 
 ## MOTS-c
 
 - Canonical URL: https://dchemi.com/peptides/mots-c
+- Machine-readable JSON: https://dchemi.com/peptides/mots-c.json
 - Short code: MS
 - Aliases: MS, MOTS-c, MOTS c, Mitochondrial ORF of the 12S rRNA type-c
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 1627580-64-6
@@ -2746,9 +2822,10 @@ A: MK-677 (Ibutamoren) is available in 1 configuration: 5 mg. Each kit contains 
 - Molecular formula: C101H152N28O22S2
 - Molecular weight: 2174.6 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $63.34 – $262.54 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2773,20 +2850,21 @@ A: MOTS-c is available in 4 configurations: 10 mg, 15 mg, 20 mg, 40 mg. Each kit
 ## NAD+
 
 - Canonical URL: https://dchemi.com/peptides/nad-plus
+- Machine-readable JSON: https://dchemi.com/peptides/nad-plus.json
 - Short code: NJ
 - Aliases: NJ, Nicotinamide Adenine Dinucleotide, NAD, NAD Plus
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: small_molecule (small_molecule)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 53-84-9
 - Molecular formula: C21H27N7O14P2
 - Molecular weight: 663.4 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $24.28 – $60.16 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2810,20 +2888,21 @@ A: NAD+ is available in 3 configurations: 100 mg, 500 mg, 1000 mg. Each kit cont
 ## Orexin A
 
 - Canonical URL: https://dchemi.com/peptides/orexin-a
+- Machine-readable JSON: https://dchemi.com/peptides/orexin-a.json
 - Short code: OXA
 - Aliases: OXA, Orexin A, Hypocretin-1
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 205599-75-3
 - Molecular formula: C152H243N47O44S4
 - Molecular weight: 3561.1 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $532.72 – $626.74 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2845,20 +2924,21 @@ A: Orexin A is available in 1 configuration: 10 mg. Each kit contains 10 vials. 
 ## Orexin B
 
 - Canonical URL: https://dchemi.com/peptides/orexin-b
+- Machine-readable JSON: https://dchemi.com/peptides/orexin-b.json
 - Short code: OXB
 - Aliases: OXB, Orexin B, Hypocretin-2
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 205599-76-4
 - Molecular formula: C123H212N44O35S
 - Molecular weight: 2899.3 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $106.54 – $253.48 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2881,20 +2961,21 @@ A: Orexin B is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 
 ## Oxytocin Acetate
 
 - Canonical URL: https://dchemi.com/peptides/oxytocin-acetate
+- Machine-readable JSON: https://dchemi.com/peptides/oxytocin-acetate.json
 - Short code: OT
 - Aliases: OT, Oxytocin
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: cyclic_peptide (cyclic_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 6233-83-6
 - Molecular formula: C45H70N12O14S2
 - Molecular weight: 1067.2 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $20.78 – $59.88 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2918,20 +2999,21 @@ A: Oxytocin Acetate is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each ki
 ## P21 (P021)
 
 - Canonical URL: https://dchemi.com/peptides/p21-p021
+- Machine-readable JSON: https://dchemi.com/peptides/p21-p021.json
 - Short code: P21
 - Aliases: P21, P021, CNTF-derived peptide
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 1246751-68-7
 - Molecular formula: C27H42N6O8
 - Molecular weight: 578.67 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $7.76 – $325.90 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2954,20 +3036,21 @@ A: P21 (P021) is available in 2 configurations: 5 mg, 10 mg. Each kit contains 1
 ## Pancragen
 
 - Canonical URL: https://dchemi.com/peptides/pancragen
+- Machine-readable JSON: https://dchemi.com/peptides/pancragen.json
 - Short code: KEDW
 - Aliases: KEDW
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Molecular formula: C26H36N6O9
 - Molecular weight: 576.60 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 116 vials per kit
+- Pack size: 116 vials per kit
 - Price unit: USD per kit of 116 vials
 - Price range: $113.64 – $133.70 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -2989,20 +3072,21 @@ A: Pancragen is available in 1 configuration: 20 mg. Each kit contains 116 vials
 ## PE-22-28
 
 - Canonical URL: https://dchemi.com/peptides/pe-22-28
+- Machine-readable JSON: https://dchemi.com/peptides/pe-22-28.json
 - Short code: PE
 - Aliases: PE, PE 22-28, PE22-28
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 1801959-12-5
 - Molecular formula: C35H55N11O9
 - Molecular weight: 773.9 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $34.32 – $78.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3025,20 +3109,21 @@ A: PE-22-28 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 
 ## PEG-MGF
 
 - Canonical URL: https://dchemi.com/peptides/peg-mgf
+- Machine-readable JSON: https://dchemi.com/peptides/peg-mgf.json
 - Short code: FMP
 - Aliases: FMP, PEGylated MGF
 - Category: Repair & Recovery Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: published in the batch-specific COA
 - Molecular formula: published in the batch-specific COA
 - Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $73.04 – $85.94 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3060,11 +3145,11 @@ A: PEG-MGF is available in 1 configuration: 2 mg. Each kit contains 10 vials. Mi
 ## Pinealon
 
 - Canonical URL: https://dchemi.com/peptides/pinealon
+- Machine-readable JSON: https://dchemi.com/peptides/pinealon.json
 - Short code: PIN
 - Aliases: PIN
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 175175-23-2
@@ -3072,9 +3157,10 @@ A: PEG-MGF is available in 1 configuration: 2 mg. Each kit contains 10 vials. Mi
 - Molecular formula: C15H26N6O8
 - Molecular weight: 418.40 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $33.14 – $261.60 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3098,20 +3184,21 @@ A: Pinealon is available in 3 configurations: 5 mg, 10 mg, 20 mg. Each kit conta
 ## PNC-27
 
 - Canonical URL: https://dchemi.com/peptides/pnc-27
+- Machine-readable JSON: https://dchemi.com/peptides/pnc-27.json
 - Short code: PNC
 - Aliases: PNC, PNC27
 - Category: Cosmetic & Dermal Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 1159861-00-3
 - Molecular formula: C188H293N53O44S
 - Molecular weight: 4032 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $44.98 – $186.62 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3135,11 +3222,11 @@ A: PNC-27 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains
 ## Prostamax
 
 - Canonical URL: https://dchemi.com/peptides/prostamax
+- Machine-readable JSON: https://dchemi.com/peptides/prostamax.json
 - Short code: KEDP
 - Aliases: KEDP
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 473578-47-1
@@ -3147,9 +3234,10 @@ A: PNC-27 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains
 - Molecular formula: C20H33N5O9
 - Molecular weight: 487.5 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $153.90 – $181.06 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3171,20 +3259,21 @@ A: Prostamax is available in 1 configuration: 20 mg. Each kit contains 10 vials.
 ## PTD-DBM
 
 - Canonical URL: https://dchemi.com/peptides/ptd-dbm
+- Machine-readable JSON: https://dchemi.com/peptides/ptd-dbm.json
 - Short code: PTD
 - Aliases: PTD, PTD DBM
 - Category: Cosmetic & Dermal Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 1609454-11-6
 - Molecular formula: C124H225N61O28S2
 - Molecular weight: 3082.6 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $48.72 – $57.32 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3206,20 +3295,21 @@ A: PTD-DBM is available in 1 configuration: 1 mg. Each kit contains 10 vials. Mi
 ## Relaxation PM
 
 - Canonical URL: https://dchemi.com/peptides/relaxation-pm
+- Machine-readable JSON: https://dchemi.com/peptides/relaxation-pm.json
 - Short code: RP
 - Aliases: RP, RP226
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: solution_blend (solution_blend)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Molecular formula: Mixture
 - Molecular weight: Mixture Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $88.40 – $104.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3241,20 +3331,21 @@ A: Relaxation PM is available in 1 configuration: 10 ml. Each kit contains 10 vi
 ## Retatrutide
 
 - Canonical URL: https://dchemi.com/peptides/retatrutide
+- Machine-readable JSON: https://dchemi.com/peptides/retatrutide.json
 - Short code: RT
 - Aliases: RT, Retatrutide, Reta, LY3437943
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 2381089-83-2
 - Molecular formula: C221H342N46O68
 - Molecular weight: 4731 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $53.88 – $479.66 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3285,20 +3376,21 @@ A: Retatrutide is available in 10 configurations: 5 mg, 10 mg, 15 mg, 20 mg, 30 
 ## Retatrutide + Cagrilintide Blend (20 mg + 5 mg)
 
 - Canonical URL: https://dchemi.com/peptides/retatrutide-cagrilintide-blend-20-mg-5-mg
+- Machine-readable JSON: https://dchemi.com/peptides/retatrutide-cagrilintide-blend-20-mg-5-mg.json
 - Short code: RC
 - Aliases: RC, Reta 20 + Cagri 5, RC25
 - Category: Multi-Component Blends
 - Molecule class: blend (blend)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 2381089-83-2 + 1415456-99-3
 - Molecular formula: C221H342N46O68 + C194H312N54O59S2
 - Molecular weight: 4731 Da + 4409 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $391.00 – $460.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3320,20 +3412,21 @@ A: Retatrutide + Cagrilintide Blend (20 mg + 5 mg) is available in 1 configurati
 ## Retatrutide + Tirzepatide Blend (20 mg + 40 mg)
 
 - Canonical URL: https://dchemi.com/peptides/retatrutide-tirzepatide-blend-20-mg-40-mg
+- Machine-readable JSON: https://dchemi.com/peptides/retatrutide-tirzepatide-blend-20-mg-40-mg.json
 - Short code: RTTR
 - Aliases: RTTR, Reta 20 + Tirz 40, Retatrutide/Tirzepatide Blend
 - Category: Multi-Component Blends
 - Molecule class: blend (blend)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 2381089-83-2 + 2023788-19-2
 - Molecular formula: C221H342N46O68 + C225H348N48O68
 - Molecular weight: 4731 Da + 4813 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $205.98 – $242.34 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3355,11 +3448,11 @@ A: Retatrutide + Tirzepatide Blend (20 mg + 40 mg) is available in 1 configurati
 ## Selank
 
 - Canonical URL: https://dchemi.com/peptides/selank
+- Machine-readable JSON: https://dchemi.com/peptides/selank.json
 - Short code: SK
 - Aliases: SK, Selank, TP-7
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 129954-34-3
@@ -3367,9 +3460,10 @@ A: Retatrutide + Tirzepatide Blend (20 mg + 40 mg) is available in 1 configurati
 - Molecular formula: C33H57N11O9
 - Molecular weight: 751.9 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $32.56 – $57.10 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3392,20 +3486,21 @@ A: Selank is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vi
 ## Semaglutide
 
 - Canonical URL: https://dchemi.com/peptides/semaglutide
+- Machine-readable JSON: https://dchemi.com/peptides/semaglutide.json
 - Short code: SM
 - Aliases: SM, Semaglutide, Sema, GLP-1
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 910463-68-2
 - Molecular formula: C187H291N45O59
 - Molecular weight: 4114 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $21.30 – $128.14 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3433,11 +3528,11 @@ A: Semaglutide is available in 7 configurations: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg
 ## Semax
 
 - Canonical URL: https://dchemi.com/peptides/semax
+- Machine-readable JSON: https://dchemi.com/peptides/semax.json
 - Short code: SX
 - Aliases: SX, Semax, ACTH 4-10 analog
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 80714-61-0
@@ -3445,9 +3540,10 @@ A: Semaglutide is available in 7 configurations: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg
 - Molecular formula: C37H51N9O10S
 - Molecular weight: 813.9 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $31.96 – $55.72 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3470,20 +3566,21 @@ A: Semax is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 via
 ## Sermorelin Acetate
 
 - Canonical URL: https://dchemi.com/peptides/sermorelin-acetate
+- Machine-readable JSON: https://dchemi.com/peptides/sermorelin-acetate.json
 - Short code: SMO
 - Aliases: SMO, Sermorelin, GRF 1-29
 - Category: Growth Hormone Secretagogues
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 86168-78-7
 - Molecular formula: C149H246N44O42S
 - Molecular weight: 3357.9 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $36.70 – $133.70 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3507,20 +3604,21 @@ A: Sermorelin Acetate is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each 
 ## SLU-PP-332
 
 - Canonical URL: https://dchemi.com/peptides/slu-pp-332
+- Machine-readable JSON: https://dchemi.com/peptides/slu-pp-332.json
 - Short code: SLU332
 - Aliases: SLU332, SLU-PP332
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: small_molecule (small_molecule)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 303760-60-3
 - Molecular formula: C18H14N2O2
 - Molecular weight: 290.3 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $77.34 – $166.24 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3543,20 +3641,21 @@ A: SLU-PP-332 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 1
 ## SNAP-8
 
 - Canonical URL: https://dchemi.com/peptides/snap-8
+- Machine-readable JSON: https://dchemi.com/peptides/snap-8.json
 - Short code: NP
 - Aliases: NP, Acetyl Octapeptide-3
 - Category: Cosmetic & Dermal Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 868844-74-0
 - Molecular formula: C41H70N16O16S
 - Molecular weight: 1075.2 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $31.96 – $214.20 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3579,20 +3678,21 @@ A: SNAP-8 is available in 2 configurations: 10 mg, 100 mg. Each kit contains 10 
 ## SS-31 (Elamipretide)
 
 - Canonical URL: https://dchemi.com/peptides/ss-31-elamipretide
+- Machine-readable JSON: https://dchemi.com/peptides/ss-31-elamipretide.json
 - Short code: 2S
 - Aliases: 2S, Elamipretide, SS31, MTP-131
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 736992-21-5
 - Molecular formula: C32H49N9O5
 - Molecular weight: 639.8 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $40.50 – $330.08 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3616,20 +3716,21 @@ A: SS-31 (Elamipretide) is available in 3 configurations: 5 mg, 10 mg, 50 mg. Ea
 ## Super Human Blend
 
 - Canonical URL: https://dchemi.com/peptides/super-human-blend
+- Machine-readable JSON: https://dchemi.com/peptides/super-human-blend.json
 - Short code: SHB
 - Aliases: SHB
 - Category: Multi-Component Blends
 - Molecule class: blend (blend)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: ≥99.0% (HPLC)
 - CAS: fixed composition, listed in the batch-specific COA
 - Molecular formula: fixed composition, listed in the batch-specific COA
 - Molecular weight: fixed composition, listed in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $88.40 – $104.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3651,20 +3752,21 @@ A: Super Human Blend is available in 1 configuration: 10 ml. Each kit contains 1
 ## Survodutide
 
 - Canonical URL: https://dchemi.com/peptides/survodutide
+- Machine-readable JSON: https://dchemi.com/peptides/survodutide.json
 - Short code: SUR
 - Aliases: SUR, Survodutide, BI 456906
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 2805997-46-8
 - Molecular formula: C192H289N47O61
 - Molecular weight: 4232 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $188.22 – $221.44 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3686,11 +3788,11 @@ A: Survodutide is available in 1 configuration: 10 mg. Each kit contains 10 vial
 ## TB-500 (Thymosin Beta-4 Fragment)
 
 - Canonical URL: https://dchemi.com/peptides/tb-500-thymosin-beta-4-fragment
+- Machine-readable JSON: https://dchemi.com/peptides/tb-500-thymosin-beta-4-fragment.json
 - Short code: TB
 - Aliases: TB, Thymosin Beta-4, TB-500, TB4
 - Category: Repair & Recovery Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 885340-08-9
@@ -3698,9 +3800,10 @@ A: Survodutide is available in 1 configuration: 10 mg. Each kit contains 10 vial
 - Molecular formula: C38H68N10O14
 - Molecular weight: 889 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $38.78 – $158.78 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3724,20 +3827,21 @@ A: TB-500 (Thymosin Beta-4 Fragment) is available in 3 configurations: 2 mg, 5 m
 ## TB-500 Fragment
 
 - Canonical URL: https://dchemi.com/peptides/tb-500-fragment
+- Machine-readable JSON: https://dchemi.com/peptides/tb-500-fragment.json
 - Short code: TBFRAG
 - Aliases: TBFRAG, TB4 Fragment, TB-500 Frag
 - Category: Repair & Recovery Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 885340-08-9
 - Molecular formula: C38H68N10O14
 - Molecular weight: 889.02 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $29.84 – $73.96 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3761,11 +3865,11 @@ A: TB-500 Fragment is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit
 ## Teriparatide
 
 - Canonical URL: https://dchemi.com/peptides/teriparatide
+- Machine-readable JSON: https://dchemi.com/peptides/teriparatide.json
 - Short code: TER
 - Aliases: TER, Teriparatide, PTH 1-34
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 52232-67-4
@@ -3773,9 +3877,10 @@ A: TB-500 Fragment is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit
 - Molecular formula: C181H291N55O51S2
 - Molecular weight: 4118 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $123.12 – $144.84 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3797,20 +3902,21 @@ A: Teriparatide is available in 1 configuration: 10 mg. Each kit contains 10 via
 ## Tesamorelin
 
 - Canonical URL: https://dchemi.com/peptides/tesamorelin
+- Machine-readable JSON: https://dchemi.com/peptides/tesamorelin.json
 - Short code: TSM
 - Aliases: TSM, Tesamorelin
 - Category: Growth Hormone Secretagogues
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 218949-48-5
 - Molecular formula: C221H366N72O67S
 - Molecular weight: 5136 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $48.54 – $355.16 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3835,20 +3941,21 @@ A: Tesamorelin is available in 4 configurations: 2 mg, 5 mg, 10 mg, 20 mg. Each 
 ## Tesamorelin + Ipamorelin Blend
 
 - Canonical URL: https://dchemi.com/peptides/tesamorelin-ipamorelin-blend
+- Machine-readable JSON: https://dchemi.com/peptides/tesamorelin-ipamorelin-blend.json
 - Short code: TP
 - Aliases: TP, Tesa + IPA, Tesamorelin/Ipamorelin
 - Category: Multi-Component Blends
 - Molecule class: blend (blend)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 218949-48-5 + 170851-70-4
 - Molecular formula: C221H366N72O67S + C38H49N9O5
 - Molecular weight: 5136 Da + 711.9 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $63.92 – $216.86 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3875,20 +3982,21 @@ A: Tesamorelin + Ipamorelin Blend is available in 6 configurations: 8 mg, 10 mg,
 ## Testagen
 
 - Canonical URL: https://dchemi.com/peptides/testagen
+- Machine-readable JSON: https://dchemi.com/peptides/testagen.json
 - Short code: AEDV
 - Aliases: AEDV
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 1026993-38-3
 - Molecular formula: C17H29N5O9
 - Molecular weight: 447.44 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $61.56 – $72.42 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3910,20 +4018,21 @@ A: Testagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. 
 ## Thymalin (Thymulin)
 
 - Canonical URL: https://dchemi.com/peptides/thymalin-thymulin
+- Machine-readable JSON: https://dchemi.com/peptides/thymalin-thymulin.json
 - Short code: TY
 - Aliases: TY, Thymulin
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 78922-62-0
 - Molecular formula: C33H54N12O15
 - Molecular weight: 858.9 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $56.84 – $66.86 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3945,20 +4054,21 @@ A: Thymalin (Thymulin) is available in 1 configuration: 10 mg. Each kit contains
 ## Thymosin Alpha-1
 
 - Canonical URL: https://dchemi.com/peptides/thymosin-alpha-1
+- Machine-readable JSON: https://dchemi.com/peptides/thymosin-alpha-1.json
 - Short code: TA
 - Aliases: TA, Thymosin Alpha-1, Tα1, Talpha1
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 62304-98-7
 - Molecular formula: C129H215N33O55
 - Molecular weight: 3108.3 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $87.00 – $171.30 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -3981,20 +4091,21 @@ A: Thymosin Alpha-1 is available in 2 configurations: 5 mg, 10 mg. Each kit cont
 ## Tirzepatide
 
 - Canonical URL: https://dchemi.com/peptides/tirzepatide
+- Machine-readable JSON: https://dchemi.com/peptides/tirzepatide.json
 - Short code: TR
 - Aliases: TR, Tirzepatide
 - Category: Metabolic & Weight-Management Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 2023788-19-2
 - Molecular formula: C225H348N48O68
 - Molecular weight: 4813 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $30.78 – $460.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -4027,20 +4138,21 @@ A: Tirzepatide is available in 12 configurations: 2 mg, 5 mg, 10 mg, 15 mg, 20 m
 ## Triptorelin Acetate
 
 - Canonical URL: https://dchemi.com/peptides/triptorelin-acetate
+- Machine-readable JSON: https://dchemi.com/peptides/triptorelin-acetate.json
 - Short code: TRIP
 - Aliases: TRIP, Triptorelin
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: modified_peptide (modified_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 140194-24-7
 - Molecular formula: C66H86N18O15
 - Molecular weight: 1371.5 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $35.52 – $41.78 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -4062,20 +4174,21 @@ A: Triptorelin Acetate is available in 1 configuration: 2 mg. Each kit contains 
 ## Vesugen
 
 - Canonical URL: https://dchemi.com/peptides/vesugen
+- Machine-readable JSON: https://dchemi.com/peptides/vesugen.json
 - Short code: VES
 - Aliases: VES
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 204271-66-9
 - Molecular formula: C15H26N4O8
 - Molecular weight: 390.39 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $55.40 – $65.18 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -4097,20 +4210,21 @@ A: Vesugen is available in 1 configuration: 10 mg. Each kit contains 10 vials. M
 ## VIP (Vasoactive Intestinal Peptide)
 
 - Canonical URL: https://dchemi.com/peptides/vip-vasoactive-intestinal-peptide
+- Machine-readable JSON: https://dchemi.com/peptides/vip-vasoactive-intestinal-peptide.json
 - Short code: VP
 - Aliases: VP, Vasoactive Intestinal Peptide
 - Category: Bioregulators & Longevity Peptides
 - Molecule class: linear_peptide (linear_peptide)
-- Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
 - CAS: 37221-79-7
 - Molecular formula: C147H237N43O43S
 - Molecular weight: 3326.8 Da
 - Storage: Store at -20 °C, protected from light and moisture.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $69.86 – $137.88 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -4133,20 +4247,21 @@ A: VIP (Vasoactive Intestinal Peptide) is available in 2 configurations: 5 mg, 1
 ## Vitamin B Complex Injection
 
 - Canonical URL: https://dchemi.com/peptides/vitamin-b-complex-injection
+- Machine-readable JSON: https://dchemi.com/peptides/vitamin-b-complex-injection.json
 - Short code: VB
 - Aliases: VB, Vitamin B Complex, B Complex Injection
 - Category: Solvents & Ancillary Reagents
 - Molecule class: non_peptide (non_peptide)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: published in the batch-specific COA
 - Molecular formula: published in the batch-specific COA
 - Molecular weight: published in the batch-specific COA
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $25.50 – $30.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -4168,20 +4283,21 @@ A: Vitamin B Complex Injection is available in 1 configuration: 2 ml. Each kit c
 ## Vitamin B12
 
 - Canonical URL: https://dchemi.com/peptides/vitamin-b12
+- Machine-readable JSON: https://dchemi.com/peptides/vitamin-b12.json
 - Short code: B12
 - Aliases: B12, Cyanocobalamin, Vitamin B-12
 - Category: Solvents & Ancillary Reagents
 - Molecule class: non_peptide (non_peptide)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: 68-19-9
 - Molecular formula: C63H88CoN14O14P
 - Molecular weight: 1355.4 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $40.26 – $47.36 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -4203,20 +4319,21 @@ A: Vitamin B12 is available in 1 configuration: 1 mg. Each kit contains 10 vials
 ## Vitamin B12 Injection
 
 - Canonical URL: https://dchemi.com/peptides/vitamin-b12-injection
+- Machine-readable JSON: https://dchemi.com/peptides/vitamin-b12-injection.json
 - Short code: VB12
 - Aliases: VB12, Cyanocobalamin, B12 Injection
 - Category: Solvents & Ancillary Reagents
 - Molecule class: non_peptide (non_peptide)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: 68-19-9
 - Molecular formula: C63H88CoN14O14P
 - Molecular weight: 1355.4 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $10.20 – $12.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -4238,20 +4355,21 @@ A: Vitamin B12 Injection is available in 1 configuration: 1 ml. Each kit contain
 ## Vitamin B6 Injection
 
 - Canonical URL: https://dchemi.com/peptides/vitamin-b6-injection
+- Machine-readable JSON: https://dchemi.com/peptides/vitamin-b6-injection.json
 - Short code: VB6
 - Aliases: VB6, Pyridoxine, B6 Injection, Pyridoxine Injection
 - Category: Solvents & Ancillary Reagents
 - Molecule class: non_peptide (non_peptide)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: 58-56-0
 - Molecular formula: C8H12ClNO3
 - Molecular weight: 205.64 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $25.50 – $30.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -4273,20 +4391,21 @@ A: Vitamin B6 Injection is available in 1 configuration: 2 ml. Each kit contains
 ## Vitamin C Injection
 
 - Canonical URL: https://dchemi.com/peptides/vitamin-c-injection
+- Machine-readable JSON: https://dchemi.com/peptides/vitamin-c-injection.json
 - Short code: VC
 - Aliases: VC, Ascorbic Acid, VC Injection, Ascorbic Acid Injection
 - Category: Solvents & Ancillary Reagents
 - Molecule class: non_peptide (non_peptide)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: 50-81-7
 - Molecular formula: C6H8O6
 - Molecular weight: 176.12 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 10 vials per kit
+- Pack size: 10 vials per kit
 - Price unit: USD per kit of 10 vials
 - Price range: $10.20 – $12.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |
@@ -4308,20 +4427,21 @@ A: Vitamin C Injection is available in 1 configuration: 2 ml. Each kit contains 
 ## Vitamin D2 Injection
 
 - Canonical URL: https://dchemi.com/peptides/vitamin-d2-injection
+- Machine-readable JSON: https://dchemi.com/peptides/vitamin-d2-injection.json
 - Short code: VD2
 - Aliases: VD2, Ergocalciferol, VD2 Injection, Ergocalciferol Injection
 - Category: Solvents & Ancillary Reagents
 - Molecule class: non_peptide (non_peptide)
-- Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
 - CAS: 50-14-6
 - Molecular formula: C28H44O
 - Molecular weight: 396.6 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
-- Kit: 6 vials per kit
+- Pack size: 6 vials per kit
 - Price unit: USD per kit of 6 vials
 - Price range: $57.80 – $68.00 per kit (USD)
+- Last reviewed: 2026-11-26
 
 | Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
 | --- | --- | --- | --- | --- |

@@ -1,0 +1,76 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/vitamin-b6-injection",
+  "lastReviewed": "2026-11-26",
+  "name": "Vitamin B6 Injection",
+  "slug": "vitamin-b6-injection",
+  "shortCode": "VB6",
+  "aliases": [
+    "VB6",
+    "Pyridoxine",
+    "B6 Injection",
+    "Pyridoxine Injection"
+  ],
+  "category": {
+    "key": "solvent_ancillary",
+    "label": "Solvents & Ancillary Reagents"
+  },
+  "chemistry": {
+    "cas": "58-56-0",
+    "sequence": null,
+    "molecularFormula": "C8H12ClNO3",
+    "molecularWeight": "205.64",
+    "purity": null,
+    "appearance": "Sterile Solution",
+    "form": "sterile_solution",
+    "moleculeClass": "non_peptide",
+    "sequenceType": "non_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "2ml:0.1g*10vials",
+      "label": "2 mL",
+      "vials": 10,
+      "perKit": 30,
+      "perVial": 3,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 30
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 27.6
+        },
+        {
+          "label": "50+ Kits",
+          "price": 25.5
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 25.5,
+    "to": 30,
+    "moqKits": 1
+  },
+  "storage": "Store at 2-8 °C, protected from light; do not freeze.",
+  "definition": "Vitamin B6 Injection (VB6) is a non-peptide injectable supplied as sterile solution. The catalogue lists 1 pack size: 2 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "What documentation is supplied with Vitamin B6 Injection?",
+      "answer": "Every batch of Vitamin B6 Injection is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request."
+    },
+    {
+      "question": "How should Vitamin B6 Injection be stored?",
+      "answer": "Vitamin B6 Injection is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Vitamin B6 Injection?",
+      "answer": "Vitamin B6 Injection is available in 1 configuration: 2 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

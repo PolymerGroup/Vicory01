@@ -1,0 +1,160 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/glutathione",
+  "lastReviewed": "2026-11-26",
+  "name": "Glutathione",
+  "slug": "glutathione",
+  "shortCode": "GTT",
+  "aliases": [
+    "GTT",
+    "Glutathione",
+    "GSH",
+    "L-Glutathione"
+  ],
+  "category": {
+    "key": "cosmetic_antiaging",
+    "label": "Cosmetic & Dermal Peptides"
+  },
+  "chemistry": {
+    "cas": "70-18-8",
+    "sequence": null,
+    "molecularFormula": "C10H17N3O6S",
+    "molecularWeight": "307.33",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "linear_peptide",
+    "sequenceType": "linear_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "0.6g*10vials",
+      "label": "0.6 g",
+      "vials": 10,
+      "perKit": 70,
+      "perVial": 7,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 70
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 64.4
+        },
+        {
+          "label": "50+ Kits",
+          "price": 59.5
+        }
+      ]
+    },
+    {
+      "spec": "1.5g*10vials",
+      "label": "1.5 g",
+      "vials": 10,
+      "perKit": 180,
+      "perVial": 18,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 180
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 165.6
+        },
+        {
+          "label": "50+ Kits",
+          "price": 153
+        }
+      ]
+    },
+    {
+      "spec": "400mg*10vials",
+      "label": "400 mg",
+      "vials": 10,
+      "perKit": 21.58,
+      "perVial": 2.16,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 21.58
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 19.86
+        },
+        {
+          "label": "50+ Kits",
+          "price": 18.34
+        }
+      ]
+    },
+    {
+      "spec": "600mg*10vials",
+      "label": "600 mg",
+      "vials": 10,
+      "perKit": 15.88,
+      "perVial": 1.59,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 15.88
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 14.6
+        },
+        {
+          "label": "50+ Kits",
+          "price": 13.5
+        }
+      ]
+    },
+    {
+      "spec": "1500mg*10vials",
+      "label": "1500 mg",
+      "vials": 10,
+      "perKit": 36.22,
+      "perVial": 3.62,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 36.22
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 33.32
+        },
+        {
+          "label": "50+ Kits",
+          "price": 30.78
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 13.5,
+    "to": 180,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "Glutathione (GTT) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 5 pack sizes: 0.6 g, 1.5 g, 400 mg, 600 mg, 1500 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is Glutathione tested for purity and identity?",
+      "answer": "Each lot of Glutathione is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should Glutathione be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Glutathione?",
+      "answer": "Glutathione is available in 5 configurations: 0.6 g, 1.5 g, 400 mg, 600 mg, 1500 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

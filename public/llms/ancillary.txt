@@ -1,0 +1,563 @@
+# Solvents & Ancillary Reagents — Dchemi research peptide dataset
+
+> For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use.
+
+Source: https://dchemi.com · generated 2026-11-26 · currency USD · unit Kit (10 vials)
+Products in this category: 15
+Index: https://dchemi.com/llms.txt · Full dataset: https://dchemi.com/llms-full.txt
+
+---
+
+## Acetic Acid
+
+- Canonical URL: https://dchemi.com/peptides/acetic-acid
+- Machine-readable JSON: https://dchemi.com/peptides/acetic-acid.json
+- Short code: AA
+- Aliases: AA, Acetic Acid Solution
+- Category: Solvents & Ancillary Reagents
+- Molecule class: solvent (solvent)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: 64-19-7
+- Molecular formula: C2H4O2
+- Molecular weight: 60.05 Da
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $6.62 – $15.32 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 3 mL × 10 vials | $15.32 | $15.32 | $14.10 | $13.02 |
+| 5 mL × 10 vials | $10.02 | $10.02 | $9.22 | $8.52 |
+| 10 mL × 10 vials | $7.80 | $7.80 | $7.18 | $6.62 |
+
+Summary: Acetic Acid (AA) is a laboratory solvent supplied as sterile solution. The catalogue lists 3 pack sizes: 3 ml, 5 ml, 10 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with Acetic Acid?
+A: Every batch of Acetic Acid is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should Acetic Acid be stored?
+A: Acetic Acid is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Acetic Acid?
+A: Acetic Acid is available in 3 configurations: 3 ml, 5 ml, 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Acetic Acid Water 0.6%
+
+- Canonical URL: https://dchemi.com/peptides/acetic-acid-water-0-6-percent
+- Machine-readable JSON: https://dchemi.com/peptides/acetic-acid-water-0-6-percent.json
+- Short code: AA06
+- Aliases: AA06, 0.6% Acetic Acid, AA Water
+- Category: Solvents & Ancillary Reagents
+- Molecule class: solvent (solvent)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: 64-19-7
+- Molecular formula: C2H4O2
+- Molecular weight: 60.05 Da
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $12.76 – $20.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 3 mL × 10 vials | $15.00 | $15.00 | $13.80 | $12.76 |
+| 10 mL × 10 vials | $20.00 | $20.00 | $18.40 | $17.00 |
+
+Summary: Acetic Acid Water 0.6% (AA06) is a laboratory solvent supplied as sterile solution. The catalogue lists 2 pack sizes: 3 ml, 10 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with Acetic Acid Water 0.6%?
+A: Every batch of Acetic Acid Water 0.6% is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should Acetic Acid Water 0.6% be stored?
+A: Acetic Acid Water 0.6% is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Acetic Acid Water 0.6%?
+A: Acetic Acid Water 0.6% is available in 2 configurations: 3 ml, 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Bacteriostatic Water
+
+- Canonical URL: https://dchemi.com/peptides/bacteriostatic-water
+- Machine-readable JSON: https://dchemi.com/peptides/bacteriostatic-water.json
+- Short code: WA
+- Aliases: WA
+- Category: Solvents & Ancillary Reagents
+- Molecule class: solvent (solvent)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: 100-51-6(Benzyl alcohol)
+- Molecular formula: Mixture (0.9% C7H8O in H2O)
+- Molecular weight: 18.02 Da (water) / 108.14 Da (benzyl alcohol) Da
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $7.96 – $11.26 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 3 mL × 10 vials | $9.36 | $9.36 | $8.62 | $7.96 |
+| 10 mL × 10 vials | $11.26 | $11.26 | $10.36 | $9.58 |
+
+Summary: Bacteriostatic Water (WA) is a laboratory solvent supplied as sterile solution. The catalogue lists 2 pack sizes: 3 ml, 10 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with Bacteriostatic Water?
+A: Every batch of Bacteriostatic Water is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should Bacteriostatic Water be stored?
+A: Bacteriostatic Water is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Bacteriostatic Water?
+A: Bacteriostatic Water is available in 2 configurations: 3 ml, 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Bacteriostatic Water
+
+- Canonical URL: https://dchemi.com/peptides/bacteriostatic-water-bw
+- Machine-readable JSON: https://dchemi.com/peptides/bacteriostatic-water-bw.json
+- Short code: BW
+- Aliases: BW, BAC Water, Sterile Bacteriostatic Water
+- Category: Solvents & Ancillary Reagents
+- Molecule class: solvent (solvent)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: 100-51-6
+- Molecular formula: C7H8O
+- Molecular weight: 108.14 Da
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $13.60 – $20.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 3 mL × 10 vials | $16.00 | $16.00 | $14.72 | $13.60 |
+| 10 mL × 10 vials | $20.00 | $20.00 | $18.40 | $17.00 |
+
+Summary: Bacteriostatic Water (BW) is a laboratory solvent supplied as sterile solution. The catalogue lists 2 pack sizes: 3 ml, 10 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with Bacteriostatic Water?
+A: Every batch of Bacteriostatic Water is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should Bacteriostatic Water be stored?
+A: Bacteriostatic Water is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Bacteriostatic Water?
+A: Bacteriostatic Water is available in 2 configurations: 3 ml, 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Bacteriostatic Water 0.9% Benzyl Alcohol
+
+- Canonical URL: https://dchemi.com/peptides/bacteriostatic-water-0-9-percent-benzyl-alcohol
+- Machine-readable JSON: https://dchemi.com/peptides/bacteriostatic-water-0-9-percent-benzyl-alcohol.json
+- Short code: BA
+- Aliases: BA, BAC Water 0.9% BA, Bacteriostatic Water with Benzyl Alcohol
+- Category: Solvents & Ancillary Reagents
+- Molecule class: solvent (solvent)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: 100-51-6
+- Molecular formula: C7H8O
+- Molecular weight: 108.14 Da
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $13.60 – $20.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 3 mL × 10 vials | $16.00 | $16.00 | $14.72 | $13.60 |
+| 10 mL × 10 vials | $20.00 | $20.00 | $18.40 | $17.00 |
+
+Summary: Bacteriostatic Water 0.9% Benzyl Alcohol (BA) is a laboratory solvent supplied as sterile solution. The catalogue lists 2 pack sizes: 3 ml, 10 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with Bacteriostatic Water 0.9% Benzyl Alcohol?
+A: Every batch of Bacteriostatic Water 0.9% Benzyl Alcohol is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should Bacteriostatic Water 0.9% Benzyl Alcohol be stored?
+A: Bacteriostatic Water 0.9% Benzyl Alcohol is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Bacteriostatic Water 0.9% Benzyl Alcohol?
+A: Bacteriostatic Water 0.9% Benzyl Alcohol is available in 2 configurations: 3 ml, 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Benzyl Alcohol 0.9%
+
+- Canonical URL: https://dchemi.com/peptides/benzyl-alcohol-0-9-percent
+- Machine-readable JSON: https://dchemi.com/peptides/benzyl-alcohol-0-9-percent.json
+- Short code: BZA
+- Aliases: BZA, Benzyl Alcohol, BA 0.9%, Benzyl Alcohol Solution
+- Category: Solvents & Ancillary Reagents
+- Molecule class: solvent (solvent)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: 100-51-6
+- Molecular formula: C7H8O
+- Molecular weight: 108.14 Da
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $10.20 – $18.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 3 mL × 10 vials | $12.00 | $12.00 | $11.04 | $10.20 |
+| 5 mL × 10 vials | $14.00 | $14.00 | $12.88 | $11.90 |
+| 10 mL × 10 vials | $18.00 | $18.00 | $16.56 | $15.30 |
+
+Summary: Benzyl Alcohol 0.9% (BZA) is a laboratory solvent supplied as sterile solution. The catalogue lists 3 pack sizes: 3 ml, 5 ml, 10 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with Benzyl Alcohol 0.9%?
+A: Every batch of Benzyl Alcohol 0.9% is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should Benzyl Alcohol 0.9% be stored?
+A: Benzyl Alcohol 0.9% is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Benzyl Alcohol 0.9%?
+A: Benzyl Alcohol 0.9% is available in 3 configurations: 3 ml, 5 ml, 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## L-Carnitine
+
+- Canonical URL: https://dchemi.com/peptides/l-carnitine
+- Machine-readable JSON: https://dchemi.com/peptides/l-carnitine.json
+- Short code: LC
+- Aliases: LC, Levocarnitine
+- Category: Solvents & Ancillary Reagents
+- Molecule class: non_peptide (non_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: not applicable (ancillary reagent)
+- CAS: 541-15-1
+- Molecular formula: C7H15NO3
+- Molecular weight: 161.20 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $21.90 – $61.28 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mg × 10 vials | $36.22 | $36.22 | $33.32 | $30.78 |
+| 10 mL × 10 vials | $25.76 | $25.76 | $23.70 | $21.90 |
+| 200 mg × 10 vials | $36.90 | $36.90 | $33.94 | $31.36 |
+| 400 mg × 10 vials | $48.06 | $48.06 | $44.22 | $40.86 |
+| 600 mg × 10 vials | $54.32 | $54.32 | $49.98 | $46.18 |
+| 1200 mg × 10 vials | $61.28 | $61.28 | $56.38 | $52.08 |
+
+Summary: L-Carnitine (LC) is a non-peptide injectable supplied as both lyophilized powder and sterile solution formats. The catalogue lists 6 pack sizes: 2 mg, 10 ml, 200 mg, 400 mg, 600 mg, 1200 mg. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with L-Carnitine?
+A: Every batch of L-Carnitine is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should L-Carnitine be stored?
+A: This item ships in more than one format: keep lyophilized vials at -20 °C, protected from light and moisture, and keep solution vials at 2-8 °C without freezing. Follow the instructions printed on the certificate of analysis for each lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for L-Carnitine?
+A: L-Carnitine is available in 6 configurations: 2 mg, 10 ml, 200 mg, 400 mg, 600 mg, 1200 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Lipo-C
+
+- Canonical URL: https://dchemi.com/peptides/lipo-c
+- Machine-readable JSON: https://dchemi.com/peptides/lipo-c.json
+- Short code: LIPO
+- Aliases: LIPO, Lipo C, Lipotropic Complex, LC526
+- Category: Solvents & Ancillary Reagents
+- Molecule class: solution_blend (solution_blend)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: published in the batch-specific COA
+- Molecular formula: Mixture (Multi-component formulation)
+- Molecular weight: Mixture (Component-specific; see COA) Da
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $50.32 – $59.20 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mL × 10 vials | $59.20 | $59.20 | $54.46 | $50.32 |
+
+Summary: Lipo-C (LIPO) is a ready-to-use liquid blend supplied as sterile solution. The catalogue lists 1 pack size: 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99% (HPLC) with sterile solution appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with Lipo-C?
+A: Every batch of Lipo-C is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should Lipo-C be stored?
+A: Lipo-C is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Lipo-C?
+A: Lipo-C is available in 1 configuration: 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## MIC (Lipo-C with B12)
+
+- Canonical URL: https://dchemi.com/peptides/mic-lipo-c-with-b12
+- Machine-readable JSON: https://dchemi.com/peptides/mic-lipo-c-with-b12.json
+- Short code: MIC
+- Aliases: MIC, Lipo-C with B12, LC216
+- Category: Solvents & Ancillary Reagents
+- Molecule class: solution_blend (solution_blend)
+- Appearance: White Lyophilized Powder
+- Purity: not applicable (ancillary reagent)
+- CAS: published in the batch-specific COA
+- Molecular formula: Mixture (Multi-component formulation)
+- Molecular weight: Mixture (Component-specific) Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $88.40 – $104.46 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mg × 10 vials | $104.46 | $104.46 | $96.10 | $88.80 |
+| 10 mL × 10 vials | $104.00 | $104.00 | $95.68 | $88.40 |
+
+Summary: MIC (Lipo-C with B12) is a ready-to-use liquid blend supplied as both lyophilized powder and sterile solution formats. The catalogue lists 2 pack sizes: 10 mg, 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Component ratios follow the specification printed on each vial label. Purity is stated at ≥99% (HPLC); appearance differs by format (powder vs solution). For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with MIC (Lipo-C with B12)?
+A: Every batch of MIC (Lipo-C with B12) is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should MIC (Lipo-C with B12) be stored?
+A: This item ships in more than one format: keep lyophilized vials at -20 °C, protected from light and moisture, and keep solution vials at 2-8 °C without freezing. Follow the instructions printed on the certificate of analysis for each lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for MIC (Lipo-C with B12)?
+A: MIC (Lipo-C with B12) is available in 2 configurations: 10 mg, 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Vitamin B Complex Injection
+
+- Canonical URL: https://dchemi.com/peptides/vitamin-b-complex-injection
+- Machine-readable JSON: https://dchemi.com/peptides/vitamin-b-complex-injection.json
+- Short code: VB
+- Aliases: VB, Vitamin B Complex, B Complex Injection
+- Category: Solvents & Ancillary Reagents
+- Molecule class: non_peptide (non_peptide)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: published in the batch-specific COA
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $25.50 – $30.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mL × 10 vials | $30.00 | $30.00 | $27.60 | $25.50 |
+
+Summary: Vitamin B Complex Injection (VB) is a non-peptide injectable supplied as sterile solution. The catalogue lists 1 pack size: 2 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with Vitamin B Complex Injection?
+A: Every batch of Vitamin B Complex Injection is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should Vitamin B Complex Injection be stored?
+A: Vitamin B Complex Injection is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Vitamin B Complex Injection?
+A: Vitamin B Complex Injection is available in 1 configuration: 2 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Vitamin B12
+
+- Canonical URL: https://dchemi.com/peptides/vitamin-b12
+- Machine-readable JSON: https://dchemi.com/peptides/vitamin-b12.json
+- Short code: B12
+- Aliases: B12, Cyanocobalamin, Vitamin B-12
+- Category: Solvents & Ancillary Reagents
+- Molecule class: non_peptide (non_peptide)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: 68-19-9
+- Molecular formula: C63H88CoN14O14P
+- Molecular weight: 1355.4 Da
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $40.26 – $47.36 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 1 mg × 10 vials | $47.36 | $47.36 | $43.58 | $40.26 |
+
+Summary: Vitamin B12 is a non-peptide injectable supplied as sterile solution. The catalogue lists 1 pack size: 1 mg. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with Vitamin B12?
+A: Every batch of Vitamin B12 is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should Vitamin B12 be stored?
+A: Vitamin B12 is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Vitamin B12?
+A: Vitamin B12 is available in 1 configuration: 1 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Vitamin B12 Injection
+
+- Canonical URL: https://dchemi.com/peptides/vitamin-b12-injection
+- Machine-readable JSON: https://dchemi.com/peptides/vitamin-b12-injection.json
+- Short code: VB12
+- Aliases: VB12, Cyanocobalamin, B12 Injection
+- Category: Solvents & Ancillary Reagents
+- Molecule class: non_peptide (non_peptide)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: 68-19-9
+- Molecular formula: C63H88CoN14O14P
+- Molecular weight: 1355.4 Da
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $10.20 – $12.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 1 mL × 10 vials | $12.00 | $12.00 | $11.04 | $10.20 |
+
+Summary: Vitamin B12 Injection (VB12) is a non-peptide injectable supplied as sterile solution. The catalogue lists 1 pack size: 1 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with Vitamin B12 Injection?
+A: Every batch of Vitamin B12 Injection is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should Vitamin B12 Injection be stored?
+A: Vitamin B12 Injection is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Vitamin B12 Injection?
+A: Vitamin B12 Injection is available in 1 configuration: 1 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Vitamin B6 Injection
+
+- Canonical URL: https://dchemi.com/peptides/vitamin-b6-injection
+- Machine-readable JSON: https://dchemi.com/peptides/vitamin-b6-injection.json
+- Short code: VB6
+- Aliases: VB6, Pyridoxine, B6 Injection, Pyridoxine Injection
+- Category: Solvents & Ancillary Reagents
+- Molecule class: non_peptide (non_peptide)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: 58-56-0
+- Molecular formula: C8H12ClNO3
+- Molecular weight: 205.64 Da
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $25.50 – $30.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mL × 10 vials | $30.00 | $30.00 | $27.60 | $25.50 |
+
+Summary: Vitamin B6 Injection (VB6) is a non-peptide injectable supplied as sterile solution. The catalogue lists 1 pack size: 2 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with Vitamin B6 Injection?
+A: Every batch of Vitamin B6 Injection is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should Vitamin B6 Injection be stored?
+A: Vitamin B6 Injection is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Vitamin B6 Injection?
+A: Vitamin B6 Injection is available in 1 configuration: 2 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Vitamin C Injection
+
+- Canonical URL: https://dchemi.com/peptides/vitamin-c-injection
+- Machine-readable JSON: https://dchemi.com/peptides/vitamin-c-injection.json
+- Short code: VC
+- Aliases: VC, Ascorbic Acid, VC Injection, Ascorbic Acid Injection
+- Category: Solvents & Ancillary Reagents
+- Molecule class: non_peptide (non_peptide)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: 50-81-7
+- Molecular formula: C6H8O6
+- Molecular weight: 176.12 Da
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $10.20 – $12.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mL × 10 vials | $12.00 | $12.00 | $11.04 | $10.20 |
+
+Summary: Vitamin C Injection (VC) is a non-peptide injectable supplied as sterile solution. The catalogue lists 1 pack size: 2 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with Vitamin C Injection?
+A: Every batch of Vitamin C Injection is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should Vitamin C Injection be stored?
+A: Vitamin C Injection is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Vitamin C Injection?
+A: Vitamin C Injection is available in 1 configuration: 2 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Vitamin D2 Injection
+
+- Canonical URL: https://dchemi.com/peptides/vitamin-d2-injection
+- Machine-readable JSON: https://dchemi.com/peptides/vitamin-d2-injection.json
+- Short code: VD2
+- Aliases: VD2, Ergocalciferol, VD2 Injection, Ergocalciferol Injection
+- Category: Solvents & Ancillary Reagents
+- Molecule class: non_peptide (non_peptide)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: 50-14-6
+- Molecular formula: C28H44O
+- Molecular weight: 396.6 Da
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 6 vials per kit
+- Price unit: USD per kit of 6 vials
+- Price range: $57.80 – $68.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 1 mL × 6 vials | $68.00 | $68.00 | $62.56 | $57.80 |
+
+Summary: Vitamin D2 Injection (VD2) is a non-peptide injectable supplied as sterile solution. The catalogue lists 1 pack size: 1 ml. Grade and composition are stated on the lot-specific certificate of analysis. Each kit contains 6 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. Documentation includes a lot-specific certificate of analysis. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with Vitamin D2 Injection?
+A: Every batch of Vitamin D2 Injection is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should Vitamin D2 Injection be stored?
+A: Vitamin D2 Injection is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Vitamin D2 Injection?
+A: Vitamin D2 Injection is available in 1 configuration: 1 ml. Each kit contains 6 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---

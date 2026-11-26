@@ -1,0 +1,75 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/ace-031",
+  "lastReviewed": "2026-11-26",
+  "name": "ACE-031",
+  "slug": "ace-031",
+  "shortCode": "AC",
+  "aliases": [
+    "AC",
+    "ACE031",
+    "ACVR2B-Fc"
+  ],
+  "category": {
+    "key": "repair_recovery",
+    "label": "Repair & Recovery Peptides"
+  },
+  "chemistry": {
+    "cas": "1169766-01-1",
+    "sequence": null,
+    "molecularFormula": null,
+    "molecularWeight": "74–75 kDa",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "protein",
+    "sequenceType": "protein"
+  },
+  "packSizes": [
+    {
+      "spec": "1mg*10vials",
+      "label": "1 mg",
+      "vials": 10,
+      "perKit": 39,
+      "perVial": 3.9,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 39
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 35.88
+        },
+        {
+          "label": "50+ Kits",
+          "price": 33.14
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 33.14,
+    "to": 39,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "ACE-031 (AC) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 1 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is ACE-031 tested for purity and identity?",
+      "answer": "Each lot of ACE-031 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should ACE-031 be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for ACE-031?",
+      "answer": "ACE-031 is available in 1 configuration: 1 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

@@ -1,0 +1,1563 @@
+# Bioregulators & Longevity Peptides — Dchemi research peptide dataset
+
+> For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use.
+
+Source: https://dchemi.com · generated 2026-11-26 · currency USD · unit Kit (10 vials)
+Products in this category: 42
+Index: https://dchemi.com/llms.txt · Full dataset: https://dchemi.com/llms-full.txt
+
+---
+
+## ACTH (1-39)
+
+- Canonical URL: https://dchemi.com/peptides/acth-1-39
+- Machine-readable JSON: https://dchemi.com/peptides/acth-1-39.json
+- Short code: ACTH
+- Aliases: ACTH, Corticotropin (1-39), ACTH1-39, Adrenocorticotropic Hormone 1-39
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 9002-60-2
+- Molecular formula: C207H308N56O58S
+- Molecular weight: 4541 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $52.80 – $62.12 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $62.12 | $62.12 | $57.16 | $52.80 |
+
+Summary: ACTH (1-39) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 5 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is ACTH (1-39) tested for purity and identity?
+A: Each lot of ACTH (1-39) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should ACTH (1-39) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for ACTH (1-39)?
+A: ACTH (1-39) is available in 1 configuration: 5 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Adamax
+
+- Canonical URL: https://dchemi.com/peptides/adamax
+- Machine-readable JSON: https://dchemi.com/peptides/adamax.json
+- Short code: ADA
+- Aliases: ADA, Adamax Peptide
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 859216-15-2
+- Molecular formula: C111H206N36O28S2
+- Molecular weight: 2557.18 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $68.02 – $119.78 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $80.02 | $80.02 | $73.62 | $68.02 |
+| 10 mg × 10 vials | $119.78 | $119.78 | $110.20 | $101.82 |
+| 20 mg × 10 vials | $100.28 | $100.28 | $92.26 | $85.24 |
+
+Summary: Adamax (ADA) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Adamax tested for purity and identity?
+A: Each lot of Adamax is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Adamax be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Adamax?
+A: Adamax is available in 3 configurations: 5 mg, 10 mg, 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Bronchogen
+
+- Canonical URL: https://dchemi.com/peptides/bronchogen
+- Machine-readable JSON: https://dchemi.com/peptides/bronchogen.json
+- Short code: AEDL
+- Aliases: AEDL
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 857267-12-0
+- Sequence: AEDL
+- Molecular formula: C18H30N4O9
+- Molecular weight: 446.5 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $79.14 – $93.10 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 20 mg × 10 vials | $93.10 | $93.10 | $85.66 | $79.14 |
+
+Summary: Bronchogen (AEDL) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Bronchogen tested for purity and identity?
+A: Each lot of Bronchogen is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Bronchogen be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Bronchogen?
+A: Bronchogen is available in 1 configuration: 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Cardiogen
+
+- Canonical URL: https://dchemi.com/peptides/cardiogen
+- Machine-readable JSON: https://dchemi.com/peptides/cardiogen.json
+- Short code: AEDR
+- Aliases: AEDR
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 857267-11-9
+- Molecular formula: C18H31N7O9
+- Molecular weight: 489.48 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $86.42 – $101.68 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 20 mg × 10 vials | $101.68 | $101.68 | $93.54 | $86.42 |
+
+Summary: Cardiogen (AEDR) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Cardiogen tested for purity and identity?
+A: Each lot of Cardiogen is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Cardiogen be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Cardiogen?
+A: Cardiogen is available in 1 configuration: 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Cartalax
+
+- Canonical URL: https://dchemi.com/peptides/cartalax
+- Machine-readable JSON: https://dchemi.com/peptides/cartalax.json
+- Short code: AED
+- Aliases: AED
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 85806-95-7
+- Sequence: AED
+- Molecular formula: C12H19N3O8
+- Molecular weight: 333.29 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $89.96 – $105.84 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 20 mg × 10 vials | $105.84 | $105.84 | $97.38 | $89.96 |
+
+Summary: Cartalax (AED) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Cartalax tested for purity and identity?
+A: Each lot of Cartalax is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Cartalax be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Cartalax?
+A: Cartalax is available in 1 configuration: 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Cerebrolysin
+
+- Canonical URL: https://dchemi.com/peptides/cerebrolysin
+- Machine-readable JSON: https://dchemi.com/peptides/cerebrolysin.json
+- Short code: CBL
+- Aliases: CBL, Cerebrolysin
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: protein (protein)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 12656-61-0
+- Molecular formula: Mixture (Peptides & free amino acids)
+- Molecular weight: Mixture (<10 kDa peptide fraction) Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $39.02 – $45.90 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 60 mg × 10 vials | $45.90 | $45.90 | $42.22 | $39.02 |
+
+Summary: Cerebrolysin (CBL) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 60 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Cerebrolysin tested for purity and identity?
+A: Each lot of Cerebrolysin is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Cerebrolysin be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Cerebrolysin?
+A: Cerebrolysin is available in 1 configuration: 60 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Cortagen
+
+- Canonical URL: https://dchemi.com/peptides/cortagen
+- Machine-readable JSON: https://dchemi.com/peptides/cortagen.json
+- Short code: AEDP
+- Aliases: AEDP
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 335591-03-2
+- Sequence: AEDP
+- Molecular formula: C17H26N4O9
+- Molecular weight: 430.4 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $89.96 – $105.84 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 20 mg × 10 vials | $105.84 | $105.84 | $97.38 | $89.96 |
+
+Summary: Cortagen (AEDP) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Cortagen tested for purity and identity?
+A: Each lot of Cortagen is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Cortagen be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Cortagen?
+A: Cortagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Crystagen
+
+- Canonical URL: https://dchemi.com/peptides/crystagen
+- Machine-readable JSON: https://dchemi.com/peptides/crystagen.json
+- Short code: CRY
+- Aliases: CRY
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: published in the batch-specific COA
+- Molecular formula: C14H21N3O8
+- Molecular weight: 359.33 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $60.08 – $70.68 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 20 mg × 10 vials | $70.68 | $70.68 | $65.02 | $60.08 |
+
+Summary: Crystagen (CRY) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Crystagen tested for purity and identity?
+A: Each lot of Crystagen is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Crystagen be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Crystagen?
+A: Crystagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Dermorphin
+
+- Canonical URL: https://dchemi.com/peptides/dermorphin
+- Machine-readable JSON: https://dchemi.com/peptides/dermorphin.json
+- Short code: DP
+- Aliases: DP, Dermorphin
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: modified_peptide (modified_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 77614-16-5
+- Sequence: YAFGYPS
+- Molecular formula: C40H50N8O10
+- Molecular weight: 802.9 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $24.62 – $94.70 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mg × 10 vials | $28.96 | $28.96 | $26.64 | $24.62 |
+| 5 mg × 10 vials | $30.64 | $30.64 | $28.18 | $26.04 |
+| 10 mg × 10 vials | $94.70 | $94.70 | $87.12 | $80.50 |
+
+Summary: Dermorphin (DP) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Dermorphin tested for purity and identity?
+A: Each lot of Dermorphin is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Dermorphin be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Dermorphin?
+A: Dermorphin is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## DSIP (Delta Sleep-Inducing Peptide)
+
+- Canonical URL: https://dchemi.com/peptides/dsip-delta-sleep-inducing-peptide
+- Machine-readable JSON: https://dchemi.com/peptides/dsip-delta-sleep-inducing-peptide.json
+- Short code: DS
+- Aliases: DS, DSIP, Delta Sleep Inducing Peptide
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 62568-57-4
+- Sequence: WAGGDASGE
+- Molecular formula: C35H48N10O15
+- Molecular weight: 848.8 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $24.86 – $73.82 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mg × 10 vials | $29.24 | $29.24 | $26.90 | $24.86 |
+| 5 mg × 10 vials | $45.26 | $45.26 | $41.64 | $38.48 |
+| 10 mg × 10 vials | $73.82 | $73.82 | $67.92 | $62.74 |
+
+Summary: DSIP (Delta Sleep-Inducing Peptide) (DS) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is DSIP (Delta Sleep-Inducing Peptide) tested for purity and identity?
+A: Each lot of DSIP (Delta Sleep-Inducing Peptide) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should DSIP (Delta Sleep-Inducing Peptide) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for DSIP (Delta Sleep-Inducing Peptide)?
+A: DSIP (Delta Sleep-Inducing Peptide) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Epitalon (Epithalon)
+
+- Canonical URL: https://dchemi.com/peptides/epitalon-epithalon
+- Machine-readable JSON: https://dchemi.com/peptides/epitalon-epithalon.json
+- Short code: ET
+- Aliases: ET, Epitalon, AEDG
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 307297-39-8
+- Sequence: AEDG
+- Molecular formula: C14H22N4O9
+- Molecular weight: 390.35 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $38.48 – $146.94 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mg × 10 vials | $45.26 | $45.26 | $41.64 | $38.48 |
+| 50 mg × 10 vials | $146.94 | $146.94 | $135.18 | $124.90 |
+
+Summary: Epitalon (Epithalon) (ET) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 10 mg, 50 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Epitalon (Epithalon) tested for purity and identity?
+A: Each lot of Epitalon (Epithalon) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Epitalon (Epithalon) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Epitalon (Epithalon)?
+A: Epitalon (Epithalon) is available in 2 configurations: 10 mg, 50 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Erythropoietin (EPO)
+
+- Canonical URL: https://dchemi.com/peptides/erythropoietin-epo
+- Machine-readable JSON: https://dchemi.com/peptides/erythropoietin-epo.json
+- Short code: EPO
+- Aliases: EPO, Epoetin, Erythropoietin, Epoetin Alfa
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: protein (protein)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: published in the batch-specific COA
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $54.46 – $64.06 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 3000 IU × 10 vials | $64.06 | $64.06 | $58.94 | $54.46 |
+
+Summary: Erythropoietin (EPO) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 3000 iu. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Erythropoietin (EPO) tested for purity and identity?
+A: Each lot of Erythropoietin (EPO) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Erythropoietin (EPO) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Erythropoietin (EPO)?
+A: Erythropoietin (EPO) is available in 1 configuration: 3000 iu. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## GGH
+
+- Canonical URL: https://dchemi.com/peptides/ggh
+- Machine-readable JSON: https://dchemi.com/peptides/ggh.json
+- Short code: GGH
+- Aliases: GGH
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: solution_blend (solution_blend)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: 7451-76-5
+- Molecular formula: C10H15N5O4
+- Molecular weight: 269.26 Da
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $102.00 – $120.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mL × 10 vials | $120.00 | $120.00 | $110.40 | $102.00 |
+
+Summary: GGH is a ready-to-use liquid blend supplied as sterile solution. The catalogue lists 1 pack size: 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99% (HPLC) with sterile solution appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with GGH?
+A: Every batch of GGH is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should GGH be stored?
+A: GGH is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for GGH?
+A: GGH is available in 1 configuration: 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Gonadorelin
+
+- Canonical URL: https://dchemi.com/peptides/gonadorelin
+- Machine-readable JSON: https://dchemi.com/peptides/gonadorelin.json
+- Short code: GND
+- Aliases: GND, Gonadorelin, GnRH, LHRH
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 33515-09-2
+- Molecular formula: C55H75N17O13
+- Molecular weight: 1182.3 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $13.02 – $20.90 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mg × 10 vials | $15.32 | $15.32 | $14.10 | $13.02 |
+| 10 mg × 10 vials | $20.90 | $20.90 | $19.22 | $17.76 |
+
+Summary: Gonadorelin (GND) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 2 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Gonadorelin tested for purity and identity?
+A: Each lot of Gonadorelin is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Gonadorelin be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Gonadorelin?
+A: Gonadorelin is available in 2 configurations: 2 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Gonadorelin Acetate
+
+- Canonical URL: https://dchemi.com/peptides/gonadorelin-acetate
+- Machine-readable JSON: https://dchemi.com/peptides/gonadorelin-acetate.json
+- Short code: GN
+- Aliases: GN, Gonadorelin Acetate, GnRH Acetate
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 52699-48-6
+- Molecular formula: C57H79N17O15
+- Molecular weight: 1242.3 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $24.86 – $46.24 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mg × 10 vials | $29.24 | $29.24 | $26.90 | $24.86 |
+| 5 mg × 10 vials | $46.24 | $46.24 | $42.54 | $39.30 |
+
+Summary: Gonadorelin Acetate (GN) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 2 mg, 5 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Gonadorelin Acetate tested for purity and identity?
+A: Each lot of Gonadorelin Acetate is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Gonadorelin Acetate be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Gonadorelin Acetate?
+A: Gonadorelin Acetate is available in 2 configurations: 2 mg, 5 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## HCG (Human Chorionic Gonadotropin)
+
+- Canonical URL: https://dchemi.com/peptides/hcg-human-chorionic-gonadotropin
+- Machine-readable JSON: https://dchemi.com/peptides/hcg-human-chorionic-gonadotropin.json
+- Short code: CG
+- Aliases: CG, Chorionic Gonadotropin, Human Chorionic Gonadotropin
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: protein (protein)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: published in the batch-specific COA
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $30.32 – $132.32 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 1000 IU × 10 vials | $35.66 | $35.66 | $32.80 | $30.32 |
+| 2000 IU × 10 vials | $42.28 | $42.28 | $38.90 | $35.94 |
+| 5000 IU × 10 vials | $89.20 | $89.20 | $82.06 | $75.82 |
+| 10000 IU × 10 vials | $132.32 | $132.32 | $121.74 | $112.48 |
+
+Summary: HCG (Human Chorionic Gonadotropin) (CG) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 4 pack sizes: 1000 iu, 2000 iu, 5000 iu, 10000 iu. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is HCG (Human Chorionic Gonadotropin) tested for purity and identity?
+A: Each lot of HCG (Human Chorionic Gonadotropin) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should HCG (Human Chorionic Gonadotropin) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for HCG (Human Chorionic Gonadotropin)?
+A: HCG (Human Chorionic Gonadotropin) is available in 4 configurations: 1000 iu, 2000 iu, 5000 iu, 10000 iu. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## HGH Fragment 17-23
+
+- Canonical URL: https://dchemi.com/peptides/hgh-fragment-17-23
+- Machine-readable JSON: https://dchemi.com/peptides/hgh-fragment-17-23.json
+- Short code: F17
+- Aliases: F17, hGH 17-23
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 221231-10-3
+- Molecular formula: C78H125N23O23S2
+- Molecular weight: 1817.10 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $66.30 – $78.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mg × 10 vials | $78.00 | $78.00 | $71.76 | $66.30 |
+
+Summary: HGH Fragment 17-23 (F17) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is HGH Fragment 17-23 tested for purity and identity?
+A: Each lot of HGH Fragment 17-23 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should HGH Fragment 17-23 be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for HGH Fragment 17-23?
+A: HGH Fragment 17-23 is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## HMG (Human Menopausal Gonadotropin)
+
+- Canonical URL: https://dchemi.com/peptides/hmg-human-menopausal-gonadotropin
+- Machine-readable JSON: https://dchemi.com/peptides/hmg-human-menopausal-gonadotropin.json
+- Short code: GT
+- Aliases: GT, Menotropin, Human Menopausal Gonadotropin
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: protein (protein)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: published in the batch-specific COA
+- Molecular formula: published in the batch-specific COA
+- Molecular weight: published in the batch-specific COA
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $49.42 – $58.14 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 75 IU × 10 vials | $58.14 | $58.14 | $53.48 | $49.42 |
+
+Summary: HMG (Human Menopausal Gonadotropin) (GT) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 75 iu. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is HMG (Human Menopausal Gonadotropin) tested for purity and identity?
+A: Each lot of HMG (Human Menopausal Gonadotropin) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should HMG (Human Menopausal Gonadotropin) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for HMG (Human Menopausal Gonadotropin)?
+A: HMG (Human Menopausal Gonadotropin) is available in 1 configuration: 75 iu. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Humanin
+
+- Canonical URL: https://dchemi.com/peptides/humanin
+- Machine-readable JSON: https://dchemi.com/peptides/humanin.json
+- Short code: HMN
+- Aliases: HMN, Humanin, HN
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 330936-69-1
+- Sequence: MAPRGFSCLLLLTSEIDLPVKRRA
+- Molecular formula: C119H204N34O32S2
+- Molecular weight: 2687.2 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $245.06 – $288.30 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mg × 10 vials | $288.30 | $288.30 | $265.24 | $245.06 |
+
+Summary: Humanin (HMN) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Humanin tested for purity and identity?
+A: Each lot of Humanin is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Humanin be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Humanin?
+A: Humanin is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Kisspeptin-10
+
+- Canonical URL: https://dchemi.com/peptides/kisspeptin-10
+- Machine-readable JSON: https://dchemi.com/peptides/kisspeptin-10.json
+- Short code: KS
+- Aliases: KS, Kisspeptin-10, Kisspeptin 10, Kiss-10, KP-10, Metastin 45-54
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 374675-21-5
+- Sequence: YNWNSFGLRF
+- Molecular formula: C63H83N17O14
+- Molecular weight: 1302.4 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $41.42 – $78.70 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $48.74 | $48.74 | $44.84 | $41.42 |
+| 10 mg × 10 vials | $78.70 | $78.70 | $72.40 | $66.90 |
+
+Summary: Kisspeptin-10 (KS) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Kisspeptin-10 tested for purity and identity?
+A: Each lot of Kisspeptin-10 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Kisspeptin-10 be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Kisspeptin-10?
+A: Kisspeptin-10 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Livagen
+
+- Canonical URL: https://dchemi.com/peptides/livagen
+- Machine-readable JSON: https://dchemi.com/peptides/livagen.json
+- Short code: AEDK
+- Aliases: AEDK
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 433257-50-2
+- Sequence: AEDK
+- Molecular formula: C18H31N5O9
+- Molecular weight: 461.5 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $89.96 – $105.84 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 20 mg × 10 vials | $105.84 | $105.84 | $97.38 | $89.96 |
+
+Summary: Livagen (AEDK) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Livagen tested for purity and identity?
+A: Each lot of Livagen is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Livagen be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Livagen?
+A: Livagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Melatonin
+
+- Canonical URL: https://dchemi.com/peptides/melatonin
+- Machine-readable JSON: https://dchemi.com/peptides/melatonin.json
+- Short code: MTN
+- Aliases: MTN, Melatonin, N-Acetyl-5-methoxytryptamine
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: small_molecule (small_molecule)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 73-31-4
+- Molecular formula: C13H16N2O2
+- Molecular weight: 232.28 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $49.02 – $57.66 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mg × 10 vials | $57.66 | $57.66 | $53.04 | $49.02 |
+
+Summary: Melatonin (MTN) is a small-molecule research compound supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Melatonin tested for purity and identity?
+A: Each lot of Melatonin is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Melatonin be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Melatonin?
+A: Melatonin is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## NAD+
+
+- Canonical URL: https://dchemi.com/peptides/nad-plus
+- Machine-readable JSON: https://dchemi.com/peptides/nad-plus.json
+- Short code: NJ
+- Aliases: NJ, Nicotinamide Adenine Dinucleotide, NAD, NAD Plus
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: small_molecule (small_molecule)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 53-84-9
+- Molecular formula: C21H27N7O14P2
+- Molecular weight: 663.4 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $24.28 – $60.16 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 100 mg × 10 vials | $28.56 | $28.56 | $26.28 | $24.28 |
+| 500 mg × 10 vials | $44.84 | $44.84 | $41.26 | $38.12 |
+| 1000 mg × 10 vials | $60.16 | $60.16 | $55.34 | $51.14 |
+
+Summary: NAD+ (NJ) is a small-molecule research compound supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 100 mg, 500 mg, 1000 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is NAD+ tested for purity and identity?
+A: Each lot of NAD+ is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should NAD+ be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for NAD+?
+A: NAD+ is available in 3 configurations: 100 mg, 500 mg, 1000 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Orexin A
+
+- Canonical URL: https://dchemi.com/peptides/orexin-a
+- Machine-readable JSON: https://dchemi.com/peptides/orexin-a.json
+- Short code: OXA
+- Aliases: OXA, Orexin A, Hypocretin-1
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 205599-75-3
+- Molecular formula: C152H243N47O44S4
+- Molecular weight: 3561.1 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $532.72 – $626.74 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mg × 10 vials | $626.74 | $626.74 | $576.60 | $532.72 |
+
+Summary: Orexin A (OXA) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Orexin A tested for purity and identity?
+A: Each lot of Orexin A is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Orexin A be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Orexin A?
+A: Orexin A is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Orexin B
+
+- Canonical URL: https://dchemi.com/peptides/orexin-b
+- Machine-readable JSON: https://dchemi.com/peptides/orexin-b.json
+- Short code: OXB
+- Aliases: OXB, Orexin B, Hypocretin-2
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 205599-76-4
+- Molecular formula: C123H212N44O35S
+- Molecular weight: 2899.3 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $106.54 – $253.48 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $125.34 | $125.34 | $115.32 | $106.54 |
+| 10 mg × 10 vials | $253.48 | $253.48 | $233.20 | $215.46 |
+
+Summary: Orexin B (OXB) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Orexin B tested for purity and identity?
+A: Each lot of Orexin B is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Orexin B be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Orexin B?
+A: Orexin B is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Oxytocin Acetate
+
+- Canonical URL: https://dchemi.com/peptides/oxytocin-acetate
+- Machine-readable JSON: https://dchemi.com/peptides/oxytocin-acetate.json
+- Short code: OT
+- Aliases: OT, Oxytocin
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: cyclic_peptide (cyclic_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 6233-83-6
+- Molecular formula: C45H70N12O14S2
+- Molecular weight: 1067.2 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $20.78 – $59.88 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mg × 10 vials | $24.44 | $24.44 | $22.48 | $20.78 |
+| 5 mg × 10 vials | $39.00 | $39.00 | $35.88 | $33.14 |
+| 10 mg × 10 vials | $59.88 | $59.88 | $55.08 | $50.90 |
+
+Summary: Oxytocin Acetate (OT) is a cyclic synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Oxytocin Acetate tested for purity and identity?
+A: Each lot of Oxytocin Acetate is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Oxytocin Acetate be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Oxytocin Acetate?
+A: Oxytocin Acetate is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## P21 (P021)
+
+- Canonical URL: https://dchemi.com/peptides/p21-p021
+- Machine-readable JSON: https://dchemi.com/peptides/p21-p021.json
+- Short code: P21
+- Aliases: P21, P021, CNTF-derived peptide
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 1246751-68-7
+- Molecular formula: C27H42N6O8
+- Molecular weight: 578.67 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $7.76 – $325.90 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $325.90 | $325.90 | $299.82 | $277.02 |
+| 10 mg × 41 vials | $9.14 | $9.14 | $8.40 | $7.76 |
+
+Summary: P21 (P021) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is P21 (P021) tested for purity and identity?
+A: Each lot of P21 (P021) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should P21 (P021) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for P21 (P021)?
+A: P21 (P021) is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Pancragen
+
+- Canonical URL: https://dchemi.com/peptides/pancragen
+- Machine-readable JSON: https://dchemi.com/peptides/pancragen.json
+- Short code: KEDW
+- Aliases: KEDW
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: published in the batch-specific COA
+- Molecular formula: C26H36N6O9
+- Molecular weight: 576.60 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 116 vials per kit
+- Price unit: USD per kit of 116 vials
+- Price range: $113.64 – $133.70 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 20 mg × 116 vials | $133.70 | $133.70 | $123.00 | $113.64 |
+
+Summary: Pancragen (KEDW) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 116 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Pancragen tested for purity and identity?
+A: Each lot of Pancragen is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Pancragen be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Pancragen?
+A: Pancragen is available in 1 configuration: 20 mg. Each kit contains 116 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## PE-22-28
+
+- Canonical URL: https://dchemi.com/peptides/pe-22-28
+- Machine-readable JSON: https://dchemi.com/peptides/pe-22-28.json
+- Short code: PE
+- Aliases: PE, PE 22-28, PE22-28
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 1801959-12-5
+- Molecular formula: C35H55N11O9
+- Molecular weight: 773.9 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $34.32 – $78.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $40.38 | $40.38 | $37.14 | $34.32 |
+| 10 mg × 10 vials | $78.00 | $78.00 | $71.76 | $66.30 |
+
+Summary: PE-22-28 is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is PE-22-28 tested for purity and identity?
+A: Each lot of PE-22-28 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should PE-22-28 be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for PE-22-28?
+A: PE-22-28 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Pinealon
+
+- Canonical URL: https://dchemi.com/peptides/pinealon
+- Machine-readable JSON: https://dchemi.com/peptides/pinealon.json
+- Short code: PIN
+- Aliases: PIN
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 175175-23-2
+- Sequence: EDR
+- Molecular formula: C15H26N6O8
+- Molecular weight: 418.40 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $33.14 – $261.60 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $39.00 | $39.00 | $35.88 | $33.14 |
+| 10 mg × 10 vials | $64.06 | $64.06 | $58.94 | $54.46 |
+| 20 mg × 10 vials | $261.60 | $261.60 | $240.68 | $222.36 |
+
+Summary: Pinealon (PIN) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Pinealon tested for purity and identity?
+A: Each lot of Pinealon is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Pinealon be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Pinealon?
+A: Pinealon is available in 3 configurations: 5 mg, 10 mg, 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Prostamax
+
+- Canonical URL: https://dchemi.com/peptides/prostamax
+- Machine-readable JSON: https://dchemi.com/peptides/prostamax.json
+- Short code: KEDP
+- Aliases: KEDP
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 473578-47-1
+- Sequence: KEDP
+- Molecular formula: C20H33N5O9
+- Molecular weight: 487.5 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $153.90 – $181.06 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 20 mg × 10 vials | $181.06 | $181.06 | $166.58 | $153.90 |
+
+Summary: Prostamax (KEDP) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Prostamax tested for purity and identity?
+A: Each lot of Prostamax is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Prostamax be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Prostamax?
+A: Prostamax is available in 1 configuration: 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Relaxation PM
+
+- Canonical URL: https://dchemi.com/peptides/relaxation-pm
+- Machine-readable JSON: https://dchemi.com/peptides/relaxation-pm.json
+- Short code: RP
+- Aliases: RP, RP226
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: solution_blend (solution_blend)
+- Appearance: Sterile Solution
+- Purity: not applicable (ancillary reagent)
+- CAS: published in the batch-specific COA
+- Molecular formula: Mixture
+- Molecular weight: Mixture Da
+- Storage: Store at 2-8 °C, protected from light; do not freeze.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $88.40 – $104.00 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mL × 10 vials | $104.00 | $104.00 | $95.68 | $88.40 |
+
+Summary: Relaxation PM (RP) is a ready-to-use liquid blend supplied as sterile solution. The catalogue lists 1 pack size: 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99% (HPLC) with sterile solution appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the sterile solution at 2-8 °C, protected from light. For laboratory research use only; not for human or veterinary use.
+
+Q: What documentation is supplied with Relaxation PM?
+A: Every batch of Relaxation PM is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
+
+Q: How should Relaxation PM be stored?
+A: Relaxation PM is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Relaxation PM?
+A: Relaxation PM is available in 1 configuration: 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Selank
+
+- Canonical URL: https://dchemi.com/peptides/selank
+- Machine-readable JSON: https://dchemi.com/peptides/selank.json
+- Short code: SK
+- Aliases: SK, Selank, TP-7
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: modified_peptide (modified_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 129954-34-3
+- Sequence: TKPRPGP
+- Molecular formula: C33H57N11O9
+- Molecular weight: 751.9 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $32.56 – $57.10 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $38.30 | $38.30 | $35.24 | $32.56 |
+| 10 mg × 10 vials | $57.10 | $57.10 | $52.54 | $48.54 |
+
+Summary: Selank (SK) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Selank tested for purity and identity?
+A: Each lot of Selank is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Selank be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Selank?
+A: Selank is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Semax
+
+- Canonical URL: https://dchemi.com/peptides/semax
+- Machine-readable JSON: https://dchemi.com/peptides/semax.json
+- Short code: SX
+- Aliases: SX, Semax, ACTH 4-10 analog
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: modified_peptide (modified_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 80714-61-0
+- Sequence: MEHFPGP
+- Molecular formula: C37H51N9O10S
+- Molecular weight: 813.9 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $31.96 – $55.72 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $37.60 | $37.60 | $34.60 | $31.96 |
+| 10 mg × 10 vials | $55.72 | $55.72 | $51.26 | $47.36 |
+
+Summary: Semax (SX) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Semax tested for purity and identity?
+A: Each lot of Semax is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Semax be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Semax?
+A: Semax is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## SS-31 (Elamipretide)
+
+- Canonical URL: https://dchemi.com/peptides/ss-31-elamipretide
+- Machine-readable JSON: https://dchemi.com/peptides/ss-31-elamipretide.json
+- Short code: 2S
+- Aliases: 2S, Elamipretide, SS31, MTP-131
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: modified_peptide (modified_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 736992-21-5
+- Molecular formula: C32H49N9O5
+- Molecular weight: 639.8 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $40.50 – $330.08 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $47.64 | $47.64 | $43.82 | $40.50 |
+| 10 mg × 10 vials | $85.66 | $85.66 | $78.80 | $72.82 |
+| 50 mg × 10 vials | $330.08 | $330.08 | $303.68 | $280.56 |
+
+Summary: SS-31 (Elamipretide) (2S) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 50 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is SS-31 (Elamipretide) tested for purity and identity?
+A: Each lot of SS-31 (Elamipretide) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should SS-31 (Elamipretide) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for SS-31 (Elamipretide)?
+A: SS-31 (Elamipretide) is available in 3 configurations: 5 mg, 10 mg, 50 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Teriparatide
+
+- Canonical URL: https://dchemi.com/peptides/teriparatide
+- Machine-readable JSON: https://dchemi.com/peptides/teriparatide.json
+- Short code: TER
+- Aliases: TER, Teriparatide, PTH 1-34
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 52232-67-4
+- Sequence: SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF
+- Molecular formula: C181H291N55O51S2
+- Molecular weight: 4118 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $123.12 – $144.84 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mg × 10 vials | $144.84 | $144.84 | $133.26 | $123.12 |
+
+Summary: Teriparatide (TER) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Teriparatide tested for purity and identity?
+A: Each lot of Teriparatide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Teriparatide be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Teriparatide?
+A: Teriparatide is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Testagen
+
+- Canonical URL: https://dchemi.com/peptides/testagen
+- Machine-readable JSON: https://dchemi.com/peptides/testagen.json
+- Short code: AEDV
+- Aliases: AEDV
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 1026993-38-3
+- Molecular formula: C17H29N5O9
+- Molecular weight: 447.44 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $61.56 – $72.42 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 20 mg × 10 vials | $72.42 | $72.42 | $66.62 | $61.56 |
+
+Summary: Testagen (AEDV) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Testagen tested for purity and identity?
+A: Each lot of Testagen is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Testagen be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Testagen?
+A: Testagen is available in 1 configuration: 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Thymalin (Thymulin)
+
+- Canonical URL: https://dchemi.com/peptides/thymalin-thymulin
+- Machine-readable JSON: https://dchemi.com/peptides/thymalin-thymulin.json
+- Short code: TY
+- Aliases: TY, Thymulin
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 78922-62-0
+- Molecular formula: C33H54N12O15
+- Molecular weight: 858.9 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $56.84 – $66.86 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mg × 10 vials | $66.86 | $66.86 | $61.52 | $56.84 |
+
+Summary: Thymalin (Thymulin) (TY) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Thymalin (Thymulin) tested for purity and identity?
+A: Each lot of Thymalin (Thymulin) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Thymalin (Thymulin) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Thymalin (Thymulin)?
+A: Thymalin (Thymulin) is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Thymosin Alpha-1
+
+- Canonical URL: https://dchemi.com/peptides/thymosin-alpha-1
+- Machine-readable JSON: https://dchemi.com/peptides/thymosin-alpha-1.json
+- Short code: TA
+- Aliases: TA, Thymosin Alpha-1, Tα1, Talpha1
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 62304-98-7
+- Molecular formula: C129H215N33O55
+- Molecular weight: 3108.3 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $87.00 – $171.30 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $102.36 | $102.36 | $94.18 | $87.00 |
+| 10 mg × 10 vials | $171.30 | $171.30 | $157.60 | $145.60 |
+
+Summary: Thymosin Alpha-1 (TA) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Thymosin Alpha-1 tested for purity and identity?
+A: Each lot of Thymosin Alpha-1 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Thymosin Alpha-1 be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Thymosin Alpha-1?
+A: Thymosin Alpha-1 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Triptorelin Acetate
+
+- Canonical URL: https://dchemi.com/peptides/triptorelin-acetate
+- Machine-readable JSON: https://dchemi.com/peptides/triptorelin-acetate.json
+- Short code: TRIP
+- Aliases: TRIP, Triptorelin
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: modified_peptide (modified_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 140194-24-7
+- Molecular formula: C66H86N18O15
+- Molecular weight: 1371.5 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $35.52 – $41.78 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 2 mg × 10 vials | $41.78 | $41.78 | $38.44 | $35.52 |
+
+Summary: Triptorelin Acetate (TRIP) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 2 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Triptorelin Acetate tested for purity and identity?
+A: Each lot of Triptorelin Acetate is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Triptorelin Acetate be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Triptorelin Acetate?
+A: Triptorelin Acetate is available in 1 configuration: 2 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## Vesugen
+
+- Canonical URL: https://dchemi.com/peptides/vesugen
+- Machine-readable JSON: https://dchemi.com/peptides/vesugen.json
+- Short code: VES
+- Aliases: VES
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 204271-66-9
+- Molecular formula: C15H26N4O8
+- Molecular weight: 390.39 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $55.40 – $65.18 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 10 mg × 10 vials | $65.18 | $65.18 | $59.96 | $55.40 |
+
+Summary: Vesugen (VES) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
+
+Q: How is Vesugen tested for purity and identity?
+A: Each lot of Vesugen is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should Vesugen be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for Vesugen?
+A: Vesugen is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---
+
+## VIP (Vasoactive Intestinal Peptide)
+
+- Canonical URL: https://dchemi.com/peptides/vip-vasoactive-intestinal-peptide
+- Machine-readable JSON: https://dchemi.com/peptides/vip-vasoactive-intestinal-peptide.json
+- Short code: VP
+- Aliases: VP, Vasoactive Intestinal Peptide
+- Category: Bioregulators & Longevity Peptides
+- Molecule class: linear_peptide (linear_peptide)
+- Appearance: White Lyophilized Powder
+- Purity: ≥99.0% (HPLC)
+- CAS: 37221-79-7
+- Molecular formula: C147H237N43O43S
+- Molecular weight: 3326.8 Da
+- Storage: Store at -20 °C, protected from light and moisture.
+- Pack size: 10 vials per kit
+- Price unit: USD per kit of 10 vials
+- Price range: $69.86 – $137.88 per kit (USD)
+- Last reviewed: 2026-11-26
+
+| Pack size | Per kit (USD) | 1–9 kits | 10–49 kits | 50+ kits |
+| --- | --- | --- | --- | --- |
+| 5 mg × 10 vials | $82.18 | $82.18 | $75.60 | $69.86 |
+| 10 mg × 10 vials | $137.88 | $137.88 | $126.84 | $117.20 |
+
+Summary: VIP (Vasoactive Intestinal Peptide) (VP) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
+
+Q: How is VIP (Vasoactive Intestinal Peptide) tested for purity and identity?
+A: Each lot of VIP (Vasoactive Intestinal Peptide) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+
+Q: How should VIP (Vasoactive Intestinal Peptide) be stored?
+A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+
+Q: What pack sizes are available for VIP (Vasoactive Intestinal Peptide)?
+A: VIP (Vasoactive Intestinal Peptide) is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+
+---

@@ -22,6 +22,11 @@ export const SITE = {
   ruo: 'For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use.',
   ruoShort: 'Research use only. Not for human or veterinary use.',
   established: '2016',
+  /**
+   * 已验证的官方外链（Organization.sameAs）。
+   * 只放真实存在的账号；拿到 LinkedIn / YouTube / GitHub 链接后填进来即可。
+   */
+  social: [] as string[],
   currency: 'USD',
   priceUnit: 'Kit (10 vials)',
   fxFilename: 'dchemi-price-list-2026.csv',

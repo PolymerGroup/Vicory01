@@ -1,0 +1,116 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/liraglutide",
+  "lastReviewed": "2026-11-26",
+  "name": "Liraglutide",
+  "slug": "liraglutide",
+  "shortCode": "LIRA",
+  "aliases": [
+    "LIRA",
+    "Liraglutide"
+  ],
+  "category": {
+    "key": "glp1_metabolic",
+    "label": "Metabolic & Weight-Management Peptides"
+  },
+  "chemistry": {
+    "cas": "204656-20-2",
+    "sequence": null,
+    "molecularFormula": "C172H265N43O51",
+    "molecularWeight": "3751",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "modified_peptide",
+    "sequenceType": "modified_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "5mg*10vials",
+      "label": "5 mg",
+      "vials": 10,
+      "perKit": 87.74,
+      "perVial": 8.77,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 87.74
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 80.72
+        },
+        {
+          "label": "50+ Kits",
+          "price": 74.58
+        }
+      ]
+    },
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 155.98,
+      "perVial": 15.6,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 155.98
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 143.5
+        },
+        {
+          "label": "50+ Kits",
+          "price": 132.58
+        }
+      ]
+    },
+    {
+      "spec": "30mg*10vials",
+      "label": "30 mg",
+      "vials": 10,
+      "perKit": 467.96,
+      "perVial": 46.8,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 467.96
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 430.52
+        },
+        {
+          "label": "50+ Kits",
+          "price": 397.76
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 74.58,
+    "to": 467.96,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "Liraglutide (LIRA) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 30 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is Liraglutide tested for purity and identity?",
+      "answer": "Each lot of Liraglutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should Liraglutide be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Liraglutide?",
+      "answer": "Liraglutide is available in 3 configurations: 5 mg, 10 mg, 30 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

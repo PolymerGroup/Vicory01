@@ -1,0 +1,213 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import FaqAccordion from '../../components/FaqAccordion.astro';
+import { SITE, abs, money } from '../../lib/site';
+import { COMPARISONS, comparisonByPair } from '../../lib/comparisons';
+import data from '../../data/peptides.json';
+import type { Peptide } from '../../types/peptide';
+
+export function getStaticPaths() {
+  return COMPARISONS.map((c) => ({ params: { pair: c.pair }, props: { c } }));
+}
+
+const { c } = Astro.props as { c: (typeof COMPARISONS)[number] };
+const products = data.products as unknown as Peptide[];
+const pa = products.find((p) => p.slug === c.a)!;
+const pb = products.find((p) => p.slug === c.b)!;
+
+const TODAY = new Date().toISOString().slice(0, 10);
+
+const specRows = [
+  { label: 'CAS number', a: pa.cas || 'See batch COA', b: pb.cas || 'See batch COA' },
+  {
+    label: 'Molecular formula',
+    a: pa.molecularFormula || pa.formula || 'See batch COA',
+    b: pb.molecularFormula || pb.formula || 'See batch COA',
+  },
+  {
+    label: 'Molecular weight',
+    a: pa.molecularWeight ? `${pa.molecularWeight} Da` : 'See batch COA',
+    b: pb.molecularWeight ? `${pb.molecularWeight} Da` : 'See batch COA',
+  },
+  { label: 'Sequence', a: pa.sequence || 'See batch COA', b: pb.sequence || 'See batch COA' },
+  {
+    label: 'Pack sizes',
+    a: pa.specs.map((s) => s.label).join(', '),
+    b: pb.specs.map((s) => s.label).join(', '),
+  },
+  {
+    label: 'Starting price',
+    a: `${money(pa.priceFrom)} / kit`,
+    b: `${money(pb.priceFrom)} / kit`,
+  },
+  { label: 'Short code', a: pa.shortCode, b: pb.shortCode },
+  { label: 'Research area', a: pa.categoryLabel, b: pb.categoryLabel },
+];
+
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: c.faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+
+const webPageLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  '@id': `${SITE.url}/compare/${c.pair}#webpage`,
+  url: `${SITE.url}/compare/${c.pair}`,
+  name: c.title,
+  description: c.description,
+  inLanguage: 'en',
+  dateModified: TODAY,
+  isPartOf: { '@id': `${SITE.url}/#website` },
+  about: [
+    { '@type': 'Product', name: pa.name, url: `${SITE.url}/peptides/${pa.slug}` },
+    { '@type': 'Product', name: pb.name, url: `${SITE.url}/peptides/${pb.slug}` },
+  ],
+};
+---
+
+<Layout
+  title={c.title}
+  description={c.description}
+  exactTitle
+  path={`/compare/${c.pair}`}
+  structuredData={[faqLd, webPageLd]}
+>
+  <section class="mx-auto max-w-6xl px-4 pt-8 sm:px-6 lg:px-8">
+    <Breadcrumbs items={[{ label: 'Comparisons', href: '/compare' }, { label: `${pa.name} vs ${pb.name}` }]} />
+
+    <header class="mt-6 max-w-3xl">
+      <p class="text-xs font-semibold uppercase tracking-[0.18em] text-brand-600">Analytical comparison</p>
+      <h1 class="mt-2 text-3xl font-extrabold leading-tight tracking-tight text-slateink sm:text-4xl">
+        {pa.name} vs {pb.name}
+      </h1>
+      <p class="mt-4 text-base leading-7 text-slate-700">{c.lead}</p>
+      <p class="mt-3 text-[11px] font-medium uppercase tracking-wider text-slate-400">
+        Last reviewed: {TODAY} · Research use only
+      </p>
+    </header>
+
+    <div class="mt-8 grid gap-6 lg:grid-cols-[1.6fr_1fr]">
+      <div class="space-y-4">
+        {c.intro.map((p) => <p class="text-[15px] leading-7 text-slate-700">{p}</p>)}
+      </div>
+
+      <aside class="rounded-2xl border border-slate-200 bg-slate-50/70 p-5">
+        <p class="label">At a glance</p>
+        <dl class="mt-3 space-y-3 text-sm">
+          <div>
+            <dt class="text-xs font-semibold uppercase tracking-wider text-slate-500">{pa.name}</dt>
+            <dd class="mt-0.5 font-mono text-[13px] text-slateink">{pa.cas || 'COA'}</dd>
+            <dd class="text-[13px] text-slate-600">{pa.molecularWeight ? `${pa.molecularWeight} Da` : '—'} · from {money(pa.priceFrom)}/kit</dd>
+          </div>
+          <div class="border-t border-slate-200 pt-3">
+            <dt class="text-xs font-semibold uppercase tracking-wider text-slate-500">{pb.name}</dt>
+            <dd class="mt-0.5 font-mono text-[13px] text-slateink">{pb.cas || 'COA'}</dd>
+            <dd class="text-[13px] text-slate-600">{pb.molecularWeight ? `${pb.molecularWeight} Da` : '—'} · from {money(pb.priceFrom)}/kit</dd>
+          </div>
+        </dl>
+        <a href="/rfq" class="btn-primary btn-sm mt-4 w-full">Request a quote</a>
+      </aside>
+    </div>
+
+    <!-- curated comparison -->
+    <h2 class="mt-12 text-xl font-bold text-slateink">How they differ</h2>
+    <div class="mt-4 overflow-x-auto rounded-2xl border border-slate-200 bg-white">
+      <table class="table-lab min-w-[720px]">
+        <caption class="sr-only">Comparison of {pa.name} and {pb.name}</caption>
+        <thead>
+          <tr>
+            <th scope="col" class="w-[26%]">Parameter</th>
+            <th scope="col">{pa.name}</th>
+            <th scope="col">{pb.name}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {c.rows.map((r) => (
+            <tr>
+              <th scope="row" class="!text-[12px] !normal-case !tracking-normal !text-slate-500">{r.label}</th>
+              <td class="text-[13px] font-medium text-slate-800">{r.a}</td>
+              <td class="text-[13px] font-medium text-slate-800">{r.b}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- catalogue parameters (data-driven) -->
+    <h2 class="mt-12 text-xl font-bold text-slateink">Catalogue parameters</h2>
+    <p class="mt-1 text-sm text-slate-500">
+      Values as published on each product page; where a field is not held in the catalogue it is stated on the batch certificate of analysis.
+    </p>
+    <div class="mt-4 overflow-x-auto rounded-2xl border border-slate-200 bg-white">
+      <table class="table-lab min-w-[720px]">
+        <thead>
+          <tr>
+            <th scope="col" class="w-[26%]">Field</th>
+            <th scope="col">{pa.name}</th>
+            <th scope="col">{pb.name}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {specRows.map((r) => (
+            <tr>
+              <th scope="row" class="!text-[12px] !normal-case !tracking-normal !text-slate-500">{r.label}</th>
+              <td class="font-mono text-[12px] text-slate-800">{r.a}</td>
+              <td class="font-mono text-[12px] text-slate-800">{r.b}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- which one -->
+    <h2 class="mt-12 text-xl font-bold text-slateink">Which one fits the work</h2>
+    <div class="mt-4 grid gap-4 sm:grid-cols-2">
+      <div class="rounded-2xl border border-slate-200 bg-white p-5">
+        <p class="text-xs font-semibold uppercase tracking-wider text-brand-600">{pa.name}</p>
+        <p class="mt-2 text-sm leading-6 text-slate-700">{c.chooseA}</p>
+        <a href={`/peptides/${pa.slug}`} class="mt-3 inline-block text-sm font-semibold text-ocean-700 hover:underline">
+          {pa.name} product page →
+        </a>
+      </div>
+      <div class="rounded-2xl border border-slate-200 bg-white p-5">
+        <p class="text-xs font-semibold uppercase tracking-wider text-brand-600">{pb.name}</p>
+        <p class="mt-2 text-sm leading-6 text-slate-700">{c.chooseB}</p>
+        <a href={`/peptides/${pb.slug}`} class="mt-3 inline-block text-sm font-semibold text-ocean-700 hover:underline">
+          {pb.name} product page →
+        </a>
+      </div>
+    </div>
+
+    <div class="mt-14">
+      <FaqAccordion
+        faqs={c.faqs}
+        title={`${pa.name} vs ${pb.name} — questions`}
+        subtitle="Structural, analytical and supply questions about this pair."
+      />
+    </div>
+
+    <div class="mt-12 rounded-2xl border border-slate-200 bg-slate-50 p-5">
+      <p class="text-sm font-semibold text-slateink">More comparisons</p>
+      <ul class="mt-2 flex flex-wrap gap-x-4 gap-y-2 text-sm">
+        {COMPARISONS.filter((x) => x.pair !== c.pair).slice(0, 6).map((x) => {
+          const a = products.find((p) => p.slug === x.a);
+          const b = products.find((p) => p.slug === x.b);
+          return (
+            <li>
+              <a href={`/compare/${x.pair}`} class="text-ocean-700 hover:underline">
+                {a?.name} vs {b?.name}
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+    </div>
+  </section>
+</Layout>

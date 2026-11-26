@@ -1,0 +1,305 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/tirzepatide",
+  "lastReviewed": "2026-11-26",
+  "name": "Tirzepatide",
+  "slug": "tirzepatide",
+  "shortCode": "TR",
+  "aliases": [
+    "TR",
+    "Tirzepatide"
+  ],
+  "category": {
+    "key": "glp1_metabolic",
+    "label": "Metabolic & Weight-Management Peptides"
+  },
+  "chemistry": {
+    "cas": "2023788-19-2",
+    "sequence": null,
+    "molecularFormula": "C225H348N48O68",
+    "molecularWeight": "4813",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "modified_peptide",
+    "sequenceType": "modified_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "2mg*10vials",
+      "label": "2 mg",
+      "vials": 10,
+      "perKit": 36.22,
+      "perVial": 3.62,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 36.22
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 33.32
+        },
+        {
+          "label": "50+ Kits",
+          "price": 30.78
+        }
+      ]
+    },
+    {
+      "spec": "5mg*10vials",
+      "label": "5 mg",
+      "vials": 10,
+      "perKit": 39,
+      "perVial": 3.9,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 39
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 35.88
+        },
+        {
+          "label": "50+ Kits",
+          "price": 33.14
+        }
+      ]
+    },
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 61.28,
+      "perVial": 6.13,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 61.28
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 56.38
+        },
+        {
+          "label": "50+ Kits",
+          "price": 52.08
+        }
+      ]
+    },
+    {
+      "spec": "15mg*10vials",
+      "label": "15 mg",
+      "vials": 10,
+      "perKit": 75.2,
+      "perVial": 7.52,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 75.2
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 69.18
+        },
+        {
+          "label": "50+ Kits",
+          "price": 63.92
+        }
+      ]
+    },
+    {
+      "spec": "20mg*10vials",
+      "label": "20 mg",
+      "vials": 10,
+      "perKit": 99.58,
+      "perVial": 9.96,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 99.58
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 91.62
+        },
+        {
+          "label": "50+ Kits",
+          "price": 84.64
+        }
+      ]
+    },
+    {
+      "spec": "30mg*10vials",
+      "label": "30 mg",
+      "vials": 10,
+      "perKit": 133.7,
+      "perVial": 13.37,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 133.7
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 123
+        },
+        {
+          "label": "50+ Kits",
+          "price": 113.64
+        }
+      ]
+    },
+    {
+      "spec": "40mg*10vials",
+      "label": "40 mg",
+      "vials": 10,
+      "perKit": 172,
+      "perVial": 17.2,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 172
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 158.24
+        },
+        {
+          "label": "50+ Kits",
+          "price": 146.2
+        }
+      ]
+    },
+    {
+      "spec": "50mg*10vials",
+      "label": "50 mg",
+      "vials": 10,
+      "perKit": 206.12,
+      "perVial": 20.61,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 206.12
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 189.64
+        },
+        {
+          "label": "50+ Kits",
+          "price": 175.2
+        }
+      ]
+    },
+    {
+      "spec": "60mg*10vials",
+      "label": "60 mg",
+      "vials": 10,
+      "perKit": 239.56,
+      "perVial": 23.96,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 239.56
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 220.4
+        },
+        {
+          "label": "50+ Kits",
+          "price": 203.62
+        }
+      ]
+    },
+    {
+      "spec": "80mg*10vials",
+      "label": "80 mg",
+      "vials": 10,
+      "perKit": 348.18,
+      "perVial": 34.82,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 348.18
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 320.32
+        },
+        {
+          "label": "50+ Kits",
+          "price": 295.96
+        }
+      ]
+    },
+    {
+      "spec": "100mg*10vials",
+      "label": "100 mg",
+      "vials": 10,
+      "perKit": 353.46,
+      "perVial": 35.35,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 353.46
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 325.18
+        },
+        {
+          "label": "50+ Kits",
+          "price": 300.44
+        }
+      ]
+    },
+    {
+      "spec": "120mg*10vials",
+      "label": "120 mg",
+      "vials": 10,
+      "perKit": 460,
+      "perVial": 46,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 460
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 423.2
+        },
+        {
+          "label": "50+ Kits",
+          "price": 391
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 30.78,
+    "to": 460,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "Tirzepatide (TR) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 12 pack sizes: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg and 6 more. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is Tirzepatide tested for purity and identity?",
+      "answer": "Each lot of Tirzepatide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should Tirzepatide be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Tirzepatide?",
+      "answer": "Tirzepatide is available in 12 configurations: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 50 mg and 4 more. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}

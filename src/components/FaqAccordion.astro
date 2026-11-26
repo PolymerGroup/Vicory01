@@ -4,17 +4,22 @@ import type { Faq } from '../types/peptide';
 interface Props {
   faqs: Faq[];
   title?: string;
+  /** 副标题；默认是采购类文案，对比页会传入自己的说明 */
+  subtitle?: string;
   class?: string;
 }
 
-const { faqs, title = 'Frequently asked questions', class: cls = '' } = Astro.props;
+const {
+  faqs,
+  title = 'Frequently asked questions',
+  subtitle = 'Procurement, documentation and handling questions for research buyers.',
+  class: cls = '',
+} = Astro.props;
 ---
 
 <section class:list={[{}, cls]} aria-labelledby="faq-heading">
   <h2 id="faq-heading" class="text-xl font-bold text-slateink">{title}</h2>
-  <p class="mt-1 text-sm text-slate-500">
-    Procurement, documentation and handling questions for research buyers.
-  </p>
+  <p class="mt-1 text-sm text-slate-500">{subtitle}</p>
 
   <div class="mt-5 divide-y divide-slate-200 overflow-hidden rounded-2xl border border-slate-200 bg-white">
     {

@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import data from '../data/peptides.json';
+import { COMPARISONS } from '../lib/comparisons';
 
 const SITE = 'https://dchemi.com';
 
@@ -21,11 +22,14 @@ export const GET: APIRoute = async () => {
   const staticPages = [
     { loc: '/', priority: '1.0', changefreq: 'weekly' },
     { loc: '/products', priority: '0.95', changefreq: 'weekly' },
+    { loc: '/compare', priority: '0.8', changefreq: 'monthly' },
     { loc: '/peppedia', priority: '0.85', changefreq: 'weekly' },
     { loc: '/quality-coa', priority: '0.7', changefreq: 'monthly' },
     { loc: '/about-compliance', priority: '0.6', changefreq: 'monthly' },
     { loc: '/rfq', priority: '0.8', changefreq: 'monthly' },
   ];
+
+  const comparisons = COMPARISONS.map((c) => c.pair);
 
   const urls = [
     ...staticPages.map(
@@ -42,6 +46,14 @@ export const GET: APIRoute = async () => {
     <lastmod>${dataDate}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
+  </url>`
+    ),
+    ...comparisons.map(
+      (pair) => `  <url>
+    <loc>${SITE}/compare/${pair}</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>`
     ),
     ...posts.map(

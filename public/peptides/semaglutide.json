@@ -1,0 +1,202 @@
+{
+  "schema": "dchemi.product/1",
+  "url": "https://dchemi.com/peptides/semaglutide",
+  "lastReviewed": "2026-11-26",
+  "name": "Semaglutide",
+  "slug": "semaglutide",
+  "shortCode": "SM",
+  "aliases": [
+    "SM",
+    "Semaglutide",
+    "Sema",
+    "GLP-1"
+  ],
+  "category": {
+    "key": "glp1_metabolic",
+    "label": "Metabolic & Weight-Management Peptides"
+  },
+  "chemistry": {
+    "cas": "910463-68-2",
+    "sequence": null,
+    "molecularFormula": "C187H291N45O59",
+    "molecularWeight": "4114",
+    "purity": "≥99.0% (HPLC)",
+    "appearance": "White Lyophilized Powder",
+    "form": "lyophilized_powder",
+    "moleculeClass": "modified_peptide",
+    "sequenceType": "modified_peptide"
+  },
+  "packSizes": [
+    {
+      "spec": "2mg*10vials",
+      "label": "2 mg",
+      "vials": 10,
+      "perKit": 25.06,
+      "perVial": 2.51,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 25.06
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 23.06
+        },
+        {
+          "label": "50+ Kits",
+          "price": 21.3
+        }
+      ]
+    },
+    {
+      "spec": "5mg*10vials",
+      "label": "5 mg",
+      "vials": 10,
+      "perKit": 35.02,
+      "perVial": 3.5,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 35.02
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 32.22
+        },
+        {
+          "label": "50+ Kits",
+          "price": 29.76
+        }
+      ]
+    },
+    {
+      "spec": "10mg*10vials",
+      "label": "10 mg",
+      "vials": 10,
+      "perKit": 47.36,
+      "perVial": 4.74,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 47.36
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 43.58
+        },
+        {
+          "label": "50+ Kits",
+          "price": 40.26
+        }
+      ]
+    },
+    {
+      "spec": "15mg*10vials",
+      "label": "15 mg",
+      "vials": 10,
+      "perKit": 58.5,
+      "perVial": 5.85,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 58.5
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 53.82
+        },
+        {
+          "label": "50+ Kits",
+          "price": 49.72
+        }
+      ]
+    },
+    {
+      "spec": "20mg*10vials",
+      "label": "20 mg",
+      "vials": 10,
+      "perKit": 72.42,
+      "perVial": 7.24,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 72.42
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 66.62
+        },
+        {
+          "label": "50+ Kits",
+          "price": 61.56
+        }
+      ]
+    },
+    {
+      "spec": "30mg*10vials",
+      "label": "30 mg",
+      "vials": 10,
+      "perKit": 128.14,
+      "perVial": 12.81,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 128.14
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 117.88
+        },
+        {
+          "label": "50+ Kits",
+          "price": 108.92
+        }
+      ]
+    },
+    {
+      "spec": "50mg*10vials",
+      "label": "50 mg",
+      "vials": 10,
+      "perKit": 124.1,
+      "perVial": 12.41,
+      "tiers": [
+        {
+          "label": "1–9 Kits",
+          "price": 124.1
+        },
+        {
+          "label": "10–49 Kits",
+          "price": 114.18
+        },
+        {
+          "label": "50+ Kits",
+          "price": 105.48
+        }
+      ]
+    }
+  ],
+  "pricing": {
+    "currency": "USD",
+    "unit": "per kit of 10 vials",
+    "from": 21.3,
+    "to": 128.14,
+    "moqKits": 1
+  },
+  "storage": "Store at -20 °C, protected from light and moisture.",
+  "definition": "Semaglutide (SM) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 7 pack sizes: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg and 1 more. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.",
+  "faq": [
+    {
+      "question": "How is Semaglutide tested for purity and identity?",
+      "answer": "Each lot of Semaglutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+    },
+    {
+      "question": "How should Semaglutide be stored?",
+      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+    },
+    {
+      "question": "What pack sizes are available for Semaglutide?",
+      "answer": "Semaglutide is available in 7 configurations: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 50 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+    }
+  ],
+  "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
+}
