@@ -90,9 +90,9 @@ A: ACE-031 is available in 1 configuration: 1 mg. Each kit contains 10 vials. Mi
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 64-19-7
+- Molecular formula: C2H4O2
+- Molecular weight: 60.05 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -127,9 +127,9 @@ A: Acetic Acid is available in 3 configurations: 3 ml, 5 ml, 10 ml. Each kit con
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 64-19-7
+- Molecular formula: C2H4O2
+- Molecular weight: 60.05 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -454,9 +454,9 @@ A: Bacteriostatic Water is available in 2 configurations: 3 ml, 10 ml. Each kit 
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 100-51-6
+- Molecular formula: C7H8O
+- Molecular weight: 108.14 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -490,9 +490,9 @@ A: Bacteriostatic Water is available in 2 configurations: 3 ml, 10 ml. Each kit 
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 100-51-6
+- Molecular formula: C7H8O
+- Molecular weight: 108.14 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -526,9 +526,9 @@ A: Bacteriostatic Water 0.9% Benzyl Alcohol is available in 2 configurations: 3 
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 100-51-6
+- Molecular formula: C7H8O
+- Molecular weight: 108.14 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -1143,7 +1143,7 @@ A: Crystagen is available in 1 configuration: 20 mg. Each kit contains 10 vials.
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
+- CAS: 77614-16-5
 - Sequence: YAFGYPS
 - Molecular formula: C40H50N8O10
 - Molecular weight: 802.9 Da
@@ -1219,9 +1219,9 @@ A: DSIP (Delta Sleep-Inducing Peptide) is available in 3 configurations: 2 mg, 5
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
+- CAS: 923950-08-7
 - Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- Molecular weight: 59,669 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -1944,7 +1944,7 @@ A: HGH Fragment 17-23 is available in 1 configuration: 10 mg. Each kit contains 
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
+- CAS: 221231-10-3
 - Molecular formula: C80H127N23O24S2
 - Molecular weight: 1859.1 Da
 - Storage: Store at -20 °C, protected from light and moisture.
@@ -2055,7 +2055,7 @@ A: Humanin is available in 1 configuration: 10 mg. Each kit contains 10 vials. M
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
+- CAS: 946870-92-4
 - Molecular formula: published in the batch-specific COA
 - Molecular weight: published in the batch-specific COA
 - Storage: Store at -20 °C, protected from light and moisture.
@@ -2238,9 +2238,9 @@ A: KPV is available in 3 configurations: 5 mg, 10 mg, 30 mg. Each kit contains 1
 - Presentation: mixed
 - Appearance: White Lyophilized Powder
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 541-15-1
+- Molecular formula: C7H15NO3
+- Molecular weight: 161.20 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -2278,9 +2278,9 @@ A: L-Carnitine is available in 6 configurations: 2 mg, 10 ml, 200 mg, 400 mg, 60
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 302-95-4
+- Molecular formula: C24H39NaO4
+- Molecular weight: 414.6 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -3248,9 +3248,9 @@ A: Relaxation PM is available in 1 configuration: 10 ml. Each kit contains 10 vi
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 2381089-83-2
+- Molecular formula: C221H342N46O68
+- Molecular weight: 4731 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -3550,9 +3550,9 @@ A: SLU-PP-332 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 1
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: C42H72N16O15S
-- Molecular weight: 1073.2 Da
+- CAS: 868844-74-0
+- Molecular formula: C41H70N16O16S
+- Molecular weight: 1075.2 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -3768,7 +3768,7 @@ A: TB-500 Fragment is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
+- CAS: 52232-67-4
 - Sequence: SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF
 - Molecular formula: C181H291N55O51S2
 - Molecular weight: 4118 Da
@@ -3804,7 +3804,7 @@ A: Teriparatide is available in 1 configuration: 10 mg. Each kit contains 10 via
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
+- CAS: 218949-48-5
 - Molecular formula: C221H366N72O67S
 - Molecular weight: 5136 Da
 - Storage: Store at -20 °C, protected from light and moisture.
@@ -4104,9 +4104,9 @@ A: Vesugen is available in 1 configuration: 10 mg. Each kit contains 10 vials. M
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 37221-79-7
+- Molecular formula: C147H237N43O43S
+- Molecular weight: 3326.8 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -4175,9 +4175,9 @@ A: Vitamin B Complex Injection is available in 1 configuration: 2 ml. Each kit c
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 68-19-9
+- Molecular formula: C63H88CoN14O14P
+- Molecular weight: 1355.4 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -4210,9 +4210,9 @@ A: Vitamin B12 is available in 1 configuration: 1 mg. Each kit contains 10 vials
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 68-19-9
+- Molecular formula: C63H88CoN14O14P
+- Molecular weight: 1355.4 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -4245,9 +4245,9 @@ A: Vitamin B12 Injection is available in 1 configuration: 1 ml. Each kit contain
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 58-56-0
+- Molecular formula: C8H12ClNO3
+- Molecular weight: 205.64 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -4280,9 +4280,9 @@ A: Vitamin B6 Injection is available in 1 configuration: 2 ml. Each kit contains
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 50-81-7
+- Molecular formula: C6H8O6
+- Molecular weight: 176.12 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -4315,9 +4315,9 @@ A: Vitamin C Injection is available in 1 configuration: 2 ml. Each kit contains 
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 50-14-6
+- Molecular formula: C28H44O
+- Molecular weight: 396.6 Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 6 vials per kit
 - Price unit: USD per kit of 6 vials
