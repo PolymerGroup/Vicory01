@@ -13,7 +13,7 @@ import type { Peptide } from '../types/peptide';
 const products = data.products as unknown as Peptide[];
 const categories = data.categories;
 
-// 最新 3 篇 PepPedia 文章（首页内链）
+// Latest three PepPedia articles (home page internal links)
 const latestArticles = (await getCollection('peppedia'))
   .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime())
   .slice(0, 3);
@@ -131,7 +131,7 @@ const heroStats = [
         </dl>
       </div>
 
-      <!-- 三瓶陈列 -->
+      
       <div class="relative mx-auto grid w-full max-w-lg grid-cols-3 items-end gap-3">
         <div class="translate-y-6 rounded-2xl border border-slate-200 bg-white/70 p-2 shadow-card backdrop-blur">
           <PeptideVialPlaceholder slug="hero-bpc" code="BC" spec="10mg" purity="≥99%" category="repair_recovery" />

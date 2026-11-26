@@ -2,10 +2,10 @@
 /**
  * PeptideVialPlaceholder
  * ------------------------------------------------------------------
- * 程序化生成的高质感西林瓶（10 vials/kit）矢量占位图。
- *  - 产品详情页：完整版（网格背景、渐变玻璃、标签细节）
- *  - 列表卡片：compact 精简版（约 0.7 KB，避免 119 张卡片把 HTML 撑到 1 MB）
- * 一旦 public/images/products/{slug}.webp 存在，产品页会自动改用真实图片。
+ * Programmatic high-fidelity vial illustration (10 vials/kit).
+ *  - product page: full version (grid, glass gradients, label detail)
+ *  - list card: compact version (~0.7 KB so 119 cards do not bloat the HTML)
+ * When public/images/products/{slug}.webp exists the product page uses the real photo instead.
  */
 interface Props {
   slug: string;
@@ -43,7 +43,7 @@ const accent =
 const codeText = (code || 'PEP').toUpperCase().slice(0, 6);
 const codeSize = codeText.length <= 2 ? 34 : codeText.length <= 4 ? 26 : 20;
 const specText = (spec || '10mg').replace(/\s+/g, '');
-// 溶剂 / 非肽类没有 HPLC 纯度，绝不能默认写 >=99%
+// Solvents and non-peptides have no HPLC purity — never default to >=99%
 const purityText = purity ? purity.replace('≥', '>=') : '';
 const purityShort = purity ? purity.replace('≥', '>=').replace(/\s*\(HPLC\)/, '') : '';
 const purityLine = purity ? `PURITY ${purityShort}` : 'NOT APPLICABLE';
@@ -54,7 +54,7 @@ const formLabel =
     : form === 'mixed'
       ? 'POWDER / SOLUTION'
       : 'LYOPHILIZED · -20°C';
-// 标签文字按长度自动缩号，避免溢出白色标签区
+// Label text scales down with length so it stays inside the white area
 const purityFontSize = purityLine.length > 17 ? 9.5 : 12;
 const formFontSize = formLabel.length > 17 ? 8.8 : 10;
 const formSpacing = formLabel.length > 17 ? 0.3 : 1.2;
@@ -70,7 +70,7 @@ const formSpacing = formLabel.length > 17 ? 0.3 : 1.2;
       class:list={['h-full w-full object-cover', cls]}
     />
   ) : compact ? (
-    /* ---------- 卡片精简版：约 10 个元素，HTML 体积可控 ---------- */
+    /* ---------- compact card version: ~10 elements, controlled HTML size ---------- */
     <svg
       viewBox="0 0 300 330"
       role="img"
@@ -99,7 +99,7 @@ const formSpacing = formLabel.length > 17 ? 0.3 : 1.2;
       </text>
     </svg>
   ) : (
-    /* ---------- 详情页完整版 ---------- */
+    /* ---------- full product-page version ---------- */
     <svg
       viewBox="0 0 420 460"
       role="img"

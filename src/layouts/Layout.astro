@@ -9,14 +9,14 @@ interface Props {
   title: string;
   description: string;
   path: string;
-  /** 页面级 JSON-LD（数组会自动拆成多个 <script>） */
+  /** Page-level JSON-LD; arrays are split into multiple <script> blocks */
   structuredData?: unknown[];
   image?: string;
   noindex?: boolean;
   /**
-   * true = 传入的 title 原样输出，不再自动追加 “ | Dchemi”。
-   * 用于需要精确控制 SERP 标题的页面（首页 / 目录页）。
-   * 默认 false：仍按 “标题 | Dchemi” 拼接，且已含品牌名时不重复追加。
+   * true = emit the given title verbatim, without the automatic ' | Dchemi' suffix.
+   * Used by pages that need exact control of the SERP title (home, catalogue).
+   * Default false: keep the 'Title | Dchemi' pattern and skip the suffix when the brand is already present.
    */
   exactTitle?: boolean;
 }
@@ -39,13 +39,13 @@ const fullTitle = exactTitle
     : `${title} | ${SITE.name}`;
 const ogImage = image.startsWith('http') ? image : abs(image);
 
-// 全站 Organization（每个页面都注入，绑定主域名与主体信息）
+// Site-wide Organization node (injected on every page)
 const organization = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
   '@id': `${SITE.url}/#organization`,
   name: SITE.legalName,
-  alternateName: [SITE.name, SITE.legalNameZh],
+  alternateName: [SITE.name],
   url: SITE.url,
   logo: {
     '@type': 'ImageObject',
@@ -71,7 +71,7 @@ const organization = {
     addressRegion: SITE.addressRegion,
     addressLocality: SITE.addressLocality,
   },
-  // GEO：成立年份 + 已知外链 + 领域标签，帮助模型建立实体一致性
+  // GEO: founding year, known profiles and topic tags for entity consistency
   foundingDate: SITE.established,
   sameAs: [SITE.whatsapp, ...(SITE.social || [])],
   knowsAbout: [
@@ -139,7 +139,7 @@ const allJsonLd = [organization, website, ...structuredData];
       <script type="application/ld+json" set:html={jsonLd(item)} />
     ))}
 
-    <!-- RFQ 早期占位：在 RfqCart 模块脚本加载完成之前，任何“加入询盘”点击都会先进入队列，不会丢单 -->
+    
     <script is:inline>
       (function () {
         window.__rfqQueue = window.__rfqQueue || [];

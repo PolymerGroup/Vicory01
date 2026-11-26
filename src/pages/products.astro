@@ -222,7 +222,7 @@ const itemListLd = {
         if (show) visible++;
       }
 
-      // 排序只在可见集合上生效
+      // Sorting applies to the visible set only
       const mode = sortSel?.value || 'name';
       const visibleCards = cards.filter((c) => !c.classList.contains('hidden'));
       visibleCards.sort((a, b) => {

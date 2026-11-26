@@ -9,7 +9,7 @@ interface Props {
 
 const { current, related } = Astro.props;
 
-/** 化学列：有真实值就展示真实值，否则回退 COA（复配品标注 mix） */
+/** Chemistry columns: real value when known, otherwise COA (blends show 'mix') */
 function chemOf(p: Peptide) {
   const formula = (p as any).molecularFormula ?? p.formula ?? null;
   const isBlend = p.sequenceType === 'blend' || p.category === 'blend';

@@ -2,7 +2,7 @@
 import { SITE } from '../lib/site';
 ---
 
-<!-- RFQ 抽屉：纯原生 JS，无框架，localStorage 持久化 -->
+
 <div
   id="rfq-backdrop"
   class="fixed inset-0 z-40 hidden bg-slateink/40 backdrop-blur-[2px]"
@@ -35,7 +35,7 @@ import { SITE } from '../lib/site';
   </div>
 
   <div id="rfq-items" class="flex-1 space-y-3 overflow-y-auto px-5 py-4">
-    <!-- JS 渲染 -->
+    
   </div>
 
   <div class="border-t border-slate-200 bg-slate-50 px-5 py-4">
@@ -80,7 +80,7 @@ import { SITE } from '../lib/site';
   </div>
 </aside>
 
-<!-- 浮动入口（移动端） -->
+
 <button
   type="button"
   id="rfq-float"
@@ -112,11 +112,11 @@ import { SITE } from '../lib/site';
   };
 
   const KEY = 'dchemi.rfq.v1';
-  // 预留 Webhook：填入 Cloudflare Worker / Zapier 地址后，提交时会 POST JSON 到该端点
+  // Optional webhook: set a Cloudflare Worker / Zapier URL and submissions POST JSON to it
   const WEBHOOK = '';
 
   const state: { items: Item[] } = { items: [] };
-  // DOM 尚未就绪前，所有 add() 先入队，等初始化完成后统一 flush
+  // Before the DOM is ready every add() is queued and flushed after init
   let apiReady = false;
 
   const $ = <T extends HTMLElement>(sel: string) => document.querySelector(sel) as T | null;
@@ -257,7 +257,7 @@ import { SITE } from '../lib/site';
     if (badgeFloat) badgeFloat.textContent = String(n);
     if (totalEl) totalEl.textContent = `$${total().toFixed(2)}`;
 
-    // 生成 RFQ 文本
+    // Build the RFQ text
     const body = buildText();
     const mail = $('#rfq-mail') as HTMLAnchorElement | null;
     if (mail) {
@@ -310,7 +310,7 @@ import { SITE } from '../lib/site';
 
   function add(payload: Omit<Item, 'qty'>, qty = 1) {
     if (!payload?.slug) return;
-    // 初始化完成前先排队（页面首屏极短时间内点击也能正常记录）
+    // Queue until init finishes so first-paint clicks are not lost
     if (!apiReady) {
       const q = ((window as any).__rfqQueue = (window as any).__rfqQueue || []);
       q.push([payload, Math.max(1, Number(qty) || 1)]);
@@ -339,14 +339,14 @@ import { SITE } from '../lib/site';
     }
   }
 
-  // 暴露给页面按钮
+  // Expose to page-level buttons
   (window as any).DchemiRFQ = { add, open, close, render, markSubmitted: submitWebhook };
 
   document.addEventListener('DOMContentLoaded', () => {
     load();
     render();
 
-    // 接管早期 stub：把 Layout 里排队的点击补进来，并让后续点击直达真实实现
+    // Take over the early stub: flush queued clicks and route later ones to the real implementation
     apiReady = true;
     (window as any).DchemiRFQ = { ready: true, add, open, close, render, markSubmitted: submitWebhook };
     const queued: Array<[any, number]> = ((window as any).__rfqQueue || []).slice();
@@ -390,7 +390,7 @@ import { SITE } from '../lib/site';
       submitWebhook();
     });
 
-    // 其它标签页同步
+    // Sync across tabs
     window.addEventListener('storage', (e) => {
       if (e.key === KEY) {
         load();

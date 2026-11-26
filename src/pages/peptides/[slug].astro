@@ -16,8 +16,8 @@ import type { Peptide } from '../../types/peptide';
 
 const products = data.products as unknown as Peptide[];
 
-// 注意：Astro 会把 getStaticPaths 提升到组件函数之外执行，
-// 因此这里只能引用模块级的 import（data），不能引用组件内 const。
+// Note: Astro hoists getStaticPaths outside the component function,
+// so only module-level imports (data) are available here, not component consts.
 export function getStaticPaths() {
   const list = data.products as unknown as Peptide[];
   return list.map((product) => ({ params: { slug: product.slug }, props: { product } }));
@@ -25,12 +25,12 @@ export function getStaticPaths() {
 
 const { product: p } = Astro.props as { product: Peptide };
 
-// 真实产品图：存在 /public/images/products/{slug}.webp 时自动切换
+// Real product image: switched in automatically when /public/images/products/{slug}.webp exists
 const relImage = `/images/products/${p.slug}.webp`;
 const hasRealImage = existsSync(join(process.cwd(), 'public', relImage));
 const imageUrl = hasRealImage ? relImage : null;
 
-// 相关产品：同分类优先，其次同 molecule class，最多 6 个
+// Related products: same category first, then same molecule class, up to 6
 const sameCat = products.filter((x) => x.category === p.category && x.slug !== p.slug);
 const sameClass = products.filter(
   (x) => x.slug !== p.slug && x.category !== p.category && x.moleculeClass === p.moleculeClass
@@ -49,8 +49,8 @@ const specJson = JSON.stringify(
   }))
 );
 
-/* ---------------------- 化学核心参数：真实值优先 ---------------------- */
-// 数据里有值就直接展示真实值；没有值（含复配 Blend）才回退到 COA 说明。
+/* ---------------------- Chemistry: real values take priority ---------------------- */
+// Show the real value when the data holds one; only fall back to the COA note otherwise (including blends).
 const COA_FALLBACK = 'Published in batch COA';
 const chem = {
   cas: p.cas || null,
@@ -61,11 +61,11 @@ const chem = {
 const hasChem = Boolean(chem.cas || chem.sequence || chem.formula || chem.mw);
 const omit = new Set<string>((p as any).chemOmit || []);
 
-// GEO：把定义句提到 H1 之后，便于模型直接抽取；并标注复核日期
+// GEO: definition sentence sits directly under the H1 for extraction, followed by the review date
 const LAST_REVIEWED = new Date().toISOString().slice(0, 10);
 const definition = String(p.geoSummary || '').split(/(?<=\.)\s/)[0];
 
-// 与该产品相关的对比页（GEO 内链：把对比页接进产品簇）
+// Comparison pages that mention this product (GEO internal links)
 const relatedComparisons = COMPARISONS.filter((c) => c.a === p.slug || c.b === p.slug).map((c) => ({
   ...c,
   aName: products.find((x) => x.slug === c.a)?.name ?? c.a,
@@ -73,8 +73,8 @@ const relatedComparisons = COMPARISONS.filter((c) => c.a === p.slug || c.b === p
 }));
 const isBlend = p.sequenceType === 'blend' || p.category === 'blend';
 const chemFallback = isBlend ? 'Fixed composition — see batch COA' : COA_FALLBACK;
-// 分子量：本身带单位（Da/kDa）或非数值型描述（如 "Mixture (Component-specific; see COA)"）都原样展示，
-// 只有纯数值才补 " Da"
+// Molecular weight: pass through when it already carries a unit or is descriptive text,
+// only purely numeric values get a ' Da' suffix
 const rawMw = chem.mw == null ? null : String(chem.mw);
 const mwText = rawMw
   ? /da/i.test(rawMw) || !/^\d/.test(rawMw)
@@ -170,7 +170,7 @@ const faqLd = {
   })),
 };
 
-// GEO：页面级 WebPage，带 dateModified（模型偏好带时间戳的事实页）
+// GEO: page-level WebPage node with dateModified
 const webPageLd = {
   '@context': 'https://schema.org',
   '@type': 'WebPage',
@@ -189,7 +189,7 @@ const summaryRows = [
   { key: 'cas', k: 'CAS number', v: chem.cas || chemFallback, mono: true },
   { key: 'molecular_formula', k: 'Molecular formula', v: chem.formula || chemFallback, mono: true },
   { key: 'molecular_weight', k: 'Molecular weight', v: mwText || chemFallback, mono: true },
-  // 只有核验过的真实序列才展示；没有序列的产品整行隐藏，不回退 COA
+  // Render the sequence row only when a verified sequence exists; hide the row otherwise
   ...(chem.sequence ? [{ key: 'sequence', k: 'Sequence', v: chem.sequence, mono: true }] : []),
   { key: 'purity', k: 'Purity', v: p.purity || 'Not applicable (ancillary reagent)', mono: false },
   { key: 'appearance', k: 'Appearance', v: p.appearance, mono: false },
@@ -358,7 +358,7 @@ const summaryRows = [
               <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                 <path d="M12 5v14M5 12h14" stroke-linecap="round" />
               </svg>
-              Add to RFQ list
+              Add to RFQ
             </button>
             <a href={`mailto:${SITE.email}?subject=${encodeURIComponent(`RFQ — ${p.name}`)}`} class="btn-secondary">
               Email sales
@@ -567,7 +567,7 @@ const summaryRows = [
         return v == null ? 'RFQ' : '$' + Number(v).toFixed(2);
       }
 
-      // 统一从 specs[current] 现算 payload，避免 dataset 与实际选中规格脱节
+      // Recompute the payload from specs[current] so it can never drift from the selected pack size
       function payloadFor(s) {
         return {
           slug: productSlug,
@@ -629,7 +629,7 @@ const summaryRows = [
           addBtn.dataset.payload = JSON.stringify(payloadFor(s));
           addBtn.setAttribute('aria-label', 'Add ' + productName + ' ' + s.label + ' to RFQ list');
         }
-        // 让浏览器地址栏保留规格锚点，便于分享（不触发跳转）
+        // Keep a spec anchor in the address bar for sharing (no navigation)
         try {
           history.replaceState(null, '', window.location.pathname + '#spec-' + encodeURIComponent(s.spec));
         } catch (e) {}
@@ -647,7 +647,7 @@ const summaryRows = [
           if (!s) return;
           var qty = Math.max(1, Math.min(9999, Number(qtyEl && qtyEl.value) || 1));
           var api = window.DchemiRFQ;
-          // Layout 注入的早期 stub 会把请求排队，RfqCart 挂载后再统一处理
+          // The early stub queues clicks until RfqCart is mounted
           if (api && typeof api.add === 'function') {
             api.add(payloadFor(s), qty);
           } else {

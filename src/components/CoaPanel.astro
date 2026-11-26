@@ -1,8 +1,8 @@
 ---
 /**
- * CoaPanel —— 结构化 Certificate of Analysis 预览（Specimen）。
- * 当前为“AI 模拟结构化展示”：只展示规格限值 + 示例批号格式 + 模拟色谱峰图，
- * 明确标注 specimen，不伪造实测数值；填入 coaPdfUrl 后按钮自动切换为下载正式 PDF。
+ * CoaPanel — structured certificate-of-analysis preview (specimen).
+ * Illustrative only: specification limits, a sample lot format and a simulated chromatogram,
+ * clearly labelled as a specimen; no measured values are invented. Setting coaPdfUrl switches the button to the real PDF.
  */
 import type { Peptide } from '../types/peptide';
 import { SITE } from '../lib/site';
@@ -14,7 +14,7 @@ interface Props {
 
 const { product: p, compact = false } = Astro.props;
 
-// 用 slug 生成稳定伪随机种子 —— 同一产品每次构建的峰图一致
+// Deterministic pseudo-random seed from the slug so the peak chart is stable across builds
 function hash(str: string): number {
   let h = 2166136261;
   for (let i = 0; i < str.length; i++) {
@@ -30,7 +30,7 @@ const rnd = (i: number) => {
   return x - Math.floor(x);
 };
 
-// 主峰 + 2~4 个杂质峰
+// Main peak plus 2–4 impurity peaks
 const W = 560;
 const H = 150;
 const baseline = H - 18;
@@ -103,7 +103,7 @@ const waHref = `${SITE.whatsapp}?text=${encodeURIComponent(
   </header>
 
   <div class="grid gap-6 p-5 lg:grid-cols-[1.1fr_1fr]">
-    <!-- 参数表 -->
+    
     <dl class="divide-y divide-slate-100">
       {
         rows.map((r) => (
@@ -117,7 +117,7 @@ const waHref = `${SITE.whatsapp}?text=${encodeURIComponent(
       }
     </dl>
 
-    <!-- 模拟色谱图 -->
+    
     <div class="rounded-xl border border-slate-200 bg-white p-3">
       <div class="mb-2 flex items-center justify-between">
         <p class="text-[10px] font-bold uppercase tracking-wider text-slate-500">
