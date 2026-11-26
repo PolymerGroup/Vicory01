@@ -2,7 +2,7 @@
 
 > For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use.
 
-Source: https://dchemi.com · generated 2026-11-25 · currency USD · unit Kit (10 vials)
+Source: https://dchemi.com · generated 2026-11-26 · currency USD · unit Kit (10 vials)
 
 Total products: 119. Total pack-size SKUs: 266.
 
@@ -382,9 +382,9 @@ A: AOD-9604 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contai
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 1818415-56-3
+- Molecular formula: C131H229N41O36S
+- Molecular weight: 2986.54 Da
 - Storage: Store at -20 °C, protected from light and moisture.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials
@@ -418,9 +418,9 @@ A: B7-33 is available in 2 configurations: 2 mg, 10 mg. Each kit contains 10 via
 - Presentation: sterile solution
 - Appearance: Sterile Solution
 - Purity: not applicable (ancillary reagent)
-- CAS: published in the batch-specific COA
-- Molecular formula: published in the batch-specific COA
-- Molecular weight: published in the batch-specific COA
+- CAS: 100-51-6(Benzyl alcohol)
+- Molecular formula: Mixture (0.9% C7H8O in H2O)
+- Molecular weight: 18.02 Da (water) / 108.14 Da (benzyl alcohol) Da
 - Storage: Store at 2-8 °C, protected from light; do not freeze.
 - Kit: 10 vials per kit
 - Price unit: USD per kit of 10 vials

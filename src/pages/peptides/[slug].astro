@@ -61,8 +61,9 @@ const hasChem = Boolean(chem.cas || chem.sequence || chem.formula || chem.mw);
 const omit = new Set<string>((p as any).chemOmit || []);
 const isBlend = p.sequenceType === 'blend' || p.category === 'blend';
 const chemFallback = isBlend ? 'Fixed composition — see batch COA' : COA_FALLBACK;
+// 分子量：若数据里已自带单位（Da / kDa，含 "18.02 Da (water) / 108.14 Da ..." 这类复合写法）则原样展示
 const mwText = chem.mw
-  ? /da$/i.test(String(chem.mw))
+  ? /da/i.test(String(chem.mw))
     ? String(chem.mw)
     : `${chem.mw} Da`
   : null;

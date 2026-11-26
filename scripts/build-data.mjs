@@ -83,7 +83,9 @@ function casChecksumOk(cas) {
 
 function cleanCas(cas) {
   const v = (cas || '').trim();
-  return v && casChecksumOk(v) ? v : null;
+  // 允许带注释的写法，如 "100-51-6 (Benzyl alcohol)"：只校验前面的 CAS 本体，展示保留全文
+  const m = v.match(/^(\d{2,7}-\d{2}-\d)/);
+  return m && casChecksumOk(m[1]) ? v : null;
 }
 
 /** CSV 里的 omit_fields（分号分隔）→ 模板按字段隐藏整行，例如 ace-031 不显示分子式 */
