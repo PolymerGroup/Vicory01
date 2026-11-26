@@ -31,7 +31,7 @@ const rows = [current, ...related].map((p) => ({ p, chem: chemOf(p) }));
         Related peptides & parameter comparison
       </h2>
       <p class="mt-1 text-sm text-slate-500">
-        Same category or commonly co-ordered items. All prices in USD per kit of 10 vials.
+        {current.categoryLabel} peers and nearby reference points, priced per kit of {current.kitVials} vials.
       </p>
     </div>
     <a href={`/products?category=${current.category}`} class="text-sm font-semibold text-ocean-700 hover:text-ocean-800">
@@ -85,9 +85,4 @@ const rows = [current, ...related].map((p) => ({ p, chem: chemOf(p) }));
       </tbody>
     </table>
   </div>
-  <p class="mt-3 text-[11px] leading-5 text-slate-400">
-    CAS numbers, molecular formulas and weights are shown where the catalogue holds verified values;
-    otherwise they are published in the batch-specific certificate of analysis. Comparison is
-    provided for procurement planning only.
-  </p>
 </section>

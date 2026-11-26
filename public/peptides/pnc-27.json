@@ -101,15 +101,15 @@
   "faq": [
     {
       "question": "How is PNC-27 tested for purity and identity?",
-      "answer": "Each lot of PNC-27 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+      "answer": "Testing for PNC-27: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (CAS 1159861-00-3, formula C188H293N53O44S, 4032 Da). Results are reported per lot, not as a catalogue average."
     },
     {
       "question": "How should PNC-27 be stored?",
-      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+      "answer": "Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this PNC preparation does not tolerate repeated freeze–thaw."
     },
     {
       "question": "What pack sizes are available for PNC-27?",
-      "answer": "PNC-27 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+      "answer": "PNC-27 is stocked in 3 pack sizes (2 mg, 5 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $52.92; 10–49 kits falls to $48.68 (−8%) and 50+ to $44.98 (−15%)."
     }
   ],
   "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."

@@ -319,7 +319,7 @@ const summaryRows = [
               </p>
             </div>
             <p class="text-right text-[11px] leading-4 text-slate-500">
-              USD, ex-works.<br />Volume tiers adjust automatically.
+              USD, ex-works · {p.specs.length} pack size{p.specs.length > 1 ? 's' : ''} listed.
             </p>
           </div>
 
@@ -369,7 +369,7 @@ const summaryRows = [
           </div>
 
           <p class="mt-3 text-[11px] leading-5 text-slate-500">
-            No online payment. Final price confirmed by sales after stock and freight review.
+            No online payment. The {p.shortCode} lot price is confirmed on the proforma invoice.
             MOQ {p.moqKits} kit.
           </p>
         </div>
@@ -388,7 +388,18 @@ const summaryRows = [
     <div class="grid gap-10 lg:grid-cols-[1.15fr_0.85fr]">
       <div>
         <h2 class="text-xl font-bold text-slateink">Product overview</h2>
-        <p class="mt-3 text-[15px] leading-7 text-slate-700">{p.geoSummary}</p>
+        <p class="mt-3 text-[15px] leading-7 text-slate-700">{p.overview || p.geoSummary}</p>
+
+        {p.catalogueNotes?.length ? (
+          <ul class="mt-4 space-y-2">
+            {p.catalogueNotes.map((n) => (
+              <li class="flex gap-2 text-[13px] leading-6 text-slate-600">
+                <span class="mt-2 h-1 w-1 shrink-0 rounded-full bg-brand-400" />
+                <span>{n}</span>
+              </li>
+            ))}
+          </ul>
+        ) : null}
 
         {
           p.composition.length ? (
@@ -409,7 +420,7 @@ const summaryRows = [
         <div class="mt-8">
           <h2 class="text-xl font-bold text-slateink">Pack sizes & tier pricing</h2>
           <p class="mt-1 text-sm text-slate-500">
-            All prices USD per kit of {p.kitVials} vials. Tier discount applies per line item.
+            All prices USD per kit of {p.kitVials} vials; 50+ kits for this {defaultSpec.label} size are  per kit.
           </p>
           <div class="mt-4 space-y-4">
             {
@@ -438,11 +449,10 @@ const summaryRows = [
             <li>{p.storage.summary.replace(/\.$/, '')}.</li>
             {
               p.storage.reconstituted ? (
-                <li>After reconstitution: {p.storage.reconstituted}</li>
+                <li>After reconstitution ({p.shortCode}): {p.storage.reconstituted}</li>
               ) : null
             }
-            <li>Protect from light and moisture; avoid repeated freeze–thaw cycles.</li>
-            <li>Kit format: {p.kitVials} sterile vials per kit, individually labelled.</li>
+            <li>{p.kitVials} vials per kit · {p.specs.length} pack size{p.specs.length > 1 ? 's' : ''} · lot code VC-2026-{p.shortCode}-01.</li>
           </ul>
         </div>
 
@@ -455,11 +465,11 @@ const summaryRows = [
             </div>
             <div class="flex justify-between gap-3">
               <dt class="text-slate-500">Lead time</dt>
-              <dd class="font-semibold text-slateink">3–7 days (stock)</dd>
+              <dd class="font-semibold text-slateink">3–7 days for {p.shortCode} stock lots</dd>
             </div>
             <div class="flex justify-between gap-3">
               <dt class="text-slate-500">Documentation</dt>
-              <dd class="font-semibold text-slateink">COA · MSDS · packing list</dd>
+              <dd class="font-semibold text-slateink">COA for lot {p.shortCode} · MSDS · packing list</dd>
             </div>
             <div class="flex justify-between gap-3">
               <dt class="text-slate-500">Payment</dt>
@@ -471,8 +481,8 @@ const summaryRows = [
         <div class="rounded-2xl border border-ocean-200 bg-ocean-50 p-5">
           <p class="text-sm font-bold text-ocean-900">Verify before you buy</p>
           <p class="mt-1 text-xs leading-5 text-ocean-800/80">
-            Ask for the batch COA and confirm the lot number on the vial label matches the
-            certificate. We publish the format <span class="font-mono">VC-2026-[CODE]-01</span>.
+            Ask for the {p.shortCode} batch COA and check that the lot number on the vial label matches the
+            certificate. Our lot format is <span class="font-mono">VC-2026-{p.shortCode}-01</span>.
           </p>
           <a href="/quality-coa" class="mt-3 inline-flex text-xs font-bold text-ocean-800 hover:underline">
             How our QC works →

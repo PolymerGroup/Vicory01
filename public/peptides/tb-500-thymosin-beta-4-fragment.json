@@ -103,15 +103,15 @@
   "faq": [
     {
       "question": "How is TB-500 (Thymosin Beta-4 Fragment) tested for purity and identity?",
-      "answer": "Each lot of TB-500 (Thymosin Beta-4 Fragment) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+      "answer": "Each TB lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (CAS 885340-08-9, formula C38H68N10O14, 889 Da)."
     },
     {
       "question": "How should TB-500 (Thymosin Beta-4 Fragment) be stored?",
-      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+      "answer": "TB-500 (Thymosin Beta-4 Fragment) ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles."
     },
     {
       "question": "What pack sizes are available for TB-500 (Thymosin Beta-4 Fragment)?",
-      "answer": "TB-500 (Thymosin Beta-4 Fragment) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+      "answer": "TB-500 (Thymosin Beta-4 Fragment) is stocked in 3 pack sizes (2 mg, 5 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $45.62; 10–49 kits falls to $41.98 (−8%) and 50+ to $38.78 (−15%)."
     }
   ],
   "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."

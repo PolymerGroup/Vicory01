@@ -165,15 +165,15 @@
   "faq": [
     {
       "question": "How is Tesamorelin + Ipamorelin Blend tested for purity and identity?",
-      "answer": "Each lot of Tesamorelin + Ipamorelin Blend is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+      "answer": "Each TP lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (CAS 218949-48-5 + 170851-70-4, formula C221H366N72O67S + C38H49N9O5, 5136 Da + 711.9 Da Da)."
     },
     {
       "question": "How should Tesamorelin + Ipamorelin Blend be stored?",
-      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+      "answer": "Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this TP preparation does not tolerate repeated freeze–thaw."
     },
     {
       "question": "What pack sizes are available for Tesamorelin + Ipamorelin Blend?",
-      "answer": "Tesamorelin + Ipamorelin Blend is available in 6 configurations: 8 mg, 10 mg, 13 mg, 15 mg, 15 mg, 17 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+      "answer": "Tesamorelin + Ipamorelin Blend is stocked in 6 pack sizes (8(6+2) mg, 10(5+5) mg, 13(10+3) mg, 15(10+5) mg, 15 mg, 17(8.5+8.5) mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $78.00; 10–49 kits falls to $71.76 (−8%) and 50+ to $66.30 (−15%)."
     }
   ],
   "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."

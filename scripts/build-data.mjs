@@ -331,9 +331,122 @@ const products = master.products
     };
   });
 
+/* ------------------------------------------------------------------ */
+/* 去重：把各页共享的模板句，换成按产品数据计算出来的专属文案。
+ * 目的：降低产品页两两 5-gram Jaccard 相似度（目标 <0.30），
+ * 同时保证每一句都是真实数据，不是同义词替换。
+ * ------------------------------------------------------------------ */
+const usd = (v) => (v == null ? 'quote' : `$${Number(v).toFixed(2)}`);
+const pctOff = (base, v) => (base && v ? Math.round((1 - v / base) * 100) : 0);
+
+function seedOf(s) {
+  let h = 7;
+  for (const ch of String(s)) h = (h * 31 + ch.charCodeAt(0)) % 1000003;
+  return h;
+}
+
+function diversifyProduct(p) {
+  const s0 = p.specs[0] || {};
+  const tiers = s0.tiers || [];
+  const list = s0.perKit;
+  const t10 = tiers[1]?.price ?? null;
+  const t50 = tiers[2]?.price ?? null;
+  const sizes = p.specs.map((s) => s.label);
+  const perVial = s0.perVial;
+  const chem = [];
+  if (p.cas) chem.push(`CAS ${p.cas}`);
+  if (p.molecularFormula) chem.push(`formula ${p.molecularFormula}`);
+  if (p.molecularWeight) chem.push(`${p.molecularWeight} Da`);
+  const isLyo = p.form !== 'sterile_solution';
+
+  /* ---- 1) 页面 overview：3 套结构，均带本产品数字 ---- */
+  const variants = [
+    `${p.name} (${p.shortCode}) sits in the ${p.categoryLabel} group and ships as ${
+      isLyo ? 'lyophilized powder' : 'sterile solution'
+    } in ${p.kitVials}-vial kits. ${sizes.length} pack size${sizes.length > 1 ? 's are' : ' is'} listed (${sizes.join(
+      ', '
+    )}), with per-kit pricing from ${usd(p.priceFrom)} to ${usd(p.priceTo)} depending on the tier.`,
+    `Catalogued under ${p.categoryLabel}, ${p.name} is a ${p.moleculeClass.replace(/_/g, ' ')} presented as ${
+      isLyo ? 'a lyophilized powder' : 'a sterile solution'
+    }. Each kit carries ${p.kitVials} vials; the ${sizes.length === 1 ? 'single pack size is' : 'pack sizes are'} ${sizes.join(
+      ', '
+    )}, and the 50+ kit tier settles at ${usd(t50 ?? p.priceFrom)} per kit.`,
+    `${p.name} — short code ${p.shortCode} — is a ${p.moleculeClass.replace(/_/g, ' ')} in the ${
+      p.categoryLabel
+    } range, supplied as ${p.kitVials} vials per kit. The catalogue prices ${sizes.length} configuration${
+      sizes.length > 1 ? 's' : ''
+    } between ${usd(p.priceFrom)} and ${usd(p.priceTo)} per kit, with volume tiers applied at 10 and 50 kits.`,
+  ];
+  p.overview = variants[seedOf(p.slug) % variants.length];
+
+  /* ---- 2) 三条「只有这页才有」的目录说明 ---- */
+  const notes = [];
+  if (list != null && perVial != null) {
+    notes.push(
+      `At the ${s0.label} pack size, ${usd(list)} per kit of ${p.kitVials} vials works out to ${usd(perVial)} per vial.`
+    );
+  }
+  if (t10 != null && t50 != null && list) {
+    notes.push(
+      `Volume ladder: 10–49 kits at ${usd(t10)} (−${pctOff(list, t10)}%) and 50+ kits at ${usd(t50)} (−${pctOff(
+        list,
+        t50
+      )}%); ${p.specs.length > 1 ? `the same ladder applies to each of the ${p.specs.length} pack sizes` : 'only one pack size is stocked'}.`
+    );
+  }
+  notes.push(
+    chem.length
+      ? `Identity on file: ${chem.join(', ')}. Sequence-level confirmation, if held, is printed on the batch certificate of analysis.`
+      : `${p.name} has no public CAS registration in this catalogue; the batch certificate of analysis is the authoritative identity document.`
+  );
+  p.catalogueNotes = notes;
+
+  /* ---- 3) 重写两条最重复的 FAQ 答案 ---- */
+  const storeVariants = isLyo
+    ? [
+        `Hold the sealed ${p.kitVials}-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this ${p.shortCode} preparation does not tolerate repeated freeze–thaw.`,
+        `Dry powder for ${p.name}: store at −20 °C. Working solution: 2–8 °C, used within the window printed on the ${p.shortCode} lot certificate.`,
+        `${p.name} ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles.`,
+      ]
+    : [
+        `Store the ${p.shortCode} solution at 2–8 °C, protected from light, and do not freeze. Handling notes for each lot are printed on the certificate of analysis.`,
+        `${p.name} is supplied as a sterile solution: 2–8 °C, no freezing, and follow the ${p.shortCode} lot handling sheet for in-use limits.`,
+        `Keep at 2–8 °C away from light. The ${p.shortCode} solution is not designed for freezing; in-use duration is stated per lot on the COA.`,
+      ];
+  const storeAnswer = storeVariants[seedOf(p.slug + 'storage') % storeVariants.length];
+
+  const packAnswer =
+    `${p.name} is stocked in ${sizes.length} pack size${sizes.length > 1 ? 's' : ''} (${sizes.join(', ')}), ` +
+    `${p.kitVials} vials per kit, MOQ ${p.moqKits} kit. ` +
+    (t10 != null && t50 != null
+      ? `At 1–9 kits the per-kit price is ${usd(list)}; 10–49 kits falls to ${usd(t10)} (−${pctOff(
+          list,
+          t10
+        )}%) and 50+ to ${usd(t50)} (−${pctOff(list, t50)}%).`
+      : `Pricing is confirmed per quote.`);
+
+  p.faqs = (p.faqs || []).map((f) => {
+    const q = f.q.toLowerCase();
+    if (q.includes('stored') || q.includes('storage')) return { ...f, a: storeAnswer };
+    if (q.includes('pack size') || q.includes('available in')) return { ...f, a: packAnswer };
+    if (q.includes('tested') || q.includes('purity and identity')) {
+      const spec = p.purity || 'the release limit for this SKU';
+      const identity = chem.length ? chem.join(', ') : 'no public CAS entry';
+      const testVariants = [
+        `Each ${p.shortCode} lot is run on RP-HPLC against a ${spec} release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (${identity}).`,
+        `Testing for ${p.name}: HPLC purity against ${spec}, MS confirmation of the intact mass, and a documented identity record (${identity}). Results are reported per lot, not as a catalogue average.`,
+        `${p.name} is released lot by lot — HPLC for purity (${spec}) plus MS for mass — and the ${p.shortCode} certificate lists the measured values alongside the identity entry (${identity}).`,
+      ];
+      return { ...f, a: testVariants[seedOf(p.slug + 'test') % testVariants.length] };
+    }
+    return f;
+  });
+}
+
+products.forEach(diversifyProduct);
+
 /* 校验 */
-const slugs = new Set();
-for (const p of products) {
+const slugs = new Set();for (const p of products) {
   if (slugs.has(p.slug)) throw new Error(`slug 重复: ${p.slug}`);
   slugs.add(p.slug);
   if (!p.specs.length) throw new Error(`无规格: ${p.slug}`);

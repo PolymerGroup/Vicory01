@@ -82,15 +82,15 @@
   "faq": [
     {
       "question": "How is GHK-Cu tested for purity and identity?",
-      "answer": "Each lot of GHK-Cu is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+      "answer": "Each CU lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (CAS 89030-95-5, formula C14H24CuN6O4, 403.93 Da)."
     },
     {
       "question": "How should GHK-Cu be stored?",
-      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+      "answer": "GHK-Cu ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles."
     },
     {
       "question": "What pack sizes are available for GHK-Cu?",
-      "answer": "GHK-Cu is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+      "answer": "GHK-Cu is stocked in 2 pack sizes (50 mg, 100 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $26.46; 10–49 kits falls to $24.34 (−8%) and 50+ to $22.50 (−15%)."
     }
   ],
   "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."

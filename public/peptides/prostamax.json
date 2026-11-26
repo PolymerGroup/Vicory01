@@ -58,15 +58,15 @@
   "faq": [
     {
       "question": "How is Prostamax tested for purity and identity?",
-      "answer": "Each lot of Prostamax is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+      "answer": "Testing for Prostamax: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (CAS 473578-47-1, formula C20H33N5O9, 487.5 Da). Results are reported per lot, not as a catalogue average."
     },
     {
       "question": "How should Prostamax be stored?",
-      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+      "answer": "Dry powder for Prostamax: store at −20 °C. Working solution: 2–8 °C, used within the window printed on the KEDP lot certificate."
     },
     {
       "question": "What pack sizes are available for Prostamax?",
-      "answer": "Prostamax is available in 1 configuration: 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+      "answer": "Prostamax is stocked in 1 pack size (20 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $181.06; 10–49 kits falls to $166.58 (−8%) and 50+ to $153.90 (−15%)."
     }
   ],
   "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."

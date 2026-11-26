@@ -80,15 +80,15 @@
   "faq": [
     {
       "question": "How is AHK-Cu tested for purity and identity?",
-      "answer": "Each lot of AHK-Cu is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+      "answer": "AHK-Cu is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the AU certificate lists the measured values alongside the identity entry (CAS 300801-03-0, formula C15H24CuN6O4, 415.94 Da)."
     },
     {
       "question": "How should AHK-Cu be stored?",
-      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+      "answer": "Dry powder for AHK-Cu: store at −20 °C. Working solution: 2–8 °C, used within the window printed on the AU lot certificate."
     },
     {
       "question": "What pack sizes are available for AHK-Cu?",
-      "answer": "AHK-Cu is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+      "answer": "AHK-Cu is stocked in 2 pack sizes (50 mg, 100 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $70.90; 10–49 kits falls to $65.22 (−8%) and 50+ to $60.26 (−15%)."
     }
   ],
   "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."

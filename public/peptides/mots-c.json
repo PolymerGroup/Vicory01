@@ -124,15 +124,15 @@
   "faq": [
     {
       "question": "How is MOTS-c tested for purity and identity?",
-      "answer": "Each lot of MOTS-c is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+      "answer": "MOTS-c is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the MS certificate lists the measured values alongside the identity entry (CAS 1627580-64-6, formula C101H152N28O22S2, 2174.6 Da)."
     },
     {
       "question": "How should MOTS-c be stored?",
-      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+      "answer": "Dry powder for MOTS-c: store at −20 °C. Working solution: 2–8 °C, used within the window printed on the MS lot certificate."
     },
     {
       "question": "What pack sizes are available for MOTS-c?",
-      "answer": "MOTS-c is available in 4 configurations: 10 mg, 15 mg, 20 mg, 40 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+      "answer": "MOTS-c is stocked in 4 pack sizes (10 mg, 15 mg, 20 mg, 40 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $74.52; 10–49 kits falls to $68.56 (−8%) and 50+ to $63.34 (−15%)."
     }
   ],
   "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."

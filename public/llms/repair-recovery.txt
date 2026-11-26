@@ -34,13 +34,13 @@ Index: https://dchemi.com/llms.txt · Full dataset: https://dchemi.com/llms-full
 Summary: ACE-031 (AC) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 1 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
 Q: How is ACE-031 tested for purity and identity?
-A: Each lot of ACE-031 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: ACE-031 is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the AC certificate lists the measured values alongside the identity entry (CAS 1169766-01-1, 74–75 kDa Da).
 
 Q: How should ACE-031 be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Dry powder for ACE-031: store at −20 °C. Working solution: 2–8 °C, used within the window printed on the AC lot certificate.
 
 Q: What pack sizes are available for ACE-031?
-A: ACE-031 is available in 1 configuration: 1 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: ACE-031 is stocked in 1 pack size (1 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $39.00; 10–49 kits falls to $35.88 (−8%) and 50+ to $33.14 (−15%).
 
 ---
 
@@ -71,13 +71,13 @@ A: ACE-031 is available in 1 configuration: 1 mg. Each kit contains 10 vials. Mi
 Summary: B7-33 (B733) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 2 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is B7-33 tested for purity and identity?
-A: Each lot of B7-33 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Each B733 lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (CAS 1818415-56-3, formula C131H229N41O36S, 2986.54 Da).
 
 Q: How should B7-33 be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Dry powder for B7-33: store at −20 °C. Working solution: 2–8 °C, used within the window printed on the B733 lot certificate.
 
 Q: What pack sizes are available for B7-33?
-A: B7-33 is available in 2 configurations: 2 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: B7-33 is stocked in 2 pack sizes (2 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $59.88; 10–49 kits falls to $55.08 (−8%) and 50+ to $50.90 (−15%).
 
 ---
 
@@ -111,13 +111,13 @@ A: B7-33 is available in 2 configurations: 2 mg, 10 mg. Each kit contains 10 via
 Summary: BPC-157 (BC) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 4 pack sizes: 2 mg, 5 mg, 10 mg, 20 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is BPC-157 tested for purity and identity?
-A: Each lot of BPC-157 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: BPC-157 is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the BC certificate lists the measured values alongside the identity entry (CAS 137525-51-0, formula C62H98N16O22, 1419.5 Da).
 
 Q: How should BPC-157 be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this BC preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for BPC-157?
-A: BPC-157 is available in 4 configurations: 2 mg, 5 mg, 10 mg, 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: BPC-157 is stocked in 4 pack sizes (2 mg, 5 mg, 10 mg, 20 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $27.08; 10–49 kits falls to $24.92 (−8%) and 50+ to $23.02 (−15%).
 
 ---
 
@@ -149,13 +149,13 @@ A: BPC-157 is available in 4 configurations: 2 mg, 5 mg, 10 mg, 20 mg. Each kit 
 Summary: Cibinetide (ARA-290) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 10 mg, 16 mg, 40 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Cibinetide (ARA-290) tested for purity and identity?
-A: Each lot of Cibinetide (ARA-290) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Cibinetide (ARA-290) is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the ARA certificate lists the measured values alongside the identity entry (CAS 1208243-50-8, formula C51H84N16O21, 1257.31 Da).
 
 Q: How should Cibinetide (ARA-290) be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Cibinetide (ARA-290) ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles.
 
 Q: What pack sizes are available for Cibinetide (ARA-290)?
-A: Cibinetide (ARA-290) is available in 3 configurations: 10 mg, 16 mg, 40 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Cibinetide (ARA-290) is stocked in 3 pack sizes (10 mg, 16 mg, 40 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $78.84; 10–49 kits falls to $72.54 (−8%) and 50+ to $67.02 (−15%).
 
 ---
 
@@ -185,13 +185,13 @@ A: Cibinetide (ARA-290) is available in 3 configurations: 10 mg, 16 mg, 40 mg. E
 Summary: Follistatin (FST-344) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 1 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Follistatin (FST-344) tested for purity and identity?
-A: Each lot of Follistatin (FST-344) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Follistatin (FST-344) is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the FST certificate lists the measured values alongside the identity entry (no public CAS entry).
 
 Q: How should Follistatin (FST-344) be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Dry powder for Follistatin (FST-344): store at −20 °C. Working solution: 2–8 °C, used within the window printed on the FST lot certificate.
 
 Q: What pack sizes are available for Follistatin (FST-344)?
-A: Follistatin (FST-344) is available in 1 configuration: 1 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Follistatin (FST-344) is stocked in 1 pack size (1 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $192.20; 10–49 kits falls to $176.82 (−8%) and 50+ to $163.36 (−15%).
 
 ---
 
@@ -221,13 +221,13 @@ A: Follistatin (FST-344) is available in 1 configuration: 1 mg. Each kit contain
 Summary: GDF-8 (Myostatin) (GDF8) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 1 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
 Q: How is GDF-8 (Myostatin) tested for purity and identity?
-A: Each lot of GDF-8 (Myostatin) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: GDF-8 (Myostatin) is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the GDF8 certificate lists the measured values alongside the identity entry (no public CAS entry).
 
 Q: How should GDF-8 (Myostatin) be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this GDF8 preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for GDF-8 (Myostatin)?
-A: GDF-8 (Myostatin) is available in 1 configuration: 1 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: GDF-8 (Myostatin) is stocked in 1 pack size (1 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $197.78; 10–49 kits falls to $181.96 (−8%) and 50+ to $168.12 (−15%).
 
 ---
 
@@ -259,13 +259,13 @@ A: GDF-8 (Myostatin) is available in 1 configuration: 1 mg. Each kit contains 10
 Summary: IGF-1 LR3 (IG) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 0.1 mg, 1 mg, 100 mcg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is IGF-1 LR3 tested for purity and identity?
-A: Each lot of IGF-1 LR3 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Testing for IGF-1 LR3: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (CAS 946870-92-4). Results are reported per lot, not as a catalogue average.
 
 Q: How should IGF-1 LR3 be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this IG preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for IGF-1 LR3?
-A: IGF-1 LR3 is available in 3 configurations: 0.1 mg, 1 mg, 100 mcg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: IGF-1 LR3 is stocked in 3 pack sizes (0.1 mg, 1 mg, 100 mcg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $16.72; 10–49 kits falls to $15.38 (−8%) and 50+ to $14.22 (−15%).
 
 ---
 
@@ -297,13 +297,13 @@ A: IGF-1 LR3 is available in 3 configurations: 0.1 mg, 1 mg, 100 mcg. Each kit c
 Summary: KPV is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 30 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is KPV tested for purity and identity?
-A: Each lot of KPV is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: KPV is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the KPV certificate lists the measured values alongside the identity entry (CAS 67727-97-3, formula C16H30N4O4, 342.43 Da).
 
 Q: How should KPV be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: KPV ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles.
 
 Q: What pack sizes are available for KPV?
-A: KPV is available in 3 configurations: 5 mg, 10 mg, 30 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: KPV is stocked in 3 pack sizes (5 mg, 10 mg, 30 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $38.30; 10–49 kits falls to $35.24 (−8%) and 50+ to $32.56 (−15%).
 
 ---
 
@@ -336,13 +336,13 @@ A: KPV is available in 3 configurations: 5 mg, 10 mg, 30 mg. Each kit contains 1
 Summary: LL-37 is a linear synthetic peptide supplied as both lyophilized powder and sterile solution formats. The catalogue lists 3 pack sizes: 5 mg, 5 ml, 10 ml. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC); appearance differs by format (powder vs solution). Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is LL-37 tested for purity and identity?
-A: Each lot of LL-37 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Each LL lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (CAS 154947-66-7, formula C205H340N60O53, 4493 Da).
 
 Q: How should LL-37 be stored?
-A: This item ships in more than one format: keep lyophilized vials at -20 °C, protected from light and moisture, and keep solution vials at 2-8 °C without freezing. Follow the instructions printed on the certificate of analysis for each lot. This product is for laboratory research use only.
+A: LL-37 ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles.
 
 Q: What pack sizes are available for LL-37?
-A: LL-37 is available in 3 configurations: 5 mg, 5 ml, 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: LL-37 is stocked in 3 pack sizes (5 mg, 5 mL, 10 mL), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $105.08; 10–49 kits falls to $96.68 (−8%) and 50+ to $89.32 (−15%).
 
 ---
 
@@ -372,13 +372,13 @@ A: LL-37 is available in 3 configurations: 5 mg, 5 ml, 10 ml. Each kit contains 
 Summary: MGF (Mechano Growth Factor) (FM) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 2 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is MGF (Mechano Growth Factor) tested for purity and identity?
-A: Each lot of MGF (Mechano Growth Factor) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Each FM lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (formula C121H199N41O40, 2868.20 Da).
 
 Q: How should MGF (Mechano Growth Factor) be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Dry powder for MGF (Mechano Growth Factor): store at −20 °C. Working solution: 2–8 °C, used within the window printed on the FM lot certificate.
 
 Q: What pack sizes are available for MGF (Mechano Growth Factor)?
-A: MGF (Mechano Growth Factor) is available in 1 configuration: 2 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: MGF (Mechano Growth Factor) is stocked in 1 pack size (2 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $61.50; 10–49 kits falls to $56.58 (−8%) and 50+ to $52.28 (−15%).
 
 ---
 
@@ -408,13 +408,13 @@ A: MGF (Mechano Growth Factor) is available in 1 configuration: 2 mg. Each kit c
 Summary: PEG-MGF (FMP) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 2 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
 Q: How is PEG-MGF tested for purity and identity?
-A: Each lot of PEG-MGF is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Testing for PEG-MGF: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (no public CAS entry). Results are reported per lot, not as a catalogue average.
 
 Q: How should PEG-MGF be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this FMP preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for PEG-MGF?
-A: PEG-MGF is available in 1 configuration: 2 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: PEG-MGF is stocked in 1 pack size (2 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $85.94; 10–49 kits falls to $79.06 (−8%) and 50+ to $73.04 (−15%).
 
 ---
 
@@ -447,13 +447,13 @@ A: PEG-MGF is available in 1 configuration: 2 mg. Each kit contains 10 vials. Mi
 Summary: TB-500 (Thymosin Beta-4 Fragment) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is TB-500 (Thymosin Beta-4 Fragment) tested for purity and identity?
-A: Each lot of TB-500 (Thymosin Beta-4 Fragment) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Each TB lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (CAS 885340-08-9, formula C38H68N10O14, 889 Da).
 
 Q: How should TB-500 (Thymosin Beta-4 Fragment) be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: TB-500 (Thymosin Beta-4 Fragment) ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles.
 
 Q: What pack sizes are available for TB-500 (Thymosin Beta-4 Fragment)?
-A: TB-500 (Thymosin Beta-4 Fragment) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: TB-500 (Thymosin Beta-4 Fragment) is stocked in 3 pack sizes (2 mg, 5 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $45.62; 10–49 kits falls to $41.98 (−8%) and 50+ to $38.78 (−15%).
 
 ---
 
@@ -485,12 +485,12 @@ A: TB-500 (Thymosin Beta-4 Fragment) is available in 3 configurations: 2 mg, 5 m
 Summary: TB-500 Fragment (TBFRAG) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is TB-500 Fragment tested for purity and identity?
-A: Each lot of TB-500 Fragment is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Testing for TB-500 Fragment: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (CAS 885340-08-9, formula C38H68N10O14, 889.02 Da). Results are reported per lot, not as a catalogue average.
 
 Q: How should TB-500 Fragment be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this TBFRAG preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for TB-500 Fragment?
-A: TB-500 Fragment is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: TB-500 Fragment is stocked in 3 pack sizes (2 mg, 5 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $35.10; 10–49 kits falls to $32.30 (−8%) and 50+ to $29.84 (−15%).
 
 ---

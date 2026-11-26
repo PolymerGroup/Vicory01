@@ -103,15 +103,15 @@
   "faq": [
     {
       "question": "How is IGF-1 LR3 tested for purity and identity?",
-      "answer": "Each lot of IGF-1 LR3 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+      "answer": "Testing for IGF-1 LR3: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (CAS 946870-92-4). Results are reported per lot, not as a catalogue average."
     },
     {
       "question": "How should IGF-1 LR3 be stored?",
-      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+      "answer": "Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this IG preparation does not tolerate repeated freeze–thaw."
     },
     {
       "question": "What pack sizes are available for IGF-1 LR3?",
-      "answer": "IGF-1 LR3 is available in 3 configurations: 0.1 mg, 1 mg, 100 mcg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+      "answer": "IGF-1 LR3 is stocked in 3 pack sizes (0.1 mg, 1 mg, 100 mcg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $16.72; 10–49 kits falls to $15.38 (−8%) and 50+ to $14.22 (−15%)."
     }
   ],
   "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."

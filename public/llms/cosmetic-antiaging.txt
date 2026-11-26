@@ -35,13 +35,13 @@ Index: https://dchemi.com/llms.txt · Full dataset: https://dchemi.com/llms-full
 Summary: AHK-Cu (AU) is a copper-complexed peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 50 mg, 100 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
 Q: How is AHK-Cu tested for purity and identity?
-A: Each lot of AHK-Cu is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: AHK-Cu is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the AU certificate lists the measured values alongside the identity entry (CAS 300801-03-0, formula C15H24CuN6O4, 415.94 Da).
 
 Q: How should AHK-Cu be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Dry powder for AHK-Cu: store at −20 °C. Working solution: 2–8 °C, used within the window printed on the AU lot certificate.
 
 Q: What pack sizes are available for AHK-Cu?
-A: AHK-Cu is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: AHK-Cu is stocked in 2 pack sizes (50 mg, 100 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $70.90; 10–49 kits falls to $65.22 (−8%) and 50+ to $60.26 (−15%).
 
 ---
 
@@ -71,13 +71,13 @@ A: AHK-Cu is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 
 Summary: Botulinum Toxin Type A (XT) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 1 pack size: 100 iu. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Botulinum Toxin Type A tested for purity and identity?
-A: Each lot of Botulinum Toxin Type A is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Testing for Botulinum Toxin Type A: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (no public CAS entry). Results are reported per lot, not as a catalogue average.
 
 Q: How should Botulinum Toxin Type A be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Botulinum Toxin Type A ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles.
 
 Q: What pack sizes are available for Botulinum Toxin Type A?
-A: Botulinum Toxin Type A is available in 1 configuration: 100 iu. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Botulinum Toxin Type A is stocked in 1 pack size (100 IU), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $78.96; 10–49 kits falls to $72.64 (−8%) and 50+ to $67.12 (−15%).
 
 ---
 
@@ -107,13 +107,13 @@ A: Botulinum Toxin Type A is available in 1 configuration: 100 iu. Each kit cont
 Summary: Bremelanotide (PT-141) is a cyclic synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Bremelanotide (PT-141) tested for purity and identity?
-A: Each lot of Bremelanotide (PT-141) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Bremelanotide (PT-141) is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the PT certificate lists the measured values alongside the identity entry (CAS 189691-06-3, formula C50H68N14O10, 1025.2 Da).
 
 Q: How should Bremelanotide (PT-141) be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this PT preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for Bremelanotide (PT-141)?
-A: Bremelanotide (PT-141) is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Bremelanotide (PT-141) is stocked in 1 pack size (10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $68.94; 10–49 kits falls to $63.42 (−8%) and 50+ to $58.60 (−15%).
 
 ---
 
@@ -144,13 +144,13 @@ A: Bremelanotide (PT-141) is available in 1 configuration: 10 mg. Each kit conta
 Summary: FOXO4-DRI (F410) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 2 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is FOXO4-DRI tested for purity and identity?
-A: Each lot of FOXO4-DRI is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: FOXO4-DRI is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the F410 certificate lists the measured values alongside the identity entry (CAS 2460055-10-9, formula C228H388N86O64, 5358 Da).
 
 Q: How should FOXO4-DRI be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this F410 preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for FOXO4-DRI?
-A: FOXO4-DRI is available in 2 configurations: 2 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: FOXO4-DRI is stocked in 2 pack sizes (2 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $105.84; 10–49 kits falls to $97.38 (−8%) and 50+ to $89.96 (−15%).
 
 ---
 
@@ -181,13 +181,13 @@ A: FOXO4-DRI is available in 2 configurations: 2 mg, 10 mg. Each kit contains 10
 Summary: GHK-Cu (CU) is a copper-complexed peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 50 mg, 100 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
 Q: How is GHK-Cu tested for purity and identity?
-A: Each lot of GHK-Cu is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Each CU lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (CAS 89030-95-5, formula C14H24CuN6O4, 403.93 Da).
 
 Q: How should GHK-Cu be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: GHK-Cu ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles.
 
 Q: What pack sizes are available for GHK-Cu?
-A: GHK-Cu is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: GHK-Cu is stocked in 2 pack sizes (50 mg, 100 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $26.46; 10–49 kits falls to $24.34 (−8%) and 50+ to $22.50 (−15%).
 
 ---
 
@@ -221,13 +221,13 @@ A: GHK-Cu is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 
 Summary: Glutathione (GTT) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 5 pack sizes: 0.6 g, 1.5 g, 400 mg, 600 mg, 1500 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Glutathione tested for purity and identity?
-A: Each lot of Glutathione is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Testing for Glutathione: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (CAS 70-18-8, formula C10H17N3O6S, 307.33 Da). Results are reported per lot, not as a catalogue average.
 
 Q: How should Glutathione be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Glutathione ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles.
 
 Q: What pack sizes are available for Glutathione?
-A: Glutathione is available in 5 configurations: 0.6 g, 1.5 g, 400 mg, 600 mg, 1500 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Glutathione is stocked in 5 pack sizes (0.6 g, 1.5 g, 400 mg, 600 mg, 1500 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $70.00; 10–49 kits falls to $64.40 (−8%) and 50+ to $59.50 (−15%).
 
 ---
 
@@ -260,10 +260,10 @@ Q: What documentation is supplied with Healthy Hair, Skin & Nails Blend?
 A: Every batch of Healthy Hair, Skin & Nails Blend is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
 
 Q: How should Healthy Hair, Skin & Nails Blend be stored?
-A: Healthy Hair, Skin & Nails Blend is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+A: Store the HHB solution at 2–8 °C, protected from light, and do not freeze. Handling notes for each lot are printed on the certificate of analysis.
 
 Q: What pack sizes are available for Healthy Hair, Skin & Nails Blend?
-A: Healthy Hair, Skin & Nails Blend is available in 1 configuration: 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Healthy Hair, Skin & Nails Blend is stocked in 1 pack size (10 mL), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $104.00; 10–49 kits falls to $95.68 (−8%) and 50+ to $88.40 (−15%).
 
 ---
 
@@ -296,10 +296,10 @@ Q: What documentation is supplied with Lemon Bottle?
 A: Every batch of Lemon Bottle is released against a lot-specific certificate of analysis (COA) that records the product identity, grade, appearance and the batch number. The COA for the lot you receive is available on request.
 
 Q: How should Lemon Bottle be stored?
-A: Lemon Bottle is supplied as a sterile solution and should be stored at 2-8 °C, protected from light. Do not freeze. Follow the handling instructions printed on the certificate of analysis for the specific lot. This product is for laboratory research use only.
+A: Store the LB solution at 2–8 °C, protected from light, and do not freeze. Handling notes for each lot are printed on the certificate of analysis.
 
 Q: What pack sizes are available for Lemon Bottle?
-A: Lemon Bottle is available in 1 configuration: 10 ml. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Lemon Bottle is stocked in 1 pack size (10 mL), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $59.34; 10–49 kits falls to $54.60 (−8%) and 50+ to $50.44 (−15%).
 
 ---
 
@@ -329,13 +329,13 @@ A: Lemon Bottle is available in 1 configuration: 10 ml. Each kit contains 10 via
 Summary: Matrixyl (MX) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Matrixyl tested for purity and identity?
-A: Each lot of Matrixyl is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Testing for Matrixyl: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (CAS 214047-00-4, formula C39H75N7O10, 802.1 Da). Results are reported per lot, not as a catalogue average.
 
 Q: How should Matrixyl be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Matrixyl ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles.
 
 Q: What pack sizes are available for Matrixyl?
-A: Matrixyl is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Matrixyl is stocked in 1 pack size (10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $41.78; 10–49 kits falls to $38.44 (−8%) and 50+ to $35.52 (−15%).
 
 ---
 
@@ -365,13 +365,13 @@ A: Matrixyl is available in 1 configuration: 10 mg. Each kit contains 10 vials. 
 Summary: Melanotan I (MT1) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Melanotan I tested for purity and identity?
-A: Each lot of Melanotan I is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Each MT1 lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (CAS 75921-69-6, formula C78H111N21O19, 1646.8 Da).
 
 Q: How should Melanotan I be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Melanotan I ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles.
 
 Q: What pack sizes are available for Melanotan I?
-A: Melanotan I is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Melanotan I is stocked in 1 pack size (10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $54.32; 10–49 kits falls to $49.98 (−8%) and 50+ to $46.18 (−15%).
 
 ---
 
@@ -401,13 +401,13 @@ A: Melanotan I is available in 1 configuration: 10 mg. Each kit contains 10 vial
 Summary: Melanotan II (MT-2) (MT2) is a cyclic synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Melanotan II (MT-2) tested for purity and identity?
-A: Each lot of Melanotan II (MT-2) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Melanotan II (MT-2) is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the MT2 certificate lists the measured values alongside the identity entry (CAS 121062-08-6, formula C50H69N15O9, 1024.2 Da).
 
 Q: How should Melanotan II (MT-2) be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Melanotan II (MT-2) ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles.
 
 Q: What pack sizes are available for Melanotan II (MT-2)?
-A: Melanotan II (MT-2) is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Melanotan II (MT-2) is stocked in 1 pack size (10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $125.00; 10–49 kits falls to $115.00 (−8%) and 50+ to $106.24 (−15%).
 
 ---
 
@@ -439,13 +439,13 @@ A: Melanotan II (MT-2) is available in 1 configuration: 10 mg. Each kit contains
 Summary: PNC-27 is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is PNC-27 tested for purity and identity?
-A: Each lot of PNC-27 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Testing for PNC-27: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (CAS 1159861-00-3, formula C188H293N53O44S, 4032 Da). Results are reported per lot, not as a catalogue average.
 
 Q: How should PNC-27 be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this PNC preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for PNC-27?
-A: PNC-27 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: PNC-27 is stocked in 3 pack sizes (2 mg, 5 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $52.92; 10–49 kits falls to $48.68 (−8%) and 50+ to $44.98 (−15%).
 
 ---
 
@@ -475,13 +475,13 @@ A: PNC-27 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains
 Summary: PTD-DBM is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 1 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
 Q: How is PTD-DBM tested for purity and identity?
-A: Each lot of PTD-DBM is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Testing for PTD-DBM: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (CAS 1609454-11-6, formula C124H225N61O28S2, 3082.6 Da). Results are reported per lot, not as a catalogue average.
 
 Q: How should PTD-DBM be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this PTD preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for PTD-DBM?
-A: PTD-DBM is available in 1 configuration: 1 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: PTD-DBM is stocked in 1 pack size (1 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $57.32; 10–49 kits falls to $52.74 (−8%) and 50+ to $48.72 (−15%).
 
 ---
 
@@ -512,12 +512,12 @@ A: PTD-DBM is available in 1 configuration: 1 mg. Each kit contains 10 vials. Mi
 Summary: SNAP-8 (NP) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 10 mg, 100 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is SNAP-8 tested for purity and identity?
-A: Each lot of SNAP-8 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Each NP lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (CAS 868844-74-0, formula C41H70N16O16S, 1075.2 Da).
 
 Q: How should SNAP-8 be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Dry powder for SNAP-8: store at −20 °C. Working solution: 2–8 °C, used within the window printed on the NP lot certificate.
 
 Q: What pack sizes are available for SNAP-8?
-A: SNAP-8 is available in 2 configurations: 10 mg, 100 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: SNAP-8 is stocked in 2 pack sizes (10 mg, 100 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $37.60; 10–49 kits falls to $34.60 (−8%) and 50+ to $31.96 (−15%).
 
 ---

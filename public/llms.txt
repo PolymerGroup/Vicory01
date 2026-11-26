@@ -23,19 +23,19 @@
 
 ## Category datasets
 
-- [Metabolic & Weight-Management Peptides](https://dchemi.com/llms/glp1-metabolic.txt): 16 products, 37 KB — GLP-1 / GIP / amylin receptor research peptides, supplied as lyophilized powder in 10-vial kits.
+- [Metabolic & Weight-Management Peptides](https://dchemi.com/llms/glp1-metabolic.txt): 16 products, 35 KB — GLP-1 / GIP / amylin receptor research peptides, supplied as lyophilized powder in 10-vial kits.
   Human page: https://dchemi.com/peptides/glp1-metabolic
-- [Repair & Recovery Peptides](https://dchemi.com/llms/repair-recovery.txt): 13 products, 29 KB — Regenerative research peptides including BPC-157, TB-500 and KPV, batch-tested by RP-HPLC.
+- [Repair & Recovery Peptides](https://dchemi.com/llms/repair-recovery.txt): 13 products, 27 KB — Regenerative research peptides including BPC-157, TB-500 and KPV, batch-tested by RP-HPLC.
   Human page: https://dchemi.com/peptides/repair-recovery
-- [Cosmetic & Dermal Peptides](https://dchemi.com/llms/cosmetic-antiaging.txt): 14 products, 31 KB — Copper peptides and signal peptides for cosmetic raw-material and in-vitro dermal research.
+- [Cosmetic & Dermal Peptides](https://dchemi.com/llms/cosmetic-antiaging.txt): 14 products, 29 KB — Copper peptides and signal peptides for cosmetic raw-material and in-vitro dermal research.
   Human page: https://dchemi.com/peptides/cosmetic-antiaging
-- [Growth Hormone Secretagogues](https://dchemi.com/llms/gh-secretagogues.txt): 10 products, 23 KB — GHRH analogues and ghrelin-receptor secretagogues for endocrine research use only.
+- [Growth Hormone Secretagogues](https://dchemi.com/llms/gh-secretagogues.txt): 10 products, 22 KB — GHRH analogues and ghrelin-receptor secretagogues for endocrine research use only.
   Human page: https://dchemi.com/peptides/gh-secretagogues
-- [Bioregulators & Longevity Peptides](https://dchemi.com/llms/bioregulators.txt): 42 products, 92 KB — Short bioregulatory peptides, neuropeptides and mitochondrial-derived peptides.
+- [Bioregulators & Longevity Peptides](https://dchemi.com/llms/bioregulators.txt): 42 products, 86 KB — Short bioregulatory peptides, neuropeptides and mitochondrial-derived peptides.
   Human page: https://dchemi.com/peptides/bioregulators
-- [Multi-Component Blends](https://dchemi.com/llms/blends.txt): 9 products, 22 KB — Pre-formulated multi-peptide blends with a fixed per-vial composition.
+- [Multi-Component Blends](https://dchemi.com/llms/blends.txt): 9 products, 21 KB — Pre-formulated multi-peptide blends with a fixed per-vial composition.
   Human page: https://dchemi.com/peptides/blends
-- [Solvents & Ancillary Reagents](https://dchemi.com/llms/ancillary.txt): 15 products, 33 KB — Bacteriostatic water, dilute acetic acid, benzyl alcohol and non-peptide ancillary reagents.
+- [Solvents & Ancillary Reagents](https://dchemi.com/llms/ancillary.txt): 15 products, 31 KB — Bacteriostatic water, dilute acetic acid, benzyl alcohol and non-peptide ancillary reagents.
   Human page: https://dchemi.com/peptides/ancillary
 
 ## Catalogue (name · short code · starting price)

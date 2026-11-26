@@ -36,13 +36,13 @@ Index: https://dchemi.com/llms.txt · Full dataset: https://dchemi.com/llms-full
 Summary: 5-Amino-1MQ (5AM) is a small-molecule research compound supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 50 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is 5-Amino-1MQ tested for purity and identity?
-A: Each lot of 5-Amino-1MQ is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: 5-Amino-1MQ is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the 5AM certificate lists the measured values alongside the identity entry (CAS 42464-96-0, formula C10H11IN2, 286.11 Da).
 
 Q: How should 5-Amino-1MQ be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this 5AM preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for 5-Amino-1MQ?
-A: 5-Amino-1MQ is available in 3 configurations: 5 mg, 10 mg, 50 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: 5-Amino-1MQ is stocked in 3 pack sizes (5 mg, 10 mg, 50 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $23.74; 10–49 kits falls to $21.84 (−8%) and 50+ to $20.18 (−15%).
 
 ---
 
@@ -74,13 +74,13 @@ A: 5-Amino-1MQ is available in 3 configurations: 5 mg, 10 mg, 50 mg. Each kit co
 Summary: Adipotide (FTPP) (AP) is a cyclic synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Adipotide (FTPP) tested for purity and identity?
-A: Each lot of Adipotide (FTPP) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Testing for Adipotide (FTPP): HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (CAS 859216-15-2, formula C111H206N36O28S2, 2557.18 Da). Results are reported per lot, not as a catalogue average.
 
 Q: How should Adipotide (FTPP) be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Adipotide (FTPP) ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles.
 
 Q: What pack sizes are available for Adipotide (FTPP)?
-A: Adipotide (FTPP) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Adipotide (FTPP) is stocked in 3 pack sizes (2 mg, 5 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $70.76; 10–49 kits falls to $65.10 (−8%) and 50+ to $60.14 (−15%).
 
 ---
 
@@ -111,13 +111,13 @@ A: Adipotide (FTPP) is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each ki
 Summary: AICAR (AR) is a small-molecule research compound supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 50 mg, 100 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is AICAR tested for purity and identity?
-A: Each lot of AICAR is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Testing for AICAR: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (CAS 3031-94-5, formula C9H15N4O8P, 338.21 Da). Results are reported per lot, not as a catalogue average.
 
 Q: How should AICAR be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Dry powder for AICAR: store at −20 °C. Working solution: 2–8 °C, used within the window printed on the AR lot certificate.
 
 Q: What pack sizes are available for AICAR?
-A: AICAR is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: AICAR is stocked in 2 pack sizes (50 mg, 100 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $50.14; 10–49 kits falls to $46.12 (−8%) and 50+ to $42.62 (−15%).
 
 ---
 
@@ -150,13 +150,13 @@ A: AICAR is available in 2 configurations: 50 mg, 100 mg. Each kit contains 10 v
 Summary: AOD-9604 is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is AOD-9604 tested for purity and identity?
-A: Each lot of AOD-9604 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: AOD-9604 is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the AOD certificate lists the measured values alongside the identity entry (CAS 221231-10-3, formula C78H123N23O23S2, 1815.1 Da).
 
 Q: How should AOD-9604 be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this AOD preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for AOD-9604?
-A: AOD-9604 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: AOD-9604 is stocked in 3 pack sizes (2 mg, 5 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $45.96; 10–49 kits falls to $42.28 (−8%) and 50+ to $39.06 (−15%).
 
 ---
 
@@ -188,13 +188,13 @@ A: AOD-9604 is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contai
 Summary: Cagrilintide (CGL) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 2 mg, 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Cagrilintide tested for purity and identity?
-A: Each lot of Cagrilintide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Each CGL lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (CAS 1415456-99-3, formula C194H312N54O59S2, 4409 Da).
 
 Q: How should Cagrilintide be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Cagrilintide ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles.
 
 Q: What pack sizes are available for Cagrilintide?
-A: Cagrilintide is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Cagrilintide is stocked in 3 pack sizes (2 mg, 5 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $61.28; 10–49 kits falls to $56.38 (−8%) and 50+ to $52.08 (−15%).
 
 ---
 
@@ -225,13 +225,13 @@ A: Cagrilintide is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each kit co
 Summary: Dulaglutide (DL) is a recombinant protein supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Dulaglutide tested for purity and identity?
-A: Each lot of Dulaglutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Testing for Dulaglutide: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (CAS 923950-08-7, 59,669 Da). Results are reported per lot, not as a catalogue average.
 
 Q: How should Dulaglutide be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this DL preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for Dulaglutide?
-A: Dulaglutide is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Dulaglutide is stocked in 2 pack sizes (5 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $153.20; 10–49 kits falls to $140.94 (−8%) and 50+ to $130.22 (−15%).
 
 ---
 
@@ -261,13 +261,13 @@ A: Dulaglutide is available in 2 configurations: 5 mg, 10 mg. Each kit contains 
 Summary: FTPP (Adipotide) is a cyclic synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 5 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
 Q: How is FTPP (Adipotide) tested for purity and identity?
-A: Each lot of FTPP (Adipotide) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: FTPP (Adipotide) is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the FTPP certificate lists the measured values alongside the identity entry (CAS 859216-15-2, formula C111H206N36O28S2, 2557.2 Da).
 
 Q: How should FTPP (Adipotide) be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Dry powder for FTPP (Adipotide): store at −20 °C. Working solution: 2–8 °C, used within the window printed on the FTPP lot certificate.
 
 Q: What pack sizes are available for FTPP (Adipotide)?
-A: FTPP (Adipotide) is available in 1 configuration: 5 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: FTPP (Adipotide) is stocked in 1 pack size (5 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $125.34; 10–49 kits falls to $115.32 (−8%) and 50+ to $106.54 (−15%).
 
 ---
 
@@ -302,13 +302,13 @@ A: FTPP (Adipotide) is available in 1 configuration: 5 mg. Each kit contains 10 
 Summary: HGH Fragment 176-191 (FR) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 6 pack sizes: 1 mg, 2 mg, 5 mg, 10 mg, 12 mg, 15 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
 Q: How is HGH Fragment 176-191 tested for purity and identity?
-A: Each lot of HGH Fragment 176-191 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: HGH Fragment 176-191 is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the FR certificate lists the measured values alongside the identity entry (CAS 221231-10-3, formula C80H127N23O24S2, 1859.1 Da).
 
 Q: How should HGH Fragment 176-191 be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this FR preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for HGH Fragment 176-191?
-A: HGH Fragment 176-191 is available in 6 configurations: 1 mg, 2 mg, 5 mg, 10 mg, 12 mg, 15 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: HGH Fragment 176-191 is stocked in 6 pack sizes (1 mg, 2 mg, 5 mg, 10 mg, 12 mg, 15 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $35.52; 10–49 kits falls to $32.68 (−8%) and 50+ to $30.20 (−15%).
 
 ---
 
@@ -340,13 +340,13 @@ A: HGH Fragment 176-191 is available in 6 configurations: 1 mg, 2 mg, 5 mg, 10 m
 Summary: Liraglutide (LIRA) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 3 pack sizes: 5 mg, 10 mg, 30 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Liraglutide tested for purity and identity?
-A: Each lot of Liraglutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Each LIRA lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (CAS 204656-20-2, formula C172H265N43O51, 3751 Da).
 
 Q: How should Liraglutide be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this LIRA preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for Liraglutide?
-A: Liraglutide is available in 3 configurations: 5 mg, 10 mg, 30 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Liraglutide is stocked in 3 pack sizes (5 mg, 10 mg, 30 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $87.74; 10–49 kits falls to $80.72 (−8%) and 50+ to $74.58 (−15%).
 
 ---
 
@@ -377,13 +377,13 @@ A: Liraglutide is available in 3 configurations: 5 mg, 10 mg, 30 mg. Each kit co
 Summary: Mazdutide (MZ) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Mazdutide tested for purity and identity?
-A: Each lot of Mazdutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Each MZ lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (CAS 2259884-03-0, formula C207H317N45O65, 4476 Da).
 
 Q: How should Mazdutide be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this MZ preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for Mazdutide?
-A: Mazdutide is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Mazdutide is stocked in 2 pack sizes (5 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $72.42; 10–49 kits falls to $66.62 (−8%) and 50+ to $61.56 (−15%).
 
 ---
 
@@ -417,13 +417,13 @@ A: Mazdutide is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10
 Summary: MOTS-c (MS) is a linear synthetic peptide supplied as white lyophilized powder. The catalogue lists 4 pack sizes: 10 mg, 15 mg, 20 mg, 40 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is MOTS-c tested for purity and identity?
-A: Each lot of MOTS-c is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: MOTS-c is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the MS certificate lists the measured values alongside the identity entry (CAS 1627580-64-6, formula C101H152N28O22S2, 2174.6 Da).
 
 Q: How should MOTS-c be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Dry powder for MOTS-c: store at −20 °C. Working solution: 2–8 °C, used within the window printed on the MS lot certificate.
 
 Q: What pack sizes are available for MOTS-c?
-A: MOTS-c is available in 4 configurations: 10 mg, 15 mg, 20 mg, 40 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: MOTS-c is stocked in 4 pack sizes (10 mg, 15 mg, 20 mg, 40 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $74.52; 10–49 kits falls to $68.56 (−8%) and 50+ to $63.34 (−15%).
 
 ---
 
@@ -462,13 +462,13 @@ A: MOTS-c is available in 4 configurations: 10 mg, 15 mg, 20 mg, 40 mg. Each kit
 Summary: Retatrutide (RT) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 10 pack sizes: 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 40 mg and 4 more. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Retatrutide tested for purity and identity?
-A: Each lot of Retatrutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Testing for Retatrutide: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (CAS 2381089-83-2, formula C221H342N46O68, 4731 Da). Results are reported per lot, not as a catalogue average.
 
 Q: How should Retatrutide be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this RT preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for Retatrutide?
-A: Retatrutide is available in 10 configurations: 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 50 mg, 60 mg and 2 more. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Retatrutide is stocked in 10 pack sizes (5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 50 mg, 60 mg, 80 mg, 100 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $63.38; 10–49 kits falls to $58.30 (−8%) and 50+ to $53.88 (−15%).
 
 ---
 
@@ -504,13 +504,13 @@ A: Retatrutide is available in 10 configurations: 5 mg, 10 mg, 15 mg, 20 mg, 30 
 Summary: Semaglutide (SM) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 7 pack sizes: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg and 1 more. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Semaglutide tested for purity and identity?
-A: Each lot of Semaglutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Each SM lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (CAS 910463-68-2, formula C187H291N45O59, 4114 Da).
 
 Q: How should Semaglutide be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this SM preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for Semaglutide?
-A: Semaglutide is available in 7 configurations: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 50 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Semaglutide is stocked in 7 pack sizes (2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 50 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $25.06; 10–49 kits falls to $23.06 (−8%) and 50+ to $21.30 (−15%).
 
 ---
 
@@ -541,13 +541,13 @@ A: Semaglutide is available in 7 configurations: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg
 Summary: SLU-PP-332 (SLU332) is a small-molecule research compound supplied as white lyophilized powder. The catalogue lists 2 pack sizes: 5 mg, 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. For laboratory research use only; not for human or veterinary use.
 
 Q: How is SLU-PP-332 tested for purity and identity?
-A: Each lot of SLU-PP-332 is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: SLU-PP-332 is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the SLU332 certificate lists the measured values alongside the identity entry (CAS 303760-60-3, formula C18H14N2O2, 290.3 Da).
 
 Q: How should SLU-PP-332 be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this SLU332 preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for SLU-PP-332?
-A: SLU-PP-332 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: SLU-PP-332 is stocked in 2 pack sizes (5 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $91.00; 10–49 kits falls to $83.72 (−8%) and 50+ to $77.34 (−15%).
 
 ---
 
@@ -577,13 +577,13 @@ A: SLU-PP-332 is available in 2 configurations: 5 mg, 10 mg. Each kit contains 1
 Summary: Survodutide (SUR) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 1 pack size: 10 mg. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. Each kit contains 10 vials; minimum order quantity is 1 kit. Store the lyophilized powder at -20 °C, protected from light and moisture. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Survodutide tested for purity and identity?
-A: Each lot of Survodutide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Testing for Survodutide: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (CAS 2805997-46-8, formula C192H289N47O61, 4232 Da). Results are reported per lot, not as a catalogue average.
 
 Q: How should Survodutide be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this SUR preparation does not tolerate repeated freeze–thaw.
 
 Q: What pack sizes are available for Survodutide?
-A: Survodutide is available in 1 configuration: 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Survodutide is stocked in 1 pack size (10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $221.44; 10–49 kits falls to $203.72 (−8%) and 50+ to $188.22 (−15%).
 
 ---
 
@@ -624,12 +624,12 @@ A: Survodutide is available in 1 configuration: 10 mg. Each kit contains 10 vial
 Summary: Tirzepatide (TR) is a structurally modified synthetic peptide supplied as white lyophilized powder. The catalogue lists 12 pack sizes: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg and 6 more. The CAS number, full sequence and molecular weight are recorded in the lot-specific certificate of analysis (COA). Purity is stated at ≥99.0% (HPLC) with white lyophilized powder appearance. For laboratory research use only; not for human or veterinary use.
 
 Q: How is Tirzepatide tested for purity and identity?
-A: Each lot of Tirzepatide is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC).
+A: Each TR lot is run on RP-HPLC against a ≥99.0% (HPLC) release limit, then confirmed by MS. The batch certificate carries the measured purity, retention time and mass together with the identity string (CAS 2023788-19-2, formula C225H348N48O68, 4813 Da).
 
 Q: How should Tirzepatide be stored?
-A: Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only.
+A: Tirzepatide ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles.
 
 Q: What pack sizes are available for Tirzepatide?
-A: Tirzepatide is available in 12 configurations: 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 50 mg and 4 more. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits.
+A: Tirzepatide is stocked in 12 pack sizes (2 mg, 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 50 mg, 60 mg, 80 mg, 100 mg, 120 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $36.22; 10–49 kits falls to $33.32 (−8%) and 50+ to $30.78 (−15%).
 
 ---

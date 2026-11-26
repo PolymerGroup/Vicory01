@@ -81,15 +81,15 @@
   "faq": [
     {
       "question": "How is P21 (P021) tested for purity and identity?",
-      "answer": "Each lot of P21 (P021) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+      "answer": "P21 (P021) is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the P21 certificate lists the measured values alongside the identity entry (CAS 1246751-68-7, formula C27H42N6O8, 578.67 Da)."
     },
     {
       "question": "How should P21 (P021) be stored?",
-      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+      "answer": "Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this P21 preparation does not tolerate repeated freeze–thaw."
     },
     {
       "question": "What pack sizes are available for P21 (P021)?",
-      "answer": "P21 (P021) is available in 2 configurations: 5 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+      "answer": "P21 (P021) is stocked in 2 pack sizes (5 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $325.90; 10–49 kits falls to $299.82 (−8%) and 50+ to $277.02 (−15%)."
     }
   ],
   "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."

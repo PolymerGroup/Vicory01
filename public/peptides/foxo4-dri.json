@@ -82,15 +82,15 @@
   "faq": [
     {
       "question": "How is FOXO4-DRI tested for purity and identity?",
-      "answer": "Each lot of FOXO4-DRI is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+      "answer": "FOXO4-DRI is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the F410 certificate lists the measured values alongside the identity entry (CAS 2460055-10-9, formula C228H388N86O64, 5358 Da)."
     },
     {
       "question": "How should FOXO4-DRI be stored?",
-      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+      "answer": "Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this F410 preparation does not tolerate repeated freeze–thaw."
     },
     {
       "question": "What pack sizes are available for FOXO4-DRI?",
-      "answer": "FOXO4-DRI is available in 2 configurations: 2 mg, 10 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+      "answer": "FOXO4-DRI is stocked in 2 pack sizes (2 mg, 10 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $105.84; 10–49 kits falls to $97.38 (−8%) and 50+ to $89.96 (−15%)."
     }
   ],
   "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."

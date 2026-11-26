@@ -123,15 +123,15 @@
   "faq": [
     {
       "question": "How is HCG (Human Chorionic Gonadotropin) tested for purity and identity?",
-      "answer": "Each lot of HCG (Human Chorionic Gonadotropin) is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+      "answer": "HCG (Human Chorionic Gonadotropin) is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the CG certificate lists the measured values alongside the identity entry (no public CAS entry)."
     },
     {
       "question": "How should HCG (Human Chorionic Gonadotropin) be stored?",
-      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+      "answer": "Dry powder for HCG (Human Chorionic Gonadotropin): store at −20 °C. Working solution: 2–8 °C, used within the window printed on the CG lot certificate."
     },
     {
       "question": "What pack sizes are available for HCG (Human Chorionic Gonadotropin)?",
-      "answer": "HCG (Human Chorionic Gonadotropin) is available in 4 configurations: 1000 iu, 2000 iu, 5000 iu, 10000 iu. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+      "answer": "HCG (Human Chorionic Gonadotropin) is stocked in 4 pack sizes (1000 IU, 2000 IU, 5000 IU, 10000 IU), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $35.66; 10–49 kits falls to $32.80 (−8%) and 50+ to $30.32 (−15%)."
     }
   ],
   "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."

@@ -61,15 +61,15 @@
   "faq": [
     {
       "question": "How is Botulinum Toxin Type A tested for purity and identity?",
-      "answer": "Each lot of Botulinum Toxin Type A is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+      "answer": "Testing for Botulinum Toxin Type A: HPLC purity against ≥99.0% (HPLC), MS confirmation of the intact mass, and a documented identity record (no public CAS entry). Results are reported per lot, not as a catalogue average."
     },
     {
       "question": "How should Botulinum Toxin Type A be stored?",
-      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+      "answer": "Botulinum Toxin Type A ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles."
     },
     {
       "question": "What pack sizes are available for Botulinum Toxin Type A?",
-      "answer": "Botulinum Toxin Type A is available in 1 configuration: 100 iu. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+      "answer": "Botulinum Toxin Type A is stocked in 1 pack size (100 IU), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $78.96; 10–49 kits falls to $72.64 (−8%) and 50+ to $67.12 (−15%)."
     }
   ],
   "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."

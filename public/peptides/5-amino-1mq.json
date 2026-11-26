@@ -101,15 +101,15 @@
   "faq": [
     {
       "question": "How is 5-Amino-1MQ tested for purity and identity?",
-      "answer": "Each lot of 5-Amino-1MQ is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+      "answer": "5-Amino-1MQ is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the 5AM certificate lists the measured values alongside the identity entry (CAS 42464-96-0, formula C10H11IN2, 286.11 Da)."
     },
     {
       "question": "How should 5-Amino-1MQ be stored?",
-      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+      "answer": "Hold the sealed 10-vial kit at −20 °C, away from light and humidity. Once reconstituted, aliquot and keep at 2–8 °C; this 5AM preparation does not tolerate repeated freeze–thaw."
     },
     {
       "question": "What pack sizes are available for 5-Amino-1MQ?",
-      "answer": "5-Amino-1MQ is available in 3 configurations: 5 mg, 10 mg, 50 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+      "answer": "5-Amino-1MQ is stocked in 3 pack sizes (5 mg, 10 mg, 50 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $23.74; 10–49 kits falls to $21.84 (−8%) and 50+ to $20.18 (−15%)."
     }
   ],
   "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."

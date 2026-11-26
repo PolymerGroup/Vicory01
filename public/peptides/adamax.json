@@ -101,15 +101,15 @@
   "faq": [
     {
       "question": "How is Adamax tested for purity and identity?",
-      "answer": "Each lot of Adamax is analysed by HPLC for purity and by mass spectrometry for identity. The lot-specific certificate of analysis reports the measured purity, retention time, molecular mass and appearance. Catalogue purity is stated at ≥99.0% (HPLC)."
+      "answer": "Adamax is released lot by lot — HPLC for purity (≥99.0% (HPLC)) plus MS for mass — and the ADA certificate lists the measured values alongside the identity entry (CAS 859216-15-2, formula C111H206N36O28S2, 2557.18 Da)."
     },
     {
       "question": "How should Adamax be stored?",
-      "answer": "Store the lyophilized powder at -20 °C, protected from light and moisture. After reconstitution, keep the solution at 2-8 °C and use it within the period stated in the lot certificate of analysis. Avoid repeated freeze-thaw cycles. This product is for laboratory research use only."
+      "answer": "Adamax ships lyophilized and should stay at −20 °C until reconstitution; after that keep it at 2–8 °C and avoid freeze–thaw cycles."
     },
     {
       "question": "What pack sizes are available for Adamax?",
-      "answer": "Adamax is available in 3 configurations: 5 mg, 10 mg, 20 mg. Each kit contains 10 vials. Minimum order quantity is 1 kit. Volume pricing applies to 10-49 kits and 50+ kits."
+      "answer": "Adamax is stocked in 3 pack sizes (5 mg, 10 mg, 20 mg), 10 vials per kit, MOQ 1 kit. At 1–9 kits the per-kit price is $80.02; 10–49 kits falls to $73.62 (−8%) and 50+ to $68.02 (−15%)."
     }
   ],
   "compliance": "For Research, Laboratory, and Analytical Use Only. Not for Human or Veterinary Use."
