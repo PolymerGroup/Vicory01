@@ -95,7 +95,7 @@
 "semaglutide","Semaglutide","910463-68-2","C187H291N45O59","4114","","https://pubchem.ncbi.nlm.nih.gov/compound/56843331 (title:Semaglutide)","56843331","Semaglutide","title","2026-11-25",""
 "semax","Semax","80714-61-0","C37H51N9O10S","813.9","MEHFPGP","https://pubchem.ncbi.nlm.nih.gov/compound/9811102 (synonym:Semax?) | sequence: Met-Glu-His-Phe-Pro-Gly-Pro (calc 813.93 vs PubChem 813.90)","9811102","ACTH (4-7), Pro-Gly-Pro-","synonym","2026-11-25",""
 "sermorelin-acetate","Sermorelin Acetate","86168-78-7","C149H246N44O42S","3357.9","","https://pubchem.ncbi.nlm.nih.gov/compound/16132413 (title~:Sermorelin)","16132413","Sermorelin","title","2026-11-25",""
-"slu-pp-332","SLU-PP-332","","C18H14N2O2","290.3","","https://pubchem.ncbi.nlm.nih.gov/compound/5404083 (title:Slu-PP-332)","5404083","Slu-PP-332","title","2026-11-25",""
+"slu-pp-332","SLU-PP-332","303760-60-3","C18H14N2O2","290.3","","manual override (customer-provided CAS)","5404083","Slu-PP-332","manual","2026-11-25",""
 "snap-8","SNAP-8","868844-74-0","C41H70N16O16S","1075.2","","pubchem (verified)","71587832","Acetyl octapeptide-3","manual","2026-11-25",""
 "ss-31-elamipretide","SS-31 (Elamipretide)","736992-21-5","C32H49N9O5","639.8","","https://pubchem.ncbi.nlm.nih.gov/compound/11764719 (title~:Elamipretide)","11764719","Elamipretide","title","2026-11-25",""
 "super-human-blend","Super Human Blend","","","","","not-applicable (formulated / blend)","","","skipped","2026-11-25",""

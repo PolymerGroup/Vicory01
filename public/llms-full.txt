@@ -3514,7 +3514,7 @@ A: Sermorelin Acetate is available in 3 configurations: 2 mg, 5 mg, 10 mg. Each 
 - Presentation: lyophilized powder
 - Appearance: White Lyophilized Powder
 - Purity: ≥99.0% (HPLC)
-- CAS: published in the batch-specific COA
+- CAS: 303760-60-3
 - Molecular formula: C18H14N2O2
 - Molecular weight: 290.3 Da
 - Storage: Store at -20 °C, protected from light and moisture.
